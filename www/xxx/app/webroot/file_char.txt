@@ -1,0 +1,941 @@
+<script type="text/javascript">
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/; domain=.aspecialgift.com";
+}
+createCookie('ScreenWidth',screen.width,'1');
+</script>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="google-site-verification" content="cXkCnBIjRh0SKHf1L_tzjxWLyGU89YJvpaFNFZ0xSCI" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title></title>
+<meta name="description" content="4" />
+<meta name="keywords" content="5"/>
+<link rel="stylesheet" type="text/css" href="css/style.min.css">
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<link rel="stylesheet" href="main-nav/css/megaMenu.css">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<script src="main-nav/js/min/megaMenu.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$.MetroTooltipInit({
+    persist: 0,
+    helpicon: 1,
+    color: "#30a6b1",
+    animation: "fadeIn",
+    position: "left",
+});});
+</script>
+<script type="text/javascript"> //<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-448181-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<div id="banner-container"> 
+ <div id = "banner-top-wrapper">
+  <div id="banner-top">
+    <div id="top-left">
+      <ul class="top-links-left">
+        <li> 
+        </i><span class="glyphicon glyphicon-list"></span><span class="hide-for-sm"><a href="#" title="My Wishlist">My Wishlist</a></span><span class="show-for-xs"> | </span></li>
+        <li><span class="glyphicon glyphicon-user"></span><span class="hide-for-sm" title="My Account"><a href="https://www.aspecialgift.com/login-register/account.php">My Account</a></span><span class="show-for-xs"> | </span></li>
+        <li><span class="glyphicon glyphicon-shopping-cart"></span><span class="hide-for-sm" title="My Cart"><a href="https://www.aspecialgift.com/checkout/shopping-cart.php">My Cart&nbsp;</a></span><span class="show-for-xs"> | </span></li>
+        <li><span class="glyphicon glyphicon-check"></span></i><span class="hide-for-sm" title="Checkout"><a href="https://www.aspecialgift.com/checkout/checkout-options.php">Checkout</a></span></li>
+      </ul>
+    </div>
+    <div id="top-right">
+      <ul class="top-links-right">
+              <li><a href="https://www.aspecialgift.com/login-register/login.php" title="My Account">Login</a></li>
+       <span> / </span>
+       <li><a href="https://www.aspecialgift.com/login-register/register.php" title="Register Account">Register</a></li>
+              <li><span class="hide-for-xs" title="Checkout"><span class="glyphicon glyphicon-earphone"></span>&nbsp;910-371-2125</span></li>
+      </ul>
+    </div>
+   </div><!-- end of banner top -->
+  </div><!-- end of banner-top-wrapper-->
+  <div id="banner">
+    <div id="banner_left">
+       <div id="logo">
+         <a href="https://www.aspecialgift.com/index.php" title="aSpecialGift.com Personalized Gifts for Family, Friends and Coworkers."><img src="https://www.aspecialgift.com/images/aspecialgift-logo.png" alt=  "aSpecialGift.com Personalized Gifts Logo"/></a>
+       </div>
+    </div><!-- end of banner left -->
+    <div id="banner_center">
+      <div class="free_shipping"><span class="mtTool" mttitle="* Details" mtcontent="Free shipping to continental US 48 only.<br />Can not be combined with other offers,<br />discounts or discount codes.">Free Shipping On Orders<br /><strong>$100</strong> or more*</span>
+        </div>
+    <form  role="form" name="form_search" action="https://search.aspecialgift.com/search">
+      <div id="search">
+        <div class="searchbox"><input type="text" class="addsearch" value=" Search"/></div>
+        <!--<div class="magnify"></div>-->
+      </div> 
+    </form>   
+    </div> <!-- end of banner center -->
+    <div id="banner_right">
+      <div class="phone-number">910-371-2125</div>
+                 <div id="banner_right_top">
+           <span class="glyphicon glyphicon-shopping-cart"></span> Empty      </div><!-- end of bannner right top -->
+       
+      <div id="banner_right_middle"><span class="mtTool" mttitle="*Details" mtcontent="Excludes weekends and holidays.<br />We will contact you if an item is out of stock.">Orders ship in 1-2 days*</span></div>
+         <div id="social_box">           
+            <div id="banner_social_wrapper">
+	  	      <ul class="social-icons icon-rounded icon-zoom list-unstyled list-social-inline"> 
+                <li> <a href="https://www.facebook.com/aspecialgift"><img src="https://www.aspecialgift.com/images/facebook.png" alt="facebook icon" /></a></li>
+                <li> <a href="#"><img src="https://www.aspecialgift.com/images/twitter.png" alt="twitter icon" /></a></li>
+                <li> <a href="#"><img src="https://www.aspecialgift.com/images/pinterest.png" alt="pinterest icon" /></a></li>	      
+	  	      </ul>
+	        </div> 
+         </div><!-- end of social_box -->
+      </div><!-- end of banner right middle-->
+   
+  </div><!-- end of banner -->
+  <div id="message_banner">
+    <div id="search">
+      <div class="searchbox"><input type="text"/></div>
+      <div class="magnify"></div>
+    </div>
+    <div id="message">
+      <span class="mtTool" mttitle="* Details" mtcontent="Free shipping to continental US 48 only.<br />Can not be combined with other offers,<br /> discounts or discount codes.">Free Shipping On Orders <strong>$100</strong> or more*</span><br />
+       <span class="mtTool" mttitle="*Details" mtcontent="Excludes weekends and holidays.<br />We will contact you if an item is out of stock.">Orders ship in 1-2 days*</span>
+    </div>
+    <div id="banner_social_wrapper_mobile">
+	  <ul> 
+        <li> <a href="https://www.facebook.com/aspecialgift"><img src="https://www.aspecialgift.com/images/facebook.png" alt="facebook icon" /></a></li>
+        <li> <a href="#"><img src="https://www.aspecialgift.com/images/twitter.png" alt="twitter icon" /></a></li>
+        <li> <a href="#"><img src="https://www.aspecialgift.com/images/pinterest.png" alt="pinterest icon" /></a></li>	      
+	  </ul>
+   </div> 
+  </div><!--end of meesage_banner-->  <div id="horiz_menu">
+         <nav id="menu-1" class="megaMenu" data-color="">    <!-- color change -->
+
+    <!-- navigation container -->
+    <div class="nav-container">
+
+        <!-- sticky header container -->
+        <div class="sticky-container">
+
+            <!-- mobile trigger button for show the collapse drop down -->
+            <ul class="menu-mobile-trigger">
+                <li><i class="fa fa-bars"></i></li>
+            </ul>
+           
+            <!-- search bar for mobile view -->
+           <!--
+            <ul class="menu-search-bar-mobile">
+                <li>
+                    <form action="#">
+                        <label>
+                            <button type="submit"><i class="fa fa-search"></i></button>
+                            <input type="search" name="s" placeholder="Search...">
+                        </label>
+                    </form>
+                </li>
+            </ul>
+            -->
+
+            <!-- menu links -->
+            <ul class="menu-links">
+            
+              <li style="padding-left:10px"><a href="https://www.aspecialgift.com"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+              
+               <li><a href="javascript:void (0)"><span class="text">Occasion</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                     <h4><a href="https://www.aspecialgift.com/category.php?category=personalized-mothers-day-gifts" style="color:#ff7272;">Personalized Mother's Day Gifts</a></h4>
+                     <h4><a href="https://www.aspecialgift.com/category.php?category=personalized-graduation-gifts" style="color:#ff7272;">Personalized Graduation Gifts</a></h4>
+                       <!-- bootstrap -->
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+              
+                 <li><a href="javascript:void (0)"><span class="text">Baby</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                     <h4><a href="https://www.aspecialgift.com/category.php?category=baby-gifts" style="color:#ff7272;">Personalized Baby Gifts</a></h4>
+                       <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-taggies-blankets">Personalized Taggies Blankies</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-taggies-blankets">Personalized Taggies Cozy Blanket</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-embroidered-baby-blankets">Personalized Baby Blankets</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baby-photo-album">Photo Album</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=baby-brush-comb-set">Engraved Brush and Comb Sets</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-coin-bank">Engraved Baby Coin Banks</a></li>
+                                   <li><a href="https://www.aspecialgift.com/product.php?product=CG20904">Engraved Baby Spoon</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baby-cup">Engraved Baby Cups</a></li>                                   
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>                                   
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=speidel-my-first-id-bracelet">Engraved Baby ID Bracelets</a></li> 
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-bunnies-by-the-bay">Monogrammed Bunnies By The Bay</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=baby-taggie-toys">Taggies Toys</a></li><br />
+	            	               <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-childrens-music-cd">Personalized Music Cds</a></li>
+                                   <li><a href="https://www.aspecialgift.com/product.php?product=TN112C">Personalized Baby's Bible</a></li>                                                             
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baby-frame">Engraved Baby Photo Frames</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baby-quilts">Baby Quilts</a></li>                                   
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>                                 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-childrens-music-cd">Baby Personalized Music Cds</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=bestever-baby-play-mat">Bestever Plush Baby Mats</a></li>           	            	      
+           	            	      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-childrens-music-cd">Personalized Baby Music CDs</a></li>
+	                       	      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=birth-announcement-message-pens">Birth Announcement Message Pens</a></li> 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=baby-blankets">Blankies with Teether Rings</a></li>                                 
+                                  <li><a href="https://www.aspecialgift.com/product.php?product=ASGBB14">Birth Announcement Baseball</a></li>
+	            	              <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baptism-christening-gift">Baptism/Christening Gifts</a></li>                               
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+                  <li><a href="javascript:void (0)"><span class="text">Kids</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                      <h4><a href="https://www.aspecialgift.com/category.php?category=gifts-for-kids" style="color:#ff7272;">Personalized Children's Gifts</a></h4>
+
+                    <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=kids-rolling-luggage">Stephen Joseph Rolling Luggage</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-josesph-all-over-printed-backpacks">Stephen Joseph Printed Backpacks</a></li>
+              			    	  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-girls-backpack">Stephen Joseph Girls Go Bag Backpacks</a></li>
+           	            	      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-boys-backpack">Stephen Joseph Boys Go Bag Backpacks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-boys-quilted-backpack">Custom Printed Jewelry Boxes</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=speidel-kids-id-bracelet">Engraved ID Bracelets</a></li><br />
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=kids-art-apron">Stephen Joseph Art Smock</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=growth-charts">Stephen Joseph Growth Charts</a></li>
+           	            	      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-nap-mat">Stephen Joseph Nap Mats</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=kids-hooded-towels">Stephen Joseph Monogrammed Hooded Towels</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>                                   
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-quilted-duffle-bag">Stephen Joseph Quilted Duffle Bags</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-girls-quilted-backpack">Stephen Joseph Girls Quilted Backpacks</a></li>
+           	            	       <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-boys-quilted-backpack">Stephen Joseph Boys Quilted Backpacks</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-lunchbox-girls">Stephen Joseph Girls Lunch Boxes</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-lunchbox-boys">Stephen Joseph Boys Lunch Boxes</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-girls-quilted-backpack">Stephen Joseph Girls Quilted Backpacks</a></li>
+                                   <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-childrens-music-cd">Personalized Music Cds</a></li>
+           	            	       <li><a href="https://www.aspecialgift.com/product.php?product=WB13161894">Engraved Personalized Yoyo</a></li>                                   
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+								  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-coin-bank">Engraved Coin Banks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=big-brother-shirts">Personalized Big Sister Shirts</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=big-brother-shirts">Personalized Big Brother Shirts</a></li>
+            	            	  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-kids-stools">Stephen Joseph Personalized Stools</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=seersucker-backpack">Seersucker Backpacks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=insulated-lunch-box">Monogrammed Insulated Lunch Boxes</a></li>                                 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=mint-kids-backpacks">Monogrammed Nylon Backpacks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=stephen-joseph-nap-mat">Stephen Joseph Monogrammed Nap Mats</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-nap-mat-mint">Personalized Nap Mats</a></li>                                                                                	           	            	              
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                  <li><a href="javascript:void (0)"><span class="text">Family</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                     <h4><a href="https://www.aspecialgift.com/category.php?category=family-gifts" style="color:#ff7272;">Personalized Family Gifts</a></h4>
+
+                       <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-photo-albums">Personalized Photo Albums</a></li>
+						          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-picture-frame">Custom Photo Frames</a></li>
+          						  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-family-photo-frames">Custom Mom Photo Frames</a></li>
+          						  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-family-photo-frames">Custom Dad Photo Frames</a></li>
+          						  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-family-photo-frames">Custom Grandparent Frames</a></li>
+          						  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-family-frames">Message Photo Frames</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=rtic-personalized-mugs">Personalized RTIC Thermal Mugs</a></li>                                  
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cutting-board-personalized">Laser Etched Cutting Boards</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=knife-gift-sets">Personalized Sarge Knifes &amp; Wine Tool</a></li>
+					              <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-cheese-board-sets">Personalized Cheese Board Sets</a></li>
+          						  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=mom-grandma-shirts">Embroidered Family Shirts</a>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-cross">Personalized Wall Crosses</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-wood-clock">Laser Etched Clocks</a></li>          						  
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>                                  
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-water-bottle">Personalized Water Bottles</a></li>
+						          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-travel-mug">Personalized Travel Mugs</a></li><br />
+           						  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=speidel-medical-id-bracelet">Engraved Medical ID Bracelets</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=family-tree-afghan">Custom Family Tree Afghans</a></li>
+           						  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-coffee-mug">Personalized Coffee Mugs</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+                  <li><a href="javascript:void (0)"><span class="text">Wedding</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                    <h4><a href="https://www.aspecialgift.com/category.php?category=wedding-gifts" style="color:#ff7272;">Personalized Wedding Gifts</a></h4>
+
+                        <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-wood-clock">Laser Engraved Custom Wall Clocks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cutting-board-personalized">Laser Engraved Custom Cutting Boards</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-wood-clock">Laser Engraved Custom Mantel Clocks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-mantel-clocks">Engraved Server Sets</a></li>
+   			    		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=champagne-toasting-flutes">Personalized Toasting Flutes</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=beveled-glass-picture-frame">Beveled Glass Photo Frames</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-photo-albums">Personalized Photo Albums</a></li>                		          
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-picture-frame">Custom Photo Frames</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=knife-gift-sets">Personalized Carver Set</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=wooden-message-plaque">Marriage Prayer Plaque</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-bathrobe">Monogrammed Velour & Hooded Hooded Robes</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cake-topper">Personalized Acrylic Cake Toppers</a>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-frame-cross">Personalized Wall Cross</a>                                  
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=painted-wine-glass">Painted Bride To Be Wine Glass</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/product.php?product=PGZBOR27">Personalized I Do Wedding Plaque</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-vase">Custom Etched Flower Vases</a></li>
+                                  <li><a href="https://www.aspecialgift.com/product.php?product=PC276-T">Monogrammed Love Quilt Afghan</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=wedding-favor-message-pen">Wedding Favor Message Pens</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=wine-lovers-gifts">Wine Lovers Gifts</a>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-bride-groom-shirts">Bride/Groom Tee Shirts</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+                  <li><a href="javascript:void (0)"><span class="text">Wedding Party</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                      <h4><a href="https://www.aspecialgift.com/category.php?category=wedding-party-gifts" style="color:#ff7272;">Personalized Wedding Party Gifts</a></h4>
+                      <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>                                 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-flasks">Personalized Laser Engraved Flasks</a></li> 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-leather-flasks">Personalized Engraved Flasks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=novelty-personalized-flasks">Specialty Personalized Flasks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=flask-gift-sets">Flask Gift Sets</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cigar-cigarette-flasks">Cigar & Cigarette Flasks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-flasks">Laser Engraved Flasks</a></li> 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-tankard-stein">Tankards/Steins</a></li>                                 
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cigar-humidor">Cigar Humidors</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-beer-glass">Beer Boot & Glasses</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=zippo-personalized-chrome">Zippo Lighters</a></li>               
+                          	      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-water-bottle">Stainless Water Bottles</a></li>
+                          	      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-travel-mug">Travel Mugs</a></li>
+                           	      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-pocket-knife">Pocket Knifes</a>      
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=glitter-flasks">Personalized Ladies Flasks</a></li>                
+                            	  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-compact-mirror">Mirror Compacts</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=jute-tote-bag">Jute Tote Bags</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-tote-bag">Canvas Tote Bags</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=zippo-personalized-chrome">Zippo Lighters</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-jewelry-boxes">Keepsake Boxes</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-water-bottle">Stainless Water Bottles</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-travel-mug">Travel Mugs</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-bathrobe">Bath Robes</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+                  <li style="direction:rtl"><a href="javascript:void (0)"><span class="text">Anniversary</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-6 col-md-6 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                      <h4><a href="https://www.aspecialgift.com/category.php?category=anniversary-gifts" style="color:#ff7272;">Personalized Anniversary Gifts</a></h4>
+
+                       <!-- bootstrap -->
+                        <div class="col-sm-6" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-anniversary-clock">Clocks</a></li>
+               			          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-wood-clock">Wall Clocks</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-photo-albums">Photo Albums</a></li>                                 
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=beveled-glass-picture-frame">Beveled Glass Photo Frames</a>   
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+								  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=anniversary-photo-frames">Photo Frames</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=champagne-toasting-flutes">Toasting Flutes</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-vase">Crystal Vases</a></li>                		         
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=product=PC276T">Love Quilt Afghans</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+                  <li style="direction:rtl"><a href="javascript:void (0)"><span class="text">For Her</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                     <h4><a href="https://www.aspecialgift.com/category.php?category=gifts-for-women" style="color:#ff7272;">Personalized Gifts for Women</a></h4>
+
+                       <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=rtic-personalized-mugs">Personalized RTIC Thermal Mugs</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=mothers-jewelry">Mother's Jewelry</a></li>                                 
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cutting-board-personalized">Hardwood Cutting Boards</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-cheese-board-sets">Cheese Board Sets</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-bathrobe">Velour Hooded Robes</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=glitter-flasks">Personalized Flasks For Women</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=jute-tote-bag">Jute Tote Bags</a></li>
+               			          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-tote-bag">Canvas Tote Bags</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=insulated-tote-bag">Insulated Tote Bags</a></li>
+                		         
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/product.php?item=engraved-pewter-cuff-bracelet">Pewter Cuff Bracelet</a>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-travel-mug">Travel Mugs</a>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-water-bottle">Water Bottles</a></li>                		          
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=ladies-speidel-id-bracelet">ID Bracelets</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-shower-wrap">Shower Wraps</a></li>                                  
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-jewelry-boxes">Silver Jewelry Boxes</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=jewelry-boxes">Jewelry Boxes</a></li>                		       
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=engraved-compact-mirror">Mirror Compacts</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-wine-glass">Wine Glasses</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=wine-lovers-gifts">Wine Lovers Gifts</a>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-coffee-mug">Coffee Mugs</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=insulated-tote-bag">Cooler Bags</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=zippo-lighter-slim">Zippo Lighters</a></li>                		          
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-apron">Aprons</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+                  <li style="direction:rtl"><a href="javascript:void (0)"><span class="text">For Him</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                      <h4><a href="https://www.aspecialgift.com/category.php?category=gifts-for-men" style="color:#ff7272;">Personalized Gifts for Men</a></h4>
+
+                      <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cigar-humidor">Cigar Humidors</a></li>                
+                		          <li><a href="https://www.aspecialgift.com/category.php?category=personalized-flasks">Personalized Flasks</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=rtic-personalized-mugs">Personalized RTIC Thermal Mugs</a></li>
+                	 	          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-tankard-stein">Tankards/Steins</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-beer-glass">Beer Boot</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-beer-glass">Beer Glasses</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-tankard-stein">Tankards &amp; Steins</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=cutting-board-personalized">Hardwood Cutting Boards</a>                                                      
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=knife-gift-sets">Sarge Knifes &amp; Wine Tool</a></li>
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-cheese-board-sets">Cheese Board Sets</a></li>
+                		          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-bathrobe">Velour Hooded Robe</a></li>                         		 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=mens-speidel-id-bracelet">Personalized ID Bracelets</a></li>
+                          		  <li><a href="https://www.aspecialgift.com/product.php?product=WB1414">Cigar Gift Sets</a></li>
+                	          	  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-travel-mug">Travel Mugs</a>                   
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=wine-lovers-gifts">Wine Lovers Gifts</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>                                 
+                                  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=golf-gifts-category">Golf Gifts</a></li>
+                          		  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=zippo-personalized-chrome">Zippo Lighters</a></li>
+                          		  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=playing-card-poker-sets">Playing Card &amp; Poker Sets</a></li>
+                          		  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-boxer-shorts">Personalized Boxer Shorts</a></li>                
+                          		  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-apron">Aprons</a></li>
+                          		  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-pen-set">Wooden Pen Sets</a></li>
+								  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-coffee-mug">Coffee Mugs</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+                 <li style="direction:rtl"><a href="javascript:void (0)"><span class="text">Business</span></a>
+
+                    <!-- drop down medium size -->
+                    <div class="drop-down-medium col-lg-8 col-md-8 col-md-pull-2 col-lg-pull-0" style="background-color:#fff;box-shadow: 5px 5px 5px #aaa;">
+                      <h4><a href="https://www.aspecialgift.com/category.php?category=corporate-gifts" style="color:#ff7272;">Personalized Corporate Gifts</a></h4>
+
+                      <!-- bootstrap -->
+                        <div class="col-sm-4" >
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                  <li><a href="https://www.aspecialgift.com/product.php?product=JDT154">Desk Clock with Pens</a></li>
+						          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-pen-set">Pen Sets</a></li>						          						          
+						          <li><a href="https://www.aspecialgift.com/product.php?product=AN401">Nylon Brief Bag</a></li>
+								  <li><a href="https://www.aspecialgift.com/subcat.php?pcat=desk-name-plate">Desk Name Bars</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                           <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>                                  
+						          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-desk-clock">Award Clocks</a>	
+                                  <li><a href="https://www.aspecialgift.com/product.php?product=GETC">Leather Pad Folio</a></li>
+						          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=business-card-holder">Business Card Holder</a></li>
+						          <li><a href="https://www.aspecialgift.com/subcat.php?pcat=award-plaque">Award Plaques</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <!-- list items -->
+                            <div class="list-items">
+                                <!-- h4 heading -->
+                               <!-- <h4>Un-order List</h4>-->
+                                <!-- un-order list -->
+                                <ul>
+                                 <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-travel-mug">Travel Mugs</a></li>
+						         <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-water-bottle">Water Bottles</a></li>
+           						 <li><a href="https://www.aspecialgift.com/subcat.php?pcat=logo-coffee-mug">Coffee Mugs</a></li>
+			           			 <li><a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-travel-mug">Travel Thermos</a></li>   
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- clearfix -->
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>  </div>
+ <div style="width:100%;height:5px;background-color:#ff7272"></div>
+<div id="page_container">
+  <main>
+  <div id="main">
+  <div id="page_title">
+   <h1>6</h1><p>7</p>      </div>
+      <br />
+<b>Warning</b>:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in <b>/home/aspeci7/public_html/category.php</b> on line <b>98</b><br />
+      
+      <div id="category_products" style="clear:both" >
+      <div class="line"></div>
+           <div class="category_product" style="width:49.5%">
+      <figure>
+      <a href="subcat.php?pcat="><img src="../img-category/5" alt="" style="width:80%" /></a>
+      </figure>
+      <div class="link_text"><h3><a href="subcat.php?pcat=">4</a></h3></div>
+      <a href="subcat.php?pcat="><div class="jade button_more_details"><span style="color:white">More Details</span></div></a>
+      </div>
+          </div>   
+      </div><!-- end of main-->
+  </main>
+  <aside>
+  <div class="aside_list">
+
+<div style="width:100%">
+<div style="margin:auto;width:150px;">
+<div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
+var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "https://www.aspecialgift.com/livezilla/server.php?a=1ab2f&rqst=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="https://www.aspecialgift.com/livezilla/server.php?a=1ab2f&amp;rqst=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code --><a href="javascript:void(window.open('https://www.aspecialgift.com/livezilla/chat.php?a=eebd3','','width=590,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_cbl"><img src="https://www.aspecialgift.com/livezilla/image.php?a=b3fc7&amp;id=8&amp;type=inlay" width="149" height="52" style="border:0px;" alt="LiveZilla Live Chat Software"></a><!-- http://www.LiveZilla.net Chat Button Link Code --><div style="margin-top:2px;">
+</div>
+</div>
+</div>
+<div style="width:100%;margin-top:.625em">
+  <div id="reseller_rating">
+    <script src="https://widget.resellerratings.com/widget/javascript/review/Aspecialgift_com.js"></script>
+  </div>
+</div>
+
+<div style="width:100%;margin-top:.625em;">
+  <div style="width:40%;margin:auto;opacity:.99;position:relative;top:0px;">
+ <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=J76YbSlEhy8gng8eFto3wTSw1L2drg9cX23WfHYVWwyXXHzOtgBBYRB5UNYY"></script></span>
+ <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
+</div>
+<div style="width:100%;text-align:center;margin-top:5px">
+  <img alt="Amex/Discover/Mastercard/Visa icons" src="https://www.aspecialgift.com/images/credit-card-icons.gif" style="width:135px;height:22px"/>
+</div>
+<div style="width:100%;text-align:center;color:#fff;;margin-bottom:.75em">
+  <span>Secure Credit Card Processing</span>
+</div>
+</div>
+  <div class = "title-left">Categories</div>
+  <div class="left_list">
+    <ul>        
+      <li><a href="https://www.aspecialgift.com/category.php?category=baby-gifts" class="list-group-item">Baby Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=gifts-for-kids" class="list-group-item">Gifts for Kids</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=family-gifts" class="list-group-item">Family Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=gifts-for-women" class="list-group-item">Gifts for Her</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=gifts-for-men" class="list-group-item">Gifts for Him</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=wedding-ceremony" class="list-group-item">Wedding Ceremony Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=wedding-party-gifts" class="list-group-item">Wedding Party Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=wedding-gifts" class="list-group-item">Wedding Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=anniversary-gifts" class="list-group-item">Anniversary Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=corporate-gifts" class="list-group-item">Business Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=barware-gifts" class="list-group-item">Barware Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=pet-gifts" class="list-group-item">Gifts for Pets</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=inspirational-gifts" class="list-group-item">Inspirational Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/category.php?category=memorial-gifts" class="list-group-item">Remembrance Gifts</span></a></li>
+      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=kids-christmas-stockings" class="list-group-item" style="line-height:15px">Personalized Christmas Stockings</span></a></li>
+      <li><a href="https://www.aspecialgift.com/subcat.php?pcat=hearth-hounds-dog-breed-christmas-stockings" class="list-group-item" style="line-height:15px">Hearth Hounds Pedigree Dog Stockings</span></a></li>
+     </ul>
+   </div><!-- end of left_list -->
+  </div><!-- end of aside_list-->  
+  </aside>
+  <br class="fix_height"/>
+</div><!--end of page container -->
+<div id="footer-container">
+ <script>
+function myFunction() {
+var email = document.getElementById("signup_email").value;
+// Returns successful data submission message when the entered information is stored in database.
+var dataString = '&email=' + email;
+if (email == '') {
+alert("Please Enter Your Email Address");
+} else {
+// AJAX code to submit form.
+$.ajax({
+type: "POST",
+url: "https://www.aspecialgift.com/ajax/newsletter-signup.php",
+data: dataString,
+cache: false,
+success:function(response){
+alert(response);
+document.getElementByName("message").innerHTML = response;
+}
+});
+}
+return false;
+}
+</script>
+
+ <div style="width:100%;height:5px;background-color:#13a98e"></div>
+ <div id="signup_footer">
+   <h4>Sign up for our newsletter</h4>
+   <form>
+     <div>
+      <input name="signup_email" id="email" type="email" class="form-control" placeholder="Enter your email address" style="margin-bottom:15px"/>
+      <input type="submit"  value="Submit" class="salmon button_submit" onClick="myFunction()" style="margin:0;" />  
+      <div id="message"></div>
+     </div>
+   </form>   
+      <div id="footer_social_wrapper">
+	  	   <ul class="social-icons icon-rounded icon-zoom list-unstyled list-social-inline"> 
+             <li> <a href="#"><i class="fa fa-facebook"></i></a></li>
+             <li> <a href="#"><i class="fa fa-google-plus"></i></a></li>
+             <li> <a href="#"><i class="fa fa-twitter"></i></a></li>	      
+	  	  </ul>
+     </div> 
+  </div> <!-- end of signup_footer -->
+  <div id="footer">
+    <div id="footer_left">
+      <h4>INFORMATION</h4>
+      <ul class="footer_links">
+        <li><a href="https://www.aspecialgift.com/contact-us.php">Contact Us</a></li>
+        <li><a href="https://www.aspecialgift.com/about-us.php">About Us</a></li>
+        <li><a href="https://www.aspecialgift.com/sitemap.php">Site Map</a></li>
+        <li><a href="https://www.aspecialgift.com/policies.php">Store Policies</a></li>
+        <li><a href="https://www.aspecialgift.com/privacy.php">Privacy Notice</a></li>                                
+      </ul>     
+    </div>  
+    <div id="footer_center">
+     <h4>MY ACCOUNT</h4>
+     <ul class="footer_links">
+       <li><a href="https://www.aspecialgift.com/login-register/account.php">My Account</a></li>
+       <li><a href="https://www.aspecialgift.com/checkout/order-tracking.php">Track My Order</a></li>
+       <li><a href="#">My Wish List (coming soon)</a></li>                                                           
+       <li><a href="#">Order History (coming soon)</a></li>       
+     </ul>    
+    </div>
+    <div id="footer_right">     
+       <div class="signup">
+        <span>Sign up for our newsletter:</span>
+        <input name="email" id="signup_email" type="email" class="form-control" placeholder="Enter your email address" style="margin-bottom:15px"/>
+        <input type="submit"  value="Sign Up" class="jade button_submit" onClick="myFunction()" style="margin:0;" />
+        <div id="response">Emails never disclosed.</div>
+      </div>
+     </div><!-- end of footer right-->    
+   </div><!-- end of footer -->
+   <div id="footer_bottom">Copyright &copy; 2017 aSpecialGift.com. All rights reserved.</div>
+   <script type="text/javascript" src="https://addsearch.com/js/?key=37cb4b71c7c931b861dbcd5063569f72"></script> 
+</div><!-- end of footer container -->
+<link rel="stylesheet" type="text/css" href="css/social.css">
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="css/MetroTooltip.css" />
+<script src="js/MetroTooltip.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<!-- tooltips -->
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type='text/javascript'>
+// Social Image Hover
+function onHover()
+{
+    $("#menuImg").attr('src', 'images/facebook-hover.png');
+}
+
+function offHover()
+{
+    $("#menuImg").attr('src', 'images/facebook.png');
+}
+
+jQuery(document).ready(function ($) {
+    // call megamenu plugin
+    $('#menu-1').megaMenu({
+        // DESKTOP VIEW SETTINGS
+        menu_width                     : 1020,              // Options (integer value) or (false). This option is used to change the menu width.
+        items_text_align               : 'left',            // Options (left) or (center). This option is used to align the menu text left or center.
+        items_direction                : 'normal',          // Options (normal) or (reverse). This option is used to reverse the menu items order. Note This option is works if the (description_hide) option is false.
+        items_indicator_icon           : false,   // 'fa-angle-down' This option is used to menu items indicator icons. If you set this option (false). Icons not show. This is font awesome icons. Here is the source: https://fortawesome.github.io/Font-Awesome/icons/
+        description_hide               : false,             // Options (true) or (false). This option is used to show or hide the menu items description on desktop view.
+        vertical_lines_hide            : false,             // Options (true) or (false). This option is used to show or hide the vertical lines between menu items on desktop view.
+        outside_click_drop_down_hide   : true,              // Options (true) or (false). This option is used to hide the show drop down when the user clicks outside the menu.
+        search_bar_hide                : false,             // Options (true) or (false). This option is used to show or hide the search bar on desktop view.
+        menu_top_fixed                 : false,             // Options (true) or (false). This option is used to fixed the menu top of the screen.
+        transparent                    : 1,                 // Set value (1 to 0). Example 0.1, 0.2, 0.5, 0.9 etc. This option is used to make the menu transparent.
+        // LOGO SETTINGS
+        logo_hide                      :  true,             // Options (true) or (false). This option is used to show or hide the logo on desktop view.
+        logo_align                     : 'left',            // Options (left) or (right). This option is used to align the logo left or right side.
+        // DROP DOWN SETTINGS
+        drop_down_show_trigger         : 'hover',           // Options (click) or (hover). This option is used to change the drop downs show trigger. It means drop downs show on mouse click or mouse hover.
+        drop_down_hide_trigger         : 'hover',           // Options (click) or (hover). This option is used to change the drop downs hide trigger. It means drop downs hide on mouse click or mouse hover.
+        drop_down_show_delay           : 10,               // Value set in (milliseconds). This option is used to change the drop down show delay. It means drop down down show after some time.
+        drop_down_hide_delay           : 10,                // Value set in (milliseconds). This option is used to change the drop down hide delay. It means drop down down hide after some time.
+        drop_down_indicator_icon       : 'fa-angle-down',   // This option is used to drop down indicator icons. If you set this option (false). Icons not show. This is font awesome icons. Here is the source: https://fortawesome.github.io/Font-Awesome/icons/
+        // STICKY HEADER SETTINGS
+        sticky_header                  : false,             // Options (true) or (false). This option is used to make the menu sticky top of the screen.
+        sticky_header_height           : 500,               // Value set in integer. When user reach this height (while scrolling top to bottom of the screen) (500). The menu makes sticky.
+        un_sticky_header_height        : 100,               // Value set in integer. When user reach this height (while scrolling bottom to top of the screen) (100). The menu makes un sticky.
+        sticky_header_animation        : 'fade',            // Options (fade), (scale) or (move). There are up to 3 sticky header animations.
+        // MOBILE VIEW SETTINGS
+        description_hide_mobile        : false,             // Options (true) or (false). This option is used to show or hide the menu items description on mobile view.
+        vertical_lines_hide_mobile     : false,             // Options (true) or (false). This option is used to show or hide the vertical lines between menu items on mobile view.
+        logo_hide_mobile               : false,             // Options (true) or (false). This option is used to show or hide the logo on mobile view.
+        search_bar_hide_mobile         : false,             // Options (true) or (false). This option is used to show or hide the search bar on mobile view.
+        sticky_header_mobile           : false,             // Options (true) or (false). This option is used to enable or disable the sticky header on mobile view.
+        collapse_drop_down             : true,              // Options (true) or (false). This option is used to collapse the whole menu on mobile view.
+        menu_top_fixed_mobile          : false,             // Options (true) or (false). This option is used to fixed the menu top of the screen on mobile view.
+        items_indicator_icon_mobile    : false,   // 'fa-angle-down' This option is used to menu items indicator icons on mobile view. If you set this option (false). Icons not show. This is font awesome icons. Here is the source: https://fortawesome.github.io/Font-Awesome/icons/
+        drop_down_indicator_icon_mobile: false,   // 'fa-angle-down' This option is used to drop down indicator icons on mobile view. If you set this option (false). Icons not show. This is font awesome icons. Here is the source: https://fortawesome.github.io/Font-Awesome/icons/
+        // MEDIA QUERY MAX WIDTH
+        media_screen_max_width         : 991                // Value set in integer. This is max media query width. Note if you don't know about media query please don't change this value.
+    });
+});
+
+</script>
+screen width: </body>
+</html>

@@ -1,0 +1,76 @@
+sdqagroup.com/prod_gal.php?catid=32
+ 
+sdqagrou_dbwebadmin - header_image:(0)
+headimgid,headimgname,headimgpath,uent_dt
+
++++++++++
+sdqagrou_dbwebadmin - logininfo:(2)
+loginid,uname,upass,urole
+1 admin admin ADMIN
+2 test test NUSER
+
++++++++++
+sdqagrou_dbwebadmin - my_category:(47)
+catid,catname,parentid,description,uent_dt
+1 Uncategorised 1 Default Category 2012-06-22 02:35:19
+18 Horse Accessories 1 AS PER BUYER'S SPECIFICATION 2019-02-11 10:04:31
+19 Dog Accessories 1 2018-11-27 05:21:15
+20 Equestrian Accessories 1 2018-11-27 05:21:38
+21 Horse Halters 18 2018-11-27 05:43:46
+22 Horse Rugs 18 2018-11-27 05:44:14
+23 Horse Saddles 18 2018-11-27 05:44:31
+24 Leather Breastplate 18 2018-11-27 05:45:06
+25 Leather Bridles 18 2018-11-27 05:45:25
+26 Dog Clothes 19 2018-11-27 05:59:35
+
++++++++++
+sdqagrou_dbwebadmin - my_enquiry:(2)
+enqid,uname,umobile,uemail,subject,umessage,uent_dt
+1 Sajid Testing Hi this is just for testing only 2018-12-10 21:21:19
+2 Asad test@gmail.com Test Sub jkcbjidbc ckdjc ckdjckjn tjnjbnkbjn cdcklmdmcklsdm 2018-12-10 21:25:49
+
++++++++++
+sdqagrou_dbwebadmin - my_posts:(4)
+postid,posttiltle,catid,postcont,uent_dt
+4 About SDQA 1 <p style="text-align: justify;">SDQA Group&nbsp; is a leading manufacturer and exporter of all kinds of Leather Equestrian Products and Leather Goods. SDQA Leather Products is also manufacturer and exporter of Bridles, Saddles, Halters, Rugs, Saddle Pads, Leads &amp; Ropes, Brow band, Belts &amp; Girths. Widely acknowledged as one of the best manufacturers with its international standard and performance, the company has outperformed its business counterparts and has maintained market dominance over the past ten years.</p> 2019-01-16 08:13:00
+6 Have a Look Through Our Catalogue 1 <p>We offer a wide Portfolio of fully customized products to our customers which include all kinds of Leather products, Garment products, Food products etc. We provide complete reliability in terms of prices, quality and timely delivery of products. To explore our wide range of products, please go through our below gallery.</p> 2018-02-10 08:37:10
+7 Why Us ? 1 <p style="text-align: justify;">We believe in the popularity and affordability of our durable quality products. Our each and every product is the master piece of work man ship. We always are willing to adopt the latest technology for the improvement and excellence of our quality products.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">We are exporting to numbers of leading and well established customers across the global. We have been constantly developing new and innovative products over time and again, to provide our customers with something new in the market. With a help of strong infrastructure base our working standards have constantly gone up over the last ten years to achieve new heights in the international market.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br />The most important is our customers are satisfied with our quality, work man-ship and delivery in time. We also provide traditional methods for manufacturing strap goods and western saddles which take longer and require a higher degree of craftsmanship, but once you sit in, we know you will agree that the results are clearly worth it. Although we custom make saddles for many of the world&amp;acute;s leading riders, our commitment to quality and detail is reflected in every saddle we make, including the one we make for our clients.</p> 2018-12-10 13:09:05
+8 Welcome to SDQA Overseas Group 1 <p><span>SDQA Group&nbsp; is a leading manufacturer and exporter of all kinds of Leather Equestrian Products and Leather Goods. SDQA Leather Products is also manufacturer and exporter of Bridles, Saddles, Halters, Rugs, Saddle Pads, Leads &amp; Ropes, Brow band, Belts &amp; Girths. Widely acknowledged as one of the best manufacturers with its international standard and performance, the company has outperformed its business counterparts and has maintained market dominance over the past ten years.</span></p> 2019-02-13 13:09:43
+
++++++++++
+sdqagrou_dbwebadmin - my_products:(168)
+productid,productname,productcode,unitofmeasure,pricerange,minorderqty,catid,prod_type,productimg,thumbnail,productimg2,thumbnail2,productimg3,thumbnail3,productimg4,thumbnail4,productdesc,display,uent_dt
+1 Horse Accessories 001 pc 10 18 upimg/5207DSC02777.jpg thimg/23364DSC02777.jpg We offer high quality horse boots you can rely on, which protects horse legs from injury while riding. SDQA OVERSEAS EXPORT PVT LTD.  MANUFACTURES SHIPPING BOOTS, ANKLE BOOTS, GALLOPING BOOTS,
+BELL BOOTS, SPLINT BOOTS etc. Y 2018-12-02 19:40:57
+2 Dog Accessories 786 pc 10 19 upimg/29042598288-center-1.jpg thimg/216812598288-center-1.jpg We offer high quality Dog collar you can rely on, which control you pet and at the same time enhanced the beauty of your pet. SDQA OVERSEAS EXPORT PVT LTD. MANUFACTURES SHIPPING BOOTS, ANKLE BOOTS, GALLOPING BOOTS, BELL BOOTS, SPLINT BOOTS etc Y 2018-12-05 09:13:14
+3 Equestrian Accessories SDQA_EQSACC_01 pc 10 20 New upimg/625412437equipment.jpg thimg/535564523equipment.jpg We offer high quality equestrian accessories you can rely on. OVERSEAS EXPORT PVT LTD. MANUFACTURES SHIPPING BOOTS, ANKLE BOOTS, GALLOPING BOOTS, BELL BOOTS, SPLINT BOOTS etc Y 2018-12-05 09:53:23
+4 Fashion Leather Bag 786 pc 10 38 upimg/3413lds_bag.jpg thimg/17258lds_bag.jpg AS PER BUYER'S SPECIFICATION Y 2018-12-08 22:49:56
+5 Fashion Leather Belt 786 pc 10 39 upimg/7460jpg_640x640.jpg thimg/4237jpg_640x640.jpg AS PER BUYER'S SPECIFICATION Y 2018-12-08 22:57:40
+43 Leather Belt 786 pc 100 36 Hot upimg/1563441546HS-B01.jpeg thimg/630812705HS-B01.jpeg As per the buyer's requirement Y 2019-02-20 12:34:04
+44 Saddle Pad 786 100 46 upimg/4824046825-881770-navylightblue.jpg thimg/999809935-881770-navylightblue.jpg Y 2019-02-20 12:58:27
+6 Finished Leather 0006 pc 10 40 upimg/10242finished-leather-sheets-500x500.jpg thimg/21779finished-leather-sheets-500x500.jpg AS PER BUYER'S SPECIFICATION Y 2018-12-08 23:00:38
+92 English Bridles 1 SDQA_ENGBRDL_01 pc 10 60 New upimg/49308592271zQOYQJvcL._SL1500_.jpg thimg/49175637871zQOYQJvcL._SL1500_.jpg As per the buyer's requirement Y 2019-02-27 12:17:49
+7 Horse Halters 786 pc 10 21 Hot upimg/786HL001_1552734432.jpg thimg/786HL001_1552734432.jpg While choosing a Halter you have to make sure that it meets your need, your experience level, and your riding activity. We offer Halters and leads in several different materials like Rope, Cotton, Poly, Nylon, and Leather. Y 2018-12-09 03:23:25
+96 Western Bridle 1 SDQA_WESBRDL_01 pc 10 61 New upimg/136153195518-803-31.jpg thimg/204393413518-803-31.jpg As per the buyer's requirement Y 2019-02-27 12:23:26
+97 Western Bridle 2 SDQA_WESBRDL_02 pc 10 61 Hot upimg/603234875westbrld2.jpg thimg/1873003636westbrld2.jpg As per the buyer's requirement Y 2019-02-27 12:24:25
+98 Western Bridle 3 SDQA_WESBRDL_03 pc 10 61 New upimg/643813738s-l640.jpg thimg/582640910s-l640.jpg As per the buyer's requirement Y 2019-02-27 12:25:13
+99 Western Bridle 4 SDQA_WESBRDL_04 pc 10 61 New upimg/1722681328western-bridles-500x500.jpg thimg/1768492474western-bridles-500x500.jpg As per the buyer's requirement Y 2019-02-27 12:25:56
+100 Leather Browband 1 SDQA_BOWBAN_01 pc 10 41 New upimg/184931045809S34.jpg thimg/859217683809S34.jpg As per the buyer's requirement Y 2019-02-27 12:29:24
+101 Leather Browband 2 SDQA_BOWBAN_02 pc 10 41 New upimg/1680999043bband1.jpg thimg/435101977bband1.jpg As per the buyer's requirement Y 2019-02-27 12:30:58
+102 Leather Browband 3 SDQA_BOWBAN_03 pc 10 41 New upimg/brow_band_1554981831.jpg thimg/brow_band_1554981831.jpg As per the buyer's requirement Y 2019-02-27 12:32:22
+103 Leather Browband 4 SDQA_BOWBAN_04 pc 10 41 New upimg/brow-band-li-bb-250x250_1554981842.png thimg/brow-band-li-bb-250x250_1554981842.png As per the buyer's requirement Y 2019-02-27 12:33:38
+104 Leather Browband 5 SDQA_BOWBAN_05 pc 10 41 New upimg/844608724bband5.jpg thimg/830116322bband5.jpg As per the buyer's requirement Y 2019-02-27 12:35:39
+105 Leather Girth 1 SDQA_LEAGIR_01 pc 10 42 Hot upimg/girth1_1554981648.jpg thimg/girth1_1554981648.jpg As per the buyer's requirement Y 2019-02-27 12:37:39
+
++++++++++
+sdqagrou_dbwebadmin - my_visitors:(0)
+visitorid,visitorname,visitoremail,visitormobile,visitor_code,uent_dt
+
++++++++++
+sdqagrou_dbwebadmin - visitor_sample:(0)
+docid,doctitle,docpath,docdescription,display,uent_dt
+
++++++++++
+
+ 

@@ -1,0 +1,535 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+
+
+
+<script src="/cdn-cgi/apps/head/GK9pcLEtHrqOh6c_lsyg7ZHOrTk.js"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NT2PT69');</script>
+
+<meta http-equiv="Content-Type" content="text/html">
+<meta http-equiv="charset" content="UTF-8">
+<meta http-equiv="content-language" content="en">
+<meta http-equiv="expires" content="+7 days">
+<meta http-equiv="Cache-control" content="public">
+<meta http-equiv="window-target" content="_top">
+<meta name="keywords" content="Calabria,Geography, Calabria Towns Database,[X]585                           [XX],Town, city, village, citta, citt&agrave;,frazione,paese">
+<meta name="description" content="Search for towns and villages in the Calabria region by name">
+<meta name="publisher" content="IL CIRCOLO CALABRESE">
+<meta name="author" content="IL CIRCOLO CALABRESE">
+<meta name="web_author" content="IL CIRCOLO CALABRESE">
+<meta name="copyright" content="&copy; 1996-2019, All Rights Reserved">
+<meta name="rating" content="General">
+<meta name="classification" content="Organization, Society &amp; Culture, Italy, Calabria, History, Culture, Language, Genealogy">
+<meta name="Identify-URL" content="http://www.circolocalabrese.org">
+<meta name="robots" content="index,follow">
+<meta name="robots" content="noydir,noodp">
+<meta name="revisit-after" content="7 days">
+<meta name="google-translate-customization" content="a5c80e6354db8c3a-7bf394719a759800-g89752a7cdc16066c-18">
+<meta property="fb:app_id" content="242033924986" />
+<title>Calabria Towns Database: [X]585                           [XX] - IL CIRCOLO CALABRESE - Devoted to Calabria, Italy</title>
+
+<link type="text/css" rel="stylesheet" href="/css/layout.css" />
+<link type="text/css" rel="stylesheet" href="/font/font.css">
+<link type="text/css" rel="stylesheet" href="/css/flexslider.css">
+<link type="text/css" rel="stylesheet" href="/css/content.css" />
+<link type="text/css" rel="stylesheet" href="/css/jquery.lightbox-0.5.css">
+
+
+<script>
+<!-- Prevents content from loading in an IFrame-->
+<!--
+if (top.location != location) { top.location.href = location.href; }
+//-->
+</script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/scripts/jquery.lightbox-0.5.pack.js"></script>
+<script src="/scripts/jquery.PrintArea.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script defer src="/scripts/jquery.flexslider-min.js"></script>
+<script src="/scripts/jquery.easing.min.js"></script>
+
+<script>
+	<!-- Clears the form field value when it receives focus -->
+	function Clear(theForm, theValue){
+		if(theForm.value == theValue) {
+			theForm.value = '';
+		}
+	}
+	
+	<!-- Re-Fills the form field value when it loses focus and nothing was entered -->
+	function Fill(theForm, theValue) {
+		if(theForm.value == '') {
+			theForm.value = theValue;
+		}
+	}
+	
+	<!-- Changes placeholder text to the Name the user entered -->
+	function InsertSignature(theValue) {
+		var signature = document.getElementById("Signature");
+		var myName = document.getElementById("myName");
+		
+		if(theValue != 'Your Name') {
+			signature.innerHTML = theValue;
+			myName.innerHTML = theValue;
+		}
+		else {
+			signature.innerHTML = '[your name]';
+			myName.innerHTML = '[your name]';
+		}
+	}
+	
+	<!-- Changes placeholder text to the Town the user entered -->
+	function InsertTown(theValue) {
+		var townName = document.getElementById("townName");
+		
+		if(theValue != 'Town') {
+			townName.innerHTML = theValue;
+		}
+		else {
+			townName.innerHTML = '[town name]';
+		}
+	}
+	
+	function Uppercase(theValue, formField){
+		var txt = theValue.toUpperCase();
+		var fld = document.getElementById(formField);
+		
+		fld.value = txt;
+	}
+	
+	function InsertAncestorsName(theValue) {
+		var ancestorsName = document.getElementById("ancestorsName");
+		var ancestorsName2 = document.getElementById("ancestorsName2");
+		
+		if(theValue != 'Ancestors Name') {
+			ancestorsName.innerHTML = theValue;
+			ancestorsName2.innerHTML = theValue;
+		}
+		else {
+			ancestorsName.innerHTML = '[ancestors name]';
+			ancestorsName2.innerHTML = '[ancestors name]';
+		}
+	}
+	
+	function InsertCertificate(theControl) {
+		var theValue = theControl.options[theControl.selectedIndex].text;
+		var certificate = document.getElementById("selectedCertificate");
+
+		if(theValue != '--- Select Certificate Type ---') {
+			certificate.innerHTML = theValue;
+		}
+		else {
+			certificate.innerHTML = '[certificate]';
+		}
+	}
+</script>
+<script>
+	$(function() {
+		$('a.lightbox').lightBox({
+			fixedNavigation: true,
+			overlayBgColor: '#000',
+			overlayOpacity: 0.8,
+			imageLoading: '/images/content/loading_15x15.gif',
+			imageBtnClose: '/images/lightbox/close.png',
+			imageBtnPrev: '/images/lightbox/lightbox_previous.png',
+			imageBtnNext: '/images/lightbox/lightbox_next.png',
+			containerResizeSpeed: 350,
+			txtImage: 'Image',
+			txtOf: 'of'
+		});
+	});
+</script>
+<script>
+	$(document).ready(function(){
+		$("#print").click(function(){
+			var mode = "iframe";
+			var close = true;
+			var options = { mode : mode, popClose : close };
+	
+			$("#printArea").printArea( options );
+		});
+	});
+</script>
+<script>
+	$(document).ready(function(){
+		$(".main_menu > li").mouseenter(function(){
+			$(this).find(".sub_menu").show();
+			$(this).find("span").attr("class","arrow");
+		});
+	
+		$(".main_menu > li").mouseleave(function(){
+			$(this).find(".sub_menu").hide();
+			$(this).find("span").attr("class","arrow01");
+		});
+	});
+</script>
+<!--[if IE]>
+<script type="text/javascript">
+
+(function(){
+	var html5elmeents = "address|article|aside|audio|canvas|command|datalist|details|dialog|figure|figcaption|footer|header|hgroup|keygen|mark|meter|menu|nav|progress|ruby|section|time|video".split('|');
+
+	for(var i = 0; i < html5elmeents.length; i++){
+		document.createElement(html5elmeents[i]);
+	}
+}
+)();
+</script>
+<![endif]-->
+<!--[if lte IE 9]>
+	<script src="/scripts/html5.js" type="text/javascript"></script>
+<![endif]-->
+<script>
+	function IEHtmlStyle() {
+		var tags = [
+			{ 'tag': 'article', 'display': 'block' },
+			{ 'tag': 'aside', 'display': 'block' },
+			{ 'tag': 'audio', 'display': 'auto' },
+			{ 'tag': 'canvas', 'display': 'auto' },
+			{ 'tag': 'command', 'display': 'auto' },
+			{ 'tag': 'datalist', 'display': 'auto' },
+			{ 'tag': 'details', 'display': 'block' },
+			{ 'tag': 'embed', 'display': 'auto' },
+			{ 'tag': 'figcaption', 'display': 'block' },
+			{ 'tag': 'figure', 'display': 'block' },
+			{ 'tag': 'footer', 'display': 'block' },
+			{ 'tag': 'header', 'display': 'block' },
+			{ 'tag': 'hgroup', 'display': 'block' },
+			{ 'tag': 'keygen', 'display': 'inline-block' },
+			{ 'tag': 'mark', 'display': 'auto' },
+			{ 'tag': 'meter', 'display': 'inline-block' },
+			{ 'tag': 'nav', 'display': 'block' },
+			{ 'tag': 'output', 'display': 'inline' },
+			{ 'tag': 'progress', 'display': 'inline-block' },
+			{ 'tag': 'rp', 'display': 'auto' },
+			{ 'tag': 'rt', 'display': 'auto' },
+			{ 'tag': 'ruby', 'display': 'auto' },
+			{ 'tag': 'section', 'display': 'block' },
+			{ 'tag': 'source', 'display': 'auto' },
+			{ 'tag': 'summary', 'display': 'block' },
+			{ 'tag': 'time', 'display': 'auto' },
+			{ 'tag': 'video', 'display': 'auto' },
+			{ 'tag': 'wbr', 'display': 'auto' }
+		];
+	
+		this.reg = function() {
+			for (var i = 0; i < tags.length; i++) {
+				document.createElement(tags[i].tag);
+			}
+		};
+	}
+	
+	var iehs = new IEHtmlStyle();
+	iehs.reg();
+</script>
+<script>
+	// DOM ready
+	jQuery(function($) {
+		// Create the dropdown base
+		$("<select />").appendTo("nav");
+
+		// Create default option "Go to..."
+		$("<option />", {
+			"selected": "selected",
+			"value"   : "",
+			"text"    : "Go to..."
+		}).appendTo("nav select");
+
+		// Populate dropdown with menu items
+		$("nav li.parentmenu").each(function() {
+			var el = $(this);
+			var aaq = '';
+		
+			if(el.find('ul').hasClass('submenu')){
+				aaq+="<optgroup label="+el.find('a span').text()+">";
+				el.find('ul li').each(function(){
+					aaq +="<option value="+$(this).find('a').attr("href")+">->"+$(this).find('a').text()+"</option>";
+				});
+			
+				aaq+="</optgroup>";
+				$("nav select").append(aaq);
+			}
+			else {
+				$("<option />", {
+					"value"   : el.find('a').attr("href"),
+					"text"    : el.find('a').text()
+				}).appendTo("nav select");
+			}
+		});
+
+		// To make dropdown actually work
+		// To make more unobtrusive: http://css-tricks.com/4064-unobtrusive-page-changer/
+		$("nav select").change(function() {
+			window.location = $(this).find("option:selected").val();
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	$(function(){
+      SyntaxHighlighter.all();
+    });
+    
+	$(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+</script>
+
+<script async src="//platform-api.sharethis.com/js/sharethis.js#property=5c1430d77b0b4500110a1e7a&product=" sticky-share-buttons"></script>
+
+<script charset="UTF-8" src="//cdn.sendpulse.com/js/push/c1181ead2f56c0ad052d6ec1118725f7_0.js" async></script>
+</head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NT2PT69"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="sharethis-inline-reaction-buttons"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '242033924986',
+      xfbml      : true,
+      version    : 'v2.3'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<section id="mainBody">
+
+<section class="wrapper">
+
+<header class="header_block">
+
+<section class="navigation">
+
+<div class="loginBox">
+<form name="login-boxForm" method="post" action="/check_login.asp">
+<input type="text" name="txtUsername" size="15" maxlength="30" value="Username" onclick="Clear(this, 'Username');" onblur="Fill(this, 'Username');"> <input type="password" name="txtPassword" size="15" maxlength="20" value="Password" onclick="Clear(this, 'Password');" onblur="Fill(this, 'Password');"> <input id="topLogin" type="submit" name="submit" value="Login"><br />
+<input type="checkbox" name="autologin" value="checked"> Remember Me&nbsp;&nbsp;&nbsp;&nbsp;<a title="Forgot login details? Click here!" href="/contact.asp?q=pwd">Forgot My Credentials</a>
+</form>
+</div>
+<div class="logo">
+<img title="IL CIRCOLO CALABRESE - Search for towns and villages in the Calabria region by name." src="/images/content/masthead.png" width="960" height="102" alt="IL CIRCOLO CALABRESE - Calabria,Geography, Calabria Towns Database,[X]585                           [XX],Town, city, village, citta, citt&agrave;,frazione,paese" />
+</div>
+<aside class="navRight">
+
+<div class="navigationPanel">
+<nav>
+<ul>
+<li class="parentmenu" id="Nav_Home">
+<a href="/calabria-genealogy-history-culture-language-index.asp">
+<span>Home</span>
+</a>
+</li>
+<li class="parentmenu" id="Nav_Genealogy">
+<a href="/genealogy/calabria-genealogy-index.asp">
+<span>Genealogy</span>
+</a>
+<ul class="submenu">
+<li><a id="SubNav_Genealogy_Research" href="/genealogy/calabria-genealogy-research-service.asp">Calabria Genealogy Research Service</a></li>
+<li><a id="SubNav_Genealogy_Collections" href="/genealogy/calabria-genealogy-searchable-collections.asp">Our Genealogy Collections</a></li>
+<li><a id="SubNav_Genealogy_IFLG" href="/genealogy/italian-form-letters/italian-form-letter-generator-index.asp">Italian Form Letter Generator</a></li>
+<li><a id="SubNav_Genealogy_Surnames" href="/genealogy/databases/calabria-surname-database_index.asp">Calabria Surnames Database</a></li>
+<li><a id="SubNav_Genealogy_Books" href="/genealogy/genealogy-books.asp">Genealogy Books</a></li>
+</ul>
+</li>
+<li class="parentmenu" id="Nav_History">
+<a href="/history/calabria-history-index.asp">
+<span>History</span>
+</a>
+<ul class="submenu">
+<li><a href="/history/albanians-in-calabria.asp">Albanians in Calabria</a></li>
+<li><a href="/history/books-on-the-history-of-italian-and-calabrian-immigration.asp">Books on Italian and Calabrian Immigration</a></li>
+<li><a href="/history/calabria-history-books.asp">Books on Calabria History</a></li>
+<li><a href="/history/daily-life-in-calabria.asp">Daily Life in Calabria</a></li>
+<li><a href="/history/earthquake-at-calabria-in-the-year-1638.asp">Earthquake at Calabria, in the Year 1638</a></li>
+<li><a href="/history/impressions-of-calabria_1777-1890.asp">Impressions of Calabria: 1777 - 1890</a></li>
+<li><a href="/history/the-bourbon-era_1734-1860_index.asp">The Bourbon Era (1734 - 1860)</a></li>
+<li><a href="/history/timeline-of-the-history-of-calabria.asp">Timeline of the Calabria History</a></li>
+</ul>
+</li>
+<li class="parentmenu" id="Nav_Culture">
+<a href="/culture/calabria-culture-index.asp">
+<span>Culture</span>
+</a>
+<ul class="submenu">
+<li><a href="/culture/essays/calabria-essays-index.asp">Essays on Calabria</a></li>
+<li><a href="/culture/music/calabria-music-index.asp">Calabria Music</a></li>
+<li><a href="/culture/poetry/calabrese-poetry-index.asp">Poetry of Calabria</a></li>
+<li><a href="/culture/calabria-proverbs.asp">Proverbs from Calabria</a></li>
+<li><a href="/culture/traditions/calabrese-traditions-index.asp">Calabria Traditions</a></li>
+</ul>
+</li>
+<li class="parentmenu" id="Nav_Language">
+<a href="/language/calabria-language-index.asp">
+<span>Language</span>
+</a>
+<ul class="submenu">
+<li><a href="/language/calabrian-dialects-and-linguistics-books.asp">Calabrian Dialects and Linguistics Books</a></li>
+<li><a href="/language/is-calabrese-a-dialect-of-italian.asp">Is Calabrese a Dialect of Italian?</a></li>
+<li><a href="/language/calabrese-language_amari-conjugation.asp">Amari Conjugation</a></li>
+<li><a href="/language/calabrese-verbs-cross-reference.asp">Calabrese Verbs Database</a></li>
+</ul>
+</li>
+<li class="parentmenu" id="Nav_Forum"><a><span>Forum</span></a>
+<ul class="submenu">
+<li><a href="https://www.facebook.com/groups/ICCPublicGroup" target="_blank">ICC Public Group</a></li>
+<li><a href="https://www.facebook.com/groups/ICCForum" target="_blank">ICC Forum (Members-only)</a></li>
+</ul>
+</li>
+<li class="parentmenu" id="Nav_Geography">
+<a class="active" href="/geography/calabria-geography-index.asp">
+<span class="active">Geography</span>
+</a>
+<ul class="submenu">
+<li><a href="/geography/catanzaro/province-of-catanzaro-index.asp">Catanzaro Province</a></li>
+<li><a href="/geography/cosenza/province-of-cosenza-index.asp">Cosenza Province</a></li>
+<li><a href="/geography/crotone/province-of-crotone-index.asp">Crotone Province</a></li>
+<li><a href="/geography/reggio-calabria/province-of-reggio-calabria-index.asp">Reggio Calabria Province</a></li>
+<li><a href="/geography/vibo-valentia/province-of-vibo-valentia-index.asp">Vibo Valentia Province</a></li>
+<li><a href="/geography/calabria-towns-database.asp">Calabria Towns Database</a></li>
+<li><a href="/geography/italy-towns-database.asp">Italy Towns Database</a></li>
+<li><a href="/geography/standard-abbreviations-of-italian-regions-and-provinces.asp">Italy Regions and Provinces</a></li>
+</ul>
+</li>
+<li class="parentmenu" id="Nav_Store">
+<a href="/store/calabria-store-index.asp">
+<span>Calabria Store</span>
+</a>
+<ul class="submenu">
+<li><a href="/store/calabria-tshirts.asp">Calabria T-Shirts</a></li>
+<li><a href="/store/calabria-sweatshirts.asp">Calabria Sweatshirts</a></li>
+<li><a href="/store/miscellaneous-calabria-apparel.asp">Miscellaneous Calabria Apparel</a></li>
+<li><a href="/store/miscellaneous-calabria-accessories.asp">Miscellaneous Calabria Accessories</a></li>
+<li><a href="/store/calabria-books-dvds-and-other-products.asp">Calabria Books, DVDs and other products</a></li>
+
+</ul>
+</li>
+<li class="parentmenu" id="Nav_Resources">
+<a href="/resources/calabria-resources-index.asp">
+<span>Resources</span>
+</a>
+<ul class="submenu">
+<li><a href="/resources/books/calabria-books-index.asp">Books on Calabria</a></li>
+<li><a href="/resources/search-engine/search-engine-index.asp">Search Engines</a></li>
+<li><a href="/resources/links/calabria-links.asp">External Calabria Links</a></li>
+</ul>
+</li>
+<li class="parentmenu" id="Nav_AboutUs">
+<a href="/group/index.asp">
+<span>About Us</span>
+</a>
+<ul class="submenu">
+<li><a href="/contact.asp">Contact Us</a></li>
+<li><a href="/group/events/events-index.asp">Events</a></li>
+<li><a href="/group/membership-application.asp">Join Us</a></li>
+<li><a href="/sitemap.asp">Site Map</a></li>
+<li><a href="/advertising/advertising-with-Il-Circolo-Calabrese.asp">Advertise with Us</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+
+</aside>
+</section>
+
+<div class=" cls"></div>
+</header>
+
+<section class="main inner-main">
+<div class="bannerline"></div>
+
+<div align="center">
+<script type="text/javascript"><!--
+		google_ad_client = "pub-4123755409645868";
+		google_ad_width = 728;
+		google_ad_height = 15;
+		google_ad_format = "728x15_0ads_al_s";
+		google_ad_channel ="5252566032";
+		google_color_border = "5F68AF";
+		google_color_bg = "dddddd";
+		google_color_link = "0000FF";
+		google_color_url = "5F0000";
+		google_color_text = "1E2E6A";
+		//-->
+	</script>
+<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+</div>
+<div class="bannerline"></div>
+
+<div align="center" style="margin-top:10px;">
+
+</div>
+
+<div class="mid_heading">Calabria, Italy and its Genealogy, History, Culture and Language</div>
+<div class="breadcrumbs">
+<ul>
+<li><a href="/calabria-genealogy-history-culture-language-index.asp">Home</a></li>
+
+<li><a href="/geography/calabria-geography-index.asp">Geography</a></li>
+<li><strong>Calabria Towns Database: [X]585 [XX]</strong></li>
+
+</ul>
+<div class="cls"></div>
+</div>
+<section class="content_portion">
+<section class="left_block inner_rightpanel">
+<article>
+<h1 class="pil_heading_big">Calabria Towns Database: [X]585 [XX]</h1>
+<div align="center">
+<script type="text/javascript" language="javascript"><!--
+			google_ad_client = "pub-4123755409645868";
+			google_ad_width = 468;
+			google_ad_height = 60;
+			google_ad_format = "468x60_as";
+			google_ad_type = "text_image";
+			//2007-09-15: ICC-Top Banner
+			google_ad_channel = "8871019050";
+			google_color_border = "5F68AF";
+			google_color_bg = "FFFFFF";
+			google_color_link = "0000FF";
+			google_color_text = "000000";
+			google_color_url = "5F0000";
+			google_ui_features = "rc:6";
+			//-->
+		</script>
+<script type="text/javascript" language="javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+</div>
+
+<h2>Search for towns and villages in the Calabria region by name</h2>
+
+<br>
+<form class="inputform" action="/geography/calabria-towns-database.asp" method="get">
+<strong>Search for Location:</strong> <input name="s" type="text"><input class="login_btm" type="submit" value="Go">
+</form>
+<font face="Arial" size=2>
+<p>Microsoft OLE DB Provider for SQL Server</font> <font face="Arial" size=2>error '80040e14'</font>
+<p>
+<font face="Arial" size=2>All queries combined using a UNION, INTERSECT or EXCEPT operator must have an equal number of expressions in their target lists.</font>
+<p>
+<font face="Arial" size=2>/geography/calabria-towns-database.asp</font><font face="Arial" size=2>, line 275</font> 

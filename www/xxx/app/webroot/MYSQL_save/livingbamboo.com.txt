@@ -1,0 +1,195 @@
+www.livingbamboo.com/detailproducts.php?id=1136&item=UONG%20BI&cid=238
+ 
+livingbamboodb - tb_ads:(13)
+Itm_ID,Itm_img,Itm_status,Cat_ID,Itm_price,Itm_special,Itm_new,Itm_visit,Itm_best,Itm_order,Itm_code,Itm_view,Itm_discount,Itm_quantity
+398 20140104192831.jpg 1 159 0 0 0 1 0 3 http://www.chanel.com/ 0 0 0
+399 20140309142621.jpg 1 163 0 0 0 1 0 1 http://bienvinhhao.com 0 0 0
+400 20140107094533.jpg 1 160 0 0 0 1 0 1 # 0 0 0
+401 20140412135035.JPG 1 159 0 0 0 1 0 6 0 0 0
+402 20140412122538.jpg 1 159 0 0 0 1 0 5 0 0 0
+403 20140117155231.JPG 0 159 0 0 0 1 0 4 0 0 0
+404 20140412135113.jpg 1 159 0 0 0 1 0 7 0 0 0
+405 20140412134230.jpg 1 159 0 0 0 1 0 8 0 0 0
+406 20140117160217.JPG 1 159 0 0 0 1 0 9 0 0 0
+407 20140117160414.JPG 1 159 0 0 0 1 0 10 0 0 0
+
++++++++++
+livingbamboodb - tb_adslang:()
+
++++++++++
+livingbamboodb - tb_catads:()
+
++++++++++
+livingbamboodb - tb_catadslang:()
+
++++++++++
+livingbamboodb - tb_catcarier:()
+
++++++++++
+livingbamboodb - tb_catcarierlang:()
+
++++++++++
+livingbamboodb - tb_catcontact:()
+
++++++++++
+livingbamboodb - tb_catcontactlang:()
+
++++++++++
+livingbamboodb - tb_catcustomer:()
+
++++++++++
+livingbamboodb - tb_catcustomerlang:()
+
++++++++++
+livingbamboodb - tb_catfaq:()
+
++++++++++
+livingbamboodb - tb_catfaqlang:()
+
++++++++++
+livingbamboodb - tb_catintro:()
+
++++++++++
+livingbamboodb - tb_catintrolang:()
+
++++++++++
+livingbamboodb - tb_catmember:()
+
++++++++++
+livingbamboodb - tb_catmemberlang:()
+
++++++++++
+livingbamboodb - tb_catnews:()
+
++++++++++
+livingbamboodb - tb_catnewslang:()
+
++++++++++
+livingbamboodb - tb_catpartner:()
+
++++++++++
+livingbamboodb - tb_catpartnerlang:()
+
++++++++++
+livingbamboodb - tb_catproduct:()
+
++++++++++
+livingbamboodb - tb_catproductlang:()
+
++++++++++
+livingbamboodb - tb_catproject:()
+
++++++++++
+livingbamboodb - tb_catprojectlang:()
+
++++++++++
+livingbamboodb - tb_catservices:()
+
++++++++++
+livingbamboodb - tb_catserviceslang:()
+
++++++++++
+livingbamboodb - tb_catsim:()
+
++++++++++
+livingbamboodb - tb_catsimlang:()
+
++++++++++
+livingbamboodb - tb_catsupport:()
+
++++++++++
+livingbamboodb - tb_catsupportlang:()
+
++++++++++
+livingbamboodb - tb_config:()
+
++++++++++
+livingbamboodb - tb_configlang:()
+
++++++++++
+livingbamboodb - tb_customer:()
+
++++++++++
+livingbamboodb - tb_faq:()
+
++++++++++
+livingbamboodb - tb_faqlang:()
+
++++++++++
+livingbamboodb - tb_language:()
+
++++++++++
+livingbamboodb - tb_market:()
+
++++++++++
+livingbamboodb - tb_marketdetail:()
+
++++++++++
+livingbamboodb - tb_member:()
+
++++++++++
+livingbamboodb - tb_memberlang:()
+
++++++++++
+livingbamboodb - tb_module:()
+
++++++++++
+livingbamboodb - tb_news:()
+
++++++++++
+livingbamboodb - tb_newslang:()
+
++++++++++
+livingbamboodb - tb_order:()
+
++++++++++
+livingbamboodb - tb_ordercustomer:()
+
++++++++++
+livingbamboodb - tb_partner:()
+
++++++++++
+livingbamboodb - tb_partnerlang:()
+
++++++++++
+livingbamboodb - tb_productimage:()
+
++++++++++
+livingbamboodb - tb_products:()
+
++++++++++
+livingbamboodb - tb_productslang:()
+
++++++++++
+livingbamboodb - tb_project:()
+
++++++++++
+livingbamboodb - tb_projectlang:()
+
++++++++++
+livingbamboodb - tb_session:()
+
++++++++++
+livingbamboodb - tb_sim:()
+
++++++++++
+livingbamboodb - tb_temp:()
+
++++++++++
+livingbamboodb - tb_user:()
+
++++++++++
+livingbamboodb - tb_usermodule:()
+
++++++++++
+livingbamboodb - tb_usersonline:()
+
++++++++++
+livingbamboodb - tb_visitor:()
+
++++++++++
+livingbamboodb - tb_visitor1:()
+
++++++++++
+
+ 

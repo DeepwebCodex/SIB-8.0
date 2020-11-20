@@ -1,0 +1,4 @@
+<style>*{margin:0;padding:0;}html,body{height:100%;}body{font-size:14px;font-family:arial,sans-serif;background:#fff;}body div#main{position:absolute;left:0;right:0;top:0;bottom:0;margin:0 auto;}body div#main div.block{display:table;width:100%;height:100%
+ 
+
+ 

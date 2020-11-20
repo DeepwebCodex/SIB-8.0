@@ -1,0 +1,105 @@
+www.viva-glassware.com/product-detail.php?pid=28&cid=4
+ 
+glassware - attachment:(60)
+attachment_id,category_id,table_name,table_id,temp_id,col_name,file_name,real_name,path,sorting,upload_date,upload_time,user_id,attach_caption
+64 0 product 30 mainphoto 844010204705.jpg 1-11 2.jpg upload/product/ 0 2015-06-25 02:18:24 0
+4 0 product 26 mainphoto 736105529530.jpg Champagne.jpg upload/product/ 0 2013-12-15 23:44:45 0
+5 0 product 10 mainphoto 097814104188.jpg Shot glass (1oz).jpg upload/product/ 0 2013-12-15 23:40:51 0
+6 0 product 10 mainphoto_slideshow 142333030789.jpg C_Shot glass (1oz).jpg upload/product/ 0 2013-12-15 23:40:51 0
+20 0 product 4 mainphoto 615571087643.jpg Stackable Shmiddy.jpg upload/product/ 0 2013-12-17 00:04:21 0
+23 0 product 3 brochure 426696457547.pdf Viva catalogue_20150720.pdf upload/product/ 0 2016-09-12 20:12:06 0
+17 0 product 1 mainphoto_slideshow 880680925845.jpg W_C_Stackable Pint.jpg upload/product/ 0 2013-12-15 23:16:23 0
+10 0 product 5 mainphoto 552229607395.jpg Stackable Tumbler.jpg upload/product/ 0 2013-12-15 23:38:09 0
+19 0 product 3 mainphoto_slideshow 442157617122.jpg C_Middy.jpg upload/product/ 0 2013-12-15 23:37:01 0
+18 0 product 3 mainphoto 309940354518.jpg Middy.jpg upload/product/ 0 2013-12-15 23:37:00 0
+
++++++++++
+glassware - backend_user:(1)
+user_id,group_id,login,password,last_logon
+1 1 admin 22689607 2019-03-26 19:36:46
+
++++++++++
+glassware - product:(20)
+id,category_id,sorting,display,name,sub_title,introduction,description,capacity,height,diameter,features,available,quantity,mainphoto
+1 1 0 1 Stackable Pint (19oz / 570mL) A Pint Glass has never been so safe or convenient With the introduction of the VIVA Unbreakable 570ml Pint Glass we have EVERY type of unbreakable beer service covered, from middy, schmiddy, schooner, jug and now the pint glass. This beautifully designed 570ml Pint glass is extremely durable, has the ability to be stacked and has a nucleated base. Pint Glass, Stackable, Crystal Clear, Nucleated 571ml / 19oz 160mm Top - 89.5mm Australian Standards certified
+Nucleated base for improved head
+Stackable glassware, Durable and shatterproof
+Microwave and Dishwasher safe
+Safe for patrons and staff
+Scratch and chip resistant
+Ideal for beer gardens and cafes, clubs and pubs If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get the details of your distributor in your state, or to arrange for a sample. 12 glasses per carton
+26 4 0 1 Champagne (5oz / 170mL) The shape of the glass does add to the experience Great for celebrations of any kind such as weddings, birthdays or New Years Eve festivities, our Champagne flute is built to impress. We have even made sure that all of our unbreakable Champagne flutes have the wonderful droplets effect when the champagne has been poured to make it as realistic as traditional glassware. Champagne, Clear, Stemmed Flute 170mL / 5oz 210mm Top - 53.9mm, Base - 61.4mm 100% polycarbonate
+Microwave and Dishwasher safe
+Scratch resistant
+Crystal-like finish
+Made to withstand any drop or impact
+Creates the bead / droplets effect
+Tall stemmed glass If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 24 glasses per carton
+27 4 0 1 Martini (9oz / 275mL) Shaken or stirred, this Martini glass is the unbreakable equivalent to glass With its strong stem, unbreakable build and intricately designed shape, the Martini Glass is the best unbreakable drinkware you will find on the market. It is suitable for an up-market bar, club, restaurant or any function. Every detail, angle and curve on our Martini Glass was built to imitate a traditional martini glass made from real glass. Martini, Clear, Stemmed 275mL / 9oz 169mm Top - 124.6mm, Base - 75mm Unbreakable material
+Microwave and Dishwasher safe
+Scratch resistant
+Crystal-like finish
+Elegant, traditional design
+Beautifully angled glass If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 15 glasses per carton
+28 4 0 1 Margarita (12oz / 355mL) Every bar needs a classic Margarita Glass This fabulous unbreakable Margarita glass is one of the nicest looking glasses in our range. It has a tall stem, broad rim (ideal for holding salt) and holds 355ml of your favourite margarita cocktail. This plastic Margarita glass is ideal for a bar, nightclub, outdoor drinking venue, cocktail bar or wine bar. Stackable Margarita, broad rim, Crystal Clear 355mL / 12oz 169mm Top - 125mm, Base - 75mm Made with the tough plastic
+Microwave and Dishwasher safe 
+Scratch resistant, does not chip 
+Designed to be unbreakable 
+Used for a variety of drinks 
+Ideal for daiquiris, margaritas and fruit cocktails If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 15 glasses per carton
+4 1 0 1 Stackable Schmiddy (12oz / 355mL) A smartly designed Schmiddy Glass Our new VIVA unbreakable  Schmiddy glass ticks all the boxes; 355ml capacity, heavy base, nucleated, stackable, can also be used as a highball glass, and is designed to look and feel like real glass.. Schmiddy, Stackable, Highball, Clear 355ml / 12oz 140.0mm Top - 78.7mm Australian Standards certified
+Stackable glassware, Durable and shatterproof
+Microwave and Dishwasher safe
+Safe for patrons and staff
+Scratch and chip resistant
+Ideal for serving beer
+Used in bars and nightclubs If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 24 glasses  per carton
+3 1 0 1 Middy (9oz/ 285ml) A Polycarbonate Middy that beer drinkers will love This stylish glass is the smaller version of our popular Unbreakable Polycarbonate Schooner glass. Featuring a nucleated base for improved bubble formation for a longer lasting head. Switch to our Polycarbonate Middy and say goodbye to chips and breakages. Middy Glass, Clear, Conical shape. 285ml / 9oz 131mm Top - 72.5mm, Base - 50.8mm Australian Standards certified
+Microwave and Dishwasher safe
+Scratch resistant, Unbreakable in design
+Crystal-like finish
+Nucleated base for improved head
+Made for those with a smaller appetite for beer
+Impeccably designed beer glass If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get the details of your distributor in your state, or to arrange for a sample. 24 glasses per carton
+44 cartons per pallet
+5 3 0 1 Stackable Tumbler (9oz / 266mL) A Stackable Rocks Tumbler of classic design and lasting endurance for busy bars The new VIVA Stackable Rocks Tumbler unbreakable glass is a must have item for venues looking for a long lasting tumbler or rocks glass that is easy to stack and pull apart without the risk of shattering, chipping or scratching. Save your money and time with this impressive new stackable tumbler glass. Stackable Rocks Tumbler, Crystal Clear 266mL / 9oz 89mm Top - 84mm, Base - 55mm Standard shape and size tumbler
+Made with the tough plastic 
+Microwave and Dishwasher safe
+Scratch resistant, does not chip
+Designed to be unbreakable
+Used for a variety of drinks
+Ideal for bars, nightclubs, cafes and restaurants If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 24 glasses per carton
+6 2 0 1 Shot (2oz / 60mL) Add this Large Sized Shot Glass to your Polycarbonate Barware Range A large sized shot glass, this 60ml unbreakable shot glass has multiple uses. Serve layered shots (i.e. Baileys and cream), desserts or canapés (such as chocolate mousses or oyster shots) and even coffee drinks (Espressos, Macchiatos, Affogatos or Frangelicos). The best thing about this shot glass is that it is shatterproof, reusable, will not chip, and is realistic in appearance and weight. Shot Glass, double shot, heavy base 60mL / 2oz 80mm Top - 46.4mm, Base - 34.7mm Large sized shot glass 
+Made with the tough plastic
+Microwave and Dishwasher safe 
+Will not chip or break when dropped 
+Shatterproof 
+Ideal for serving layered shots, desserts and coffee If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 48 glasses per carton
+7 1 0 1 Beverage (22oz / 650mL) A large glass for a large drink Introducing one of our newest plastic glasses; a large Soda glass that stands at an impressive 187.5mm high and is the ideal glass for serving sodas, milkshakes, juices or frozen drinks. This glass will suit most venues, specifically restaurants, cafes, resorts, outdoor beer gardens and parties. Large Soda Glass, Clear 650mL / 22oz 187.5mm Top - 90mm, Base - 64.2mm Made with the toughest plastic 
+Microwave and Dishwasher safe
+Scratch resistant
+Does not chip
+Designed to be unbreakable
+Used for soda, milkshakes, juice, frozen drinks
+Ideal for resorts, beer gardens and parties If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 12 glasses per carton
+8 1 0 1 Schooner (14oz / 425mL) - VIVA1 At last, an unbreakable beer glass that satisfies all tastes The best way to serve a “cold one” is in the VIVA Unbreakable Schooner glass. Whether it’s an Ale, Lager, Stout, Pilsner, Porter or Bitter, we know that it is better in our Schooner. The first choice thanks to its nucleated base for longer lasting head. The VIVA Schooner glass has a traditional conical design and standard measure. Schooner, Clear, Conical 425mL / 15oz 143.5mm Top - 83mm, Base - 58.2mm Australian Standards certified
+Microwave and Dishwasher safe
+Scratch resistant, Unbreakable in design
+Crystal-like finish
+Nucleated base for improved head
+Traditional conical shape with thick base
+Beer enjoyed every time If you are a pub, nightclub, hotel, restaurant or venue, CONTACT US to get more details or to arrange for a sample. 24 glasses per carton
+
++++++++++
+glassware - product_category:(4)
+id,sorting,display,name
+1 2 1 Unbreakable Beer Glasses
+2 4 1 Unbreakable Shot Glasses & Others
+3 3 1 Unbreakable Tumbler & Cocktail Glasses
+4 1 1 Unbreakable Stem Glasses
+
++++++++++
+
+ 
+
+ 

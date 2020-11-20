@@ -1,0 +1,21 @@
+cordoganclark.com/newsitem.php?id=8
+ 
+cordoganclarknew - active_sessions:(1)
+sid,name,val,changed
+0c8223f281bf3cd381ed00cef931c32b nova_session bm92YV9zZXNzaW9uOiR0aGlzLT5pbiA9ICcnOyAkdGhpcy0+cHQgPSBhcnJheSgpOyAkdGhpcy0+cHRbJ2NoYWxsZW5nZSddID0gJzEnOyAkdGhpcy0+cHRbJ2F1dGgnXSA9ICcxJzsgJEdMT0JBTFNbJ2NoYWxsZW5nZSddID0gJzAwNzhjN2ZiOTU2ODYzZDVjNzJiMzk4NGQzYzY0M2U3JzsgJEdMT0JBTFNbJ2F1dGgnXSA9IG5ldyBwaHBsaWJfY2hhbGxlbmdlX2NyeXB0X2F1dGg7ICRHTE9CQUxTWydhdXRoJ10tPmF1dGggPSBhcnJheSgpOyAkR0xPQkFMU1snYXV0aCddLT5hdXRoWyd1aWQnXSA9ICdmb3JtJzsgJEdMT0JBTFNbJ2F1dGgnXS0+YXV0aFsncGVybSddID0gJyc7ICRHTE9CQUxTWydhdXRoJ10tPmF1dGhbJ2V4cCddID0gJzIxNDc0ODM2NDcnOyAkR0xPQkFMU1snYXV0aCddLT5hdXRoWydyZWZyZXNoJ10gPSAnMjE0NzQ4MzY0Nyc7IA== 20160609234247
+
++++++++++
+cordoganclarknew - active_sessions_split:()
+
++++++++++
+cordoganclarknew - auth_user_md5:()
+
++++++++++
+cordoganclarknew - db_sequence:()
+
++++++++++
+cordoganclarknew - tyn_news_def_master:()
+
++++++++++
+
+ 

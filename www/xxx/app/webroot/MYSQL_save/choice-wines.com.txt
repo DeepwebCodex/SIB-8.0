@@ -1,0 +1,224 @@
+www.choice-wines.com/news_det.php?id=4
+ 
+choicewi_db - member:(21021)
+id,userlogin,passlogin,pic,idcard,email,sex,firstname,lastname,displayname,address,address2,tel,mobile,city,province,country,zipcode,birth,regisdate,lastlogin,resetpassword,enews,class,B_repCount
+3 grapphery@gmail.com 63757363bd72917eb9151089cfeb7f66 grapphery@gmail.com F Grape Wongsongja St.Michele's Rd. +66867778835 +66867778835 Singapore Singapore Singapore 32797 1986-01-20 2011-12-14 11:59:39 2017-10-22 09:25:02 0 1 0 0
+4 watersapien@gmail.com f853b10af73a04a4c8b35b2ade1f40b9 watersapien@gmail.com M Mark Liew 91551282 91551282 Singapore 1982-03-10 2011-12-19 22:18:28 2011-12-19 22:18:51 0 1 0 0
+5 shauntkw@gmail.com 60614104ebb4fb33da892d79e7511ae7 shauntkw@gmail.com M Shaun Teo 65 Tampines Ave 1 #15-03 The Tropica 65554780 92336322 Singapore Singapore Singapore 52977 1982-09-03 2011-12-20 21:11:51 2011-12-20 21:11:51 0 1 0 0
+7 mark_nemesis@yahoo.com 200820e3227815ed1756a6b531e7e0d2 mark_nemesis@yahoo.com M Arkadej Sampana 647/407 IDEO 5 Ladprao Jompol Jatujuk 023196388 0814886430 Ladprao Bangkok Singapore 10900 0000-00-00 2011-12-25 12:15:27 2014-01-13 18:21:25 0 1 0 0
+8 teo.benson@gmail.com adff44c5102fca279fce7559abf66fee teo.benson@gmail.com M Benson Teo 50 Choa Chu Kang North 6 #01-06 Yew Mei Green 65550569 96367500 Singapore Singapore Singapore 68957 1965-10-27 2011-12-25 22:17:40 2011-12-25 22:19:12 0 1 0 0
+9 bryan.ngiam@gmail.com a471ce2b4f9d4eb6a52aaee0bc904769 bryan.ngiam@gmail.com M Bryan Ngiam 52 Choa Chu Kang North 6 #20-19 90309397 90309397 Singapore Singapore 68957 1969-10-07 2012-01-01 19:23:15 2017-06-26 23:37:43 0 1 0 0
+10 ranyattilla@exampleforall.org.ua 83fe34ceaacbab4325dfda3c3293eff4 ranyattilla@exampleforall.org.ua 1 QuidaSmafNida reabaxlildbiz Ligatne 123456 Ligatne Equatorial Guinea 1987-00-00 2012-01-03 22:55:50 2017-07-24 07:30:21 0 1 0 0
+11 benkoh2011@gmail.com 6b42c4ca35b62f834ff9ae128a3d6972 benkoh2011@gmail.com M Ben Koh 47 Wak Hassan Drive 97102021 97102021 Singapore Singapore 75738 0000-00-00 2012-01-26 07:51:59 2012-01-26 07:51:59 0 1 0 0
+12 zulzilla@yahoo.com 96f685f0c7bcbed2b70600af6b711868 zulzilla@yahoo.com F Zilla Ibrahim #03-208 82888742 82888742 Blk 714 Tampines St 71 Singapore 52071 1977-08-13 2012-02-16 17:42:24 2012-02-16 17:42:24 0 1 0 0
+13 sky@vinoenprimeur.com 4d50980a195aa179ce6c24dd8ab7e378 sky@vinoenprimeur.com M sky cheok 11 Mohammed Sultan Road #02-01 81386559 81386559 Singapore Singapore 23901 1982-12-13 2012-03-29 11:15:15 2012-03-29 11:15:40 0 1 0 0
+94 peszynskifej@hotmail.com 1695f7345dd0a613b48fd84b89d372e3 peszynskifej@hotmail.com psqtcherhzk cqainteyrozWN http://www.villechamalieres.fr/img/12.html Tuvalu 123456 Western Sahara Singapore 1979-00-00 2013-08-04 14:12:57 2013-08-11 12:43:45 0 1 0 0
+95 overboughsto@hotmail.com e3cb18c4e4b4d36b58dec9c95e7d8769 overboughsto@hotmail.com psqtgfoxjn cqaijggprJC http://www.emed.fr/15.html Sweden 123456 Uzbekistan Singapore 1976-00-00 2013-08-04 14:12:58 2013-08-11 13:15:05 0 1 0 0
+96 chamblelarro@hotmail.com 5a317c5470f2060d1c411d3181967d03 chamblelarro@hotmail.com psqtklnmjx cqaifywfhCF http://www.cs3i.com/4.html Togo 123456 Uzbekistan Singapore 1976-00-00 2013-08-04 15:02:37 2013-08-11 12:06:39 0 1 0 0
+97 pollackdincz@hotmail.com 4820cedb76ea10203e816dd438834871 pollackdincz@hotmail.com cqaikwajt psqtvwcfehSH http://www.compte-r.net/8.html Singapore 123456 Uganda Singapore 1976-00-00 2013-08-04 15:36:04 2013-08-10 05:14:02 0 1 0 0
+98 rigganwarnic@hotmail.com 4820cedb76ea10203e816dd438834871 rigganwarnic@hotmail.com psqtkpltex psqtasghrlKM http://www.quantel-medical.com/images/13.html Wallis and Futuna 123456 West Bank Singapore 1988-00-00 2013-08-04 15:42:27 2013-08-11 10:59:33 0 1 0 0
+99 boutinrocqueq@hotmail.com 4820cedb76ea10203e816dd438834871 boutinrocqueq@hotmail.com cqaiezwgo cqaiievosXI http://www.riom-communaute.fr/images/cl.html Tuvalu 123456 Sudan Singapore 1984-00-00 2013-08-04 15:43:08 2013-08-11 09:55:53 0 1 0 0
+100 leiseybartos@hotmail.com 8775aef0a7f89f08eea5bdf33c8a5449 leiseybartos@hotmail.com cqaitlmod psqteimxxwFU http://www.agence-ie.com/14.html Vietnam 123456 United States Singapore 1985-00-00 2013-08-04 15:44:32 2013-08-11 10:38:48 0 1 0 0
+101 jakekaaihuh@hotmail.com 0157525aee3d63fd94ed2299242b9ef7 jakekaaihuh@hotmail.com cqaiwposu psqtzmjwdnDF http://www.cesr-auvergne.fr/9.html Togo 123456 Vanuatu Singapore 1980-00-00 2013-08-04 15:45:23 2013-08-11 08:31:08 0 1 0 0
+102 calarcokiz@hotmail.com bbb4cc800e76efafaca888b070c36366 calarcokiz@hotmail.com psqtqwgvfb psqtxkowayQC http://www.biopole-clermont.com/_images/cl2.html Yemen 123456 Vietnam Singapore 1978-00-00 2013-08-04 15:49:47 2013-08-11 10:56:01 0 1 0 0
+103 correroseg@hotmail.com af87e3ed92252c03c63aada31834b49f correroseg@hotmail.com psqtszkrbz cqaiwrdnjGN http://www.cesr-auvergne.fr/9.html Wake Island 123456 Tonga Singapore 1978-00-00 2013-08-04 15:52:16 2013-08-11 08:00:06 0 1 0 0
+494 satana15286@yandex.com 0ade62b68e246f09097a58c80ae6aee6 satana15286@yandex.com Calvinoi CalvinoiDB http://onlinesexzone.com/group-sex/9280-Trahnet-massazhistok-i-vse.html Mariupol 123456 Mariupol Swaziland 1975-03-19 2014-09-24 13:10:17 2014-09-24 13:10:17 0 1 0 0
+495 ymneze@mwggya.com d41d8cd98f00b204e9800998ecf8427e ymneze@mwggya.com M imufknencuc imufknencuc netlmmtOMa dCwzYgtNHt 1997 PmAOGxkFm aWFAAvXAITdJCTJsBPK Singapore PFjlg 1966-00-00 2014-09-25 20:37:58 2014-09-25 20:37:58 0 1 0 0
+496 kabuqu11@outlook.com 3718375652215a65844052db8800bb03 kabuqu11@outlook.com RaymondMr RaymondMrBW http://www.nikefreepascher2014.fr Skive 123456 Skive Congo, the Democratic Republic 1988-02-23 2014-09-25 22:19:39 2014-09-25 22:19:39 0 1 0 0
+497 claudia@thehosh.com 2fc0f6e8f1a074c6d0759f0f83968273 claudia@thehosh.com Darrendere DarrendereJM http://www.cheapjordansshop.com San Vicente De Tagua Tagua 123456 San Vicente De Tagua Tagua Myanmar 1988-02-21 2014-09-27 23:47:37 2014-10-30 00:09:57 0 1 0 0
+498 flowagelike+uo3@hotmail.com 11c3d5c9e7d1c1a34a87cf763de40f0e flowagelike+uo3@hotmail.com yizdpgmotz yizdpgmotz www.Wikipedia.org Turtle Lake 123456 Bellville Netherlands 1985-09-25 2014-09-29 07:23:25 2014-09-29 07:23:25 0 1 0 0
+499 lololr@mdubgp.com d41d8cd98f00b204e9800998ecf8427e lololr@mdubgp.com M kivhog kivhog HhLKXuzB dNuxZISSWANUaEPC NnovNGljN AYjWtSVzJF UPpzCaTigMfxmmTT Singapore USkDn 1954-00-00 2014-09-29 09:45:13 2014-09-29 09:45:13 0 1 0 0
+500 xcswccaxccz@outlook.com 1c94dbe35b992bf7a22e0720ed341379 xcswccaxccz@outlook.com xvcwezplqoeruzo xvcwediiloerdjxUY http://longchampbags.yountz.com/ Abbotsford 123456 Castlegar Fiji 1981-06-07 2014-10-01 02:47:17 2014-10-01 02:47:17 0 1 0 0
+501 lingcqp@outlook.com 1c94dbe35b992bf7a22e0720ed341379 lingcqp@outlook.com xvcwekguroerldx xvcwenwyzoeriomUY http://longchampbags.outletonlinesaleu.com/ Chilliwack 123456 Courtenay Slovenia 1980-02-13 2014-10-05 10:11:15 2014-10-05 10:11:15 0 1 0 0
+502 guanlanxinil052@126.com 082c5556ad8a9e69dd9f22c1bd98cf19 guanlanxinil052@126.com ptmsgjbhux ptmsgjbhux http://www.I.ua Powhatan 123456 Corea Mali 1983-03-27 2014-10-10 17:07:28 2014-10-10 17:07:28 0 1 0 0
+503 xcvxcvcxvcxvxcv@outlook.com 1c94dbe35b992bf7a22e0720ed341379 xcvxcvcxvcxvxcv@outlook.com xvcwexgqeoerswa xvcwenfwzoertntUY http://longchampbags.outletonlinesaleu.com/ Courtenay 123456 Campbell River Timor-Leste 1975-01-07 2014-10-11 04:05:08 2014-10-11 04:05:08 0 1 0 0
+994 ashfetterhoffloq@yahoo.com 7123e70b2245309657f2da7a3a7bea55 ashfetterhoffloq@yahoo.com briettasmar briettasmarDT http://blog.goo.ne.jp/auroradean/e/81cc99b55c625dcb4f86c57bc638c712 Burnt Pine 123456 123456 Burnt Pine Dominican Republic 1984-07-02 2015-08-15 05:28:41 2015-08-15 05:28:41 0 1 0 0
+995 patricknuh@mail.ru 6b8c964fdab8b725486b1ec08957dc72 patricknuh@mail.ru PatrickFEGE PatrickFEGEMX Pirassununga 123456 123456 Pirassununga Ukraine 1988-05-08 2015-08-17 06:59:45 2015-08-18 05:33:46 0 1 0 0
+996 luannan631tangzha@163.com c39b6ee4dac6ff8a224015a591d3f6e3 luannan631tangzha@163.com CalvinMax CalvinMaxAP Jbeil 123456 Jbeil Estonia 1981-12-20 2015-08-18 10:59:22 2015-08-18 10:59:22 0 1 0 0
+997 joriebedegov@yahoo.com 34796ddedb9885d64926883abe02267a joriebedegov@yahoo.com alexipal alexipalPY http://virgiekingdon.weebly.com/blog/how-to-fix-hammer-toes Freetown 123456 123456 Freetown Brazil 1976-07-04 2015-08-20 13:34:45 2015-08-20 13:34:45 0 1 0 0
+998 omqbjbtq@sfjeknrw.com d41d8cd98f00b204e9800998ecf8427e omqbjbtq@sfjeknrw.com M Kxnldgbe Kxnldgbe wXBJdVETSrnSHaXMqQS gpImKZQpUmVbo 1998 GPpzJnDGNjUDqIK JrBgOqGikcTgC Singapore QarDm 1993-00-00 2015-08-23 10:28:38 2015-08-23 10:28:38 0 1 0 0
+999 fgjkhdvb@gjjwnsog.com d41d8cd98f00b204e9800998ecf8427e fgjkhdvb@gjjwnsog.com M Nmcjeftz Nmcjeftz gYlROpZWFOVLftZU FMQnPrQEYvZTvODrYpb 1998 qcJCMRLIDOG yfLJmGhOswbMiW Singapore UdcxR 1965-00-00 2015-08-23 19:21:40 2015-08-23 19:21:40 0 1 0 0
+1000 ovjqlikg@wktrpavq.com d41d8cd98f00b204e9800998ecf8427e ovjqlikg@wktrpavq.com M Jvxtugah Jvxtugah IgnwmsSjn oPEiWBViKoGPNkyapgV 1998 pTTjqigUKZro iKPhAOsFFXFaos Singapore vzEUR 1987-00-00 2015-08-23 21:44:35 2015-08-23 21:44:35 0 1 0 0
+1001 uamqqjyn@kmnurcys.com d41d8cd98f00b204e9800998ecf8427e uamqqjyn@kmnurcys.com M Gzhsvflb Gzhsvflb TgVFUlepttULVGrHgg ucGcbUvJibUE 1998 wKikBzMBmoPTgQ QJIhrKgoDLKBke Singapore nlJiz 1991-00-00 2015-08-23 22:01:37 2015-08-23 22:01:37 0 1 0 0
+1002 richardvep@mail.ru eed0f175e3a7dceda4e0d78101865643 richardvep@mail.ru Richardol RichardolAP Tashkent 123456 123456 Tashkent Spain 1977-01-02 2015-08-24 18:13:13 2015-08-25 18:45:29 0 1 0 0
+1003 ashleygof@mail.ru a16f4c702988fb6e0b970f9e003f0c3c ashleygof@mail.ru AshleyPn AshleyPnBP Burnt Pine 123456 123456 Burnt Pine Ireland 1977-03-28 2015-08-24 19:14:02 2015-08-26 05:32:33 0 1 0 0
+1994 ikifeleyo@newmail.printemailtext.com 6dbda50c98de2036e895b704e5d365af ikifeleyo@newmail.printemailtext.com ofewoibij upijite http://onlinewithoutprescriptionpropecia.net/ Nuuk 123456 123456 Nuuk Greenland 1987-10-02 2016-11-05 13:49:56 2016-11-05 13:49:56 0 1 0 0
+1995 uxuyuzu@newmail.printemailtext.com 14a86ae1426bc6cb472b638d68afdda9 uxuyuzu@newmail.printemailtext.com ibouziidowi oqagibi http://onlinewithoutprescriptionpropecia.net/ Guadalajara 123456 123456 Guadalajara Mexico 1986-03-20 2016-11-05 14:06:22 2016-11-05 14:06:22 0 1 0 0
+1996 iyates@popp.eamale.com c179cc474b19d5411ab0f3ba7e8199a1 iyates@popp.eamale.com etenraqanije epurepefe http://onlinewithoutprescriptionpropecia.net/ Sharjah 123456 123456 Sharjah United Arab Emirates 1978-12-06 2016-11-06 13:10:52 2016-11-06 13:10:52 0 1 0 0
+1997 akijova@popp.eamale.com 03aaba725b467ce6b4a5e85d24c827f1 akijova@popp.eamale.com dukiwvem efucacaq http://onlinewithoutprescriptionpropecia.net/ Vaasa 123456 123456 Vaasa Finland 1981-07-17 2016-11-06 13:27:33 2016-11-06 13:27:33 0 1 0 0
+1998 emafag@g.eamale.com e732d77524634f61325f5e653d56a3a9 emafag@g.eamale.com asuwecomigiwu opacene http://onlinewithoutprescriptionpropecia.net/ Christchurch 123456 123456 Christchurch Barbados 1975-01-03 2016-11-06 14:21:14 2016-11-06 14:21:14 0 1 0 0
+1999 aigihadep@g.eamale.com c4f47241d3547efcf898947c7df3792b aigihadep@g.eamale.com eqarafiaqepeb ufowacudu http://onlinewithoutprescriptionpropecia.net/ Algiers 123456 123456 Algiers Algeria 1979-07-27 2016-11-06 14:37:55 2016-11-06 14:37:55 0 1 0 0
+2000 apiooxuba@mailer.printemailtext.com f091fc2baed804d9b58e098f1490371c apiooxuba@mailer.printemailtext.com ezitazo uiapujebedeqa http://onlinewithoutprescriptionpropecia.net/ Hanoi 123456 123456 Hanoi Russian Federation 1975-06-16 2016-11-08 03:58:17 2016-11-08 03:58:17 0 1 0 0
+2001 odefodaq@mailer.printemailtext.com becd1365523e5bbaf835e014c5e5bb8a odefodaq@mailer.printemailtext.com iluoovurziz ekuniifqafuk http://onlinewithoutprescriptionpropecia.net/ Guararema 123456 123456 Guararema Brazil 1978-03-15 2016-11-08 04:14:56 2016-11-08 04:14:56 0 1 0 0
+2002 kzwm99493@gmail.com 824fa7ffb3c5df1d1175e4a80e1ad599 kzwm99493@gmail.com CurtisFug CurtisFugLS http://www.publichiclana.es/ Sembawang 123456 123456 Sembawang Singapore 1978-11-27 2016-11-09 00:43:19 2016-11-09 00:43:19 0 1 0 0
+2003 qfrp97859@gmail.com 0786d6e10e566afe4ea26f9ec0b43fa2 qfrp97859@gmail.com Richardmymn RichardmymnQC http://www.packaging-news-weekly.co.uk/394-adidas-stan-smith-gold.aspx Muscat 123456 123456 Muscat Oman 1987-05-29 2016-11-09 02:52:32 2016-11-09 02:52:32 0 1 0 0 
++++++++++
+choicewi_db - o-ch-news-comment:()
+
++++++++++
+choicewi_db - o-ch_shop-table:()
+
++++++++++
+choicewi_db - o-choic_admin:()
+
++++++++++
+choicewi_db - o-choic_admin-conf:()
+
++++++++++
+choicewi_db - o-choic_contact:()
+
++++++++++
+choicewi_db - o-choic_counter:()
+
++++++++++
+choicewi_db - o-choic_index:()
+
++++++++++
+choicewi_db - o-choic_seo-keys:()
+
++++++++++
+choicewi_db - o-choic_seo-page:()
+
++++++++++
+choicewi_db - o-choice-wine_acc:()
+
++++++++++
+choicewi_db - o-choice-wine_acc-type:()
+
++++++++++
+choicewi_db - o-choice-wine_accct:()
+
++++++++++
+choicewi_db - o-choice-wine_beer:()
+
++++++++++
+choicewi_db - o-choice-wine_beer-style:()
+
++++++++++
+choicewi_db - o-choice-wine_beercountry:()
+
++++++++++
+choicewi_db - o-choice-wine_gi:()
+
++++++++++
+choicewi_db - o-choice-wine_gi-type:()
+
++++++++++
+choicewi_db - o-choice-wine_gict:()
+
++++++++++
+choicewi_db - o-choice-wine_hban1:()
+
++++++++++
+choicewi_db - o-choice-wine_hban2:()
+
++++++++++
+choicewi_db - o-choice-wine_li:()
+
++++++++++
+choicewi_db - o-choice-wine_li-type:()
+
++++++++++
+choicewi_db - o-choice-wine_lict:()
+
++++++++++
+choicewi_db - o-choice-wine_misc:()
+
++++++++++
+choicewi_db - o-choice-wine_promotion:()
+
++++++++++
+choicewi_db - o-choice-wine_ru:()
+
++++++++++
+choicewi_db - o-choice-wine_ru-type:()
+
++++++++++
+choicewi_db - o-choice-wine_ruct:()
+
++++++++++
+choicewi_db - o-choice-wine_spirit:()
+
++++++++++
+choicewi_db - o-choice-wine_spirit-type:()
+
++++++++++
+choicewi_db - o-choice-wine_spiritct:()
+
++++++++++
+choicewi_db - o-choice-wine_subscribe:()
+
++++++++++
+choicewi_db - o-choice-wine_te:()
+
++++++++++
+choicewi_db - o-choice-wine_te-type:()
+
++++++++++
+choicewi_db - o-choice-wine_tect:()
+
++++++++++
+choicewi_db - o-choice-wine_vcountry:()
+
++++++++++
+choicewi_db - o-choice-wine_vwine:()
+
++++++++++
+choicewi_db - o-choice-wine_vwine-type:()
+
++++++++++
+choicewi_db - o-choice-wine_wcountry:()
+
++++++++++
+choicewi_db - o-choice-wine_wh:()
+
++++++++++
+choicewi_db - o-choice-wine_wh-type:()
+
++++++++++
+choicewi_db - o-choice-wine_whct:()
+
++++++++++
+choicewi_db - o-choice-wine_wine:()
+
++++++++++
+choicewi_db - o-choice-wine_wine-type:()
+
++++++++++
+choicewi_db - o-choicewi_db_banner2:()
+
++++++++++
+choicewi_db - o-choicewi_db_festival:()
+
++++++++++
+choicewi_db - o-choicewi_db_files:()
+
++++++++++
+choicewi_db - o-choicewi_db_news:()
+
++++++++++
+choicewi_db - o-choicewi_db_pack-group:()
+
++++++++++
+choicewi_db - o-choicewi_db_page:()
+
++++++++++
+choicewi_db - o-choicewi_db_purchase:()
+
++++++++++
+choicewi_db - o-choicewi_db_shopping:()
+
++++++++++
+choicewi_db - o-telemoney-status:()
+
++++++++++
+choicewi_db - we-continent:()
+
++++++++++
+choicewi_db - we-country:()
+
++++++++++
+
+ 
+
+ 

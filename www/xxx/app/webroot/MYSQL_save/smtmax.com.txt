@@ -1,0 +1,1127 @@
+www.smtmax.com/category.php?id=15
+ 
+smtmax8_smtmax - cms_category:(44)
+id,pid,name,longname,seq,descs
+60 19 Power Transformers 50
+56 55 OMXIE SC3000 1
+57 51 Dental Vacuum System 2
+55 0 Fine Art Scanners 100
+54 51 Autoclave Sterilizer 3
+53 51 Dental Chair 1
+52 51 Oil Free Air Compressor 0
+51 0 Dental Equipment 60
+50 1 SMD Removal Kit - CHIP QUIK by CHIPQUIK 55
+49 1 Rework Station Parts Rework Station Parts 50
+
++++++++++
+smtmax8_smtmax - cms_info:(4)
+id,title,content
+4 Contact us <p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><img width="600" height="337" alt="" src="/images/smtmax1.jpg" /></span></p>
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+<p style="text-align: center"><span style="color: #333333">&nbsp;</span></p>
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b><span lang="EN-US">How to purchase from us</span></b><span lang="EN-US">:</span></span></span><span style="font-family: Tahoma" lang="EN-US"><o:p></o:p></span></p>
+<ul type="disc">
+    <li style="line-height: normal; margin: 0cm 0cm 10pt; mso-list: l0 level1 lfo1; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; tab-stops: list 36.0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b style="mso-bidi-font-weight: normal"><span lang="EN-US">Purchasing from our website</span></b><span lang="EN-US">, you can directly check out from our website with a credit card <span style="mso-spacerun: yes">&nbsp;</span>if you <span style="mso-spacerun: yes">&nbsp;</span>live in the United States. </span></span></span><span style="font-family: Tahoma" lang="EN-US"><o:p></o:p></span></li>
+    <li style="line-height: normal; margin: 0cm 0cm 10pt; mso-list: l0 level1 lfo1; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; tab-stops: list 36.0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b style="mso-bidi-font-weight: normal"><span lang="EN-US">Phone, Fax or Email</span></b><span lang="EN-US">, if the purchase needs to be made by P.O, C.O.D, using your carriers account or would like to know more information about the products.   </span></span></span><span style="font-family: Tahoma" lang="EN-US"><o:p></o:p></span></li>
+    <li style="line-height: normal; margin: 0cm 0cm 10pt; mso-list: l0 level1 lfo1; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; tab-stops: list 36.0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b style="mso-bidi-font-weight: normal"><span lang="EN-US">New account</span></b><span lang="EN-US">: you can set up a 30 day term account with at least 3 credit/trade references. This process can take up to 2-3 days. A D&B's number with good rating will increase turnaround time. </span><span lang="EN-US"> </span></span></span><span style="font-family: Tahoma" lang="EN-US"><o:p></o:p></span></li>
+    <li style="line-height: normal; margin: 0cm 0cm 10pt; mso-list: l0 level1 lfo1; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; tab-stops: list 36.0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b style="mso-bidi-font-weight: normal"><span lang="EN-US">International orders</span></b><span lang="EN-US"> please email, fax or call us directly, or contact our distributors. We only accept bank wire transfer or PayPal payments for international purchases. </span><span lang="EN-US"> </span></span></span><span style="font-family: Tahoma" lang="EN-US"><o:p></o:p></span></li>
+<li style="line-height: normal; margin: 0cm 0cm 10pt; mso-list: l0 level1 lfo1; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; tab-stops: list 36.0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b style="mso-bidi-font-weight: normal"><span lang="EN-US">Warranty:</span></b><span lang="EN-US"> all of our products carry a standard one year limited warranty. For more information please read our <a href="\pdf\EnhancedWarranty.pdf" > <strong>Enhance Warranty Terms and Conditions </strong></a> </span><span lang="EN-US"> </span></span></span><span style="font-family: Tahoma" lang="EN-US"><o:p></o:p></span></li>
+</ul>
+<p style="text-align: center"><span style="color: #333333">&nbsp;</span></p>
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b><span lang="EN-US">Return Policy:</span></b></span></span></p>
+
+<p>&nbsp;</p>
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333">
+
+SMTmax Corp. has a one week money back guarantee after you receive your order in the United States. You can return all non-used items with the same packaging for any reasons within one week of your original invoice and get a full refund, excluding S&H fees.  You will have to pay return shipping cost. This guarantee applies to all “In Stock” products only and does not apply to “Samples”, “Custom Orders” and “Special Orders”.
+</span></span></p>  
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333">
+
+Products can be returned within 30 days and 25% restocking fee will be applied. Custom or specially made order items will not qualify for return.  
+</span></span></p>
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333">
+
+The customer is responsible for repacking in original conditions to avoid damages during return shipping; damages can lead to shipping claim and longer refund time.  After we receive a returned product, it can take up to 72 hours to process the return. Afterwards we will issue the refund based on how the order was paid. 
+
+</span></span></p>
+
+
+<p style="text-align: center"><span style="color: #333333">&nbsp;</span></p>
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333"><b><span lang="EN-US">Products damages due to shipping:</span></b><span lang="EN-US"></span></span></span><span style="font-family: Tahoma" lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333">
+<p>&nbsp;</p>
+Our products are well packed and inspected before shipping. Always inspect for any signs of damages on packing boxes while you receive a shipment and before signing the carrier’s acceptance. If you find any damages, please notify the driver and make notes in the shipping comment section, accordingly before signing. If product is damaged, contact us within 3 days after you receiving your order. In order to process your damaged products, we need you to send us pictures of damaged products. Fill up our RMA (Return Material Authorization) form. We will not cover any inconvenience other than our product.
+</span></span>
+</p>
+<p style="line-height: normal; margin: 0cm 0cm 0pt" class="MsoNormal"><span style="font-family: Verdana"><span style="color: #333333">
+
+If you have any questions regarding returns, claims or shipping, please contact our Claims Department at (909) 393-8700 or by email at sale@smtmax.com.
+</span></span></p>
+  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="1" cellspacing="1" cellpadding="1" width="70%" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><strong><span style="font-size: medium"><span><span style="font-family: Verdana"><span class="STYLE1">Main Office</span></span></span></span><br />
+            </strong><span class="STYLE2"><br />
+            <strong><span style="font-family: Verdana"><span style="font-size: small"><span class="STYLE4">Tel: </span></span></span></strong><span style="font-family: Verdana"><span style="font-size: small"><span class="STYLE4">1-877-589-9422<br />
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (909)393-8700<br />
+            
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (909)393-8720 <br />
+           
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (909)393-8725 <br />
+           
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (714)614-4896<br /><br />
+            <strong>Fax: </strong>(909)393-8766<br /><br />
+            <strong>Add: </strong>5675 Kimball Ct Chino,&nbsp;CA &nbsp;91710&nbsp;USA<br /><br />
+            </span><strong><span class="STYLE4">Emails: </span></strong></span></span><span class="STYLE4"><a href="mailto:sale@smtmax.com"><span style="font-family: Verdana"><span style="font-size: small">sale@smtmax.com</span></span></a><span style="font-family: Verdana"><span style="font-size: small"><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span></span><a href="mailto:info@smtmax.com"><span style="font-family: Verdana"><span style="font-size: small">info@smtmax.com</span></span></a><span style="font-family: Verdana"><span style="font-size: small"><br />
+            <br />
+            </span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.google.com/maps/place/5675+Kimball+Ct/@33.9677503,-117.681133,17z/data=!3m1!4b1!4m2!3m1!1s0x80dcccfaf890dbd3:0x132a1686b290e2db"><span style="font-family: Verdana"><span style="font-size: small">Directions</span></span></a></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p><span style="font-size: medium"><span style="font-family: Verdana"><strong class="STYLE1">China Office</strong></span></span><br />
+            </br>            <strong><span style="font-size: small"><span style="font-family: Verdana"><span class="STYLE5">Tel:&nbsp;</span></span></span></strong><span style="font-size: small"><span style="font-family: Verdana"><span class="STYLE5">(86)10-88928621 <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(86)10-88923621<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(86)13241416997<br />
+            <strong>FAX:</strong>(86)10-88923621-808<br />
+            <br />
+            <strong>Add: </strong>AOMAI XIANG KANG (OMXIE) BEIJING </br>   Unit A106, No1 Building of Lingxiu,</br> GuChengDa St. ShiJingShan District,  </br>  Beijing 100043,  China  <br />
+            <strong>Email:</strong>&nbsp;</span></span></span><span class="STYLE5"><a href="mailto:china@omxie.com"><span style="font-size: small"><span style="font-family: Verdana">china@omxie.com</span></span></a><span style="font-size: small"><span style="font-family: Verdana">&nbsp;<br />
+            <br />
+            </span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.smtmaxchina.com/">
+<span style="font-size: small"><span style="font-family: Verdana">Chinese&nbsp;web</span></span></a></span></p>
+            </td>
+        </tr>
+             
+
+   <tr>
+            <td>
+            <p><span style="font-size: medium"><span><span style="font-family: Verdana"><span class="STYLE1"><strong>Spain Office</strong></span><strong><br />
+            </strong></span></span></span><br />
+<strong><span style="font-size: small"><span style="font-family: Verdana"><span class="STYLE5">Tel: </span></span></span></strong><span style="font-size: small"><span style="font-family: Verdana"><span class="STYLE5">+34 695561918<br />
+
+           <strong><span class="STYLE5"><a href="mailto:info@zenitsolucionesindustriales.com"><span style="font-size: small"><span style="font-family: Verdana">Email: info@zenitsolucionesindustriales.com </span></span></a><span style="font-size: small"><span style="font-family: Verdana">&nbsp;<br />
+            <br />
+            </span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://zenitsolucionesindustriales.com/ "><span style="font-size: small"><span style="font-family: Verdana">Spain&nbsp;Web</span></span></a></span></strong></p>
+            <strong>             </strong></td>
+        </tr>
+
+   <tr>
+            <td>
+            <p><span style="font-size: medium"><span><span style="font-family: Verdana"><span class="STYLE1"><strong>Indonesia Reseller(Jakarta office):</strong></span><strong><br />
+            </strong></span></span></span><br />
+<strong><span style="font-size: small"><span style="font-family: Verdana"><span class="STYLE5">Tel: </span></span></span></strong><span style="font-size: small"><span style="font-family: Verdana"><span class="STYLE5">+62 81 212711616<br />
+<strong>Fax: </strong>+62 21 22453592<br />
+<strong>Company: </strong>PT. Palema Jaya Abadi<br />
+<strong>Add: </strong>Jl. Raya Tipar Cakung no. 18 East Jakarta - Indonesia 13910<br />
+
+
+
+
+
+
+
+           <strong><span class="STYLE5"><a href="mailto:marketing@palemajaya.com"><span style="font-size: small"><span style="font-family: Verdana">Email: Indonesia@smtmax.com</span></span></a><span style="font-size: small"><span style="font-family: Verdana">&nbsp;<br />
+            <br />
+
+
+    </tbody>
+</table>
+<p style="text-align: center"><span style="font-size: medium"><span style="color: #333333">&nbsp;</span></span></p>
+1 About us <p style="text-align: left">
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><span><span style="font-size: medium;"><strong><br />
+</strong></span></span></span></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);">&nbsp;</span></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><img width="600" height="337" alt="" src="/images/smtmax2.jpg" /></span></p>
+<p style="text-align: center;">&nbsp;</p>
+
+
+</p>
+<p><span style="color: #333333">&nbsp;</span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana">&nbsp;<span style="font-size: large">WELCOME TO SMTmax</span></span></span></p>
+<p><span style="color: #333333"><span style="font-family: Verdana">&nbsp;</span></span></p>
+<table width="90%" cellspacing="1" cellpadding="1" border="0" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <div style="margin: 0cm 0cm 10pt; line-height: normal"><span style="color: #333333"><span style="font-family: Verdana"><span style="font-size: larger">
+            <p style="margin: 5pt 0cm; mso-line-height-alt: 5.0pt" class="MsoNormal"><span style="font-size: small"><span style="color: #333333"><span lang="EN-US" new="" times="" style="mso-fareast-font-family: ">Established in 2009, the Omxie Corp. DBA SMTmax, is headquartered in </span></span></span><span lang="EN-US" new="" times="" style="font-size: 10pt; color: black; mso-fareast-font-family: "><st1:state w:st="on"><st1:place w:st="on"></st1:place></st1:state></span><span style="font-size: x-small"><span lang="EN-US" new="" times="" style="color: black; mso-fareast-font-family: "><st1:state w:st="on"><st1:place w:st="on"><span style="font-size: small"><span style="color: #333333">California</span></span></st1:place></st1:state></span></span><span style="font-size: small"><span style=""><span style="color: #333333"><span lang="EN-US" new="" times="" style="mso-fareast-font-family: ">, with several offices worldwide. Our primary focus is</span><span lang="EN-US" new="" times="" style="mso-fareast-font-family: "> in the development, manufacturing and marketing of SMT tools and equipment for prototyping and production. Our additional services include the production of circuit boards and electronic test and measurement instruments, customized electronic hardware design, and software development. We provide quality products at low prices and excellent technical support.</span></span></span></span><span lang="EN-US" new="" times="" style="font-size: 10pt; mso-fareast-font-family: "><font color="#000000"></font></span></p>
+                       <p style="margin: 0cm 0cm 5pt; mso-line-height-alt: 5.0pt" class="MsoNormal"><span style="font-size: small"><span style="color: #333333"><span lang="EN-US" new="" times="" style="mso-fareast-font-family: ">All our products carry a standard one year warranty. In addition, some products have extended warranty, up to three years. Consumable parts, like hot air rework stations and reflow oven heaters,  will not be covered by this warranty, but replacement parts can be purchased from us.
+</br>
+</br>
+Recent years we extended our products into Dental Clinic and Lab fields. Using our high tech knowledge to develop and service oil less motors, quiet air compressors, suction units, and others.
+</span></span></span><span lang="EN-US" new="" times="" style="font-size: 10pt; mso-fareast-font-family: "><font color="#000000"></font></span></p>
+
+
+
+
+            <p style="margin: 0cm 0cm 5pt; mso-line-height-alt: 5.0pt" class="MsoNormal"><span style="font-size: small"><span style="color: #333333"><span lang="EN-US" new="" times="" style="mso-fareast-font-family: ">Our mission is to tackle innovative challenges in advanced technology and to help people and their environments by providing high-quality equipment, resources, and technical know-how. We value professionalism, and seek to forge partnerships in both the public and private sectors.
+</br></br>
+As we enter a new age of business, we'll remain focused on our commitment to sustainability and creative design. We'll never stop working to provide a remarkable shopping experience and service to our customers </span></span></span><span lang="EN-US" new="" times="" style="font-size: 10pt; mso-fareast-font-family: "><font color="#000000"></font></span></p>
+            </span></span></span></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div style="margin: 0cm 0cm 10pt; line-height: normal">&nbsp;</div>
+2 Service <p class="MsoNormal" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<table width="90%" cellspacing="1" cellpadding="1" border="0" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><strong><span style="font-size: medium"><span style="font-family: Verdana"><span style="color: #333333"><span lang="EN-US">Service</span></span></span></span></strong></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="color: #333333"><span lang="EN-US"><o:p><span style="font-family: Verdana"><font size="3">&nbsp;</font></span></o:p></span></span></p>
+            <span style="font-family: Verdana">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;▶</span> <span lang="EN-US">Turn key SMT package Solutions</span></span></p>
+            </span>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;▶</span> <span lang="EN-US">Quality Management Systems</span></span></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;▶</span> <span lang="EN-US">Education &amp; on-site training</span></span></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;▶</span> <span lang="EN-US">Convenient sales consultation</span></span></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;</span> <span lang="EN-US">Product customization</span></span></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;</span> <span lang="EN-US">Computer software development </span></span></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;</span> <span lang="EN-US">Practical Troubleshooting solutions</span></span></span></p>
+    
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;</span> <span lang="EN-US">PCB Assembling &amp; manufacturing</span></span></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-family: Verdana"><span style="color: #333333"><span ms="" style="mso-bidi-font-family: ">&nbsp;</span> <span lang="EN-US">Highly experienced technicians&nbsp;to assist you in selecting the proper equipment for your needs.</span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+3 Technical support <div style="border-right: medium none; padding-right: 0cm; border-top: medium none; padding-left: 0cm; padding-bottom: 4pt; border-left: medium none; padding-top: 0cm; border-bottom: #4f81bd 1pt solid; mso-element: para-border-div">
+<p align="center" style="margin: 0cm 0cm 15pt; text-align: center" class="MsoTitle"><span style="font-size: large"><span style="font-family: Verdana"><span style="color: #333333"><span lang="EN-US">Technical Support Resources</span></span></span></span></p>
+</div>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal"><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333"><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US">Solder Paste Manufacture:</span></u></b></span></span></span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-family: Times New Roman"><font size="3"></font></span></u></b></p>
+<p style="margin: 0cm 0cm 0pt 36pt; text-indent: -18pt; mso-list: l0 level1 lfo1" class="ListParagraphCxSpFirst"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.amtechsolder.com/"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">AMTECH SOLDER</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><span lang="EN-US"> <span style="color: #333333">Toll-free: (800) 435-0317 (Branford, CT USA)</span></span></span></span></span><span lang="EN-US" style="font-family: Times New Roman"><font size="3"></font></span></p>
+<p style="margin: 0cm 0cm 10pt 36pt; text-indent: -18pt; mso-list: l0 level1 lfo1" class="ListParagraphCxSpLast"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.kester.com/"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">KESTER</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><span lang="EN-US"> <span style="color: #333333">Direct Bus. #: (630) 616-4000 (Itasca, IL USA)</span></span></span></span></span><span lang="EN-US" style="font-family: Times New Roman"><font size="3"><o:p></o:p></font></span></p>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal"><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333"><span style="background-color: #ffffff"><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US">Stencil Shops and PCB Assembling:</span></u></b></span></span></span></span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-family: Times New Roman"><font size="3"></font></span></u></b></p>
+<p style="margin: 0cm 0cm 0pt 36pt; text-indent: -18pt; mso-list: l1 level1 lfo2" class="ListParagraphCxSpFirst"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.soldermask.com/index.html"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">SolderMask, Inc.</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><b style="mso-bidi-font-weight: normal"><span lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span></span></b><span style="color: #333333"><span lang="EN-US">Direct Bus. #: (714) 842-1987 (Huntington Beach, CA USA)</span></span></span></span></span><font size="3"><span lang="EN-US" style="font-family: Times New Roman"><o:p></o:p></span></font></p>
+<p style="margin: 0cm 0cm 0pt 36pt; text-indent: -18pt; mso-list: l1 level1 lfo2" class="ListParagraphCxSpFirst"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.pnconline.com/index.html"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">PNC Inc</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><b style="mso-bidi-font-weight: normal"><span lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span></span></b><span style="color: #333333"><span lang="EN-US">Direct Bus. #: (973) 284-1600 (Nutley, NJ USA)</span></span></span></span></span><font size="3"><span lang="EN-US" style="font-family: Times New Roman"><o:p></o:p></span></font></p>
+<p style="margin: 0cm 0cm 0pt 36pt; text-indent: -18pt; mso-list: l1 level1 lfo2" class="ListParagraphCxSpMiddle"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.onestopassembly.com/contact-us.html"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">One Stop Assembly</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><span lang="EN-US"> <span style="color: #333333">Direct Bus. #: (888) 562-3621 (USA)</span></span></span></span></span><span lang="EN-US" style="font-family: Times New Roman"><font size="3"><o:p></o:p></font></span></p>
+<p style="margin: 0cm 0cm 0pt 36pt; text-indent: -18pt; mso-list: l1 level1 lfo2" class="ListParagraphCxSpMiddle"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.klelectronics.com/"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">KL Electronics</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><b style="mso-bidi-font-weight: normal"><span lang="EN-US"> </span></b><span style="color: #333333"><span lang="EN-US">Direct Bus. #: (888) 855-3532 (Irvine, CA USA)</span></span></span></span></span><font size="3"><span lang="EN-US" style="font-family: Times New Roman"><o:p></o:p></span></font></p>
+<p style="margin: 0cm 0cm 10pt 36pt; text-indent: -18pt; mso-list: l1 level1 lfo2" class="ListParagraphCxSpLast"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.teamsmt.com/pcb_assembly_domestic.php"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">Surface Mount Technology Corporation</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><b style="mso-bidi-font-weight: normal"><span lang="EN-US"> </span></b><span style="color: #333333"><span lang="EN-US">Direct Bus. #: (920) 954-8324 (Appleton, WI USA)</span></span></span></span></span><font size="3"><span lang="EN-US" style="font-family: Times New Roman"><b style="mso-bidi-font-weight: normal"><o:p></o:p></b></span></font></p>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal"><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333"><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US">Dummy Components and Practice Kits:</span></u></b></span></span></span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-family: Times New Roman"><font size="3"><o:p></o:p></font></span></u></b></p>
+<p style="margin: 0cm 0cm 10pt 36pt; text-indent: -18pt; mso-list: l2 level1 lfo3" class="ListParagraph"><span style="font-size: small"><span style="font-family: Verdana"><span lang="EN-US" style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol"><span style="mso-list: Ignore">&middot;<span style="font: 7pt Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></span><span style="font-size: medium"><span style="font-family: Verdana"><span lang="EN-US"><a href="http://www.practicalcomponents.com/index.htm"><span style="font-size: small"><b style="mso-bidi-font-weight: normal">Practical Components</b></span></a></span></span></span><span style="font-size: small"><span style=""><span style="font-family: Verdana"><b style="mso-bidi-font-weight: normal"><span lang="EN-US">&nbsp;<span style="mso-spacerun: yes">&nbsp;</span></span></b><span style="color: #333333"><span lang="EN-US">Direct Bus. #: (714) 252-0010 (Los Alamitos, CA USA)</span></span></span></span></span><font size="3"><span lang="EN-US" style="font-family: Times New Roman"><b style="mso-bidi-font-weight: normal"><o:p></o:p></b></span></font></p>
+
++++++++++
+smtmax8_smtmax - cms_movie:(13)
+id,pic,url,title,sorder
+20 <iframe width="640" height="360" src="http://www.youtube.com/embed/WPZ81xOQelg?feature=player_detailpage" frameborder="0" allowfullscreen></iframe> QM3000 with UFCS 10
+14 <embed src="http://www.youtube.com/v/7MI5UfeUYGE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object> QM 2000 Automatic Pick and Place Machine 0
+8 data/attachment/image/thumbnails/201003/2010032509325074.jpg <embed src="http://www.youtube.com/v/OviAm7d1S7g?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"> QM2100 Pick and Place Machine 9
+15 <embed src="http://www.youtube.com/v/foHW6HwuBJg?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"> QM1000 Automatic Pick and Place Machine 0
+13 ><embed src="http://www.youtube.com/v/npG0atKD8RY?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed> QM3000 Automatic Pick and Place Machine 0
+12 <iframe width="640" height="360" src="//www.youtube.com/embed/1QU17UXM5Ww?feature=player_detailpage" frameborder="0" allowfullscreen></iframe> QM2100 with conveyor option 8
+23 <iframe width="640" height="360" src="//www.youtube.com/embed/4UAWUeMZ8xo?feature=player_embedded" frameborder="0" allowfullscreen></iframe> QM1500 Automatic Pick and Place Machine 10
+24 <iframe width="640" height="360" src="//www.youtube.com/embed/4Zmp4eNb5Io?feature=player_detailpage" frameborder="0" allowfullscreen></iframe> QM3000 places 0201 parts 11
+25 <iframe width="640" height="360" src="//www.youtube.com/embed/QBqvk-XXuBw?feature=player_detailpage" frameborder="0" allowfullscreen></iframe> New QM3000 with Dual Heads 12
+22 <iframe width="640" height="360" src="//www.youtube.com/embed/br7UH_Fm_Hg?feature=player_detailpage" frameborder="0" allowfullscreen></iframe> New Auto Peel QM Feeder 13
+
++++++++++
+smtmax8_smtmax - cms_news:(14)
+id,title,content,hits,created_by,created_date
+35 News Release July 2011 <p class="MsoNormal" style="line-height: normal"><strong><span style="font-size: small">SMTMax/Omxie Corporation </span></strong><span style="font-size: small">is proud to announce&nbsp;that we have introduced a&nbsp;new nozzle system&nbsp;for our automatic pick and place machines. <br />
+</span></p>
+
+<p class="MsoNormal" style="line-height: normal"><span style="font-size: small"><br />
+</span></p>
+<p class="MsoNormal" style="line-height: normal"><span style="font-size: small">This state of the art system, entitled <strong>QM-NZ02</strong>, was developed by our R&amp;D team in <span class="yshortcuts" id="lw_1310773645_0" style="border-bottom: #366388 2px dotted; background: none transparent scroll repeat 0% 0%; cursor: hand">Corona, CA, USA</span> based on customer feedback and demand. The system employs Carbide tips to <u>increase nozzle durability </u>and <span class="yshortcuts" id="lw_1310773645_1" style="border-bottom: #366388 2px dotted; background: none transparent scroll repeat 0% 0%; cursor: hand">double springs</span> to dramatically reduce the damage caused by human errors. The QM-NZ02 system comes in a set of five that covers most of the&nbsp;SMT components on the market. It also comes with newly <u>enhanced software</u>. <br />
+</span></p>
+<p class="MsoNormal" style="line-height: normal"><span style="font-size: small">Every pick and place machine from SMTmax will be equipped with this new system starting from July 2011.</span></p>
+<p><br />
+&nbsp;</p> 0 1 2014-01-17 16:05:15
+36 SMTmax lunches New Model of QM2000 Pick and Place Machine <p style="margin: 0in 0in 10pt" class="MsoNormal"><span style="font-size: small"><font face="Calibri">After more than half a year of testing in the field, SMTMax/Omxie Corporation is proud to announce the new features of our QM2000 series of pick and place machine:</font></span><font size="3"><font face="Calibri"><o:p></o:p></font></font></p>
+<p style="margin: 0in 0in 10pt" class="MsoNormal"><span style="font-size: small"><strong><font face="Calibri">Larger Working Area</font></strong><font face="Calibri">: <a href="http://www.smtmax.com/detail.php?id=67">The new QM2000 automatic pick and place machines </a>have a working area of 36&quot;x21&quot;, which will become the standard for all QM2000 models purchased after June 2011. This is a (20%) improvement over the previous machines.</font></span><font size="3"><font face="Calibri"><o:p></o:p></font></font></p>
+<p style="margin: 0in 0in 10pt" class="MsoNormal"><span style="font-size: small"><strong><font face="Calibri">More Feeders</font></strong><font face="Calibri">: Having a larger working area means that we can support more feeders. The new QM2000 machines are able to support replica </font></span><span style="font-size: small"><font face="Calibri"><span style="color: rgb(0, 0, 0);">&nbsp;</span> at least eighty 8mm QM feeders.</font></span><font size="3"><font face="Calibri"><o:p></o:p></font></font></p>
+<p style="margin: 0in 0in 10pt" class="MsoNormal"><span style="font-size: small"><strong><font face="Calibri">New QM Feeder and Nozzle System</font></strong><font face="Calibri">: The new QM2000 machines make use of our proprietary new QM</font></span><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><font face="Calibri"> </font></span></span> feeder and nozzle system that creates more flexibilty and higher precision control.</font></span><font size="3"><font face="Calibri"><o:p></o:p></font></font></p>
+<p><span style="font-size: small"><strong><font face="Calibri">Smoother Movement and Improved Reliability</font></strong><font face="Calibri">: </font></span><span style="font-size: small"><font face="Calibri"><span style="color: rgb(0, 0, 0);">&nbsp; </span>Through better engineering and design, the<span style="mso-spacerun: yes">&nbsp; </span>new QM2000 machines are able to provide smoother movement and improved reliability compared to the old.</font></span><font><font face="Calibri"></font></font></p>
+<p>&nbsp;</p> 0 1 2014-01-17 16:04:41
+54 SMTmax moves to new location <p>
+<span style="font-size: large"><span style="font-family: Verdana">
+PRESS RELEASE FOR IMMEDIATE RELEASE May 28th, 2014   </span> </br></br>
+<span style="font-size: medium"><span style="font-family: Verdana">
+
+SMTmax has moved all its operations to a new location in Chino, California. This is to accommodate the rapid growth of their business over the last five years. The new facility houses manufacturing warehouse and sales offices, meeting and training rooms and support service areas for the company.
+</br>
+</br>
+The new facility is well located at: </br></br><span stylr = "font-size": medium">5675 Kimball Avenue. Chino CA. 91710. </span></br></br>It has good access to 71, 15 and 60 freeways. 
+</br></br>
+<p style="text-align: left"><span style="color: #333333">
+<img height="266" alt="" width="512" border="0" src="/images/5675kimball.jpg" /></a>
+</p> 
+</br>
+The new contact numbers are:
+</br></br>
+Main line: 909-393-8700</br>
+Fax: 909-393-8766 <br>
+The company’s toll free number keeps unchanged:</br> 1-877-589-9422
+
+</p> 0 1 2014-05-29 07:27:42
+34 New Patent Pending Protection <p>&nbsp;</p>
+<div style="margin: 0in 0in 0pt"><span style="font-size: small">SMTMax/Omxie Corporation is proud to announce our new technology patent application for low-cost Pick and Place Machine (PPM).&nbsp;The invention that is covered in our patent application, filed in April 2010, will dramatically reduce missing and throwing away part rate comparing to similar PPM on the market.&nbsp;The new technology can also be used to increase low-cost PPM speed and accuracy according to the company's test results.&nbsp;</span></div>
+<div style="color:black;width:140;display:none">how to <a href="http://royalrxdrugs.com/">buy trazodone</a> without prescription. What active substances it contains? Pure trazodone, and other antidepressants in our store</div>
+<div style="margin: 0in 0in 0pt">&nbsp;</div>
+<div style="margin: 0in 0in 0pt"><span style="font-size: small">&quot;We are very excited about this new technology and I believe this can reduce the cost of PCB for small replica <a href="http://www.usreplicabagstore.com/hermes"><span style="color: rgb(0, 0, 0);">hermes bags</span></a> factories and research facilities&quot; , said Joseph Zhou, the CEO of the company.&nbsp;This new technology will be applied immediately <a href="http://www.seamastertheomega.com/omega-classic"><span style="color: rgb(0, 0, 0);">omega classic replica watches</span></a>in our QM-1000 series PPM and as an option to our QM-2000 series too.</span></div>
+<div style="text-indent: -0.5in; margin: 0in 0in 0pt 0.5in"><span style="font-size: small">&nbsp;</span></div>
+<div style="text-justify: inter-ideograph; text-align: left; text-indent: -0.5in; margin: 0in 0in 0pt 0.5in"><span style="font-size: small">If you are interested in this new pending patent technology, <a href="http://www.bagspretty.com/louis-vuitton"><span style="color: rgb(0, 0, 0);">replica louis</span> <span style="color: rgb(0, 0, 0);">vuitton</span></a>feel free to email us at </span><a href="mailto:joseph@smtmax.com"><span style="font-size: small"><font color="#0000ff">joseph@smtmax.com</font></span></a><span style="font-size: small">. Or you can call us at (951) 278-0720.</span></div>
+<div style="text-indent: -0.5in; margin: 0in 0in 0pt 0.5in"><span style="font-size: small">&nbsp;</span></div> 0 1 2014-01-10 16:39:17
+38 SMTMAX APPOINTS A NEW DISTRIBUTOR <p>SMTMAX APPOINTS ELSIL ELECTRONICS SILICON&nbsp;&amp; ELSIL TUNISIA&nbsp;AS DISTRIBUTOR&nbsp;</p>
+<p>&nbsp;</p>
+<p>SMTmax announces today, the appointment of Elsil Electronics Silicon &amp; Elsil Tunisia, a major player in the development and programming of components, as their distributor for the  France &amp; Africa retail channel. This will be effective as of the&nbsp;8th of March, 2012.&nbsp;<font size="2" face="Helvetica"><font size="2" face="Helvetica"> </font></font></p>
+<p>&nbsp;</p>
+<p>&quot;It is extremely important for SMTmax to identify a partner that shares the same goals as SMTmax and has the ability to provide our customers with exceptional customer service, support and a distribution  network&quot;, said Joseh Zhou, CEO of SMTmax USA, &quot;Elsil&nbsp;clearly fits the stringent criteria we identified to promote our Pick &amp; Place Machines effectively and to allow  SMTmax to focus on research and development in this key strategic market.</p>
+<p>&nbsp;</p>
+<p>Elsil&rsquo;s name is well established in France &amp; Africa. The company&rsquo;s reputation as an expert in the field is well known.  SMTmax and Elsil Electronis is an ideal marriage between two companies totally committed to making the best products available to the SMT industry.  SMTmax will ideally complement the current portfolio of Elsil, further strengthening their position as the leading France &amp; Africa provider of component programming, marking, 3D inspection, band development and packaging.</p>
+<p>&nbsp;</p>
+<p>&quot;Elsil is delighted to have secured the rights to distribute the prestigious SMTmax range in  France &amp; Africa&quot;, enthused  Jean Marie Chieppa, Director of Operations, Elsil. &quot;The brand perfectly complements our existing portfolio&quot;.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> 0 1 2014-01-17 16:04:02
+53 SMTmax lunches New Pick and Place Machine Model of QM3000 <p>PRESS RELEASE                         FOR IMMEDIATE RELEASE March 03, 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>SMTmax announced today that their new product, QM-3000 dual heads with a newly designed automatic nozzle changer system, coming to the SMT market after intensive testing in the field. 
+</br>
+</br>
+With the new dual heads system customers can gain up to 60 to 80% of the CPH speed comparing to a single head Pick and Place system.  The new system will also be equipped with brushless motors and improved controllers.
+
+The normal speed of the new QM3000 dual head system will be 3000 to 4000 PPH, which provides a better option for LED board manufactures. Smtmax also offers their Flexible Conveyor System with the new QM3000 as an option to build extreme long boards
+
+The new automatic nozzle changing system comes with SMTmax’s software upgrades. Its new design makes it more robotic and durable. The price of the nozzle changer offered by SMTmax is only a small portion of an equivalent product on the market.
+</br>
+</br>
+ In addition to the works being done by our engineer team, our production team has being focused on continually building and providing high quality products to our customers, said Joseph Zhou, the CEO of SMTmax.
+For more details of the new QM3000 and nozzle change system please check their videos at SMTmax’s website  <a href = "http://www.smtmax.com">www.smtmax.com</a> ,or call the direct line  at (951) 278-0720. 
+
+</p>
+<p>&nbsp;</p>
+
+<p>Copyright &copy; 2014 SMTmax. All rights reserved.</p> 0 1 2014-03-04 04:26:59
+41 9-20-12 SMTmax lunches their New QM-1500 Pick and Place machine <p>PRESS RELEASE                         FOR IMMEDIATE RELEASE     September 20, 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>SMTmax Announces the Launch of their New QM-1500 Pick &amp; Place Machine and XY Motion System Upgrade      September 18th, 2012 &mdash; SMTmax announced the release of their 2013 pick &amp; place model; the QM-1500 Pick and Place machine. The QM-1500 Pick &amp; Place has been equipped with new guide ways and linear motion systems. The improved mechanical structure and enhanced balance of the driving power has made it more reliable and precise compared to similar   models on the market.  The QM-1500 will replace the QM-1000 Pick &amp; Place model.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Joseph Zhou, CEO of SMTmax said &ldquo;The new QM1500 has been fully tested and calibrated by our engineers at our R&amp;D lab in  Corona, CA and the results couldn't be more promising.  We are excited to release the QM1500&rdquo;.  The QM1500 Pick &amp; Place model is designed for rapid prototyping and small to medium size production batches.  The new addition to the QM-Series will service the needs of customers who are looking for a low cost alternative while maintaining   the same reliability and precision of higher priced machines.      Furthermore, SMTmax will be offering the new guide ways and linear motion systems as an option to their entire QM-Series line of pick and place machines, starting immediately .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Mary M. McDonough  Public Relations  <a href="mailto:sale@smtmax.com">sale@smtmax.com</a>&nbsp;</p>
+<p>Copyright &copy; 2012 SMTmax. All rights reserved.</p> 0 1 2014-01-17 16:01:04
+52 PRESS RELEASE FOR IMMEDIATE RELEASE July 1, 2013 <p>PRESS RELEASE FOR IMMEDIATE RELEASE July 1, 2013</p>
+<p>SMTmax announces the release of their New Universal Flexible Conveyor System (UFCS) on July 1 2013.</p>
+<p>&nbsp;</p>
+<p>The new system consists of a new I/O interface, precision step motors, circuit board lock sensors and smooth linear guild ways. It is also integrated with SMTmax's advanced vision system that can be used to achieve high accuracy and precision.</p>
+<p>&nbsp;</p>
+<p>The UFCS has been installed on customized  SMTmax pick and place machine <a href="http://www.smtmax.com/video.php?id=20"> Video </a>, which provides extendable working areas up to several meters that are essential for LED manufacturers.</p>
+<p>&nbsp;</p>
+<p>Joseph Zhou, CEO of SMTmax said: Our new UFCS is not only an add-on component to our Automatic Pick and Place Machine but also a new standalone product that can be used in many industrial fields.  For more detail on this system please contact SMTmax at 951-278-0720.</p>
+<p><br />
+Omxie Corp/SMTmax</p> 0 1 2014-01-17 15:59:49
+55 SMTmax Redefines Efficiency with its New SOFTWARE CONTROLLED AUTO FEEDER PEELING SYSTEM <p><span style="font-size: small"><span style="font-family: Verdana">
+
+By Luz Camacho</br>
+September 12, 2014</br></br></span></span>
+<span style="font-size: small"><span style="font-family: Verdana">
+
+Chino, CA – Locally owned SMTmax announced today the improvement of its 2014 QM Pick and Place Machine Feeder now with an automated pulling system. This seamless machine has an automotive pulling system controlled by a highly sophisticated software and motor. NO more physical weights. Just the convenience and reliability of SMTmax’s surface mount technology. </br></br>
+
+Visit us at  <a href = "http://www.smtmax.com/detail.php?id=273 ">http://www.smtmax.com/detail </a>to view this new system in action. 
+</br></br>
+
+<strong>About SMTmax</strong></br></br>
+Opened in 2009 SMTmax’s business philosophy has been to provide an economical high quality line of products. The success of this philosophy has helped our business grow. Combined with our knowledgeable technical support team we provide our customers a dependable and a comprehensive shopping experience.</br>
+
+For more Information or details please visit us at <a href = "http://www.smtmax.com">www.smtmax.com</a></br></br>	
+Or Contact
+Sales Team</br>
+5675 Kimball Court</br>
+Chino, Ca 91710<br>
+909-393-8700</span></span>
+</p> 0 1 0000-00-00 00:00:00
+56 February 26, 2016 SMTmax released QM1100-A <p style="text-align: left;"><span style="font-family: Verdana;"><span style="font-size: small;">
+By Luz Camacho</br>
+February 26, 2016
+</br>
+</br>
+Chino, CA – Locally owned SMTmax announced today the release of its stream line QM-1100A Pick and Place machine to meet market demand. This is a new economical solution for manufacturer startups, subcontractors, universities and independent labs. Designed with user ease in mind the QM-1100A Pick and Place can be operated with a desktop computer. A picking and placing layer of E-cad drawing can be directly converted to the machine’s placing part list. The QM-1100A has a compact design and comes with two pick and place heads featuring a high speed 3500 PPH without up-vision and 2500 PPM with up-vision camera. Affordability and efficiency now more attainable than ever thanks to the QM-1100A Pick and Place machine.
+</br>
+</br>
+Visit us at <a href="http://www.smtmax.com/detail.php?id=292"> QM1100-A </a> to view this new system in action. 
+</span></span></p> 0 1 0000-00-00 00:00:00
+
++++++++++
+smtmax8_smtmax - cms_products:(219)
+id,cid,title,subtitle,price,sort_order,pic,summary,content,hits,attr,buy_id,created_by,created_date
+168 42 Rocking Shaker ZD-9550 Rocking Shaker 324.00 0 data/attachment/image/thumbnails/201004/2010040415182094.jpg Shaker <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">Rocking Shaker <br />
+ZD-9550</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S20.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $324.00</span><br />
+<br />
+</span></span><a href="http://www.smtmax.com/shopping/product_info.php?cPath=21_25&amp;products_id=370"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" alt="" width="75" border="0" src="/userfiles/image/buyit.jpg"/ ></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+&nbsp;</span></span></p>
+<table cellspacing="0" cellpadding="0" width="70%" align="center" border="1">
+    <tbody>
+        <tr>
+            <td width="95">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Specifications</strong> </span></span></span></p>
+            </td>
+            <td width="222">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Rocking Shaker</strong> </span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="95">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Model </span></span></span></p>
+            </td>
+            <td width="222">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">ZD-9550 </span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="95">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">&nbsp;</span></span></span></p>
+            </td>
+            <td width="222">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Stepless speed regulation:&nbsp;20-65 rpm <br />
+            Max Speed:&nbsp;65 rpm <br />
+            Display: Digital <br />
+            Platform:&nbsp;10.6x10.6 in <br />
+            Shaker:&nbsp;Rock<br />
+            Shaking displacement: 0.8 in <br />
+            supply power: 110V AC <br />
+            Dimensions: 10.4x10.4x6 in </span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<a href="/pdf/zd-9550-manual.pdf"><img height="47" alt="" width="46" border="0" src="/userfiles/image/PDF.jpg" /></a></span><span style="font-size: medium"><span style="font-family: Verdana"><a href="/pdf/zd-9550-manual.pdf">User's Manual</a></span></span></span></p> 0 0 370 1 2010-04-07 09:42:30
+169 64 MK-10/MK-20 Dry Bath  0.00 0 data/attachment/image/thumbnails/201004/2010040415224780.jpg <p style="text-align: center;"><strong><span style="font-size: x-large;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">MK-10/MK-20<br />
+&nbsp;Dry Bath&nbsp;</span></span></span></strong><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S21S.jpg" /><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table width="90%" align="center" border="0" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">Precise microprocessor control Wide temperature setting range Easy user calibration Sample block design is easy removed for Cleaning or replacement New improved mod</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+</span></span></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<img width="46" height="47" alt="" border="0" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium;"><span style="font-family: Verdana;">User's Manual</span></span></span></p> 0 0 0 1 2012-10-04 01:37:24
+170 64 K30 Economic Dry Bath 0.00 0 data/attachment/image/thumbnails/201004/2010040415345335.jpg <p style="text-align: center;"><strong><span style="font-size: x-large;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">K30 <br />
+Economic Dry Bath </span></span></span></strong><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<br />
+<br />
+<img alt="" src="/userfiles/S22S.jpg" /><br />
+<br />
+<br />
+</span></span></p>
+<table width="90%" align="center" border="0" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">Precise microprocessor control Temperature and time can be set Aluminum blocks ensure good temperature transfer Blocks are rotundity.&nbsp;</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+</span></span></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<img width="46" height="47" alt="" border="0" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium;"><span style="font-family: Verdana;">User's Manual</span></span></span></p> 0 0 0 1 2012-10-04 01:37:04
+171 64 MiniT-- Mini Dry Bath  0.00 0 data/attachment/image/thumbnails/201004/2010040415413448.jpg <p style="text-align: center;"><strong><span style="font-size: x-large;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">MiniT-- Mini Dry Bath <br />
+</span></span></span></strong><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<img alt="" src="/userfiles/S23S.jpg" /><br />
+<br />
+<br />
+</span></span></p>
+<table width="90%" align="center" border="0" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">Mini-dimensions: 110(w) x 150(D) x 80(H)mm LCDdisplay, it is easy to set up and use Temp. control range: from 5&deg;C above ambient to 100&deg;C With 12V power for tatal portability </span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+</span></span></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<img width="46" height="47" alt="" border="0" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium;"><span style="font-family: Verdana;">User's Manual</span></span></span></p> 0 0 0 1 2012-10-04 01:36:40
+172 64 MK100-2A Dry Bath 0.00 0 data/attachment/image/thumbnails/201210/2012100401401190.jpg <p style="text-align: center;"><strong><span style="font-size: x-large;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">MK100-2A <br />
+Dry Bath</span></span></span></strong><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S24s.jpg" /><br />
+<br />
+<br />
+</span></span></p>
+<table width="90%" align="center" border="0" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">Microprocessor controlled time and temperature Beep-signal and stop of after program completion Heating platform for standard microtest plate Temperature range: RT+5&deg; C~80&deg;C Uniformity over the platform:&le;&plusmn;0.5&deg;C Platform capacity: 2 microtest plates</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+</span></span></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<img width="46" height="47" alt="" border="0" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium;"><span style="font-family: Verdana;">User's Manual</span></span></span></p> 0 0 0 1 2012-10-04 01:40:11
+173 42 Wave Shaker ZD-9558 595.00 0 data/attachment/image/thumbnails/201004/2010040415515161.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">Wave Shaker<br />
+ZD-9558</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S25S.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $595.00</span><br />
+<br />
+</span></span><a href="http://www.omxie.com/shopping/product_info.php?cPath=21_25&amp;products_id=371"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" width="75" border="0" alt="" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+</span></span></p>
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Stepless speed regulation: 20-70 rpm<br />
+            Display: No <br />
+            Shaker: wave<br />
+            Angle: horizontal to 15&deg;C adjustable<br />
+            Plate size: 280x280 mm<br />
+            Unit dimension: 280x310x220mm </span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="font-family: Verdana">User's Manual</span></span></span></p> 0 0 371 1 2010-04-04 15:51:51
+174 42 Rotation Mixer WH-986 240.00 0 data/attachment/image/thumbnails/201004/2010040415560439.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">Rotation Mixer <br />
+WH-986</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S26.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $240.00</span><br />
+<br />
+</span></span><a href="http://www.omxie.com/shopping/product_info.php?cPath=21_25&amp;products_id=372"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" width="75" border="0" alt="" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Rotating and shaking, choices of tools, can be put into culture box, suggested temprature 0~38&deg;C<br />
+            Rotation: 5 rpm<br />
+            Shaking angle: adjustable<br />
+            Accessories: 1.5ml tubes, optional others<br />
+            Unit dimension: 360x120x150mm</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /><span style="font-size: medium">User's Manual</span><br />
+<br />
+<br />
+</span></span></p> 0 0 372 1 2010-04-04 15:56:04
+175 42 Tube Rotator WH-962 475.00 0 data/attachment/image/thumbnails/201004/2010040416034783.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">Tube Rotator<br />
+WH-962</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S27.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $475.00</span><br />
+<br />
+</span></span><a href="/shopping/product_info.php?cPath=21_25&amp;products_id=373"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" alt="" width="75" border="0" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+&nbsp;</span></span></p>
+<p><span style="color: #333333"><span style="font-family: Verdana">&nbsp;</span></span></p>
+<table cellspacing="0" cellpadding="0" width="60%" align="center" border="1">
+    <tbody>
+        <tr>
+            <td width="89">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Specifications</strong> </span></span></span></p>
+            </td>
+            <td width="254">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Tube Rotator</strong> </span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="89">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Model </span></span></span></p>
+            </td>
+            <td width="254">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">WH-962 </span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="89">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">&nbsp;</span></span></span></p>
+            </td>
+            <td width="254">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Stepless speed regulation: 0-250 rpm <br />
+            Max Speed: 250 rpm <br />
+            Display: Digital <br />
+            Platform:&nbsp;Rotor body ф350 mm, 20mlX100 <br />
+            Angle of elevation: 30 degree to horizontal <br />
+            Supply power: 110V AC <br />
+            Dimensions: 13.8x10.6x16.5 in </span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<img alt="" src="/userfiles/S27Ss.jpg" /><br />
+<br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="font-family: Verdana">User's Manual</span></span></span></p> 0 0 373 1 2010-04-04 16:03:47
+167 42 Horizontal Receptacle Shaker ZD-8800 750.00 0 data/attachment/image/thumbnails/201004/2010040415133783.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">Horizontal Receptacle Shaker <br />
+ZD-8800</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S19.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $750.00</span><br />
+<br />
+</span></span><a href="/shopping/product_info.php?cPath=21_25&amp;products_id=369"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" alt="" width="75" border="0" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+&nbsp;</span></span></p>
+<table cellspacing="0" cellpadding="0" width="70%" align="center" border="1">
+    <tbody>
+        <tr>
+            <td width="115">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Specifications</strong> </span></span></span></p>
+            </td>
+            <td width="195">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Horizontal Reciptacal Shaker</strong> </span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="115">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Model </span></span></span></p>
+            </td>
+            <td width="195">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">ZD-8800 </span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Stepless speed adjustment: 35-202 rpm <br />
+            Max Speed: 202 rpm <br />
+            Display: digital<br />
+            Platform: 15.75&quot;x14&quot; <br />
+            Shaker: reciprocate<br />
+            Shaking displacement: 1.18&quot; <br />
+            supply power: 110V AC <br />
+            Dimensions: LxWxHH in </span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<a href="/pdf/ZD-8800-manual.pdf"><img height="47" alt="" width="46" border="0" src="/userfiles/image/PDF.jpg" /></a></span><span style="font-size: medium"><span style="font-family: Verdana"><a href="/pdf/ZD-8800-manual.pdf">User's Manual</a></span></span></span></p> 0 0 369 1 2010-04-07 09:43:47
+166 42 Orbital Shaker ZD-9556  324.00 0 data/attachment/image/thumbnails/201004/2010040415045575.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">Orbital Shaker<br />
+ZD-9556 </span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/S18.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $324.00</span><br />
+<br />
+</span></span><a href="http://www.omxie.com/shopping/product_info.php?cPath=21_25&amp;products_id=368"><span style="color: #333333"><span style="font-family: Verdana"><img border="0" alt="" width="75" height="24" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+&nbsp;</span></span></p>
+<table border="1" cellspacing="0" cellpadding="0" width="60%" align="center">
+    <tbody>
+        <tr>
+            <td width="105">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Specifications</strong> </span></span></span></p>
+            </td>
+            <td width="212">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><strong>Orbital Shaker</strong> </span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="105">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Model </span></span></span></p>
+            </td>
+            <td width="212">
+            <p align="center"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">ZD-9556 (new improved model)</span></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="317" colspan="2">
+            <p align="left"><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Stepless speed adjustment: 30-200 rpm <br />
+            Max Speed: 200 rpm <br />
+            Display: digital <br />
+            Platform: 7&quot;x11&quot; <br />
+            Shaker: orbital<br />
+            Max load capacity: 10Kg<br />
+            Shaking displacement: 0.4&quot; <br />
+            supply power: 110V AC <br />
+            Dimensions: 12.6&quot;x8.5&quot;x5&quot; </span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<a href="/pdf/zd-9556-manual.pdf"><img border="0" alt="" width="46" height="47" src="/userfiles/image/PDF.jpg" /></a></span><span style="font-size: medium"><span style="font-family: Verdana"><a href="/pdf/zd-9556-manual.pdf">User's Manual</a></span></span></span></p> 0 0 368 1 2010-06-09 01:56:13
+88 29 ML-52TC/ML-52TN Lead-Free Soldering Pot 298.00 0 data/attachment/image/thumbnails/201004/2010040209254375.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">ML-52TC/ML-52TN <br />
+Lead-Free Soldering Pot</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img height="255" width="400" alt="" src="/userfiles/ML52TC1.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $298</span><br />
+<br />
+</span></span><a href="/shopping/product_info.php?cPath=21_25&amp;products_id=270"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" width="75" border="0" alt="" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Power: 2000W<br />
+            Temperature: 200&deg;C~ 430&deg;C<br />
+            Solder pot size: 255x210x60 mm<br />
+            Solder pot capacity: 27Kg<br />
+            Unit dimension: 470x270x150 mm</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="font-family: Verdana">User's Manual</span></span></span></p> 0 0 270 1 2010-04-02 09:25:43
+89 29 ML-52T3 Lead-Free Soldering Pot 248.00 0 data/attachment/image/thumbnails/201004/2010040209310354.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">ML-52T3<br />
+Lead-Free Soldering Pot</span></span></span></strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></span><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<img height="181" width="392" alt="" src="/userfiles/ML-52T3.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $248<br />
+</span><br />
+</span></span><a href="/shopping/product_info.php?cPath=21_25&amp;products_id=271"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" width="75" border="0" alt="" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Power: 800W<br />
+            Temperature: 200&deg;C~ 430&deg;C<br />
+            Solder pot size: 160x110x60 mm<br />
+            Solder pot capacity: 9Kg<br />
+            Unit dimension: 375x170x150 mm</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="font-family: Verdana">User's Manual</span></span></span></p> 0 0 271 1 2010-04-02 09:31:03
+90 29 ML-82TC Titanium Lead-Free Soldering Pot 898.00 0 data/attachment/image/thumbnails/201004/2010040209383229.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">ML-82TC <br />
+Titanium Lead-Free Soldering Pot</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img height="462" width="394" alt="" src="/userfiles/ML-82TC.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $898</span><br />
+<br />
+</span></span><a href="/shopping/product_info.php?cPath=21_25&amp;products_id=275"><span style="color: #333333"><span style="font-family: Verdana"><img height="24" width="75" border="0" alt="" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Power: 3000W<br />
+            Temperature: 200&deg;C~ 430&deg;C<br />
+            Solder pot size: 400x260x65 mm<br />
+            Solder pot capacity: 53Kg<br />
+            Unit dimension: 460x320x680 mm</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="font-family: Verdana">User's Manual</span></span></span></p> 0 0 275 1 2010-04-02 09:38:32
+91 30 SF-706 0.00 0 data/attachment/image/thumbnails/201004/2010040209480962.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="font-family: Verdana"><span style="color: #333333">SF-706</span></span></span></strong><span style="font-family: Verdana"><span style="color: #333333"><br />
+<br />
+<br />
+<img height="246" width="350" alt="" src="/userfiles/sf-706S.jpg" /><br />
+<br />
+<br />
+</span></span></p>
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333">●Max PCB size&lt;400mm <br />
+            ●Blade moving <br />
+            ●V-cut <br />
+            ●Two blades, one up and one down <br />
+            ●Weight: 45Kg</span></span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="font-family: Verdana"><span style="color: #333333"><br />
+</span></span></p>
+<p style="text-align: center"><span style="font-family: Verdana"><span style="color: #333333"><br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="color: #333333">User's Manual</span></span></span></p> 0 0 0 1 2010-04-02 09:48:09
+92 31 ZDBX-1 Stripping and Cutting Machine 2650.00 0 data/attachment/image/thumbnails/201010/2010101306430954.jpg <p style="text-align: center;"><strong><span style="font-size: x-large;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">ZDBX-1<br />
+Stripping and Cutting Machine</span></span></span></strong><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<br />
+<img width="300" height="239" alt="" src="/images/WireStrip1.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium;">Sale Price: $2650.00 </span><br />
+<br />
+<br />
+</span></span></p>
+<table width="90%" align="center" border="0" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td>
+            <p><span style="font-size: small;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">Economical model, computerized unit with lcd -display; stores up to 248 instructions. Improved features ensure &quot;zero&quot; wastage , when operating under instructions. Stops automatically when it reaches the end of the coil wire. <br />
+            <br />
+            <br />
+            <strong>Specification: <br />
+            </strong><br />
+            MODEL: ZDBX-1 <br />
+            MEASUREMENT: W360xD288xH200 mm <br />
+            WEIGHT: 20kg <br />
+            POWER SUPPLY: AC 220V or 110V<br />
+            POWER CONSUMPTION: 240W <br />
+            STRIPPING LENGTH: 0.1--30 mm <br />
+            CUTTING LENGTH: 0.1-- 99999 mm <br />
+            CUTTING TOLERANCES: (0.2&plusmn;0.002 L)mm <br />
+            WIRE TYPE: PVC, Teflon, Glass Wire <br />
+            WIRE SIZE: AWG # 18-30 <br />
+            PROCESSING CAPACITY: L=100 mm, 85pcs/min</span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
+<p style="text-align: center"><object height="385" width="640"><iframe width="640" height="360" src="https://www.youtube.com/embed/0pWxlrk2TGc?feature=player_detailpage" frameborder="0" allowfullscreen></iframe></object></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<img width="46" height="47" alt="" border="0" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium;"><span style="font-family: Verdana;"><a href="/pdf/ZDBX-1.pdf">User's Manual</a></span></span></span></p> 0 0 321 1 2012-03-02 02:29:11
+93 31 ZDBX-2 Stripping and Cutting Machine 4895.00 0 data/attachment/image/thumbnails/201004/2010040210261649.gif <p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><strong><span style="font-size: x-large;"><span style="font-family: Verdana;">ZDBX-2 <br />
+Stripping and Cutting Machine<br />
+</span></span></strong><span style="font-family: Verdana;"><br />
+<br />
+<img width="300" height="360" alt="" src="/userfiles/ZDBX2A.gif" /><br />
+<br />
+<br />
+<span style="font-size: medium;">Sale Price: $4895.00</span><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table width="90%" align="center" border="0" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td>
+            <p><span style="font-size: small;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;">Fully computerized unit with lcd -display; stores up to 248 instructions. Improved features ensure &quot;zero&quot; wastage , when operating under instructions. Stops automatically when it reaches the end of the coil wire.<br />
+            <br />
+            <br />
+            <strong>Specification:</strong><br />
+            <br />
+            MODEL: ZDBX-2 <br />
+            MEASUREMENT: W430xD340xH250 mm <br />
+            WEIGHT: 35kg <br />
+            POWER SUPPLY: AC 220V <br />
+            POWER CONSUMPTION: 260W <br />
+            STRIPPING LENGTH: 0.1--30 mm <br />
+            CUTTING LENGTH: 0.1-- 99999 mm <br />
+            CUTTING TOLERANCES: (0.2&plusmn;0.002 L)mm <br />
+            WIRE TYPE: PVC, Teflon, Glass Wire <br />
+            WIRE SIZE: AWG # 12-30 <br />
+            PROCESSING CAPACITY: L=100 mm, 90pcs/min </span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+</span></span></p>
+<p style="text-align: center;"><span style="color: rgb(51, 51, 51);"><span style="font-family: Verdana;"><br />
+<br />
+<img width="46" height="47" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium;"><span style="font-family: Verdana;">User's Manual</span></span></span></p> 0 0 322 1 2012-03-02 02:28:55
+94 31 ZDBX-3 Stripping and Cutting Machine 5250.00 0 data/attachment/image/thumbnails/201004/2010040210322063.gif <p style="text-align: center;"><strong><span style="font-size: x-large;"><span style="font-family: Verdana;"><span style="color: rgb(51, 51, 51);">ZDBX-3 <br />
+Stripping and Cutting Machine</span></span></span></strong><span style="font-family: Verdana;"><span style="color: rgb(51, 51, 51);"><br />
+<br />
+<br />
+<img width="300" height="360" alt="" src="/userfiles/ZDBX3A.gif" /><br />
+<br />
+<span style="font-size: medium;">Sale Price: $5250.00</span><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table width="90%" align="center" border="0" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td>
+            <p><span style="font-size: small;"><span style="font-family: Verdana;"><span style="color: rgb(51, 51, 51);">Two blades running vertically at the same time. Cutting, full-stripping, semi-stripping, mid-strippping. 1.5 times faster than zdbx-2.<br />
+            <br />
+            <br />
+            <strong>Specification:</strong><br />
+            <br />
+            MODEL: ZDBX-3 <br />
+            MEASUREMENT:W430xD340xH260 mm <br />
+            WEIGHT: 35 kg <br />
+            POWER SUPPLY: AC 220V <br />
+            POWER CONSUMPTION: 260W <br />
+            STRIPPING LENGTH: 0.1--30 mm <br />
+            CUTTING LENGTH: 0.1--99999 mm <br />
+            CUTTING TOLERANCES: (0.2&plusmn;0.002 L) mm <br />
+            WIRE TYPE: PVC, Teflon, Glass Wire <br />
+            WIRE SIZE: AWG # 12-30 <br />
+            PROCESSING CAPACITY: L=100 mm, 150pcs/min </span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="font-family: Verdana;"><span style="color: rgb(51, 51, 51);"><br />
+</span></span></p>
+<p style="text-align: center;"><span style="font-family: Verdana;"><span style="color: rgb(51, 51, 51);"><br />
+<img width="46" height="47" alt="" border="0" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium;"><span style="color: rgb(51, 51, 51);"><a href="/pdf/ZDBX.pdf">User's Manual</span></span></span></p> 0 0 323 1 2012-07-21 05:06:16
+97 37 EM6560 60 Mhz 2-Channel Analog Oscilloscope 498.00 0 data/attachment/image/thumbnails/201004/2010040212454430.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="font-family: Verdana">EM6560 <br />
+60 Mhz 2-Channel Analog Oscilloscope</span></span></strong><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/EM6560.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $498.00 </span><br />
+</span><br />
+<a href="/shopping/product_info.php?cPath=21_25&amp;products_id=158"><img height="24" width="75" border="0" alt="" src="/userfiles/image/buy%20it.jpg" /></a><br />
+<br />
+<br />
+&nbsp;</p>
+<p>
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td>
+            <p style="text-align: center"><strong><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333">Specifications:</span></span></span></strong><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333"><br />
+            <br />
+            Two measurement input channels, one external trig channel.&nbsp;<br />
+            <br />
+            Sensitivity and Accuracy: 5mV-20V<br />
+            Band-width: DC-60Mhz<br />
+            Rise Time: 17.5ns<br />
+            Input Coupling: AC,GND,DC<br />
+            Input Impedance: 1M ohm/30pF<br />
+            Maximum Input Voltage: 400V (DC+AC peak)<br />
+            Vertical Mode: CH1,CH2,DUAL(CHOP,ALT),ADD,CH2<br />
+            CH1 Signal Output: 25mV/div, 50 &Omega;, 20Hz-10MHz(-3dB)<br />
+            <br />
+            <strong>Horizontal Deflection: </strong><br />
+            Time Base: 0.1uS-0.2S/div</span></span></span><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333"><br />
+            Sweep Magnification: 5 times (Max sweep rate 20nS/div)</span></span></span><span style="font-size: small"><span style="font-family: Verdana"><span style="color: #333333">Accuracy: 3%,&nbsp;5% at 10X times<br />
+            Trigger Mode: Auto, Norm, TV-V, TV-H<br />
+            Trigger Source: Two channels trig, peak trig<br />
+            Trigger Coupling: AC,DC<br />
+            Trigger Slope: Rising, Falling edges<br />
+            External Trigger Input Impedance: 1M &Omega;<br />
+            Sensitivity: 20Hz-2MHz:&nbsp;0.5 div<br />
+            2MHz-20MHz: 1.5 div<br />
+            TV Signal: 1 div<br />
+            <br />
+            <strong>X-Y Operation: </strong><br />
+            Input: X axis: CH1<br />
+            Y axis: CH2<br />
+            Bandwidth: X axis:&nbsp;DC-500KHz(-3dB)<br />
+            Phase Difference: &lt; 3 degree<br />
+            Reference Clock: 1KHz&nbsp;0.5Vp-p rectangular wave<br />
+            <br />
+            <strong>Others:</strong><br />
+            Power Supply: AC110V, 10%<br />
+            Power Consumption: 45W<br />
+            Dimension: 316x132x410(mm)</span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p><span style="font-family: Verdana"><span style="color: #333333"><br />
+</span></span></p>
+<p style="text-align: center"><span style="font-family: Verdana"><span style="color: #333333"><br />
+<img height="47" alt="" width="46" border="0" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="color: #333333">User's Manual</span></span></span></p> 0 0 158 1 2010-04-02 12:45:44
+98 37 10 mhz mini analog oscilloscope 150.00 0 data/attachment/image/thumbnails/201004/2010040212551289.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="font-family: Verdana"><span style="color: #333333"><span style="background-color: #ffffff">10 mhz mini analog oscilloscope</span></span></span></span></strong><span style="font-family: Verdana"><span style="color: #333333"><span style="background-color: #ffffff"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/ca8016S.jpg" /><br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $150.00</span><br />
+<br />
+</span></span></span><span style="font-family: Verdana"><span style="color: #333333"><a href="/shopping/product_info.php?cPath=21_25&amp;products_id=163"><span style="background-color: #ffffff"><img height="24" width="75" border="0" alt="" src="/userfiles/image/buy%20it.jpg" /></span></a></span></span><span style="font-family: Verdana"><span style="color: #333333"><span style="background-color: #ffffff"><br />
+<br />
+<br />
+<br />
+</span></span></span></p>
+<p><span style="font-family: Verdana"><span style="color: #333333">
+<table cellspacing="1" cellpadding="1" width="90%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td>
+            <p><span style="font-size: small"><span style="background-color: #ffffff">Specifications:<br />
+            <br />
+            ●10MHz bandwidth. <br />
+            ●One measurement input channel, one external trig channel. <br />
+            ●Voltage division: 5V to 5mV. <br />
+            ●&nbsp;Time division: 0.1s to 0.1 us. <br />
+            ●Trig mode: auto, norm and TV. <br />
+            ●Trig source: input signal, line and external. <br />
+            ●Trig on rising or falling edge. <br />
+            ●Coupling: AC/DC/GND. <br />
+            ●One probe and manual included. <br />
+            ●Size: 9&quot;x3.5&quot;x11&quot;. <br />
+            ●Weight: 6 lb. <br />
+            ●110V power supply.</span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</span></span><span style="font-family: Verdana"><span style="color: #333333"><span style="background-color: #ffffff"><br />
+</span></span></span></p>
+<p style="text-align: center"><span style="font-family: Verdana"><span style="color: #333333"><span style="background-color: #ffffff"><br />
+<br />
+<img height="47" width="46" border="0" alt="" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="background-color: #ffffff">User's Manual</span></span></span></span></p> 0 0 163 1 2010-04-02 12:55:12
+99 40 CA4810A Transistor Curve Tracer 757.00 0 data/attachment/image/thumbnails/201004/2010040213020527.jpg <p style="text-align: center"><strong><span style="font-size: x-large"><span style="color: #333333"><span style="font-family: Verdana">CA4810A <br />
+Transistor Curve Tracer</span></span></span></strong><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<img alt="" src="/userfiles/CA4810AM.jpg" /><br />
+<br />
+<br />
+<br />
+<span style="font-size: medium">Sale Price: $757.00</span><br />
+<br />
+</span></span><a href="/shopping/product_info.php?cPath=21_25&amp;products_id=212"><span style="color: #333333"><span style="font-family: Verdana"><img border="0" alt="" width="75" height="24" src="/userfiles/image/buy%20it.jpg" /></span></span></a><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<br />
+<br />
+</span></span></p>
+<table border="0" cellspacing="1" cellpadding="1" width="90%" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><strong><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana">Specifications:</span></span></span></strong><span style="font-size: small"><span style="color: #333333"><span style="font-family: Verdana"><br />
+            <br />
+            Current: 0-10A, 4 steps. <br />
+            Voltage: 0-500V, 5KV with optional high voltage fixture. <br />
+            Step voltage: 2V/step. <br />
+            Coupling: Coupling transistor matching, field transistor matching. </span></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="color: #333333"><span style="font-family: Verdana"><br />
+</span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-family: Verdana"><br />
+<br />
+<img border="0" alt="" width="46" height="47" src="/userfiles/image/PDF.jpg" /></span><span style="font-size: medium"><span style="font-family: Verdana"><a href="/pdf/curvetracer1.pdf">User's Manual</a></span></span></span></p>
+<p style="text-align: center"><span style="color: #333333"><span style="font-size: medium"><span style="font-family: Verdana"><img border="0" alt="" width="46" height="47" src="/userfiles/image/PDF.jpg" /><a href="/pdf/curvetracernew.pdf">Service Manual</a></span></span></span></p> 0 0 212 1 2010-07-03 08:30:36
+
++++++++++
+smtmax8_smtmax - products:(975)
+products_id,products_quantity,products_model,products_image,products_price,products_date_added,products_last_modified,products_date_available,products_weight,products_status,products_tax_class_id,manufacturers_id,products_ordered
+188 98 QSS960-T-3.2 936tips.jpg 7.0000 2010-01-05 02:46:56 2010-02-08 17:53:43 1.00 1 0 0 2
+189 99 CA1641P-20 CA1641.jpg 328.0000 2010-01-05 02:47:00 2010-02-25 12:37:18 6.00 1 0 0 1
+190 95 QSS960-T-B 936tips.jpg 6.0000 2010-01-05 02:47:31 2010-02-08 17:54:31 1.00 1 0 0 5
+191 100 zrOD1s.jpg 39.0000 2010-01-05 02:47:54 2010-02-01 13:01:43 4.00 1 0 0 0
+192 68 QSS960-T-LB 936tips.jpg 6.5000 2010-01-05 02:48:15 2010-02-08 17:55:22 1.00 1 0 0 32
+202 100 EM1635 1635.jpg 146.0000 2010-01-05 02:55:56 2010-02-01 13:02:26 9.00 1 0 0 0
+194 92 QSS960-T-I 936tips.jpg 6.0000 2010-01-05 02:48:57 2010-02-08 17:54:47 1.00 1 0 0 8
+195 100 AV1485 1485.jpg 0.0000 2010-01-05 02:49:03 2010-01-13 21:36:21 2010-01-25 00:00:00 0.00 0 0 0 0
+196 97 QSS960-T-LI 936tips.jpg 7.0000 2010-01-05 02:49:43 2010-02-08 17:55:37 1.00 1 0 0 3
+197 100 WY1055 wy1055.jpg 0.0000 2010-01-05 02:50:03 2010-01-13 21:37:45 2010-01-25 00:00:00 0.00 0 0 0 0
+279 100 M50 M50.jpg 28500.0000 2010-01-05 03:52:17 2010-02-08 18:09:44 100.00 1 0 0 0
+280 100 SFJT-8 SFJT-8 Lead Free Soldering Fountatin.jpg 2150.0000 2010-01-05 03:52:50 2010-01-25 00:00:00 20.00 1 0 0 0
+281 100 E9060 E9060.jpg 12800.0000 2010-01-05 03:53:15 2010-02-08 18:10:48 100.00 1 0 0 0
+282 5 AE-R330A AE330s.jpg 4100.0000 2010-01-05 04:03:18 2011-01-05 17:17:22 145.00 1 1 0 1
+283 100 SMT-Conveyor.jpg 1295.0000 2010-01-05 04:07:26 2010-01-25 00:00:00 95.00 1 0 0 0
+284 100 PX37-BGA aut PX37-BGA.jpg 19485.0000 2010-01-05 04:31:08 2010-02-09 12:17:20 100.00 1 0 0 0
+285 100 QK855T QK855T.jpg 4550.0000 2010-01-05 04:33:12 2010-02-09 12:21:41 20.00 1 0 0 0
+286 100 SMD-IR BGA R IR-BGA.jpg 9885.0000 2010-01-05 04:35:13 2010-02-09 12:26:12 100.00 1 0 0 0
+287 100 QK-IR2005 an qkbgapackage.jpg 14950.0000 2010-01-05 04:36:15 2010-02-09 12:17:58 100.00 1 0 0 0
+288 100 High Precisi qkbgapackage.jpg 2349.0000 2010-01-05 04:40:23 2010-01-25 00:00:00 0.00 1 0 0 0
+738 100 GDM-8034 gdm-8034.jpeg 166.0000 2010-01-07 03:49:59 2010-02-08 15:12:39 10.00 1 0 0 0
+739 100 TPR3030H TPR3030H.jpg 445.0000 2010-01-07 03:50:07 2010-02-09 12:07:41 20.00 1 0 0 0
+740 100 TPR6005 TPR6005.jpg 252.0000 2010-01-07 03:50:37 2010-02-09 12:07:53 20.00 1 0 0 0
+741 100 GPM-8212R GPM-8212.jpeg 685.0000 2010-01-07 03:51:32 2010-02-08 15:13:08 10.00 1 0 0 0
+742 100 LCR-821 lcr-819.jpg 2304.0000 2010-01-07 03:54:25 2010-02-08 15:14:07 10.00 1 0 0 0
+743 100 LCR-819 lcr-819.jpg 1665.0000 2010-01-07 03:59:32 2010-02-08 15:14:03 0.00 1 0 0 0
+744 100 m3-18-1.jpg 34.0000 2010-01-07 04:02:04 2010-02-08 17:27:33 1.00 1 0 0 0
+745 100 A1135 m3-18-1.jpg 34.5000 2010-01-07 04:07:07 2010-02-08 17:29:57 1.00 1 0 0 0
+746 100 LCR -817 lcr-819.jpg 1377.0000 2010-01-07 19:57:28 2010-02-08 15:13:59 10.00 1 0 0 0
+747 100 LCR -816 lcr-819.jpg 810.0000 2010-01-07 20:04:24 2010-02-08 15:13:13 10.00 1 0 0 0
+
++++++++++
+
+ 

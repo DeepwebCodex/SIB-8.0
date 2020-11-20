@@ -1,0 +1,652 @@
+www.crom.co.uk/news.php?id=1
+ 
+acp -  :()
+
++++++++++
+
+ 
+base5music -  :()
+
++++++++++
+
+ 
+bsg -  :()
+
++++++++++
+
+ 
+bti -  :()
+
++++++++++
+
+ 
+buv -  :()
+
++++++++++
+
+ 
+ccg -  :()
+
++++++++++
+
+ 
+ckidz -  :()
+
++++++++++
+
+ 
+colwallconveyors -  :()
+
++++++++++
+
+ 
+crom - admin:(1)
+id,email,password,forgotten_pasword_ref
+2 admin@crom 886a3d74c134b0b52359ba44daeaac1b penna6w5x7b2fea5smkb0tqs8kue5h0kn
+
++++++++++
+crom - components:(6)
+id,component,online
+1 jquery 1
+2 jquery_ui 1
+3 fancybox 1
+4 select2 1
+5 datatables 1
+6 colpick 0
+
++++++++++
+crom - crom_news:(13)
+id,title,content,status,smaller,display_image,snippet,event_time,entered
+1 Tax Seminar Over the last few years and particularly since the advent of the 50% tax rate, interest in utilising legal methods to reduce personal tax liabilities has grown significantly.
+
+For instance a Company Director earning in excess of &pound;50,000 per year could retain up to 80&percent; of their earnings, whilst the company could reduce payroll costs by in excess of 13% and receive full tax relief on the expenditure!
+
+So how can it be done?
+
+If you earn (by salary and/or dividends) &pound;50,000 or more per annum and/or
+You have individual employees earning &pound;50,000 or more per annum
+
+If you would like to learn how to achieve these savings you should attend the "Keeping What You Earn!" breakfast event being hosted by Crombies on Wednesday 2nd February at The Mount Hotel & Conference Centre, Mount Road, Tettenhall Wood, Wolverhampton, WV6 8HL. 
+
+Registration for this FREE event will be from 8.00am for the seminar which will run from 8.30am until 10.30am. 
+
+This presentation will introduce you to the development and registration of the tax strategies, how their implementation is handled and how any H M Revenue & Customs queries are dealt with.
+
+Then once you have an understanding of this type of planning you will be introduced to the strategies to be taken advantage of immediately to significantly mitigate your tax liability.
+You will benefit from this presentation if you can answer yes to any of the following:
+&middot; You're a company director with income of &pound;50,000 or more 
+&middot; You have employees or external contractors with income in excess of &pound;50,000 
+&middot; Your company profits are in excess of &pound;100,000 per annum 
+&middot; You utilise contractors or are a contractor with earnings in excess of &pound;50,000 
+&middot; You have employee groups earning &pound;40,000 or more per annum each 
+Key members of our tax support team will be available directly after the seminar for one to one discussions on your own personal circumstances giving you the chance to maximise your time by tailoring what you've learnt to your circumstances.
+To book your place, please call Gareth Perrett on 01902 773 993 and start to keep more of what you earn and pay less tax! live Tax Seminar
+
+Date: Wednesday, 2nd February 2011.
+ 
+Time: 08.30am to 10.30am
+
+Place: The Mount Hotel & Conference Centre, Mount Road, Tettenhall Wood, Wolverhampton, WV6 8HL. images/tax_icon.jpg This presentation will introduce you to the development and registration of the tax strategies, how their implementation is handled and how any H M Revenue & Customs queries are dealt with. 2nd February 2011 2011-02-02 00:00:00
+2 Tax Surgery <p>Crombies accountants are launching a free tax surgery to be held at their Waterloo Road offices. The surgery will be run by Mr Gareth Perrett a Chartered Tax Advisor (CTA) at the firm. Mr Perrett said, &quot;This service is just a continuation of the proactive way in which Crombies act for our own clients&quot;. Regardless of size, Crombies would welcome any business or individual feeling that they need some tax assistance. To book your 15 minute slot call: 01902 7739993 or email <a href="mailto:garethp@crom.co.uk">garethp@crom.co.uk</a>.</p> 0 <p>Tax Surgery Date: Ongoing Place: Crombies Accountants 34 Waterloo Road Wolverhampton WV1 4DG</p> images/tax_surgery_icon.jpg <p>Crombies accountants are launching a free tax surgery to be held at their Waterloo road offices.</p> January 2011 2011-01-12 00:00:00
+3 WBA FC Partnership Cup <p>Crombies Accountants took part in The Albion Foundation Cup 2010. Fielding a team of fit and naturally gifted footballers Crombies failed to advance to the second stage of the competition due to &#39;injuries&#39;. Our goalie <a href="http://www.replicasreloj.com/category/panerai/">panerai replica</a>&nbsp;played a blinder but our star man was taken off after the 1st game due to &#39;fatigue&#39;. Overall a big effort was put in by all who took part and we look forward to the next competition.</p> live <p>The Albion Foundation Partnership Cup 2010 Date: Tuesday 17th September 2010 Time: 17.30pm Place: West Bromwich Albion FC Indoor Academy Dome, Off Halford Lane, West Bromwich,</p> images/wba_partnership_icon.jpg <p>Crombies Accountants took part in the West Bromwich FC Partnership Cup, fielding a team of fit and naturally gifted footballers.</p> September 2011 2011-01-12 00:00:00
+4 World Cup Screening <h2>Don't let your business commitments disturb your sporting entertainment this summer</h2>
+
+
+The FIFA World Cup is both an incredible sporting and social occasion, and what better way to channel the intense passion and excitement than combining business and pleasure at a World Cup themed networking event? 
+Crombies would like to invite you along on Wednesday,  June 23rd to an event which incorporates the screening of England's final World Cup group game against Slovenia.
+
+The event will take place at:
+Wolverhampton Lawn Tennis & Squash Club, 
+53 Newbridge Crescent, 
+Wolverhampton, 
+WV6 0LH
+
+The event will get underway from 1.00pm followed by a hot buffet lunch served from 1.30pm, followed by the game on a big screen TV, KO at 3 o'clock.
+
+Please see the attached invite, please complete and return via email or fax to us as soon as possible.
+
+We look forward to seeing you on June 23rd. live World Cup Screening
+
+Date: 23rd June 2010
+
+Time: 13.00pm
+
+Place: Wolverhampton Lawn Tennis & Squash Club,
+53 Newbridge Crescent,
+Wolverhampton,
+WV6 0LH images/world_cup_icon.jpg Crombies would like to invite you along on Wednesday, June 23rd to an event which incorporates the screening of England's final World Cup group game against Slovenia. 23rd June 2010 2010-06-23 16:25:42
+5 Football Tournament Swap the office for the football pitch this summer!
+
+It’s a great time to be a football fan - The World Cup is upon us and if you are as proud a Midlander as we are, with four of our teams going head to head in the Premiership next season, there is plenty to look forward to. 
+
+Crombies Accountants and DBL Talbots Solicitors would like to celebrate the summer of football and invite your company to assemble a team comprising your best goal scoring talent (or if that is too much of an overstatement, a group of you who fancy a fun evening away from the office!) to take on a collection of other business' teams from around the Midlands. 
+
+The event will take place at the Goals football complex in Dudley where 32 teams will battle head to head in a 5-a-side tournament for the mantle of best footballing business in the Black Country, and we want you to be there! Food and refreshments are provided. 
+
+Each team will compete under the name of a World Cup nation - so whether you are playing as Spain or Slovenia, we promise you a fun packed, highly competitive evening of sport and interaction with multiple business representatives from around the West Midlands. 
+
+When: Monday July 5th, 2010 
+Where: Goals- Dudley, Cakemore Road, Rowley Regis, Dudley. B65 0QX 
+Starts: Assemble for 17:00 in the bar with the first match KO at 17:30 
+Entry Fee: &pound;85 + VAT per team - as well as a separate &pound;10 donation to a nominated charity. 
+
+We would request your confirmations and payment as soon as possible please. The deadline for receipt of payment is June 18th 2010. live Football Tournament
+
+Date: 5th July 2010
+
+Time: 17.00pm
+
+Place:  Goals- Dudley, Cakemore Road, Rowley Regis, Dudley. B65 0QX images/talbots.jpg Crombies Accountants and DBL Talbots Solicitors would like to celebrate the summer of football and invite your company to assemble a team comprising your best goal scoring talent (or if that is too much of an overstatement, a group of you who fancy a fun evening away from the office!) to take on a collection of other business' teams from around the Midlands. 5th July 2010 2010-07-05 16:43:39
+6 Crombies Go Karting Team Take 2nd Place! The odds were stacked against us but the Crombies lads came up trumps last night in the Accountants Grand Prix at The Raceway in Birmingham, there was stiff competition from Price Pearson who beat us to first place, but given the circumstances and with a skeleton team, Dave & Charles (Pictured below) gave it their all and were rewarded for their perseverance with a place on the podium. 
+Well Done!!! live Pictured (left) Dave and Charles form Crombies. (right) Scoreboard images/karting.jpg The odds were stacked against us but the Crombies lads came up trumps last night in the Accountants Grand Prix at The Raceway in Birmingham 10th May 2011 2011-05-13 10:52:36
+7 Iron Butt Rally <p>On Thursday 16th June 2011 our very own John Young (Director), will be taking part in The Iron Butt Rally held in the United States. The rally consists of five checkpoints located around the perimeter of the United States, in order to be considered a finisher the riders must be present at each of these checkpoints within a two hour window. No consideration is given for bad weather, riders can expect to ride through severe thunderstorms, hurricanes and the occasional tornado. Temperature extremes routinely run 125 degrees or more in the desert Southwest, in living up to the name &#39;Worlds Toughest Motorcycle Competition&#39;, event organizers intentionally route the rally through such places as Death Valley or the Mojave Desert during the hottest part of the day, to extreme cold at the top of mountains like Pike&#39;s Peak in Colorado. We will be posting updates on John&#39;s progression through his gruelling journey on the Crombies Blog, so please show your support and follow his success.</p> live <p>On Thursday 16th June 2011 our very own John Young (Director), will be taking part in The Iron Butt Rally held in the United States.</p> images/ironbuttrally.jpg <p>On Thursday 16th June 2011 our very own John Young (Director), will be taking part in The Iron Butt Rally held in the United States.</p> 16th June 2011 2011-08-01 15:50:26
+9 Test Post 2 <p>Test&nbsp;</p> 0 <p>Test Side Content</p> <p>Test Snippet</p> 5th August 2015 2015-08-04 10:50:53
+10 Example Event <p>Test Content</p> 0 <p><span style="line-height: 20.7999992370605px;">Test Side Content</span></p> <p><span style="line-height: 20.7999992370605px;">Test Snippet</span></p> 21st August 2015 2015-08-05 12:00:08
+8 Test Post <p>Test Content</p> 0 <p>Test Side</p> images/test-post_8.png <p>Test Snippet</p> 4th August 2015 2015-08-04 10:44:07
+
++++++++++
+crom - crom_pages:(13)
+id,title,sub_title,content,updated,side_bar
+1 index <div id="content_left">
+<h1>Welcome to Crombies Chartered Accountants</h1>
+          <p>One of the most established and respected accountancy firms in Wolverhampton and surrounding areas. Whether you're here to find out more about Crombies or to make use of our extensive resources section, we are confident you'll find what you're looking for.</p>
+          <p>We're dedicated to providing our clients with an all-round package that will ensure their business is as successful as they want it to be. As well as the usual services you would expect from an accountancy firm, we're qualified to provide additional advice on all manner of business issues.</p>
+          <p>At Crombies we appreciate the importance of long-term business relationships. Quality of advice, responsiveness and a willingness to tailor our services to suit individual needs are all reasons our clients stay with us. What's more we don't charge by the hour and don't like surprises - so we'll always agree costs with you before work begins!<br />
+          </p>
+          <br /> <br /> <br />
+          <div id="image">
+          <div id="fadeshow1"><img src="slideshow/why_choose.jpg" alt="Crombies" width="644" height="183" border="0"  /></div>
+   		  </div>
+<br clear="all">
+<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 6,
+  interval: 30000,
+  width: 644,
+  height: 200,
+  theme: {
+    shell: {
+      background: '#ac1a30',
+      color: '#000000'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#ac1a30'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    behavior: 'all'
+  }
+}).render().setUser('CrombiesWolves').start();
+</script>
+      </div> 2012-02-02 12:21:54 standard.php
+2 your-needs your-needs <h1 style="color:#990000;">Your Needs </h1>
+            <p><span style="color:#990000; font-size:16px;">At Crombies</span> we understand the importance of knowing exactly what your business needs are, and as professional accountants we believe that we can make the biggest positive impact on your business by standing alongside you and your organisation as a trusted partner.</p>
+          <p>We have listed in the left hand menu some of the service we provide. If what you are looking for is not listed please go to the contact us area to send us your request and we promise to promptly get back to you.</p>
+          <p><br />
+          </p> 2015-08-05 11:44:08 standard.php
+3 your-needs accounts-preparation <img src="images/calculator.jpg" alt="Accounts Preparation" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Accounts Preparation<br />
+          </h3>
+          <p>Businesses are required to prepare annual accounts for submission to HMRC. If you are a limited company you will also be required to file accounts with Companies House. We work with you to ensure the accounting information is accurate and submitted in good time.<br />
+            <br /><strong>
+            For more information please contact Mark Fletcher at Crombies or email: <a href="mailto:mfletcher@crom.co.uk"><span style="color:#990000;">mfletcher@crom.co.uk</span></a></strong></p> 2015-08-05 11:28:48 standard.php
+4 your-needs audit-assurance <img src="images/note-taking.jpg" alt="Audit and Assurance" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Audit &amp; Assurance (inc. Charity Audits)<br />
+          </h3>
+          <p>Our audit team provides an efficient and personal service based on an in depth understanding of your business and the environment in which it operates. We consider risk assessment to be an important part of this process as it helps us focus our work on those areas where we can make the biggest impact.</p>
+          <p>Our reports are compiled in accordance with international regulations. In addition to corporate auditing we also provide an auditing service for charities and law firms.<br />
+            <br />
+            <strong>
+            For more information please contact Mark Fletcher at Crombies or email: <a href="mailto:mfletcher@crom.co.uk"><span style="color:#990000;">mfletcher@crom.co.uk</span></a></strong></p> 2011-02-02 12:24:02 standard.php
+5 your-needs capital-gains-tax-planning <img src="images/capital_gains.jpg" alt="Capital Gains Tax Planning" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Capital Gains Tax Planning </h3>
+          <p>Capital Gains Tax is payable to the Inland Revenue when an individual or company sells or transfers an asset to someone else. You only have to pay Capital Gains Tax on disposing of an asset if you have made a chargeable gain. Typically, you make a gain if the asset is worth more than it was when you acquired it.<br />
+            <br />
+            The rate of Capital Gains Tax depends on your circumstances. In general terms, you pay tax at whatever your highest rate of tax is. Crombies will assist in the complicated and detailed calculations required in order to conclude how much Capital Gains Tax is payable on a disposal. If you are shortly due to make a disposal of an asset which you think may attract capital gains tax, please speak with us about how this tax may be mitigated.<br />
+            <br /><strong>
+            For more information please contact Ian Cattell at Crombies or email: <a href="mailto:ianc@crom.co.uk"><span style="color:#990000;">ianc@crom.co.uk</span></a></strong></p> 2015-08-05 11:28:52 standard.php
+6 your-needs company-formation-and-secretarial <img src="images/world-money.jpg" alt="Company Formation and Secretarial" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Company Formation &amp; Secretarial </h3>
+          <p>We offer UK company registration services to individuals who want to set up a limited company. If you are a sole trader, you may wish to register a business name in case you decide at a later date to set up a limited company.<br />
+            <br />
+            Our team will process all necessary forms &amp; documents for incorporating a limited company.<br />
+            In addition to our company formation service, we offer secretarial services. This is important to businesses as compliance with the Companies Act is not only a necessity but can often be time consuming. Also with company legislation always changing you will need to be fully aware of how those changes affect you and your business. Allow us to take this burden away, giving you time to concentrate on your day-to-day business.<br />
+            <br /><strong>
+            For more information please contact Gareth Perrett at Crombies or email: <a href="mailto:garethp@crom.co.uk"><span style="color:#990000;">garethp@crom.co.uk</span></a></strong></p> 2015-08-05 11:46:14 standard.php
+7 your-needs tax-investigations <img src="images/receipts.jpg" alt="Tax Investigations" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Tax Investigations</h3>
+          <p>Crombies have a wealth of experience dealing with tax enquiries and investigations. Our work on previous cases has allowed taxpayers to benefit from lower penalties and reduced overall settlement figures. We provide the highest standards of professionalism in terms of advice &amp; expertise in handling revenue involvement into taxpayers' affairs.<br />
+            <br />
+            We can manage the investigation in full, liaising with HM Revenue and the taxpayer, preparing all required disclosures and conducting all negotiations over tax, penalties, interest and settlement terms with the inspector.<br />
+            <br /><strong>
+            For more information please contact John Young at Crombies or email: <a href="mailto:johny@crom.co.uk"><span style="color:#990000;">johny@crom.co.uk</span></a></strong></p> 2011-02-02 12:24:02 standard.php
+8 your-needs business-plans-and-corporate-finance <img src="images/portfolio.jpg" alt="Business Plans" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Business Plans &amp; Corporate Finance<br />
+          </h3>
+          <p>Through the life of a business there will be times when more specialist corporate services are needed. Whether it is the need to raise finance for business expansion or investment, succession planning or mergers, you need the advice and support of a team who can guide you through the process. We operate a dedicated and experienced corporate finance team committed to identifying, creating and maximising opportunities for businesses in the West Midlands. We also assist businesses in finding the right resources to overcome any problems in obtaining funding through comprehensive business planning strategies.<br />
+            <br /><strong>
+            For more information please contact Gareth Perrett at Crombies or email: <a href="mailto:ianc@crom.co.uk"><span style="color:#990000;">ianc@crom.co.uk</span></a></strong></p> 2011-02-02 12:24:02 standard.php
+9 your-needs tax-planning <img src="images/pen-calculator.jpg" alt="Tax Planning" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Tax Planning</h3>
+          <p>At Crombies we recognise the instability of taxation. Tax rates, reliefs and allowances are constantly changing and as a result we believe it is important to use tax planning strategies to organise your business or personal affairs and take advantage of any opportunities to reduce the amount of tax that you pay. We offer comprehensive Tax saving solutions via a number of high quality providers.<br />
+            <strong>
+            For more information please contact Mark Fletcher at Crombies or email: <a href="mailto:mfletcher@crom.co.uk"><span style="color:#990000;">mfletcher@crom.co.uk</span></a></strong></strong></p> 2011-02-02 12:24:02 standard.php
+10 your-needs insolvency-advice <img src="images/thinking-on-steps.jpg" alt="Insolvency Advice" width="320" />
+<div style="clear:all">
+<br clear="all">
+<h3 style="color:#990000;">Insolvency Advice<br />
+          </h3>
+          <p>We fully understand that when running a business there are many important decisions to be made and if not made correctly the business could fail.  One of the main catalysts to the failure of a business is financial difficulty. When this happens it is important for a business to take action.<br />
+            <br />
+            Crombies will act quickly in order to relieve the company of any such pressures with clear professional advice and thorough procedures.<br />
+            <br /><strong>
+            For more information please contact John Young at Crombies or email: <a href="mailto:johny@crom.co.uk"><span style="color:#990000;">johny@crom.co.uk</span></a></strong>
+          </p> 2011-02-02 12:24:02 standard.php
+
++++++++++
+crom - our_people:(18)
+id,name,email,position,portrait,writeup,type,priority,entered
+1 Mark Fletcher mfletcher@crom.co.uk Partner portaits/mark-fletcher_1.jpg <p>I joined Crombies straight from Loughborough University in 1994 and after an excellent technical training became a partner of the firm in 2000.&nbsp; Since then, Crombies have tripled in size as a result of introducing new products and consistently maintaining a high level of service.</p>
+
+<p>I believe that by not graduating from a multi-national practice like many other practice leaders in other accountancy firms, I can relate to the ambitions and frustrations of entrepreneurial owner-managers having successfully tackled the same challenges in my own business over the last decade.</p>
+
+<p>My areas of specialism are tax planning for owner managed businesses including profit extraction planning, share valuations and profit improvement using One Page Plans.</p>
+
+<p><strong>When I&rsquo;m not at work</strong>: I am a keen sportsman, regularly playing tennis as a member of Wolverhampton Lawn Tennis &amp; Squash Club, golf at wherever they will allow me and football, (which tends to be more as a spectator these days) with my wife Karen and sons Ross &amp; Alex in the family enclosure at Molineux.&nbsp; I am also a member of Shifnal Round Table.</p> partner 15 2015-08-04 00:00:00
+11 Ian Cattell Ianc@crom.co.uk Partner portaits/ian-cattell_11.jpg <p>Having trained with a medium sized Chartered Accountancy practice in Wolverhampton, I joined Crombies in 1998 as a manager responsible for technical tax and accounting issues. I made partner in 2001.</p>
+
+<p>My specialisms include assisting clients with corporate and capital tax planning. I also operate as a business advisor for clients with specific regulatory requirements including charities, solicitors, financial advisors and travel agents.</p>
+
+<p><strong>When I&rsquo;m not at work:</strong> I am a keen skier as well enjoying the less exhilarating side of self propulsion &ndash; walking.</p> partner 16 2015-08-12 15:56:43
+7 Gareth Perrett garethp@crom.co.uk Senior Client Manager portaits/gareth-perrett_7.jpg <p>Gareth is a graduate from the University of Wolverhampton, where he achieved a first class, bachelor&rsquo;s degree in Accounting and Finance. His qualifications do not end there though, as he has gone on to pass his ACCA exams in 2007 before becoming a fully qualified Chartered Tax Advisor in 2009.</p>
+
+<p>Gareth manages a variety of client types, new business starters being a particular speciality.</p> non_partner 0 2015-08-05 10:58:43
+12 John Young johny@crom.co.uk Partner portaits/john-young_12.jpg <p>My career at Crombies began in November of 1997 and I have been a director here since 2001.</p>
+
+<p>I was educated at the Queen Mary&rsquo;s Grammar School in Walsall before becoming qualified as a Fellow Certified Chartered Accountant (FCCA), and 32 years later, I proudly remain in the accounting profession where my enthusiasm and affection for my job remains as strong as ever.</p>
+
+<p>This experience and knowledge platform enables me to provide our diverse range of Small to Medium Enterprise clientele with personalised, specific advice regarding all financial aspects of their business as well as effective, practical solutions to tax issues.</p>
+
+<p><strong>When I&rsquo;m not at work:</strong> My passion is for all things 2-wheeled and petrol powered! As well as continuing to grow and maintain my own personal collection of motorbikes, I also regularly attend Motorcycle events throughout the UK and Europe as well as motorcycle rallies.</p> partner 17 2015-08-12 15:58:39
+20 Phil Coakes philc@crom.co.uk portaits/phil-coakes_20.jpg <p>Phil joined the firm in 2012 having previously worked for both large and small accountancy practices where he obtained a wide experience of various types of accounting assignments.</p>
+
+<p>His role at Crombies involves the preparation of accounts for all types of clients, audit and other accountancy matters.</p>
+
+<p>In his spare time he enjoys attending Wolves matches where he has been a season ticket holder for a number of years, he also enjoys listening to music, rock concerts and sampling real ales.</p> non_partner 7 2015-08-13 08:19:10
+13 Beverley Miller bevm@crom.co.uk Client Manager portaits/beverley-miller_13.jpg <p>With a Bachelor&rsquo;s degree in Accounting and Finance, Beverley began her Crombies journey as a work experience trainee who has now progressed into a fully qualified chartered accountant. Her role comprises the preparation of financial accounts, VAT returns and corporation tax returns, as well as the online filing of payroll and companies house correspondence.&nbsp;&nbsp;</p>
+
+<p>Away from the office, Beverley&rsquo;s passions include arts and crafts, and she enjoys performing and teaching dance as an assistant at a local dance school.</p> non_partner 1 2015-08-12 16:00:53
+14 Gillian Lane Gillianl@crom.co.uk Accounts/Audit Senior portaits/gillian-lane_14.gif <p>Gillian is another of our long term employees whose accuracy, attention to detail and unwavering focus, are all integral to her role. Gillian spends a lot of her time on the road, visiting clients at their premises to ensure that we can deliver the personal, tailored, hands on service that we are renowned for. A keen traveller, Gillian enjoys going on holiday, but domestically, she is also able to apply her accuracy traits in the kitchen, where she follows as well as creating her own recipes.</p> non_partner 4 2015-08-12 16:01:33
+15 Peter Mason peterm@crom.co.uk portaits/peter-mason_15.jpg <p>Peter is a graduate from Staffordshire University where he achieved a first class Bachelor&rsquo;s degree in Accounting and Finance. He trained with Crombies and passed his ACCA qualifications in 2012.</p>
+
+<p>His role at Crombies comprises the preparation and filing of accounts, various types of tax returns, auditing&nbsp;<a href="http://www.fvfvxs.com/">replique montre france</a> and payroll processing. Away from work, Peter enjoys spending time outdoors running, cycling or playing a round of golf.&nbsp;</p> non_partner 6 2015-08-12 16:02:12
+16 Sharon Sayer sharons@crom.co.uk Client Manager portaits/sharon-sayer_16.jpg <p>Sharon has been a qualified accountant for longer than she cares to remember and is a key contributor to the Crombies ethos of experience and professionalism. Her role involves the supervision and review of accounts for all types of Crombies clients, be they a sole trader, partnership or limited company. She also prepares income tax returns and deals with additional accountancy matters on an adhoc basis.</p>
+
+<p><strong>When I&rsquo;m not at work:</strong> I enjoy the odd glass of wine or two with friends, reading and visits to the theatre.&nbsp; I am known as &lsquo;The crazy cat lady&rsquo; as I have a brood of 5 cats at home (as well as the husband!)</p>
+
+<p>&nbsp;</p> non_partner 2 2015-08-12 16:34:49
+17 Sue Ryder suer@crom.co.uk portaits/sue-ryder_17.jpg <p>Who better qualified for a tax management role than a previous employee of the Inland Revenue? From this experience and knowledge platform, Sue is able to efficiently process the often complex fiscal aspects of our client services.</p>
+
+<p>Away from work, Sue is a keen gardener, a relaxing past-time which isn&rsquo;t too taxing... (we couldn&rsquo;t resist).</p> non_partner 5 2015-08-12 16:35:21
+
++++++++++
+crom - resources:(59)
+id,title,file,type,priority,entered
+67 Travel travails briefings/travel-travails_67.pdf 3 15 2016-11-15 08:26:26
+52 Tax Incentive for investors briefings/tax-incentive-for-investors_52.pdf 3 42 2015-08-13 09:22:36
+61 Research and Development - making claims easier briefings/research-and-development-making-claims-easier_61.pdf 3 29 2015-11-13 09:04:17
+62 Winter 2015 newsletters/winter-2015_62.pdf 1 28 2015-11-13 09:04:33
+63 Autumn 2016 newsletters/autumn-2016_63.pdf 1 26 2016-08-30 10:00:56
+64 Tax Issues briefings/tax-issues_64.pdf 3 27 2016-08-30 10:01:50
+26 Year 2013 downloads/Crombies_C092_BR13.pdf 2 47 2015-08-04 02:00:00
+27 Year 2012 Budget budget_reports/Crombies (C092)_BR12.pdf 2 48 2015-08-04 00:00:00
+28 Year 2011 Budget budget_reports/budget 2011.pdf 2 49 2015-08-04 00:00:00
+29 Year 2010 2nd Budget budget_reports/2010_2_BR.pdf 2 50 2015-08-04 00:00:00
+
++++++++++
+crom - services:(13)
+id,title,display_title,url_title,content,image,status,created
+1 Accounts Preparation Accounts Preparation accounts-preparation <p><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Businesses are required to prepare annual accounts for submission to HMRC. If you are a limited company you will also be required to file accounts with Companies House. We work with you to ensure the accounting information is accurate&nbsp;</span><a href="http://www.orologi-replica.it/">imitazioni orologi</a><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;"> and submitted in good time.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<br />
+<strong>For more information please contact Mark Fletcher at Crombies or email: <a href="mailto:mfletcher@crom.co.uk"><span style="color:#990000;">mfletcher@crom.co.uk</span></a></strong></p> images/_service_accounts-preparation_1.jpg 1 2015-08-05 10:24:26
+4 Audit Assurance Audit & Assurance (inc. Charity Audits) audit-assurance <p style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Our audit team provides an efficient and personal service based on an in depth understanding of your business and the environment in which it operates. We consider risk assessment to be an important part of this process as it helps us focus our work on those areas where we can make the biggest impact.</p>
+
+<p style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Our reports are compiled in accordance with international regulations. In addition to corporate auditing we also provide an auditing service for charities and law firms.</p>
+
+<p style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;"><strong style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">For more information please contact Mark Fletcher at Crombies or email:<a href="mailto:mfletcher@crom.co.uk" style="color: rgb(140, 140, 142);"><span style="color: rgb(153, 0, 0);">mfletcher@crom.co.uk</span></a></strong></p> images/_service_audit-assurance_4.jpg 1 2015-08-05 10:48:39
+5 Capital Gains Tax Planning Capital Gains Tax Planning capital-gains-tax-planning <p><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Capital Gains Tax is payable to the Inland Revenue when an individual or company sells or transfers an asset to someone else. You only have to pay Capital Gains Tax on disposing of an asset if you have made a chargeable gain. Typically, you make a gain if the asset is worth more than it was when you acquired it.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">The rate of Capital Gains Tax depends on your circumstances. In general terms, you pay tax at whatever your highest rate of tax is. Crombies will assist in the complicated and detailed calculations required in order to conclude how much Capital Gains Tax is payable on a disposal. If you are shortly due to make a disposal of an asset which you think may attract capital gains&nbsp;</span><a href="http://orologivip.com/Categorie/patek-philippe/">patek philippe replica</a><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;"> tax, please speak with us about how this tax may be mitigated.</span></p>
+
+<p><strong style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">For more information please contact Ian Cattell at Crombies or email:&nbsp;<a href="mailto:ianc@crom.co.uk" style="color: rgb(140, 140, 142);"><span style="color: rgb(153, 0, 0);">ianc@crom.co.uk</span></a></strong></p> images/_service_capital-gains-tax-planning_5.jpg 1 2015-08-05 10:49:16
+6 Company Formation & Secretarial Company Formation & Secretarial company-formation-secretarial <p><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">We offer UK company registration services to individuals who want to set up a limited company. If you are a sole trader, you may wish to register a business name in case you decide at a later date to set up a limited company.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Our team will process all necessary forms &amp; documents for incorporating a limited company.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">In addition to our company formation service, we offer secretarial services. This is important to businesses as compliance with the Companies Act is not only a necessity but can often be time consuming. Also with company legislation always changing you will need to be fully aware of how those changes affect you and your business. Allow us to take this burden away, giving you time to concentrate on your day-to-day business.</span></p>
+
+<div id="content_left" style="float: left; width: 646px; line-height: 18px; font-size: 14px; color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif;">
+<div>
+<p><strong>For more information please contact Gareth Perrett at Crombies or email:&nbsp;<a href="mailto:garethp@crom.co.uk" style="color: rgb(140, 140, 142);"><span style="color: rgb(153, 0, 0);">garethp@crom.co.uk</span></a></strong></p>
+</div>
+</div>
+
+<p>&nbsp;</p> images/_service_company-formation-secretarial_6.jpg 1 2015-08-05 10:49:56
+7 Tax Investigations Tax Investigations tax-investigations <p><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Crombies have a wealth of experience dealing with tax enquiries and investigations. Our work on previous cases has allowed taxpayers to benefit from lower penalties and reduced overall settlement figures. We provide the highest standards of professionalism in terms of advice &amp; expertise in handling revenue involvement into taxpayers&#39; affairs.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">We can manage the investigation in full, liaising with HM Revenue and the taxpayer, preparing all required disclosures and conducting all negotiations over tax, penalties, interest and settlement terms with the inspector.</span></p>
+
+<div id="content_left" style="float: left; width: 646px; line-height: 18px; font-size: 14px; color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif;">
+<div>
+<p><strong>For more information please contact John Young at Crombies or email:&nbsp;<a href="mailto:johny@crom.co.uk" style="color: rgb(140, 140, 142);"><span style="color: rgb(153, 0, 0);">johny@crom.co.uk</span></a></strong></p>
+</div>
+</div> images/_service_tax-investigations_7.jpg 1 2015-08-05 11:11:05
+8 Business Plans & Corporate Finance Business Plans & Corporate Finance business-plans-corporate-finance <p><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Through the life of a business there will be times when more specialist corporate services are needed. Whether it is the need to raise finance for business expansion or investment, succession planning or mergers, you need the advice and support of a team who can guide you through the process. We operate a dedicated and experienced corporate finance team committed to identifying, creating and maximising opportunities for businesses in the West Midlands. We also assist&nbsp;</span><a href="http://www.orologireplicadilusso.com/categorie/audemars-piguet/">audemars piguet replica</a><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;"> businesses in finding the right resources to overcome any problems in obtaining funding through comprehensive business planning strategies.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<strong style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">For more information please contact Gareth Perrett at Crombies or email:&nbsp;<a href="mailto:ianc@crom.co.uk" style="color: rgb(140, 140, 142);"><span style="color: rgb(153, 0, 0);">ianc@crom.co.uk</span></a></strong></p> images/_service_business-plans-corporate-finance_8.jpg 1 2015-08-05 11:12:11
+9 Tax Planning Tax Planning tax-planning <div style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">
+<p>At Crombies we recognise the instability of taxation. Tax rates, reliefs and allowances are constantly changing and as a result we believe it is important to use tax planning strategies to organise your business <a href="http://www.orologioreplicaitalia.com/categorie/iwc/">iwc replica</a>&nbsp;or personal affairs and take advantage of any opportunities to reduce the amount of tax that you pay. We offer comprehensive Tax saving solutions via a number of high quality providers.<br />
+<strong>For more information please contact Mark Fletcher at Crombies or email:<span style="color: rgb(153, 0, 0);"><a href="mailto:mfletcher@crom.co.uk" style="color: rgb(140, 140, 142);">mfletcher@crom.co.uk</a></span></strong></p>
+</div> images/_service_tax-planning_9.jpg 1 2015-08-05 11:13:02
+10 Insolvency Advice Insolvency Advice insolvency-advice <p><span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">We fully understand that when running a business there are many important decisions to be made and if not made correctly the business could fail. One of the main catalysts to the failure of a business is financial difficulty. When this happens it is important for a business to take action.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<span style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">Crombies will act quickly in order to relieve the company of any such pressures with clear professional advice and thorough procedures.</span><br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<br style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;" />
+<strong style="color: rgb(113, 113, 113); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">For more information please contact John Young at Crombies or email:&nbsp;<a href="mailto:johny@crom.co.uk" style="color: rgb(140, 140, 142);"><span style="color: rgb(153, 0, 0);">johny@crom.co.uk</span></a></strong></p> images/_service_insolvency-advice_10.jpg 1 2015-08-05 11:15:15
+11 Payroll Operations Payroll Operations payroll-operations <p><span style="color: rgb(113, 113, 113); line-height: 18px; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">Regardless of the number of employees you have, we can handle your payroll needs. Payroll outsourcing is an important time saving administration process that every employer should consider. We tailor our payroll service to suit your individual requirements and provide a well managed payroll solution.</span><br style="color: rgb(113, 113, 113); line-height: 18px; font-family: Arial, Helvetica, sans-serif; font-size: 14px;" />
+<br style="color: rgb(113, 113, 113); line-height: 18px; font-family: Arial, Helvetica, sans-serif; font-size: 14px;" />
+&nbsp;</p> images/_service_payroll-operations_11.jpg 1 2015-08-05 11:15:52
+14 Auto Enrolment Auto Enrolment auto-enrolment <p>Pensions automatic enrolment is with us and the staging dates for smaller companies are on the horizon.&nbsp;&nbsp; Between 2014 and 2015, there will be on average 3,000 companies per month having to comply with auto enrolment (known as staging), with heavy daily fines for missing staging dates from The Pensions Regulator.</p>
+
+<p>Between 2015 and 2017, over 1 million companies will be staging, which is a staggering 51,134 companies per month.</p>
+
+<p>Do not leave this until the last minute, or think &ldquo;it doesn&rsquo;t affect me&rdquo; because anyone with a PAYE reference MUST comply and there are serious fines for non-compliance.</p>
+
+<p>In order to assist our clients with meeting the above requirements of Automatic Enrolment we have registered the firm as Advisors with both the National Employment Savings Trust (NEST) and The Peoples Pensions.&nbsp;</p>
+
+<p>If following your own research you decide that you wish to use <a href="http://www.orologioreplicaitalia.com/categorie/omega/">omega replica</a>&nbsp;either of the above pension providers, we will be able to assist you with the set up of your businesses new pension scheme.&nbsp;</p>
+
+<p>Please call or email Gareth Perrett (<a href="mailto:Garethp@crom.co.uk">Garethp@crom.co.uk</a>) if you would like to engage with us to assist you with the set up or operation of your Auto Enrolment obligations.</p> images/_service_auto-enrolment_14.png 1 2015-08-13 09:27:21
+
++++++++++
+crom - settings:(8)
+id,name,value,checkbox
+1 Display Facebook 1
+2 Facebook URL https://www.facebook.com/CrombiesAccountants 0
+3 Display Twitter 1
+4 Twitter URL http://twitter.com/CrombiesWolves 0
+5 Display Blog 1
+6 Blog URL http://crombiesaccountants.blogspot.com/ 0
+7 Display LinkedIn 1
+8 LinkedIn URL http://www.linkedin.com/pub/crombies-accountants/41/104/9a8 0
+
++++++++++
+
+ 
+dmb1 -  :()
+
++++++++++
+
+ 
+dmb2 -  :()
+
++++++++++
+
+ 
+energyextra -  :()
+
++++++++++
+
+ 
+esc -  :()
+
++++++++++
+
+ 
+fgdltd -  :()
+
++++++++++
+
+ 
+fpgclients -  :()
+
++++++++++
+
+ 
+fpgwp -  :()
+
++++++++++
+
+ 
+gallery2kev -  :()
+
++++++++++
+
+ 
+hpc -  :()
+
++++++++++
+
+ 
+hunslet -  :()
+
++++++++++
+
+ 
+hurst -  :()
+
++++++++++
+
+ 
+iep -  :()
+
++++++++++
+
+ 
+iepassociate -  :()
+
++++++++++
+
+ 
+ilweb -  :()
+
++++++++++
+
+ 
+indbrakes -  :()
+
++++++++++
+
+ 
+jdgears -  :()
+
++++++++++
+
+ 
+kidzacademy -  :()
+
++++++++++
+
+ 
+kidzworlduk -  :()
+
++++++++++
+
+ 
+kwc -  :()
+
++++++++++
+
+ 
+kwcblog -  :()
+
++++++++++
+
+ 
+leelist -  :()
+
++++++++++
+
+ 
+lhgsurvey -  :()
+
++++++++++
+
+ 
+mbmblog -  :()
+
++++++++++
+
+ 
+mbmsite -  :()
+
++++++++++
+
+ 
+meter -  :()
+
++++++++++
+
+ 
+mti -  :()
+
++++++++++
+
+ 
+mysql -  :()
+
++++++++++
+
+ 
+osmblog -  :()
+
++++++++++
+
+ 
+prowifi -  :()
+
++++++++++
+
+ 
+raisingprofiles -  :()
+
++++++++++
+
+ 
+shoposm -  :()
+
++++++++++
+
+ 
+shoposm2 -  :()
+
++++++++++
+
+ 
+shoptandc -  :()
+
++++++++++
+
+ 
+steamplant -  :()
+
++++++++++
+
+ 
+stikit -  :()
+
++++++++++
+
+ 
+tcmwebdesign -  :()
+
++++++++++
+
+ 
+tdc -  :()
+
++++++++++
+
+ 
+tdctest -  :()
+
++++++++++
+
+ 
+tds -  :()
+
++++++++++
+
+ 
+tds2 -  :()
+
++++++++++
+
+ 
+test - folders:(0)
+id,owner_id,user_id,folder,date
+
++++++++++
+
+ 
+test2 -  :()
+
++++++++++
+
+ 
+twf -  :()
+
++++++++++
+
+ 
+twfreg -  :()
+
++++++++++
+
+ 
+unisey -  :()
+
++++++++++
+
+ 
+visiron -  :()
+
++++++++++
+
+ 
+weblogs -  :()
+
++++++++++
+
+ 
+woodley -  :()
+
++++++++++
+
+ 
+wsd -  :()
+
++++++++++
+
+ 

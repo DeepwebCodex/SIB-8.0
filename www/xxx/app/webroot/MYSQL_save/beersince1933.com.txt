@@ -1,0 +1,355 @@
+www.beersince1933.com/Products-Western-Pennsylvania-Pittsburgh-Wholesaler-Craft-Regional-Beer/pittsburgh-beer-distribution.php?id=2743
+ 
+kenvecenie_data - 2018_stivablog_categories:(0)
+id,category,meta_title,meta_keywords,meta_description,status
+
++++++++++
+kenvecenie_data - 2018_stivablog_comments:(0)
+id,category_id,post_id,name,email,comment,modified,created,status
+
++++++++++
+kenvecenie_data - 2018_stivablog_fields:(623)
+id,key,type,label,source,modified
+
++++++++++
+kenvecenie_data - 2018_stivablog_multi_lang:(1497)
+id,foreign_id,model,locale,field,content,source
+1 1 pjField 1 title Add language script
+2 1 pjField 2 title Add language script
+3 1 pjField 3 title Add language script
+4 2 pjField 1 title Password reminder script
+5 2 pjField 2 title Password reminder script
+6 2 pjField 3 title Password reminder script
+7 3 pjField 1 title Admin Login script
+8 3 pjField 2 title Admin Login script
+9 3 pjField 3 title Admin Login script
+10 4 pjField 1 title Back-end titles script
+91 31 pjField 1 title Items per page script
+92 31 pjField 2 title Items per page script
+93 31 pjField 3 title Items per page script
+94 32 pjField 1 title Next ª script
+95 32 pjField 2 title Next ª script
+96 32 pjField 3 title Next ª script
+97 33 pjField 1 title Next page script
+98 33 pjField 2 title Next page script
+99 33 pjField 3 title Next page script
+100 34 pjField 1 title ´ Prev script
+491 189 pjField 2 title August script
+492 189 pjField 3 title August script
+493 190 pjField 1 title September script
+494 190 pjField 2 title September script
+495 190 pjField 3 title September script
+496 191 pjField 1 title Dr. script
+497 191 pjField 2 title Dr. script
+498 191 pjField 3 title Dr. script
+499 192 pjField 1 title Miss script
+500 192 pjField 2 title Miss script
+991 433 pjField 1 title There is no post found. script
+992 433 pjField 2 title There is no post found. script
+993 433 pjField 3 title There is no post found. script
+994 434 pjField 1 title There is no comment found. script
+995 434 pjField 2 title There is no comment found. script
+996 434 pjField 3 title There is no comment found. script
+997 435 pjField 1 title There is no author found. script
+998 435 pjField 2 title There is no author found. script
+999 435 pjField 3 title There is no author found. script
+1000 461 pjField 1 title Install script
+
++++++++++
+kenvecenie_data - 2018_stivablog_options:(66)
+foreign_id,key,tab_id,value,label,type,order,is_visible,style
+
++++++++++
+kenvecenie_data - 2018_stivablog_password:(0)
+id,password
+
++++++++++
+kenvecenie_data - 2018_stivablog_plugin_locale:(1)
+id,language_iso,name,flag,dir,sort,is_default
+1 en-GB English (United Kingdom) ltr 1 1
+
++++++++++
+kenvecenie_data - 2018_stivablog_plugin_locale_languages:(259)
+id,iso,title,region,native,dir,country_abbr,language_abbr,file
+1 af-ZA Afrikaans South Africa Afrikaans (Suid Afrika) ltr ZAF AFK za.png
+2 sq-AL Albanian Albania shqipe (ShqipÎria) ltr ALB SQI al.png
+3 gsw-FR Alsatian France Els‰ssisch (Fr‡nkrisch) ltr FRA GSW fr.png
+4 am-ET Amharic Ethiopia ???? (?????) ltr ETH AMH et.png
+5 ar Arabic? ???????? rtl SAU ARA empty.png
+6 ar-DZ Arabic Algeria ??????? (???????)? rtl DZA ARG dz.png
+7 ar-BH Arabic Bahrain ??????? (???????)? rtl BHR ARH bh.png
+8 ar-EG Arabic Egypt ??????? (???)? rtl EGY ARE eg.png
+9 ar-IQ Arabic Iraq ??????? (??????)? rtl IRQ ARI iq.png
+10 ar-JO Arabic Jordan ??????? (??????)? rtl JOR ARJ jo.png
+91 gl-ES Galician Galician galego (galego) ltr ESP GLC es.png
+92 ka-GE Georgian Georgia ??????? (??????????) ltr GEO KAT ge.png
+93 de German Deutsch ltr DEU DEU empty.png
+94 de-AT German Austria Deutsch (÷sterreich) ltr AUT DEA at.png
+95 de-DE German Germany Deutsch (Deutschland) ltr DEU DEU de.png
+96 de-LI German Liechtenstein Deutsch (Liechtenstein) ltr LIE DEC li.png
+97 de-LU German Luxembourg Deutsch (Luxemburg) ltr LUX DEL lu.png
+98 de-CH German Switzerland Deutsch (Schweiz) ltr CHE DES ch.png
+99 el-GR Greek Greece ???????? (??????) ltr GRC ELL gr.png
+100 kl-GL Greenlandic Greenland kalaallisut (Kalaallit Nunaat) ltr GRL KAL gl.png
+
++++++++++
+kenvecenie_data - 2018_stivablog_plugin_log:(0)
+id,filename,function,value,created
+
++++++++++
+kenvecenie_data - 2018_stivablog_plugin_log_config:(0)
+id,filename
+
++++++++++
+kenvecenie_data - 2018_stivablog_plugin_one_admin:(0)
+id,name,url,email,password
+
++++++++++
+kenvecenie_data - 2018_stivablog_posts:(1)
+id,category_id,author_id,title,body,source_path,medium_path,thumb_path,image_name,meta_title,meta_keywords,meta_description,published_date,modified,created,status
+1 0 1 MAGGIEíS FARM RUM SHOWS LOVE FOR LOCAL ANIMAL RESCUES <p><time class="entry-time" datetime="2018-02-19T11:11:43+00:00">02/19/2018</time> by <span class="entry-author"><a class="entry-author-link" href="http://craftpittsburgh.com/author/bmeyer/" rel="author"><span class="entry-author-name">Brian Meyer</span></a></span></p>
+<p>&nbsp;</p>
+<p>When it comes to love for dogs, you would be hard-pressed to find two people more caring and compassionate than the owners of Maggie&rsquo;s Farm Rum, Tim and Layla Russell. With a collection of rescue pups at their home and hanging around the distillery, it&rsquo;s easy to see how much they love their fine furry friends.</p>
+<p>&nbsp;</p>
+<p><a href="http://craftpittsburgh.com/news/maggies-farm-rum-shows-love-for-local-animal-rescues/" target="_blank">read more....</a></p> 2018-05-02 2018-05-02 19:40:58 2018-05-02 19:36:30 T
+
++++++++++
+kenvecenie_data - 2018_stivablog_roles:(2)
+id,role,status
+1 admin T
+2 author T
+
++++++++++
+kenvecenie_data - 2018_stivablog_users:(1)
+id,role_id,email,password,name,phone,created,last_login,status,is_active,ip,receive_notify
+1 1 scott@scottkowalski.com A•(ê7™F8óOÛˇ†·‹ Administrator 2018-05-02 15:31:54 2018-05-02 19:32:16 T F 74.109.240.235
+
++++++++++
+kenvecenie_data - 2018_stivablog_votes:(0)
+id,category_id,post_id,ip,vote_rate,vote_date
+
++++++++++
+kenvecenie_data - admin:(4)
+id,uname,pword
+1 skowalski@464media.com fdf54f081f6aad779b96219d8f32e981
+11 jack@beersince1933.com 2a158c99a73293dd0141199deeeb7402
+10 tony@beersince1933.com 2a158c99a73293dd0141199deeeb7402
+9 kenv@beersince1933.com 2a158c99a73293dd0141199deeeb7402
+
++++++++++
+kenvecenie_data - bad_keg:(7)
+id,account,date,account_contact,phone,barrel_brand,barrel_size,barrel_issue,brewery_contact,brewery_contact_date,disposition_instructions,date_credited_replaced,date_vecenie_recieved,sales_rep,office_complete
+8 Brewery Contact 10.07.14 Brewery Contact 000-000-0000 Brewery Contact Brewery Contact Brewery Contact Brewery Contact 0 0
+9 Brewery Contact 10.04.14 Brewery Contact 000-000-0000 Brewery Contact Brewery Contact Brewery Contact Brewery Contact 0 0
+11 Disposition Instructions 10.07.14 Disposition Instructions 000-000-0000 Disposition Instructions Disposition Instructions asdfasdDisposition Instructions Disposition Instructions 00.00.0000 Disposition Instructions 0 0
+12 Date Credited Replaced 01.27.14 adsfasdf 000-000-0000 Date Credited Replaced: Date Credited Replaced: Date Credited Replaced: Date Credited Replaced: 00.00.0000 Date Credited Replaced: 00.00.0000 0 0
+13 Account Account Account Account Account Account Account Account Account Account Account Account Account Account
+16 Vecenie Bad Keg Submission 10.07.14 Vecenie Bad Keg Submission 000-000-0000 Vecenie Bad Keg Submission Vecenie Bad Keg Submission Vecenie Bad Keg Submission Vecenie Bad Keg Submission 00.00.0000 Vecenie Bad Keg Submission 00.00.0000 00.00.0000 Vecenie Bad Keg Submission 00.00.0000
+17 Lava Lounge 02.17.15 Mike 4126366762 Troegs Nugget Nectar 1/2 Foamy and cloudy Mike Watters 02.17.2015 00.00.0000 00.00.0000 00.00.0000
+
++++++++++
+kenvecenie_data - beer_admin_to_object:(0)
+id,adminid,objectid,type,edit
+
++++++++++
+kenvecenie_data - beer_administrators:(10)
+id,user,pass,passhash,passupdate,name,email,rights,custom_data,valid,group,date,loggedin,lastloggedin,quota,language,prime_album,other_credentials,challenge_phrase,street,website,city,country,state,postal
+
++++++++++
+kenvecenie_data - beer_albums:(6)
+id,parentid,folder,title,desc,date,updateddate,location,show,closecomments,commentson,thumb,mtime,sort_type,subalbum_sort_type,sort_order,image_sortdirection,album_sortdirection,hitcounter,password,password_hint,publishdate,expiredate,total_value,total_votes,used_ips,custom_data,dynamic,search_params,album_theme,user,rating,rating_status,watermark,watermark_thumb,owner,codeblock
+
++++++++++
+kenvecenie_data - beer_captcha:(1)
+id,ptime,hash
+1 1497908550 889990f6c9c71bc1b10f90fc181e193908042a64
+
++++++++++
+kenvecenie_data - beer_comments:(0)
+id,ownerid,name,email,website,date,comment,inmoderation,type,IP,private,anon,custom_data
+
++++++++++
+kenvecenie_data - beer_images:(44)
+id,albumid,filename,title,desc,location,city,state,country,credit,copyright,commentson,show,date,sort_order,height,width,thumbX,thumbY,thumbW,thumbH,mtime,publishdate,expiredate,hitcounter,total_value,total_votes,used_ips,custom_data,rating,rating_status,hasMetadata,watermark,watermark_use,owner,filesize,codeblock,user,password,password_hint,EXIFMake,EXIFModel,EXIFDescription,IPTCObjectName,IPTCImageHeadline,IPTCImageCaption,IPTCImageCaptionWriter,EXIFDateTime,EXIFDateTimeOriginal,EXIFDateTimeDigitized,IPTCDateCreated,IPTCTimeCreated,IPTCDigitizeDate,IPTCDigitizeTime,EXIFArtist,IPTCImageCredit,IPTCByLine,IPTCByLineTitle,IPTCSource,IPTCContact,EXIFCopyright,IPTCCopyright,EXIFExposureTime,EXIFFNumber,EXIFISOSpeedRatings,EXIFExposureBiasValue,EXIFMeteringMode,EXIFFlash,EXIFImageWidth,EXIFImageHeight,EXIFOrientation,EXIFSoftware,EXIFContrast,EXIFSharpness,EXIFSaturation,EXIFWhiteBalance,EXIFSubjectDistance,EXIFFocalLength,EXIFLensType,EXIFLensInfo,EXIFFocalLengthIn35mmFilm,IPTCCity,IPTCSubLocation,IPTCState,IPTCLocationCode,IPTCLocationName,IPTCContentLocationCode,IPTCContentLocationName,EXIFGPSLatitude,EXIFGPSLatitudeRef,EXIFGPSLongitude,EXIFGPSLongitudeRef,EXIFGPSAltitude,EXIFGPSAltitudeRef,IPTCOriginatingProgram,IPTCProgramVersion,VideoFormat,VideoSize,VideoArtist,VideoTitle,VideoBitrate,VideoBitrate_mode,VideoBits_per_sample,VideoCodec,VideoCompression_ratio,VideoDataformat,VideoEncoder,VideoSamplerate,VideoChannelmode,VideoChannels,VideoFramerate,VideoResolution_x,VideoResolution_y,VideoAspect_ratio,VideoPlaytime,XMPrating
+
++++++++++
+kenvecenie_data - beer_menu:(0)
+id,parentid,title,link,include_li,type,sort_order,show,menuset,span_class,span_id
+
++++++++++
+kenvecenie_data - beer_news:(0)
+id,title,content,extracontent,show,date,titlelink,commentson,codeblock,author,lastchange,lastchangeauthor,hitcounter,permalink,locked,expiredate,total_value,total_votes,used_ips,rating,rating_status,sticky,custom_data,truncation
+
++++++++++
+kenvecenie_data - beer_news2cat:(0)
+id,cat_id,news_id
+
++++++++++
+kenvecenie_data - beer_news_categories:(0)
+id,title,titlelink,permalink,hitcounter,user,password,password_hint,parentid,sort_order,desc,custom_data,show
+
++++++++++
+kenvecenie_data - beer_obj_to_tag:(0)
+id,tagid,type,objectid
+
++++++++++
+kenvecenie_data - beer_options:(807)
+id,ownerid,name,value,theme,creator
+3 0 libauth_version 4
+4 0 strong_hash 3
+5 0 extra_auth_hash_text }(T$|<J6!KPU~a]F.W1Gu,[3xR2z? zp-core/setup/setup-option-defaults.php
+6 0 password_strength 10 zp-core/setup/setup-option-defaults.php
+7 0 min_password_lenght 6 zp-core/setup/setup-option-defaults.php
+8 0 user_album_edit_default 1 zp-core/setup/setup-option-defaults.php
+9 0 time_offset 0 zp-core/setup/setup-option-defaults.php
+10 0 mod_rewrite_detected 1
+11 0 server_protocol http zp-core/setup/setup-option-defaults.php
+12 0 charset UTF-8 zp-core/setup/setup-option-defaults.php
+104 0 EXIFGPSLatitudeRef 0 zp-core/setup/setup-option-defaults.php
+105 0 EXIFGPSLongitude 0 zp-core/setup/setup-option-defaults.php
+106 0 EXIFGPSLongitudeRef 0 zp-core/setup/setup-option-defaults.php
+107 0 EXIFGPSAltitude 0 zp-core/setup/setup-option-defaults.php
+108 0 EXIFGPSAltitudeRef 0 zp-core/setup/setup-option-defaults.php
+109 0 IPTCOriginatingProgram 0 zp-core/setup/setup-option-defaults.php
+110 0 IPTCProgramVersion 0 zp-core/setup/setup-option-defaults.php
+111 0 VideoFormat 0 zp-core/setup/setup-option-defaults.php
+112 0 VideoSize 0 zp-core/setup/setup-option-defaults.php
+113 0 VideoArtist 0 zp-core/setup/setup-option-defaults.php
+532 0 menu_truncate_string 0 zp-core/zp-extensions/menu_manager.php
+533 0 menu_truncate_indicator zp-core/zp-extensions/menu_manager.php
+534 0 mergedrss_items 10 zp-core/zp-extensions/mergedRSS.php
+535 0 multiple_layouts_images 0 zp-core/zp-extensions/multiple_layouts.php
+536 0 multiple_layouts_albums 0 zp-core/zp-extensions/multiple_layouts.php
+537 0 multiple_layouts_pages 1 zp-core/zp-extensions/multiple_layouts.php
+538 0 multiple_layouts_news 1 zp-core/zp-extensions/multiple_layouts.php
+539 0 multiple_layouts_news_categories 1 zp-core/zp-extensions/multiple_layouts.php
+540 0 pagedthumbs_imagesperpage 10 zp-core/zp-extensions/paged_thumbs_nav.php
+541 0 pagedthumbs_counter zp-core/zp-extensions/paged_thumbs_nav.php
+
++++++++++
+kenvecenie_data - beer_pages:(0)
+id,parentid,title,content,extracontent,sort_order,show,titlelink,commentson,codeblock,author,date,lastchange,lastchangeauthor,hitcounter,permalink,locked,expiredate,total_value,total_votes,used_ips,rating,rating_status,user,password,password_hint,custom_data,truncation
+
++++++++++
+kenvecenie_data - beer_plugin_storage:(84)
+id,type,aux,data
+5 defaultCodeblocks a:0:{}
+26 hitcounter gallery.xml 1952
+27 hitcounter gallery_en.xml 326
+28 hitcounter gallery_Coaches-Corner_en.xml 1
+29 hitcounter en_gallery.xml 22
+30 hitcounter gallery_North-Country-Brewing-Harmony-Inn.xml 56
+31 cacheManager bxslider_thumb_nav a:14:{s:5:"theme";s:18:"bxslider_thumb_nav";s:5:"apply";b:0;s:10:"image_size";N;s:11:"image_width";s:2:"50";s:12:"image_height";s:2:"50";s:10:"crop_width";s:2:"50";s:11:"crop_height";s:2:"50";s:6:"crop_x";N;s:6:"crop_y";N;s:5:"thumb";b:1;s:3:"wmk";N;s:4:"gray";N;s:8:"maxspace";N;s:5:"valid";i:1;}
+32 cacheManager basic a:14:{s:5:"theme";s:5:"basic";s:5:"apply";b:0;s:10:"image_size";s:3:"595";s:11:"image_width";N;s:12:"image_height";N;s:10:"crop_width";N;s:11:"crop_height";N;s:6:"crop_x";N;s:6:"crop_y";N;s:5:"thumb";b:0;s:3:"wmk";N;s:4:"gray";N;s:8:"maxspace";N;s:5:"valid";i:1;}
+33 cacheManager basic a:14:{s:5:"theme";s:5:"basic";s:5:"apply";b:0;s:10:"image_size";s:3:"100";s:11:"image_width";N;s:12:"image_height";N;s:10:"crop_width";s:3:"100";s:11:"crop_height";s:3:"100";s:6:"crop_x";N;s:6:"crop_y";N;s:5:"thumb";b:1;s:3:"wmk";N;s:4:"gray";N;s:8:"maxspace";N;s:5:"valid";i:1;}
+34 cacheManager galleryArticles a:14:{s:5:"theme";s:15:"galleryArticles";s:5:"apply";b:0;s:10:"image_size";s:2:"80";s:11:"image_width";N;s:12:"image_height";N;s:10:"crop_width";N;s:11:"crop_height";N;s:6:"crop_x";N;s:6:"crop_y";N;s:5:"thumb";b:0;s:3:"wmk";N;s:4:"gray";N;s:8:"maxspace";N;s:5:"valid";i:1;}
+
++++++++++
+kenvecenie_data - beer_search_cache:(0)
+id,criteria,date,data
+
++++++++++
+kenvecenie_data - beer_tags:(0)
+id,name
+
++++++++++
+kenvecenie_data - events:(0)
+id,event,hour,minute,ampm,hour_end,minute_end,ampm_end,month,day,year,month_end,day_end,year_end,month_show,day_show,year_show,location,email,phone,link,link_name,description,html
+
++++++++++
+kenvecenie_data - manufacturer:(64)
+id,name,logo,description,address,city,state,zip,sort,website,category
+126 Bells Beer Bells-Beer.jpg 4 http://www.bellsbeer.com/ 2
+59 Weyerbacher Brewing Co. Weyerbacher.jpg Easton PA 16 http://www.weyerbacher.com 2
+32 Voodoo Brewery Voodoo-Brewing.jpg Meadville PA 19 http://www.voodoobrewery.com/ 2
+116 Troegs Brewing Co. Troegs.jpg 7 http://www.troegs.com 2
+8 Fullers fullers.jpg ASDFASDFASDF ASDASD ASDASD ASDASD 28 http://www.fullers.co.uk 3
+66 East End Brewing East-End.jpg Pittsburgh PA 11 http://www.eastendbrewing.com 2
+28 Dogfish Head Dogfish-Logo.jpg Milton DE 5 http://www.dogfish.com 2
+24 Lancaster Brewing Company Lancaster-Logo.jpg Lancaster PA 21 http://lancasterbrewing.com 2
+18 Victory Brewing Co. Victory-Logo.jpg 8 http://www.victorybeer.com 2
+63 Stoudts Stoudts.jpg Adamstown PA 17 http://www.stoudts.com 2
+
++++++++++
+kenvecenie_data - no_events:(1)
+id,description
+1 There are no events scheduled at this time.  Please check back later. Thank you
+
++++++++++
+kenvecenie_data - personnel:(8)
+id,first_name,last_name,photo,email
+4 John Manz John-Manz.jpg john@beersince1933.com
+5 Bill Markiewicz Bill-Markiewicz.jpg bill@beersince1933.com
+8 Gene Ribnicky Gene-Ribnicky.jpg gene@beersince1933.com
+9 Hunter Brett Hunter-Brett.jpg hunter@beersince1933.com
+10 Mark Dunn Mark-Dunn.jpg mark@beersince1933.com
+11 Dave Glasser Dave-Glasser.jpg dave@beersince1933.com
+13 Andrea Johnson Andrea-Johnson.jpg andrea@beersince1933.com
+14 Dave Wright Dave-Wright.jpg david@beersince1933.com
+
++++++++++
+kenvecenie_data - products:(935)
+id,product,manufacturer,manufacturer2,description,logo,available,limited_releases,case_avail,case_quantity,website,seasonal,new_product,half_bbl,quarter_bbl,sort,sixth_bbl,eigth_bbl,fifty_liter,thirty_liter,cans
+532 Palo Santo Marron 28 Dogfish Head Palo-Santo.jpg Y N Y 22 http://www.dogfish.com/brewery/beer/palo-santo-marron N N 0 0 0 2 0 0 0 N
+666 Wynonnas Big Brown Ale 32 Voodoo Brewery Wynonna's.jpg Y N Y 9 http://www.voodoobrewery.com/beer/view/wynonas-big-brown-ale N N 0 0 0 3 0 6 0 N
+492 Slimy Pebble Pils 106 North Country Brewing Slimy-Pebble-Pils.jpg N N N 0 http://northcountrycanning.com/slimy-pebble/ N N 0 0 0 0 0 0 0 N
+850 Love Child 32 Voodoo Brewery <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> Love-Child.jpg Y N Y 48 http://www.voodoobrewery.com/beer/view/voodoo-love-child N N 0 0 0 3 0 2 0 N
+848 Gran Met Belgian Style Ale 32 Voodoo Brewery Gran-Met.jpg Y N Y 2 http://www.voodoobrewery.com/beer/view/gran-met N N 0 0 0 1 0 0 0 N
+1993 Third Coast Old Ale Draft 126 Bells Beer Third-Coast-Old-Ale.jpg Y N N 0 http://www.bellsbeer.com/beer/specialty/third-coast-old-ale Y N 0 6 0 0 0 0 0 N
+1974 Kalamazoo Stout 126 Bells Beer Kalamazoo-Stout.jpg Y N Y 68 http://www.bellsbeer.com/beer/year-round/bells-kalamazoo-stout N N 8 0 0 0 0 0 0 N
+1662 Strawberry Wheat 24 Lancaster Brewing Company Strawberry-Wheat.jpg Y N Y 65 https://www.lancasterbrewing.com/strawberry-wheat N N 5 0 0 4 0 0 0 Y
+1664 Hop Hog IPA Draft 24 Lancaster Brewing Company Hop-Hog-IPA.jpg Y N N 0 https://www.lancasterbrewing.com/hop-hog N N 0 0 0 1 0 0 0 N
+64 Arrogant Bastard 22 oz. Bottle 64 Stone Brewing Arrogant-Bastard.jpg Y N Y 36 http://www.stonebrewing.com/arrogantbastard/ N N 5 0 0 4 0 0 0 Y
+208 Elderberry Cider Can 99 Original Sin Original-Sin-Elderberry.jpg Y N Y 64 http://www.origsin.com/ciders/elderberry N N 0 0 0 0 0 0 0 Y
+1648 Summer Solstice 122 Anderson Valley Brewing Co. Summer-Solstice.jpg Y N Y 225 https://avbc.com/our-beers/summer-solstice/ Y N 27 0 0 34 0 0 0 Y
+1990 Fall Hornin" 122 Anderson Valley Brewing Co. Fall-Hornin'-Pumpkni-Ale.jpg N N N 0 https://avbc.com/our-beers/fall-hornin-pumpkin-ale/ N N 0 0 0 0 0 0 0 N
+507 India Pale Lager 65 Straub Brewery Straub-IPL.jpg N N N 0 http://www.straubbeer.com/beers/straub-everyday.php N N 0 0 0 0 0 0 0 N
+213 Poleeko Pale Ale 57 Anderson Valley Brewing Co. Anderson-Valley-Poleeko-Pale-Ale.jpg N N 0 https://avbc.com/our-beers/poleeko-gold-pale-ale/ N N 0 0 0 0 0 0 0
+1485 GT Gose 57 Anderson Valley Brewing Co. GT-Gose.jpg N N N 0 http://avbc.com/ N N 0 0 0 0 0 0 0 N
+219 El Steinber Dark Lager 57 Anderson Valley Brewing Co. El-Steinber.jpg N N N 0 https://avbc.com/our-beers/el-steinber/ N N 0 0 0 0 0 0 0
+2281 12 Cannon Salute Variety 42 Heavy Seas 59022.jpg Y N Y 37 http://hsbeer.com/brews#cannon-crew N N 0 0 0 0 0 0 0 N
+2207 Blueberry Wheat Ale 128 Ellicottville Brewing 86024.jpg Y N Y 3 https://ellicottvillebrewing.com/ebc-blueberry-wheat/ N N 4 0 0 0 0 0 0 N
+790 Donnybrook Stout Nitro Draft 18 Victory Brewing Co. Donnybrook-Stout.jpg Y N N 0 http://www.victorybeer.com/beers/donnybrook/ N N 4 0 0 0 0 0 0 N
+1663 Milk Stout 24 Lancaster Brewing Company Milk-Stout.jpg Y N Y 74 https://www.lancasterbrewing.com/milk-stout N N 3 0 0 0 0 0 0 Y
+1667 Double Chocolate Milk Stout 12 oz. Can 24 Lancaster Brewing Company Double-Chocolate-Milk-Stout.jpg Y N Y 15 https://www.lancasterbrewing.com/double-chocolate N N 0 0 0 0 0 0 0 Y
+1638 Late Night Pumpkin Bourbon Barrel-Aged Ale 106 North Country Brewing Late-Night-Pumpkin-Bourbon-Barrel-Aged-Ale.jpg Y N N 0 http://northcountrybrewing.com/ Y N 0 0 0 1 0 0 0 N
+1597 Neapolitan Milk Stout 120 Saugatuck Brewing Co. Neapolitan-Milk-Stout.jpg Y N Y 37 https://saugatuckbrewing.com/beer/neapolitan-milk-stout/ N N 1 0 0 3 0 0 0 N
+1630 Bonfire Brown 120 Saugatuck Brewing Co. Bonfire-Brown.jpg Y N Y 10 https://saugatuckbrewing.com/beer/bonefire-brown/ N N 0 0 0 0 0 0 0 N
+1596 Blueberry Maple Stout 120 Saugatuck Brewing Co. Blueberry-Maple-Stout.jpg Y N Y 39 https://saugatuckbrewing.com/beer/blueberry-maple-stout/ N N 2 0 0 0 0 0 0 N
+1598 Serrano Pepper Ale 120 Saugatuck Brewing Co. Serrano-Pepper-Ale.jpg N N N 0 https://saugatuckbrewing.com/beer/serrano-pepper-ale/ N N 0 0 0 0 0 0 0 N
+1599 Singapore IPA 120 Saugatuck Brewing Co. Singapore-IPA.jpg N N N 0 https://saugatuckbrewing.com/beer/singapore-ipa/ N N 0 0 0 0 0 0 0
+1600 Snow Wizzard Oak Aged Brown Ale 120 Saugatuck Brewing Co. Snow-Wizard-Oak-Aged-Brown-Ale.jpg N N N 0 https://saugatuckbrewing.com/ N N 0 0 0 0 0 0 0 N
+1601 Stout Variety Pack 120 Saugatuck Brewing Co. Stout-Pack.jpg N N N 0 https://saugatuckbrewing.com/beer/stout-variety-pack/ N N 0 0 0 0 0 0 0 N
+
++++++++++
+kenvecenie_data - route_card:(125)
+id,account_name,address,city,state_field,zip,phone,contact,website,availability,email,area,serving_account,icb,straub,craft,soda,on_tap_1,on_tap_2,on_tap_3,on_tap_4,on_tap_5,on_tap_6,on_tap_7,on_tap_8,on_tap_9,on_tap_10,take_out,craft_beer,rotates,comments,type
+28 Primanti's Headquarter PA 0 000-000-0000 Jim Jim@partners-ink.net No Yes Yes No Troegs Bells Victory No Yes Yes Jim handles purchasing beer for all locations.  See him every couple months in order to set up future sales.
+29 Excuses 2526 E Carson St Pittsburgh PA 0 4129016056 Alisa Direct No Yes Yes No Troegs Yes Yes Yes
+30 OTB South Side 2518 East Carson Pittsburgh PA 0 4123700370 Keith keith@otbbicyclecafe.com Direct No Yes Yes No Oskar Blues East End No Yes Yes Loves all cans
+31 El Toro 2512 E. Carson St Pittsburgh PA 0 8142188673 Hilda No No No No No No No
+32 Emilianos 2557 E Carson PA 0 4123812229 Jose brentwood No No No No No No No
+33 McCormick & Smicks South Side 2667 Sidney St PA 0 4124323260 Kristen Frazier mspt@ldry.com Brentwood No No No No No No No
+34 BD's Mongolian Grilll 428 s 27th st PA 0 4123901100 Corey steelssw@pittmongo.com Brentwood No No No No East End No No Yes Likes Weyerbacher
+35 1810 Tavern 234 Bridge St Beaver PA 0 (724)-371-0732 Aaron Rosenberger Shewak Tuesday or Wednesday around 2 1810tavern@gmail.com Bridgewater Shewak Yes Yes Yes Yes Yes Yes Yes <p>low volume</p> Tavern
+36 Cupka 48 s 27 st Pittsburgh PA 0 4124319433 ted@scott-mccune.com South Side Direct No No No No Yes No No Interested in buying in bulk for discount.  Customers asking for Dogfish 60 Minute.
+37 Zoe's Beer 4102 Clairton Blvd Pittsburgh PA 15227 4128814002 Sean zoesbeer@gmail.com No Yes Yes No Yes Yes No
+121 Kennedy Beer 1523 Kennedy Boulevard Aliquippa PA 15001 000-000-0000 Harry Yes Yes Yes Yes Yes Yes Yes Distributor
+122 Lohmans 2614 Brandt School Road Wexford PA 15090 310-462-4465 Shane lohmansbeer Yes Yes Yes Yes Yes Yes Yes Distributor
+123 Long Branch Saloon 574 Blockhouse Run Rd New Brighton PA 15066 412-974-7060 Dave Shewak Yes Yes Yes Yes Yes Yes Yes Tavern
+124 Luciano's Mars 161 Scharberry Ln Mars PA 16046 412-309-0139 Jeff Wed after 3, all day Thurs jremler@hotmail.com Brentwood Yes Yes Yes Yes Yes Yes Yes Tavern
+125 Mars Beer PA 0 000-000-0000 Rich Yes Yes Yes Yes Yes Yes Yes Distributor
+126 Midland Beer PA 0 000-000-0000 Mike Yes Yes Yes Yes Yes Yes Yes Distributor
+127 Monaca Draft House 1129 Pennsylvania Ave Monaca PA 15061 724-462-5967 Denise Tuesday or Thursday mornings, doors locked til 3 Shewak Yes Yes Yes Yes Yes Yes Yes Tavern
+128 Monte Cellos Cranberry Cranberry Gardens Plaza, 20325 Route 19 Cranberry PA 16066 000-000-0000 Joe steelers@zbzoom.net Evan City Yes Yes Yes Yes Yes Yes Yes Tavern
+129 Clubhouse 5301 Ranalli Dr Gibsonia PA 15044 724-449-9090 Cathy (buyer) Kenny (manager) afternoon npclubhouse@zoominternet.net Northern Yes Yes Yes Yes Yes Yes Yes Tavern
+130 Outback Steakhouse Wexford 9395 McKnight Rd Pittsburgh PA 15237 000-000-0000 Wexford beer Yes Yes Yes Yes Yes Yes Yes Tavern
+
++++++++++
+
+ 

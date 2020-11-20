@@ -1,0 +1,910 @@
+battlereports.com/comments.php?reportnum=806
+ 
+battlereports -  :()
+
++++++++++
+
+ 
+javawe - RCusers:(4204)
+id,Username,Password,Email,IP,HomeDir,DiskQuotaKb,EmailOn
+1 Johnny_Vegas reset webmaster@battlereports.com 64.30.194.236 10059999 1
+523 Leonov reset Leonov 2010T 205.188.199.21 Leonov 80000 1
+522 triped reset cppwhiz@juno.com 192.249.47.11 triped 80000 1
+7 BigDeal reset 63.164.154.2 BigDeal 80000 1
+8 rrrr$ reset 63.164.154.2 rrrr$ 80000 1
+9 reee$ reset 63.164.154.2 reee$ 80000 1
+10 BigSammy reset 63.164.154.2 BigSammy 80000 1
+11 Drefsab reset jwestmore@yahoo.com 199.120.185.232 Drefsab 160000 1
+12 Scarab reset WilLockhart@aol.com 172.154.63.229 Scarab 80000 1
+13 SqueakyMonkey reset monkey84@twcny.rr.com 24.92.241.129 SqueakyMonkey 80000 1
+94 shadowking reset shad0wk1ng@yahoo.com 194.177.210.228 shadowking 80000 1
+95 CornedBee reset wasti.redl@gmx.net 195.34.147.47 CornedBee 80000 1
+96 Drizzt reset Sabin7@webtv.net 198.237.39.106 Drizzt 80000 1
+97 asfda reset jo69na69th69an@hotmail.com 134.173.114.8 asfda 80000 1
+98 BlackDragon reset black_dragon_@hotmail.com 140.198.255.254 BlackDragon 80000 1
+99 alphwolf reset jo69na69th69an@hotmail.com 134.173.114.8 alphwolf 80000 1
+100 IceShadow reset wengert@csd.uwm.edu 129.89.109.93 IceShadow 80000 1
+101 ThanatoZ reset gaming111@hotmail.com 63.224.222.26 ThanatoZ 80000 1
+102 |Phoenix reset 24.132.86.228 |Phoenix 80000 1
+103 luigi_the_great reset luigi_the_great@webtv.net 209.240.221.120 luigi_the_great 80000 1
+494 aaaa reset aaaa@aaa.com 156.3.165.29 aaaa 80000 1
+495 Flitred reset flitred@earthlink.net 207.86.126.200 Flitred 80000 1
+496 Raider reset phexac@yahoo.com 204.164.70.200 Raider 80000 1
+497 3-slam reset supachuchutrain@aol.com 66.27.186.137 3-slam 80000 1
+498 wwff reset blazer2402@hotmail.com 24.184.20.101 wwff 80000 1
+499 Mockdu reset patel_chiragb99@hotmail.com 209.77.65.9 Mockdu 80000 1
+500 iggy reset iggyrawkshard@hotmail.com 64.162.179.221 iggy 80000 1
+501 TheFlood reset TheFlood29@aol.com 172.136.252.173 TheFlood 80000 1
+502 barrywong reset barry234@china.com 61.135.73.131 barrywong 80000 1
+503 komjong-kiok reset mkenwort@mit.edu 18.247.1.171 komjong-kiok 80000 1
+1000 bluebolt reset ben_noland@hotmail.com 216.222.108.161 bluebolt 80000 1
+1001 hawk@ reset speedo_beep@hotmail.com 24.251.32.155 hawk@ 80000 1
+1002 Manius reset m4hoffma@yahoo.com 65.81.166.115 Manius 80000 1
+1003 HaZaRD reset trippin098@hotmail.com 64.229.89.116 HaZaRD 80000 1
+1004 goloom reset golem@fastmail.ca 65.94.166.34 goloom 80000 1
+1005 TheCh0b0 reset viral_infection_razor@msn.com 63.29.19.44 TheCh0b0 80000 1
+1006 Flare reset abcdefgh@abcdefgh.com 152.163.197.209 Flare 80000 1
+1007 Asti reset shushko69@hotmail.com 193.108.44.124 Asti 80000 1
+1008 Cairn_Bloodhoof reset pwhouser@hotmail.com 63.93.0.115 Cairn_Bloodhoof 80000 1
+1009 roobs reset johnpfordham@yahoo.com 212.1.136.168 roobs 80000 1
+2000 dazla reset dangerouspunk182@hotmail.com 68.118.107.138 dazla 60000 1
+2001 reaper03 reset willwilkinson2@hotmail.com 203.208.71.76 reaper03 60000 1
+2002 felcri reset felcrl@hotmail.com 200.83.88.207 felcri 60000 1
+2003 pop_killer reset shit@caramail.com 67.68.135.195 pop_killer 60000 1
+2004 nohunters reset jaood@yahoo.com 198.82.70.82 nohunters 60000 1
+2005 dbz_pl reset Dragoondbz@onet.pl 62.87.165.67 dbz_pl 60000 1
+2006 Polock reset csalagaj@hotmail.com 66.76.62.72 Polock 60000 1
+2007 HyDr0 reset darkmist30@Hotmail.com 24.102.252.218 HyDr0 60000 1
+2008 SIRSCHICKSALOT reset BALLAH_4_LIFE@HOTMAIL.COM 66.185.84.196 SIRSCHICKSALOT 60000 1
+2009 FYG-bAgNtAg reset oreosz28@netscape.net 67.112.122.171 FYG-bAgNtAg 60000 1 
++++++++++
+javawe - ReplayComments:(100828)
+commentnum,replaynum,name,ip,comment
+1 10 <img src="http://www.battlereports.com/images2/n_vegas.gif"> ct273194-a.nblvil1.in.home.com First Replay comment ever bitches!
+2 11 SlingsNArrows bgm-24-95-150-230.stny.rr.com First
+3 11 <img src="http://www.battlereports.com/images2/n_vegas.gif"> ct273194-a.nblvil1.in.home.com Wow, nice.  Site had only been up 1 minute. :-)
+4 11 :+:SlipKnoT:+: bc-kam-a53-01-41.look.ca Can slip be a replay rater ;)
+5 11 xld.aldogrez spider-th061.proxy.aol.com how do we rate =O
+6 12 Fox 1 zmapxypro02-b.zma.compaq.com
+7 16 <img src="http://www.battlereports.com/images2/n_vegas.gif"> ct273194-a.nblvil1.in.home.com Awesome, had 6 uploads, in first 10 minutes!  (deleted 2 of Fox's cause he messed up)
+8 11 SlingsNArrows bgm-24-95-150-230.stny.rr.com Speed should count when considering for a replay rater and admin, no?
+9 18 Slings bgm-24-95-150-230.stny.rr.com it's it's fox, you know it's gotta be good
+
+or else he got rushed
+10 11 <img src="http://www.battlereports.com/images2/n_drawesome.gif"> user63.net128.va.sprint-hsd.net kekekeke gg slings ;)
+90 60 WarLeaderJustin adsl-64-166-108-103.dsl.lsan03.pacbell.net Hahahahhhahahaa!
+
+Although the Terran could've worked on his macro, that was a fun replay. I liked the use of scouting with buildings, the constant wraith harassment, siege tanks on ledge, wraiths owning corsairs, hahaha!
+
+The funniest part by far was when you statis fielded his units, placed dragoons around/beneath them, and when the statis field wore away, you got owned! Hahaha, gg nonetheless.
+
+8.
+91 61 WarLeaderJustin adsl-64-166-108-103.dsl.lsan03.pacbell.net This isn't Strifeshadow..... :P
+92 59 WarLeaderJustin adsl-64-166-108-103.dsl.lsan03.pacbell.net That was a great game.
+
+At first, I thought that NewbieMcNasty would win, because his heavy metal was really awesome. Then, when the tables turned, and Newbie was forced to slowly take expansions while securing every acre of land he got, Newbie completely owned the Carrier fleet with wraiths.
+
+Bah, I would've been owned by Myst's probe harassment at the beginning of the game :)
+
+10.
+93 58 :+:SlipKnoT:+: bc-kam-a53-01-41.look.ca Cool a 2v2 with infested terrans ;) Everyones macro was insanely bad , looked like a bit of rust was there ;)
+
+7
+94 62 WarLeaderJustin adsl-64-166-108-103.dsl.lsan03.pacbell.net I can put tanks at my choke and build BC's and kill computers too.
+
+2.
+95 58 White Fang cr781696-a.wlfdle1.on.wave.home.com well it was hard gettin used to the feel and i didnt know the map so i was a little screwed T_T marco wasnt somethin we could have controlled.
+96 62 Ling-erie host213-122-243-169.btinternet.com I didn't mean for it to nbe remotely serious, it's just that recently some peoplr have asked in the forum how to beat ~2-3 computers. If u hated it, then sorry, but i was just having a laugh
+
+Oh, and by the way, if u only have 2 tanks at your choke, then they don't kill the enemy fast enough, and they build up forces trying to get in so much that BW crashes, so i had to have more tanks.  had 2 for ages at the start, but i had to make more to keep the game from stalling, having 12 wasn't my intention.
+
+Also, i am lame, and i don't care, just try to see it from the humourous perspective, that's all. If you didn't klike it then sorry, but it's a joke replay, that's all.
+97 62 garett cdm-37-216-tyl.cox-internet.com dont post this shit, faggot
+98 55 garett cdm-37-216-tyl.cox-internet.com rofl 3 vults own you ht, hahdfahdf
+99 57 <img src="http://www.battlereports.com/users/SlipKnoT/slipknot.jpg"> bc-kam-a53-01-41.look.ca Need a tad more action mr!! But good job by both!!!
+New Tag ;)
+486 237 Psikilla edtn004750.hs.telusplanet.net ya, Testie had such a resource advantage at start. I truly believe had he made 6 more gates earlier he would have won.
+487 226 Psikilla edtn004750.hs.telusplanet.net isn't this the strifeshadow replay area?
+488 242 klapdout svcr216-37-167ppp78.epix.net wigg&morbid, havent playd them in ages
+489 237 Astic-X h24-66-251-138.ss.shawcable.net wtf he had a very small resource advantage
+
+
+gj being a newbie
+490 198 Franklin James mkc-65-28-49-6.kc.rr.com I'm assuming you mean you want hardcore porn in the replays?
+491 244 BloodFists cx1167240-b.alsv1.occa.home.com HTs terr sucks =o
+492 243 Starookie edtn009643.hs.telusplanet.net doom you quit you liar
+493 216 Franklin James mkc-65-28-49-6.kc.rr.com Sweet fuckin jesus the()vermind..it was just a joke game, nothing more.  I don't know why you would be complaining about a quality game when it's an ultralisk rush!  Lighten up a bit.
+494 228 Nick O'teene 1Cust236.tnt1.grapevine.tx.da.uu.net Uh, didn't you do a BR writeup on the game?...Corb Reaver drops Sven early in the game. 
+
+I was going to say not to take it personally. After seeing 95% PvT games go Heavy Metal it gets a little boring, but since you don't even know what goes on in your own Battle Report I won't waste my time talking to you anymore.
+495 228 xld.aldogrez spider-th062.proxy.aol.com wow, you're really fucking stupid
+985 554 BloodFists cx1167240-b.alsv1.occa.home.com heh, ht barely knows this map he shouldnt be talking about it :|
+btw, isnt it funny how people only post replays where he gets owned? :D
+986 567 GamerChickie spider-wf024.proxy.aol.com I nuked him....
+987 567 derek AC81CD87.ipt.aol.com the 2v2 part was fast paced and exciting to watch...the ensuing 1v1 was a little too slow paced for me...but had some nice micro and that containage was pretty cool
+
+also...nuking all those wraiths was hilarious
+
+Anyway, i have to be honest in that the pace was really too slow after nate and the zerg player died...your macro wasnt that good during the 1v1 part so it kinda made things a little too long;)  so I give this a 6
+988 558 the()vermind AC99BD6B.ipt.aol.com you could tell that purp was a newb.  No direct damage to red's main once.  5, at least purp attacked once
+989 561 the()vermind AC99BD6B.ipt.aol.com very good game, the players weren't the best, but the game was fair.  7, it's probably less
+990 559 ground-LOBP- syr-24-169-180-86.twcny.rr.com try re-d/l
+991 561 1ee7 dialup-cle97.nls.net Protoss was ok.  Zerg had 3 ore lines going, but refused to make troops.  There were numerous places where a simple frontal assault would have won it sooner for zerg.  I wish zergs would leave me alone to build 4 bases like that.
+992 569 1ee7 dialup-cle97.nls.net I liked the protoss opening.  About 8 zlots backed by about 6 goons can be very tough early, especially now that zlots are stronger in 1.08.
+993 535 gravity 152.158.84.53 Very good game, I loved the ultra-rushes almost but not quite smashing the Terran player several times :).
+994 570 grandpaSMURF 202.156.0.5 i cant spell my own name thx, gw
+1981 1186 kookio ool-18ba13bd.dyn.optonline.net great game thats all i gotta say......... well terran was the master of defense and he stood back until the time was right. 
+then took advantage of protoss like a drunk teenage girl
+protoss had some nice attacks as well and used his darkies like they were goin outa style
+1982 1183 derek AC9BB5E8.ipt.aol.com i liek gay anel :o
+1983 1186 derek AC9BB5E8.ipt.aol.com what the fuck, how is this getting so many dls...
+1984 1183 derek h24-69-105-141.gv.shawcable.net hehe
+ohh man keep the derek flames comming.
+and oh yes 1 last thing
+i love to beat off while watching men shower
+Cya
+1985 1180 Blade h24-69-105-141.gv.shawcable.net this ums thing has already happend to znzf with somer korean.
+all it is ,is ums
+1986 1186 edoggy ool-18ba13bd.dyn.optonline.net i dont know but if you aint got nothin to say about starcraft then dont say anything at all
+1987 1182 e h24-69-105-141.gv.shawcable.net currupt
+1988 1175 eh h24-69-105-141.gv.shawcable.net umm there wasnt really a comback
+the toss had controll the entire game
+the zerg didnt protect expansions and get lurkers or nothin.
+this is just a plain and simple beatdown
+1989 1183 ... modemcable182.122-202-24.mtl.mc.videotron.ca stop impersonating derek he is cool
+1990 1163 Ling-erie igw-se.astra.com Darkstorm.... rofl hahahah
+
+I'll have to make a new hack called "DarkStorm" =] 
++++++++++
+javawe - ReplayPlayers:(5928)
+Id,ReplayId,Team,PlayerName,Race
+1 3 0 Blank Dark Elf
+2 3 0 Johnny_Vegas Accursed
+8 3 0 ERROR
+9 4 0 Blank Dark Elf
+10 4 0 Johnny_Vegas Dark Elf
+11 4 0 perfunckt Accursed
+12 4 0 Tank_This Dark Elf
+13 4 0 ERROR
+14 4 0 ERROR
+15 4 0 ERROR
+194 75 2 NTT Terran
+20971 14631 1 Asriel13 Night Elf
+200 82 1 HOT486 Zerg
+201 82 2 Slayers Boxer Terran
+208 86 1 Carni Zerg
+209 86 2 Goon Terran
+210 91 1 IntoTheRain Protoss
+211 91 2 X'Ds~Grrrr... Zerg
+214 95 1 ]iD[Fury Protoss
+215 95 2 Kabal-VII Protoss
+1570 818 1 Seer-The-Feared Protoss
+1571 818 2 {SSS}Mage Zerg
+1572 818 2 [O]pen Zerg
+1588 830 1 PlayGrrrr... Protoss
+1589 830 2 1st~Tsunami Zerg
+1590 832 1 STiM Protoss
+1591 832 2 vgene Zerg
+20711 14432 2 Geez Human
+1598 837 1 DIDI8[BG]-) Protoss
+1599 837 2 [GG14]ChobO.SnP Terran
+3727 2159 1 Golgo_13 Zerg
+3728 2159 0 =Kronik= Protoss
+21014 14663 2 Ceron Night Elf
+3704 2145 1 T_Mac Protoss
+3705 2145 2 Nurple Protoss
+3706 2145 1 Ahscar-X Zerg
+3707 2145 2 Murple Terran
+20227 14089 2 Bei Undead
+20226 14089 1 SuddenInsomniac Orc
+21000 14649 2 Korea-aSa Night Elf
+14249 9586 2 SoulMalice- Orc
+14248 9586 2 YeLLoW-TrEe Night Elf
+17911 12312 2 ijin Undead
+17910 12312 2 HotDogg Human
+17909 12312 2 lk69 Undead
+14247 9586 1 xFrozeNBluEx Human
+14246 9586 1 PaulaDixon(SA) Undead
+7362 4914 1 [o]Mr.X Terran
+7363 4914 2 ToT)Mondragon( Terran
+17908 12312 1 ImGood Night Elf 
++++++++++
+javawe - ReplayRatings:(2508)
+ratingnum,replaynum,rating,rater_ip
+1 11 8 ct273194-a.nblvil1.in.home.com
+4 26 8 ct273194-a.nblvil1.in.home.com
+5 27 8 zmapxypro06-b.zma.compaq.com
+6 27 10 zmapxypro06-b.zma.compaq.com
+7 34 9 zmapxypro06-b.zma.compaq.com
+8 22 8 c209662-a.haywd2.sfba.home.com
+11 26 9 h225n1fls33o984.telia.com
+12 16 9 207.23.168.8
+13 26 7 cr488464-a.pr1.on.wave.home.com
+14 44 8 h225n1fls33o984.telia.com
+192 174 6 ool-18ba099e.dyn.optonline.net
+193 174 6 ool-18ba099e.dyn.optonline.net
+194 149 8 ool-18ba099e.dyn.optonline.net
+196 184 9 pm3-1-1.boscobel.mwt.net
+200 199 3 nas-65-194.denver-t.navipath.net
+201 212 7 nas-65-194.denver-t.navipath.net
+203 212 9 nas-65-194.denver-t.navipath.net
+204 191 8 ool-18ba099e.dyn.optonline.net
+205 95 10 ool-18ba099e.dyn.optonline.net
+206 184 10 roc-204-210-133-247.rochester.rr.com
+953 1382 9 AC970C7A.ipt.aol.com
+955 1392 9 adsl-64-166-110-12.dsl.lsan03.pacbell.net
+956 1386 10 spider-tq014.proxy.aol.com
+958 1386 9 h225n1fls33o984.telia.com
+960 1386 10 user-2ive3tu.dialup.mindspring.com
+961 1386 10 60.denver-01-02rs.co.dial-access.att.net
+962 1397 9 user-2ives53.dialup.mindspring.com
+964 1382 10 1Cust55.tnt2.missoula.mt.da.uu.net
+967 1403 7 pD9575F3B.dip.t-dialin.net
+970 1410 8 sdn-ar-003varestP215.dialsprint.net
+2202 2949 10 ip183-140.resnet.pc.jmu.edu
+2203 2949 10 mu-196069.dhcp.missouri.edu
+2204 2949 8 px2ht.ok.shawcable.net
+2205 2949 10 mu-196069.dhcp.missouri.edu
+2206 2946 9 dhcp024-166-066-234.neo.rr.com
+2209 2956 1 cs6668128-221.austin.rr.com
+2210 2956 1 cs6668128-221.austin.rr.com
+2211 2908 6 cs6668128-221.austin.rr.com
+2212 2949 6 cs6668128-221.austin.rr.com
+2213 2981 8 h0020e0640dea.ne.mediaone.net
+5508 27348 10 c-f30d72d5.020-69-76786a1.cust.bredbandsbolaget.se
+4011 7863 6 h0003932041c0.ne.client2.attbi.com
+5525 27619 9 d141-165-127.home.cgocable.net
+5818 32609 8 dblt-216-227-26-49.gtcom.net
+4020 7877 6 h0010b59c54e2.ne.client2.attbi.com
+5820 32625 8 d57-202-181.home.cgocable.net
+4022 7879 9 h0010b59c54e2.ne.client2.attbi.com
+5467 27104 6 mblt-ab007.gtcom.net
+4024 7881 4 h0010b59c54e2.ne.client2.attbi.com
+4027 7884 7 h0010b59c54e2.ne.client2.attbi.com 
++++++++++
+javawe - Replays:(5445)
+Id,author,replaytitle,gametypecode,fileurl,creationtime,description,mapname,mapid,gameversion,filesize,gamelength,ip,filename,numdownloads,is_staff_upload,dont_delete
+
++++++++++
+javawe - TourneyGames:(418255)
+Id,Team1,Team2,StartHour,StartMinute,TimeZone,Comments,BRlink,Winner,Referee1,Referee2,GameNum,RoundNum,isBye,TourneyId
+
++++++++++
+javawe - TourneyPlayers:(409341)
+id,TourneyId,PlayerName
+694 82 half
+507 56 [iM]Stim-Pylon
+499 56 basic
+529 59 manhatten
+523 59 Gopher
+697 82 aquanda
+525 59 Roland
+696 82 kold
+527 59 Prays
+695 82 dick end
+216 25 I-0wn-j00
+217 25 Hate-newbies
+218 25 Forge-owns
+219 25 Sunkenscantlose
+686 81 PlayaGenius
+685 81 TiGeR-GoD
+684 81 RadicalDreamer
+683 81 :PPPPP
+681 81 Wish+)3est
+682 81 [i\'m]Cd
+1091 132 SDT~)NOhope
+1575 179 newbiemcnasty
+1574 179 pheanom
+1573 179 tmac
+1096 135 YunTun
+1097 135 Brejk
+1098 135 Yes_It_Works
+1099 135 +Artist+
+1100 135 [Mkf]Chaos
+1101 135 Berra~The~Greek
+1891 216 TeliasKrigare
+1892 216 [SWE]Shiva
+1893 216 Removulotion(fire)
+1894 216 Team 10
+1895 216 Coca Cola Clan
+1896 216 nO
+1897 216 demo. Squad
+1898 217 Chobo[task]
+1933 218 gurakan
+1932 218 medivh
+3470 369 [XM]LightNing
+3462 368 ~ZeRATuL~
+3463 368 gruntrush
+3464 368 KoRn
+3465 368 crap187
+3466 368 afo-aru
+3467 368 SeXy4LiFE
+3468 368 Xe0n(MT)
+3469 368 Bongo(MT)
+3471 369 [SoK]Majin 
++++++++++
+javawe - Tourneys:(38602)
+Id,TourneyName,Organizer,GameType,Info,AdminPass,WhereAt,WhenAt,CreationTime,OrganizerEmail,Status,ip
+
++++++++++
+javawe - ajax_chat_bans:(0)
+userID,userName,dateTime,ip
+
++++++++++
+javawe - ajax_chat_invitations:(2)
+userID,channel,dateTime
+453693802 500000001 2010-05-22 19:59:15
+460836360 500000001 2010-05-23 05:53:11
+
++++++++++
+javawe - ajax_chat_messages:(8550)
+id,userID,userName,userRole,channel,dateTime,ip,text
+1 2147483647 ChatBot 4 0 2010-05-22 18:41:08 c¾Ìì /login (Johnny)
+2 405710565 (Johnny) 0 0 2010-05-22 18:41:15 c¾Ìì oyoyoy
+3 2147483647 ChatBot 4 0 2010-05-22 18:41:50 c¾Ìì /login (Joe)
+4 473769852 (Joe) 0 0 2010-05-22 18:41:56 c¾Ìì heeeey
+5 473769852 (Joe) 0 0 2010-05-22 18:41:58 c¾Ìì What up
+6 473769852 (Joe) 0 0 2010-05-22 18:42:02 c¾Ìì Lets play
+7 473769852 (Joe) 0 0 2010-05-22 18:42:08 c¾Ìì yoyoyoyo
+8 473769852 (Joe) 0 0 2010-05-22 18:42:28 c¾Ìì hey
+9 473769852 (Joe) 0 0 2010-05-22 18:42:33 c¾Ìì I want to play, you?
+10 473769852 (Joe) 0 0 2010-05-22 18:42:38 c¾Ìì yoyoyo
+100 489473971 homoya 0 0 2010-05-22 19:47:02 A<†Î haha
+101 489473971 homoya 0 0 2010-05-22 19:47:03 A<†Î inss
+102 1 JV 3 0 2010-05-22 19:47:09 c¾Ìì coolio
+103 1 JV 3 0 2010-05-22 19:47:15 c¾Ìì homoya is just pass
+104 1 JV 3 0 2010-05-22 19:47:18 c¾Ìì hehe
+105 489473971 homoya 0 0 2010-05-22 19:47:22 A<†Î yeah i figured
+106 1 JV 3 0 2010-05-22 19:47:26 c¾Ìì you were fast, I just linked this like 1 min ago
+107 489473971 homoya 0 0 2010-05-22 19:47:26 A<†Î just did it quickly in case
+108 489473971 homoya 0 0 2010-05-22 19:47:36 A<†Î yeah! i saw it up and was like has that always been there
+109 1 JV 3 0 2010-05-22 19:47:50 c¾Ìì heh
+500 2147483647 ChatBot 4 0 2010-05-22 20:17:17 JÀe) /roll garett_FUCKYOU 1d6 6
+501 2147483647 ChatBot 4 0 2010-05-22 20:17:19 JÀe) /roll garett_FUCKYOU 1d6 6
+502 2147483647 ChatBot 4 0 2010-05-22 20:17:20 JÀe) /roll garett_FUCKYOU 1d6 1
+503 496727456 garett_FUCKYOU 0 0 2010-05-22 20:17:22 JÀe) fuk u
+504 492536249 TiamaT 0 0 2010-05-22 20:17:23 B¶Î{ :(
+505 492536249 TiamaT 0 0 2010-05-22 20:17:29 B¶Î{ darkness hi
+506 496727456 garett_FUCKYOU 0 0 2010-05-22 20:17:50 JÀe) AH HA HA HA
+507 496727456 garett_FUCKYOU 0 0 2010-05-22 20:17:52 JÀe) DARKNESS!!!!!!!
+508 492536249 TiamaT 0 0 2010-05-22 20:17:54 B¶Î{ you have stumbled onto the NH gambling chatroom where JV fronts a casino
+509 492536249 TiamaT 0 0 2010-05-22 20:18:06 B¶Î{ he posted the wrong link in the forum
+1000 429433958 SlipKnoT 0 0 2010-05-22 21:06:02 Øè¸ no jobs at all
+1001 496727456 garett_FUCKYOU 0 0 2010-05-22 21:06:03 JÀe) she give me good brain like she studied at cambridge!
+1002 462608812 halpmeh 0 0 2010-05-22 21:06:19 c¦§‰ did u get the lil wayne random shit
+1003 462608812 halpmeh 0 0 2010-05-22 21:06:21 c¦§‰ free style
+1004 496727456 garett_FUCKYOU 0 0 2010-05-22 21:06:27 JÀe) haha yeah
+1005 462608812 halpmeh 0 0 2010-05-22 21:06:30 c¦§‰ hehe
+1006 496727456 garett_FUCKYOU 0 0 2010-05-22 21:06:30 JÀe) hi5
+1007 462608812 halpmeh 0 0 2010-05-22 21:06:34 c¦§‰ i remember that sprankles line
+1008 462608812 halpmeh 0 0 2010-05-22 21:06:46 c¦§‰ was playing other day in my friends car
+1009 461708678 Frenzy 0 0 2010-05-22 21:06:48 D“›ï backstroke, breaststroke, stroke of a genius
+2000 2147483647 ChatBot 4 0 2010-05-23 09:18:18 caÛt /login Dorfl
+2001 2147483647 ChatBot 4 0 2010-05-23 09:18:20 caÛt /logout jck Timeout
+2002 468854391 Dorfl 0 0 2010-05-23 09:19:35 caÛt does the new patch render old replays unviewable?
+2003 2147483647 ChatBot 4 0 2010-05-23 09:24:56 Bûíï /logout Avalanche Timeout
+2004 425648898 kane 0 0 2010-05-23 09:25:15 Bûíï idk
+2005 2147483647 ChatBot 4 0 2010-05-23 09:43:29 Øè¸ /logout garett-DRUNK Timeout
+2006 2147483647 ChatBot 4 0 2010-05-23 09:46:53 L¼°H /login erad
+2007 2147483647 ChatBot 4 0 2010-05-23 09:53:46 }+â /login lax
+2008 2147483647 ChatBot 4 0 2010-05-23 10:05:20 D±Î /login Basic
+2009 404787227 Basic 0 0 2010-05-23 10:05:26 D±Î ;[ 
++++++++++
+javawe - ajax_chat_online:(1)
+userID,userName,userRole,channel,dateTime,ip
+401816065 test 0 0 2018-08-10 12:59:16 DÂ`J
+
++++++++++
+javawe - battlereports:(4599)
+reportnum,author,date,title,gametype,report,image1,image2,image3,image4,image5,imagetext1,imagetext2,imagetext3,imagetext4,imagetext5,no_br_tags,ip,force_approval
+
++++++++++
+javawe - br_categories:(21)
+id,label,description,content_type,ordering
+1 Image Heavy These reports have a lot of images, prepare for a long download! report 1
+2 Famous Reporter This report was written by a famous or well known reporter. report 2
+3 Starcraft This is a report on starcraft or starcraft broodwar. report 100
+4 Warcraft 3 This is a report on Warcraft 3 report 101
+5 Civilization This is a report on a civilization game. report 102
+6 Rare game This type of game hasn't been reported on often. report 103
+7 Old Classic This report was a true classic, but now is a little dated. report 4
+8 Gorgeous This report is amazing to look at. report 5
+9 Great Writing This report has extremely good writing. report 6
+10 Pro Player This report is about professional gamers. report 7
+
++++++++++
+javawe - br_category_votes:(2948)
+id,date,content_id,category_id,host
+1 2006-04-25 10:33:27 6076 2 platinum.fusionalliance.com
+2 2006-04-25 10:33:27 6076 3 platinum.fusionalliance.com
+3 2006-04-25 10:38:25 6076 2 platinum.fusionalliance.com
+4 2006-04-25 10:38:25 6076 3 platinum.fusionalliance.com
+5 2006-04-25 10:38:43 6076 2 platinum.fusionalliance.com
+6 2006-04-25 10:38:43 6076 3 platinum.fusionalliance.com
+7 2006-04-25 11:15:13 6203 8 platinum.fusionalliance.com
+8 2006-04-25 11:15:13 6203 6 platinum.fusionalliance.com
+9 2006-04-25 11:20:20 6203 1 platinum.fusionalliance.com
+10 2006-04-25 11:27:37 6190 2 platinum.fusionalliance.com
+91 2006-04-25 12:36:27 5055 7 71.196.133.211
+92 2006-04-25 12:36:27 5055 8 71.196.133.211
+93 2006-04-25 12:36:27 5055 9 71.196.133.211
+94 2006-04-25 12:36:27 5055 13 71.196.133.211
+95 2006-04-25 12:36:27 5055 4 71.196.133.211
+96 2006-04-25 12:37:11 4529 2 71.196.133.211
+97 2006-04-25 12:37:11 4529 10 71.196.133.211
+98 2006-04-25 12:37:11 4529 6 71.196.133.211
+99 2006-04-25 13:29:52 5994 2 user-12l2ep3.cable.mindspring.com
+100 2006-04-25 13:31:45 3304 2 user-12l2ep3.cable.mindspring.com
+491 2006-04-28 20:05:29 70 3 dp-216-106-106-227.storm.ca
+492 2006-04-29 17:12:30 40 15 dp-216-106-106-129.storm.ca
+493 2006-04-29 17:12:30 40 3 dp-216-106-106-129.storm.ca
+494 2006-04-29 17:12:50 71 15 dp-216-106-106-129.storm.ca
+495 2006-04-29 17:12:50 71 3 dp-216-106-106-129.storm.ca
+496 2006-04-29 17:13:10 72 15 dp-216-106-106-129.storm.ca
+497 2006-04-29 17:13:10 72 3 dp-216-106-106-129.storm.ca
+498 2006-04-29 17:13:27 73 15 dp-216-106-106-129.storm.ca
+499 2006-04-29 17:13:27 73 3 dp-216-106-106-129.storm.ca
+500 2006-04-29 17:15:36 74 15 dp-216-106-106-129.storm.ca
+991 2006-05-15 20:11:32 362 11 dp-216-106-106-240.storm.ca
+992 2006-05-15 20:11:45 363 3 dp-216-106-106-240.storm.ca
+993 2006-05-15 20:11:45 363 11 dp-216-106-106-240.storm.ca
+994 2006-05-15 20:13:43 368 3 dp-216-106-106-240.storm.ca
+995 2006-05-15 20:13:58 366 15 dp-216-106-106-240.storm.ca
+996 2006-05-15 20:13:58 366 3 dp-216-106-106-240.storm.ca
+997 2006-05-15 20:14:19 364 15 dp-216-106-106-240.storm.ca
+998 2006-05-15 20:14:19 364 3 dp-216-106-106-240.storm.ca
+999 2006-05-15 20:14:19 364 14 dp-216-106-106-240.storm.ca
+1000 2006-05-15 20:14:59 365 15 dp-216-106-106-240.storm.ca
+1991 2006-07-04 20:58:20 998 3 dp-216-106-106-171.storm.ca
+1992 2006-07-04 20:58:32 999 3 dp-216-106-106-171.storm.ca
+1993 2006-07-04 20:58:37 1000 15 dp-216-106-106-171.storm.ca
+1994 2006-07-04 20:58:37 1000 3 dp-216-106-106-171.storm.ca
+1995 2006-07-04 20:58:57 995 3 dp-216-106-106-171.storm.ca
+1996 2006-07-08 11:54:02 5955 2 96.5.33.65.cfl.res.rr.com
+1997 2006-07-08 11:54:02 5955 9 96.5.33.65.cfl.res.rr.com
+1998 2006-07-08 11:54:02 5955 20 96.5.33.65.cfl.res.rr.com
+1999 2006-07-08 11:54:02 5955 6 96.5.33.65.cfl.res.rr.com
+2000 2006-07-08 11:54:40 5896 1 96.5.33.65.cfl.res.rr.com 
++++++++++
+javawe - comments:(133483)
+commentnum,reportnum,name,comment,ip
+3 22 Bob Hey way to go!!
+4 23 Johnny_Vegas Cool report dude.  You must take a lot of screenshots to get such good ones as you do.
+5 12 Johnny_Vegas You da man mark, that was an excellent post.  You got great screen shots too.  It was great fun beating this "Lurker Challenge" heh..
+6 30 Mark4 Tough fight =]
+8 23 DisgruntledApe I got owned that game. by Velo.
+
+But I wasted KGB so I was happy. And btw, it was an 8 carrier attack, not 6. =p
+
+Technacalities...
+
+GG! And thanks for writing, Mark.
+9 20 DisgruntledApe That first game rocked.
+
+I sucked on the last two, tho.
+
+GG.
+
+DisgruntledApe
+10 22 me what bob said 3 times
+11 22 Templisks *makes a note* Do not play Vegas when he is your enemy :)
+12 31 Mark4 DisgruntledApe=master of brevity =]
+13 34 Johnny_Vegas The great falarn was bested?  Mantra you must be a serious ass-kicker.  Nice report.
+94 44 Whoop Funny but we need ummm
+
+errrrr
+
+you know ;)
+95 54 XTreme Yes, very nice use of pics. Although one thing: i got kinda confused with the A,B,C, and D points, and didn't want to scroll up the report again. Otherwise, very nice!
+112 51 colonel_mustard okay, do not count this one, but wouldnt that kinda ruin the whole point of winning a prize for having the most comments. just do not count those that are not real comments, like mine.
+100 52 =Darth~Sidious= It was on an edited version, distributed by GX. It's for their upcoming tournament.
+114 54 {Caf}~kinglag how do u add pics
+113 51 Johnny_Vegas Hey XTreme, don't spam my website please.  I get tired of deleting it...
+109 51 colonel_mustard i would just like to say i am not a cheesey offensive cannoner like him.  i do not intentionally plan it.  i only do it with my scouts if it is a once in a lifetime chance like that time my probe somehow got onto johnnys cliff. oh yeah, this should help put you to the top.
+115 50 colonel_mustard ummm...... who told you he was good
+116 54 Johnny_Vegas <font color=lightblue>Well, the easiest way is to upload them from your computer to our site.  They will all appear in the "Battle Shots" section at the bottom of your report.  Make sure they are in JPEG format, and also 50K and less..  Look at Mark4's reports and you will see what it looks like..  The way Rychean did it, is more complicated and involved learning HTML, but that is not necessary if you just want to add a few pics.</font>
+117 55 Johnny_Vegas This is well written, thanks for the contribution.
+513 135 Mark4 Actually, I do owe all my fame to Johnny. He's a much better player than I am. Probably better looking and smarter too. In that game though I used a build I usually don't. It was in fact my terran killing build for 1v1, designed to get tech quickly. I wan't going for dragoons, I was going for templar, but I needed troop count when I got hit and the archives hadn't warped in yet. My only concession to safety was the shield battery and three zealots. 
+
+Johnny does have to save me a lot. I'm more vulnerable early game than he is usually. But isn't that what teamwork is all about? I let myself be vulnerable because I know he can cover me. Not that I can't still take a double rush from most sub 1100 players without blinking with my normal build.
+
+As far as Johnny and me 1v1, we sit at about 2:1 in our games in my favor. But Johnny is a better team player than I am. If I had the choice between having two of me in a game or one of me and one of Johnny I'd pick Johnny every time. The sum of our playing styles is greater than the parts.
+514 135 Johnny_Vegas Yes when Mark4 and I team up, 1+1=3
+515 146 HolyAnarchy{GK} Sorry, forgot my name!  =)
+516 141 Jazzy Actually, the truth of the matter is, SC/BW sucks to play on the battlenet now because of backstabbing (and disconnecting, hacking and so).  Anti backstabbing is becoming a way of life.  If I want to play a public game and get aroung all the BGH wuss and losers, then I still have to contend with the potential hacker/backstabber.  Oh gee...fun.  And if the backstabber has to lose a character to keep playing....GOOD!!!  A little more work for him.  Anyway, I hate backstabbing and will do what I can to stop it.
+517 106 Johnny_Vegas Renegade95:  Thanks for the comments.  However it appears most people prefer my "narrative" style.  I didn't fail to include strategy mixed in with the story.
+518 135 [e]ReD-SmUrF I never disagreed with anyone about you two being good players, half of battle net can't be wrong when they choose people to brag about and whine how they are so good :)   sorry if I offended anyone with my post up there, was just asking a question of Mark.
+519 146 Smoked Pork For the last time, bro, there's no "N" in "turret!"
+520 142 Bob the Newt There wasn't a single period in that report! What is wrong with you gen.rhino_54?
+521 143 Korasoff[265] Hmmm, Lurkers anyone? That could have helped ya alot. But yeah, sometimes in team games you have to take decisions about your partner and what you should send him. Tough.
+522 144 scaramouche great br. don't worry about the grammar.  it still flowed like molten silver.  also, you don't get good battle reports
+from the losers of games like that very often...
+1042 244 Tinky Winky BackStab Rulz !!!!!!
+Yek Yek Yek
+MWUAhahaaha
+Kick Ass
+Bleuh
+RAAH!!!!!
+Wut?
+Yeah!
+
+THINK BIG STI!
+1043 242 Serepihna Hate to tell you this, but 3/3 Marines vs 3/3Hydras do beter than 0/0 vs 0/0.  Armor is the last thing done.  This was discussed ages ago on Shock's forum, and the general consensus was the following:
+
+Damage=((Initail+Upgrades)*?Penalty)-Armor
+
+Hence, 3/3 vs 3/3 is :
+
+((10+3)*.5)-3=3.5
+1044 227 Mark4 I think 3v1 is more likely. We can make it team melee =]
+1045 247 [FLS]prozerran I'm not sure about toss vs terran air dude...  All I know is that Carrier+sairs+>5 observers=dead terran air.  In some degree dead terran ground as well, when the *cheap ass* D-web is casted, with DA (feedback) and temps dropped (for BC).
+
+Right now most of my terran island game is to avoid these units, by attacking them first....
+
+Terran island stinks against toss air especially at the end.  Not to mention the annoying stasis field....
+1046 227 [FLS]prozerran Make that 4.  Oh wait,  Warrior Princess too.  Make that 5
+5 on 1.
+1047 247 Fweddo I'm hearing some stuff dissing lockdown.  LD rules.  Read my earlier report to find out, but to make things short, I lockdowned my opponent's entire fleet (5 carriers, I think) and I SUCK, and I mean utterly suck, at micromanagement.  A good micro'er could easily LD a fleet of carriers with 10 ghosts (or about 1 per carrier) using shift-cueing of lockdowns (select ghosts, LD a carrier, shift click a ghost, repeat), or really really fast clicking.
+1048 248 Fweddo I really gotta agree with u on that last comment.  Especially if u'r opponent is zerg and u'r zerg/toss, going sairs/mutas 1st instead of a drop is an excellent advantage, as u can get transporting lords w/ mutas/sairs, and then u've got the game (as long as u have good recon and dont let him exp).
+1049 245 Bob the Newt I'd like to pretend I understand that.
+1050 247 Bob the Newt Yeah, once I locked down 12 carriers and arbiter and killed them all with 12 wraiths. Only works if you see the fleet coming though.
+1051 247 JSH What's this about goliaths are a waste of money?  First of all, they don't cost very much, and produce quickly (same time and gas as a goon).  Their ground-to-air power is fantastic for how much they cost.  They're not terrible vs. carriers, unless you're talking about going up against 12.  That's when you need stuff like lockdown.  And their ground power is adequate, and can be supplemented with tanks.  A mass goliath/tank drop by a Terran is nothing to sneeze at.  The corsairs will sit around saying "you know, I wish we could attack ground so we could save our base."  I'm often making tanks and goliaths out of 4+ factories and dropships out of starports.  I defend islands with goliaths, not turrets.  And most importantly, I (try to) stay aggressive.  Toss may defend well, but there is always a way in, like sieging/nuking from across islands so you can drop your troops.  
+
+Well that got kinda long, but I guess the point was I Like Goliaths!! :)
+2093 386 Looking back at my previous replies, it seems I have trashed helmintes more than I had originally intended. My first thought at this was, "Helmintes thanks for makin me look like a fool ;)." Therefore I set out to defend myself and perhaps took it a little too far.  I apologize and hope this clears things up, and yes I did play worse than Helm is used to me playing. Normally I stay alive, which tends to be a good thing =).
+2078 390 Necrosausage "...but i barely win, even though i still have 8000k and 3000k in my bank. "
+
+8000k = 8000 * 1000 = 8000000
+
+Did you really have 8000000 minerals? ;-)
+
+well, good BR :)
+2079 341 Templar of doom I have a bot that boots people as soon as they come in you should get one of those and put it up on a comp thats online 24 hrs day, like a school comp his name is .Tiabot after one of my names .Tiamat but he got a disc and his record is 3-0-1 so i am waiting for him to delete : )
+2080 363 WOLLYOTTA Why are you guys insulting toothbrush? he's a great writer (his report was great!) and I've seen him on the bnet ladder forum...he's got great thoughts, and can spell well :) 
+
+Good Job toothbrush Keep it up
+166541 6379 mattzarella micro: OSI started putting the whole UO: ML client up on their website for download. go here:
+
+http://abcuo.com/download/index.php
+
+and follow the instructions. you don't even have to patch or anything, it's surprisingly easy to get on. 
+
+i wanted to stay away from the descriptions like "i killed the harpy, then looted it. i killed another, then looted it. i healed myself." i'm not very innovative so it's difficult to think of a way to make grinding harpies interesting, so i just skipped the battle and told you the outcome. 
+
+i figured out yesterday that there isn't any skill cap on this server. i don't know if i'm happy about that or not. i know for a fact that it's going to make pvp very difficult because i have no idea what to expect from someone. however, it's great for pvm. there are literally unlimited combinations except for necromancy and chivalry - can't really have them both because they rely on karma. also, i bought a boat yesterday (spent almost all of my money) and i'm gonna see what i can do in the way of macroing.
+
+parrying is broken on steve's shard, i think. i could not gain a single .1 no matter what i tried. i might pick it up here and see if it's any good. you should definitely try to play a little bit, it's a good server so far.
+
+krael: i've played WoW and UO and i love UO because it's a bit more open-ended. you have more freedom with your character and it doesn't become as numbingly repetitive. and i am definitely planning to do more of this.
+
+psy: ur gay 205.117.121.70.cfl.res.rr.com
+2082 384 JSH What a great picture!
+2092 390 Mikalleki Actually, I was thinking of plopping down a nuke from that extended ledge below the cannons. Either one though.
+2091 390 Blank On Lost Temple, you can siege the islands with tanks.
+
+You see, there's a little ledge off the island where cannons CAN NOT hit, but tanks can fire back at cannons (in siege).  If he actually puts cannons on that little plot of land, you can siege your tanks from the land across from it, and hit the cannons, then dropship them over and land like that.  It's annoying as hell to do though.  What you might want to do is get Wraiths sooner, and guard the expansions for the life of ya.  In most games I've played, if a toss player manages to cannon those up, it's going to be hell in a hand basket to get them out of there.
+
+Hope this helps
+
+Blank
+2086 374 Jess82 I have to say GoofBall you must be the most resilient player I've met on B.Net, I don't think I've seen anyone who can surive a 2-3 player rush and rebuild in time to take a victory. ::in awe::
+2094 386 Omnipresent Looking back at my previous replies, it seems I have trashed helmintes more than I had originally intended. My first thought at this was, "Helmintes thanks for makin me look like a fool ;)." Therefore I set out to defend myself and perhaps took it a little too far.  I apologize and hope this clears things up, and yes I did play worse than Helm is used to me playing. Normally I stay alive, which tends to be a good thing =). 
++++++++++
+javawe - forumbodies:(1349478)
+id,body,user_agent
+676569 SC's armor system is easy to understand and adds depth to the game:  Fast-firing, low damage units tear apart unarmored targets (like marines vs. mutalisks) but can't do any damage to heavily fortified ones (marines vs. carriers).  Why am I explaining that on an SC forum: good question.
+
+WarIII's armor system is entirely percentage based.  Somebody worked it out, and basically each point of armor adds around 6% "EHP" (Effective Hit Points) to a unit, so a unit with 100 HP and 3 armor can take approximately 118 points of physical damage before it dies.  The % of damage reduced deal is pretty meaningless overall, more armor = more life, don't get any more complex than that.
+
+- Evilboy
+676568 i read that earlier and thought it was like a dressed up cabbage patch or someshit.
+676565
+676566
+676567
+676559 let the insanitey begin!
+676560 for the umpteenth time they've dropped the bank on a small guy.
+
+u think for a team that gaveup chris webber, rasheed wallace and ben wallace. they would eventually learn.  but it seems not.
+676561 so far you're 2 for 2 on porn =]
+
+
+-dio
+676562 Edge for Administrator!
+676548
+676486
+676487
+676488 KJs!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&hearts; &lt;3 &hearts;
+676489
+676490
+676491 I AM.
+
+
+-dio
+676476 Mr. BanLTFromWGT :-O
+676449 maybe, dunno if Im accepted yet but I applied to Mt Royal
+
+need a roommate?  =p
+676450 that works on many levels considering he's hindu 
+
+man I own
+676451
+676078 I don't see how this is a good idea.  I mean I'm sure they'll be fine admins, but look at shamblers, they've got like 6 admins and whenever anything gets deleted/edited everyone's like 'uh I didn't do it' and no one fucking knows why and this sucks =[
+676077 i think i'm the only non-admin now
+676062 course i dont think we have cockroaches in canada.
+676063
+676064
+676065
+676066 HA HA.
+676074 His voice is slightly strained.
+
+
+Gah.
+676075 cuz I didin't read it. But he put spoilers in his title!
+676076 email me for your admin logins plz.
+675642
+675643
+675644
+675645
+675646
+675647 I'm going home
+675648
+675649
+675650
+675651
+674573 ./was, since it's broken.
+674574 i would too if the bastard i was gonna meet was fingering a knife.  hell i dont feel like getting stabbed by someone i met over the internet either.
+
+im a coward and not afraid to admit it
+674575 I think I'd kill myself if I tried to play BW using one of those. =p
+674576
+674577 I win.
+674578
+674579 but i think they will find a way to genetically diversify it, doing the exact opposite they did for thousands of years
+674567 or those other weird tropical bananas to be more like we want
+
+bleh that's pretty gay tho...dunno why it doesn't bother me more...;[
+674544 how cheaply can you get a microsoft split keyboard for me?
+
+or if you can't/won't
+
+wheres a good place to get one for cheap?
+674568 
++++++++++
+javawe - forums:(0)
+id,title
+
++++++++++
+javawe - forumthreads:(1344823)
+id,date,mainthread,parent,author,subject,host,forum,hits
+
++++++++++
+javawe - misc:(1)
+king_hp
+999998122
+
++++++++++
+javawe - news:(488)
+newsnum,time,title,body
+5 950258751 News Editor Added Well your going to see a lot more news on the site from now on.  I made a little web-based news editor so now YRM and Mark4 will probably be adding as much or more news items than me.  Also they wont have to email me to have it posted.  See Mark! Nagging me does get you somewhere!
+<br><br>
+-JV
+3 949737600 Dref Wins! The great Drefsab has won the Hall of Fame of poll, and will be admitted into the Hall of Fame as soon as we can.  Congratulations Drefsab!
+4 948182400 Hall of Fame Heats Up! <b>HOF race heats up!</b> Check out the lastest awesome reports by the HOF nominees!<br><br>
+6 951272977 Hall of Fame kicks into high gear! The race is on for the February Hall of Fame nomination!<br>
+
+Check out the best reports by our competitors by clicking on
+thier names:<br>
+<a href="http://www.battlereports.com/viewreports.php?reportnum=1276">BoB_The_Newt</a>, 
+<a href="http://www.battlereports.com/viewreports.php?reportnum=2003">[FLS]Prozerran</a>, 
+<a href="http://www.battlereports.com/viewreports.php?reportnum=2051">WilliamWC3</a>, 
+<a href="http://www.battlereports.com/viewreports.php?reportnum=1932">Shockwave</a>, and
+<a href="http://www.battlereports.com/viewreports.php?reportnum=1023">Necrosausage</a>!<br>
+Good Luck to all the nominees!
+7 951439556 Got some Email today Check out this request I got in the email today.
+
+<br><br>
+<i>Hello, i love your page, and i am helping make a page
+www.icantlose.com and i was looking for a script where people could submit reports and i was wondering if you would send me yours since it seems to work very nicely.</i>
+<br><br>
+Yeah sure buddy just take my report submission script!
+<br><br>
+haha
+<br><br>
+-JV
+8 951765383 New Web Server Battlereports.com has switched to its own dedicated server thanks to my friends over at <a href="http://www.cimmeria.com">cimmeria.com</a>.  The site should generally load much faster with less database down time that has been an occasional problem in the past.
+
+I'm aware of the error messages that popup in the forum, that's because I am now using a beta version of PHP4.  A new forum is the next thing on my list of things to do.
+<br><br>
+-Johnny_Vegas
+9 951775932 Rating System Fixed Because I moved the site to a new server, the ratings script pointed to the incorrect address for the database.  Anyway, it should be fixed now.
+10 951929427 Hall of Fame Goes Down to the Wire! February's photo finish has been determined by the staff and raters.  We decided that the best thing to do would be to induct both WilliamWC3 and [FLS]prozerran.<P>
+
+Bob_the_Newt was a close third, followed by Shockwave and Necrosausage.  Everyone got a respectable amount of votes.  Congrats to all.  This month's choices are now available.  Hit refresh if you don't see them.<P>
+Have a nice day,<BR>
+YourRoleModel
+11 952624169 PHP4 Zend optimizer The second the <a href="http://www.zend.com/">Zend optimizer</a> was released my sys admin added it to the server.  The site should be faster all around now. Zoooooom!
+12 952694251 The Little Gaming Company that Could <A HREF="http://www.ethermoon.com">Ethermoon Entertainment</A> has officially opened the doors of its website today.  While Zileas is the best known member of the team, we (at Ethermoon) are all working very hard to create a horribly addicting RealTimeStrategy game.<P>
+-YRM-
+95 984788590 I couldn't resist. When I saw that GameSpot has posted six pages of coverage on Strifeshadow, with a ton of shots and lots of information that pertains to the playback and annotation aspects that will benefit battlereporters, I had to post the link.
+
+<A HREF="http://www.zdnet.com/gamespot/stories/features/0,12059,2696598-1,00.html">Here</A>
+
+-YRM-
+96 985547383 Return of the Old School Reporters YourRoleModel, the man who started the high quality battle report in the golden days of br.com, has returned with a report on his <a href="http://www.ethermoon.com/">
+new game.</a> Take a look at his cool<a href="http://www.battlereports.com/viewreports.php?reportnum=4090"> report<a/> on the game <i>he personally did the graphics for</i>, StrifeShadow. You don't get any better than this.<br><br>
+
+Also coming back with a great report, [FLS]Prozerran has put out another of his <a href="http://www.battlereports.com/viewreports.php?reportnum=4123">brilliant efforts</a> on starcraft. Think "King~Lewis report" except with a little better english =]. Believe me, you don't want to miss either one!
+<br>
+<br>
+Mark4
+97 986143470 Battlereports.com sold to Venture Capitalist Group Battlereports.com will be the property of Van Neisen Acquistions LLC as of April 15th.  The selling was agreed upon by all the partners involved, for the price of four million dollars.  The former admins have been fired and will be replaced by the purchaser within 30 days.
+<br><br>
+-Battlereports staff
+98 986157179 Cool Paintball Report <a href="http://www.battlereports.com/viewreports.php?reportnum=4133">Check out</a> this cool report by SCV on a paintball game he and a few friends played. Clear and easy to understand graphics and writing make this one a definite winner. Plus you get to hear about high velocity paintballs smacking around the writer! I just hope the new BR.com owners keep up this tradition of high quality reports when I'm sipping tequila on a beach in Barbados.
+<br>
+<br>
+Mark4
+99 987364498 CHJ strikes again! CrackHeadJeb puts out his latest report as <a href="http://www.battlereports.com/viewreports.php?reportnum=4181"> part 1 </a> and <a href="http://www.battlereports.com/viewreports.php?reportnum=4182">part 2</a>. The continuation of the Dr. Awesome Chronicles is definitely a treat for all of our readers. I have to warn you though, you may see a little smoke coming off your modem if it's a 56k.<br><br> 
+
+Also getting right up there in the badass scale is The..Scarab. He has a great cast of some of our favorite players in <a href="http://www.battlereports.com/viewreports.php?reportnum=4175"> his new FFA battle report</a>. And you get to listen to a little Devo as you enjoy =]. 
+<br>
+<br>
+Mark4
+100 987388266 New Rater Congratulations to Dr.Awesome, he's been selected to join the august ranks of the raters. His great battle reporting skills and his solid performance on the ever arduous "rater selection test" (involves three monkeys and FLS's underwear, don't ask) make him eminently qualified for this honor. Great work!
+<br>
+<br>
+Mark4
+101 988165555 Amazing report by Casper... Casper... posted a fantastic report today, it includes a non-flash version which is almost as good as the flash version!  Some people have had problems getting it to load, I suggest minimum system requirements of Cable/DSL, and a lot of RAM in your system.  Check it <a href=http://www.battlereports.com/viewreports.php?reportnum=4212>HERE</a>!!
+<br><Br>
+-Johnny_Vegas
+102 988292267 Two 10s in a row? Yes indeed! YRM posts another great Strifeshadow report, making us all salivate with anticipation for the game's release.  Check it <a href=http://www.battlereports.com/viewreports.php?reportnum=4213>Here</a>!
+<br><br>
+-Jonathon Emanuel Vegas
+103 989629014 The "game of kings" Rumpelstiltskin has added a battle report of the most ancient strategy game, chess. Check out his <a href="http://www.battlereports.com/viewreports.php?reportnum=4224">in detail analysis</a> of an old school game. Thanks for the great story 'skin.
+<br>
+<br>
+Mark4
+104 990765563 Br.com 3.0 released We've been working hard lately, to give you this new design, and a few more features, most importantly the replay section.  
+<br><br>
+Some things we did:<br>
+-Replay section, with ratings, comments, more!<Br>
+-New awesome look<Br>
+-Faster page downloading<br>
+-Text updates on most pages<br>
+-600 pixel wide battlereports (was 500)<Br>
+-removed 5 image uploaded that was never used<br>
+-whole site uses same layout, Tournaments and Report Center no longer look like separate sites<Br>
+-forum and comment section anti-double post<br>
+<br>
+thanks,
+<br><Br>
+Battlereports Team
+
++++++++++
+javawe - ratings:(8703)
+ratingnum,reportnum,rating,rater_ip
+5 171 6
+4 172 5
+3 173 5
+2 177 8
+1 176 3
+6 170 8
+7 169 8
+8 178 6
+9 5 3
+10 8 9
+91 187 8
+92 81 9
+93 86 5
+94 87 7
+95 160 6
+96 189 4
+97 169 7
+98 191 6
+99 12 8
+100 11 8
+491 403 7
+492 404 7
+493 414 8
+494 415 6
+495 416 7
+496 419 5
+497 421 7
+498 422 3
+499 423 7
+500 405 4
+993 690 5
+994 693 5
+995 694 7
+996 692 8
+997 696 4
+998 692 9
+999 679 9
+1000 698 7
+1001 699 5
+1002 699 6
+1995 1290 5
+1996 1288 4
+1997 1297 7
+1998 1298 5
+1999 1296 4
+2000 1298 7
+2001 1276 9
+2002 1291 9
+2003 1292 7
+2004 1295 6 
++++++++++
+javawe - users_filem:(1)
+first_name,last_name,username,password,permissions,homedir,email,client_id,disable,session_num,session_time,description
+
++++++++++
+
+ 

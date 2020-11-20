@@ -1,0 +1,949 @@
+tdibrasil.com/video.php?id=17
+ 
+tdi_sistema - admin:(7)
+id,usuario,senha,ativo
+1 uesleiadmin b64618c64cfe39d937952cb5efe80de5 S
+2 rodolfo 4986e1269b2f2bce66ba06d7fc52185b S
+3 eberlin 3a657559bfaccd1f0e0d39e5878a6626 S
+4 douglas cc0c361eecfd5f5cde32e4ea133eddd3 S
+5 Junior 4986e1269b2f2bce66ba06d7fc52185b S
+6 saulocreis ef58053326df71018524134e0725eceb S
+7 enezio 26341a068d95bb49a04c6359eae7aae5 S
+
++++++++++
+tdi_sistema - arquivosjornal:(1)
+id,idjornal,descricaoarquivo,arquivo
+13 3 jornaltdi_088266d2e6cd749ddf9ca18df95e98b5a.pdf
+
++++++++++
+tdi_sistema - banners:(1)
+id,titulo,imagem,link
+2 Banner Tdi banner_b362e67458d9953cd53b64e2463439c6.png
+
++++++++++
+tdi_sistema - boletins:(1)
+id,titulo,data,arquivo,ativo
+1 teste 2016-07-14 16:48:45 boletim_d4260bf218a1ea85b28ae56058cda6b4.pdf S
+
++++++++++
+tdi_sistema - emails:(0)
+id,nome,email,idgrupo
+
++++++++++
+tdi_sistema - eventos:(1)
+id,titulo,local,cidade,link,dataini,datafin,observacoes
+1 titulo do evento evento teste campinas link 2016-07-14 2016-07-14
+
++++++++++
+tdi_sistema - fotosgaleria:(381)
+id,idgaleria,imagem
+3 1 galeria_73e1ccec05274e12785279f817d09b80.jpg
+4 1 galeria_305b8cc199c6dcc01d35de7dcdb8b174.jpg
+6 1 galeria_09dc4a6a36d2c941b0928d2899c031d3.jpg
+7 1 galeria_497cf1b391d956cb979d9f0c2f455482.jpg
+8 1 galeria_61a3c447a31557d9bd61327c1fceeae7.jpg
+9 1 galeria_7ad374a2fb91dcbe13ad69768995b0b5.jpg
+10 1 galeria_6d2484cd5308522338f9885bb737d333.jpg
+11 1 galeria_cbd90537c34bb0b6f20f7771ad73a78a.jpg
+12 1 galeria_de7ecd8b93e0e598edcbc3078022cbad.jpg
+13 1 galeria_e3acd3029d03745142d8ee5640d2188b.jpg
+117 4 galeria_64335e18cba19fa8600d376039c783f8.JPG
+119 4 galeria_2b50f04b603d8d2756babe2cc5ee8bd0.jpg
+121 4 galeria_0f8b6554d09fb419e6a6fb4d0d06600b.jpg
+122 4 galeria_7cb4b1bd02418ce768d13f2bcf8de329.jpg
+123 4 galeria_994a0e3b06e7c237efe946289dfef67d.jpg
+124 4 galeria_69ed8891188bb55e337061dfcff9520b.jpg
+126 4 galeria_11442b1c7da0bd06a293eb6c2e804794.jpg
+127 4 galeria_40326ae6a6c987fb309154c9622a9d1d.jpg
+128 4 galeria_8052c400fe524a01e7611e884aa2d6c8.jpg
+129 4 galeria_60b35d4f4e1fde1cad786f258cfefe5e.jpg
+
++++++++++
+tdi_sistema - galeria:(11)
+id,titulo,data,descricao,ativo
+1 Fotos do Hist</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+2 Fotos do 2o. Congresso da TDI - O TDI Rio 2016-10-05 00:19:43 S
+3 Fotos 3o. Congresso da TDI - O TDI S</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+4 Inaugura</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+6 TDI Europa 23 de Outubro 2017 Leon - Espanha 2017-10-26 14:28:58 S
+7 Palestras Zombie Science Nov2017 J. Wells 2017-11-08 09:55:34 S
+8 TDI Nordeste 10-11 Nov2017 Fortaleza 2017-11-13 14:56:47 S
+9 TDI Goi</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+10 TDI Senhor do Bonfim 12-13 Out 2018 2018-12-30 22:18:21 S
+11 Lan</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+
++++++++++
+tdi_sistema - gruposemail:(0)
+id,descricao
+
++++++++++
+tdi_sistema - jornaltdi:(1)
+id,descricao,data
+3 Regras Cap</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+
++++++++++
+tdi_sistema - logsadmin:(3257)
+id,evento,datahora,idadmin
+1 exclusão atuacao registro 1 2016-06-26 18:47:31 1
+2 exclusão atuacao registro 4 2016-06-26 18:52:09 1
+3 exclusão atuacao registro 5 2016-06-26 19:40:46 1
+4 exclusão atuacao registro 3 2016-06-27 16:02:58 1
+5 exclusão atuacaoms registro 2 2016-06-27 17:39:37 1
+6 exclusão parceiros registro 5 2016-06-27 17:46:44 1
+7 exclusão parceiros registro 6 2016-06-27 17:47:05 1
+8 exclusão eventos registro 1 2016-06-28 13:46:47 1
+9 exclusão parceiros registro 4 2016-06-28 17:13:22 1
+10 exclusão videos registro 1 2016-06-29 02:09:26 1
+91 inserção foto galeria 1, registro 1 2016-10-05 00:08:35 3
+92 inserção foto galeria 1, registro 1 2016-10-05 00:08:35 3
+93 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+94 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+95 alteração video registro 2 2016-10-05 00:13:17 3
+96 exclusão videos registro 1 2016-10-05 00:13:24 3
+97 exclusão videos registro 4 2016-10-05 00:13:30 3
+98 alteração video registro 3 2016-10-05 00:14:16 3
+99 inclusao video registro 5 2016-10-05 00:18:49 3
+100 inserção galeria registro 2 2016-10-05 00:20:27 3
+491 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+492 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+493 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+494 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+495 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+496 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+497 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+498 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+499 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+500 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+991 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+992 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+993 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+994 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+995 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+996 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+997 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+998 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+999 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1000 altera</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+2029 exclusão fotosgaleria registro 219 2017-10-26 14:48:12 3
+2030 exclusão fotosgaleria registro 220 2017-10-26 14:48:19 3
+2031 exclusão fotosgaleria registro 218 2017-10-26 14:48:25 3
+2032 inserção foto galeria 6, registro 6 2017-10-26 14:48:45 3
+2033 inserção foto galeria 6, registro 6 2017-10-26 14:48:45 3
+2034 inserção foto galeria 6, registro 6 2017-10-26 14:48:45 3
+2035 exclusão fotosgaleria registro 222 2017-10-26 14:49:50 3
+2036 exclusão fotosgaleria registro 223 2017-10-26 14:49:57 3
+2037 exclusão fotosgaleria registro 224 2017-10-26 14:50:03 3
+2038 exclusão fotosgaleria registro 213 2017-10-26 14:50:31 3 
++++++++++
+tdi_sistema - membros:(1751)
+id,nomemembro,emailmembro,areaatuacao,filiacao,senha,foto,cv,dtcadastro,ativo,exibircv,palestrante
+4 Marcos N Eberlin mneberlin@gmail.com Qu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+5 Calebe Elias Ribeiro Brim calebebrim@gmail.com UFPR fotomembro_400543db904a86996d5f64aefa028625.jpg Possui gradua</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+6 Rodrigo Mello Gomes rodrigomellogomes@hotmail.com Biologia UFG fotomembro_d6d9d377c3c6ba6db55011e813ba0ecc.jpg Atualmente </li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+7 Cristhian Vogel Carvalhaes cristhianvogel@hotmail.com UFG fotomembro_6bb0fc3ba660d3913d9ac5836f69e4cb.jpg Cursando Engenharia El</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+8 J</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+9 Yuri T</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+10 Marcelo Macedo de Oliveira marcelo.m.o_stuart@hotmail.com Teologia, Filosofia e Apologia Crist</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+11 Valdir Fel</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+12 Caio Vinicius da Siilva caioviniciusgba@hotmail.com UFPB fotomembro_8c1fcacd90af14bb5c01a55c60114447.jpg Bi</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+13 Emanuela dos Santos Borges emanuelaborges1@hotmail.com Direito UNESC fotomembro_c42659a8e968617f9d0e563de31dea5e.jpg Historiadora e graduanda no curso de Direito pela Universidade do Extremo Sul Catarinense - UNESC. 2016-10-05 07:02:48 S S N
+113 VALBERT FLORINDO SALES valbert.vfs@gmail.com UFMG fotomembro_1ba6584d3f91fb1e3f20dc0808ccffa2.JPG Graduando em medicina pela Universidade Federal de Minas Gerais (UFMG). Membro da Sociedade Brasileira de Neuropsicologia. Coordenador do Grupo de Estudos em Did</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+114 Eduardo de Figueiredo Magrin dudamagrin@yahoo.com.br UEPB fotomembro_331e0aea8d29fe2536da5c8a26fed653.jpg Farmac</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+115 Eduardo Costa de Figueiredo figueiredo@unifal-mg.edu.br UNIFAL-MG fotomembro_5b22c2edfe9581f6acec80964392db52.jpg Farmac</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+116 F</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+117 Jerusa Simone Garcia jerusa.garcia@gmail.com UNIFAL-MG fotomembro_97a32acd620342e7ba13314224ff72b5.jpg Qu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+118 Mateus Gulart Campos campos.mateus@gmail.com UNICAMP 263789ed2fa4ffa67e1ddc814bbc4e9801b7443c.jpg Bacharel e Mestre em Qu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+119 GUSTAVO BRAGA SANVIDO gsanvido@iqm.unicamp.br UNICAMP b9d4ff2f6e2f04d2e2c303533987629249a1abc4.jpg Bacharel em Medicina Veterin</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+120 Mariana Cavalcante e Almeida S</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+121 Jimmy Paoly Garate jimmygarate@hotmail.com UNIR 2b6684b17ad92d38b5dc8b201143a61a68971054.jpg Medicina; Universidade Federal de Rond</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+123 Raimundo Nonato Pereira Costa costaotto@hotmail.com UNICAMP e2f6766c7d675d007a3d8402c7e03d0b87b7b866.jpg Gradua</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+698 Tiago Vinicius de Oliveira oliveira.tiagov@gmail.com IFFAR fotomembro_cbca815048a8246feaa520373840211f.jpg Graduando em Sistemas para Internet no Instituto Federal de Farroupilha - IFFAR. 2016-11-16 10:30:14 S S N
+699 Evandro da Cunha Ferreira ferevandro@gmail.com Dom Bosco ferevandro01 fotomembro_015573d48bfeeb61476a3c3873ab5f13.JPG Meu nome </li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+701 Alcione Giovanella agtche@gmail.com FBP cla310104 fotomembro_238d91c89db81f2379bf1526c647d4bf.png Bacharel em Teologia pela Faculdade Batista Pioneira - FBP e Tecn</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+703 Renan Antunes Vieira Martinelli renanantunes15@hotmail.com FABAPAR fotomembro_3075829114dc4c5cd7f6bebd8ea33421.jpg Cursando o Bacharelado em Teologia pela FAPABAR (Faculdades Batistas do Paran</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+704 Adelson Luiz de Oliveira adelsonluiz48@gmail.com FTBAW fotomembro_19735147252034922ca370b0c6c6c817.png Bacharel em teologia pela Faculdade Teol</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+705 Alan de Macedo Sim</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+706 Uberani Medeiros uberanimed@hotmail.com ASCES fotomembro_9b87e2b3d3b1b590b2c459858535f504.jpg Graduado em Direito, cursando bacharelado em Teologia. Trabalha no Instituto de Criminal</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+707 Rodrigo Pereira Lauriano rodrigolauriano1@hotmail.com UNIPAC opregador2016 fotomembro_683bf13b328cdf49c9502bdffb98ad0a.PNG TECN</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+708 Isai Marcelo Hort isaihort@yahoo.de Unicesumar fotomembro_6457f756112c1bd067a4c4b678022eaa.jpg Bacharel em Teologia pela Cesumar. Forma</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+709 Adelson de Oliveira adulque21@yahoo.com.br SULAMERICANA fotomembro_5ca1c0d6e79ee51af494e6357b1b4ead.jpg Graduado em Teologia no ITBT - 1992, Bacharel em Teologia Faculdade Sul Americana de Londrina - PR,  2013, P</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1401 Jaqueline Bichinho Dam</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1402 Josu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1403 </li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1404 Israel Henrique Botelho Martins israelrickmaiara@gmail.com Geografia e Astronomia IFMA 020491deus fotomembro_74cb4f056470ded5ee71828b49d9dc2c.jpg Formado em Geografia, l</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1405 Vinicius Vieira Vignoli vinicius.vignoli@yahoo.com.br Histologia e Embriologia UNIFAL agapefilos28 fotomembro_9bff39ef70b91b6cc9199356de633d3c.jpg Graduado em Odontologia (EFOA, 1966, hoje UNIFAL) Licenciado em Letras - Portugu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1406 Paulo Renato Lima paulorenatolima@yahoo.com.br Engenharia Ambiental UEM marc1844 fotomembro_48611e07da03e68a1b570ef8addfb986.png Possui gradua</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1407 Gisele Alves de Assis Siqueira giselesiqueira@inovedesign.pt Economia e Gest</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1409 douglas nascimento do vale douglas_ieadam-rr@hotmail.com Qu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1412 Jean Jerley Nogueira da Silva jean@uerr.edu.br Qu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+1413 Angela Monteiro angelamonteiro_amon@hotmail.com saude mental FEAP- amigoazul2005 fotomembro_6a10d7b23d15beaa1493ab18691af8d4.jpg Pedagoga, Escritora, Facilitadora do Curso de Cuidadores em Saude Mental, P</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+
++++++++++
+tdi_sistema - noticias:(27)
+id,titulo,noticia,data,imagem,exibehome,ativo
+23 Que Tal um Pr</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+24 Programa do Curso Design Inteligente 101 (DI101) - 06 de Maio <p><strong>Pessoal.</strong></p>
+<p><span style="color: #ff0000;"><strong>Saiu o programa do DI101- Curso hist&oacute;rico. Veja&nbsp;abaixo que grade fant&aacute;stica de palestras e palestrantes!</strong></span></p>
+<p><span style="color: #ff0000;"><strong>Para se inscrever - &uacute;ltimos lugares - mande email para <a style="color: #ff0000;" href="mailto:contato@tdibrasil.com">contato@tdibrasil.com</a>&nbsp;com seus dados e uma justificativa para a sua participa&ccedil;&atilde;o.</strong></span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>PROGRAMA</strong></p>
+<p style="text-align: center;"><strong>CURSO DI -101: FUNDAMENTOS DA TEORIA DO DESIGN INTELIGENTE</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong><strong>DISCOVERY &ndash; MACKENZIE &ndash; TDI BRASIL - DI - USA</strong></p>
+<p style="text-align: center;"><strong>06 DE MAIO DE 2017</strong></p>
+<p style="text-align: center;"><strong>AUDIT&Oacute;RIO DA ESCOLA AMERICANA &ndash; MACKENZIE</strong></p>
+<p style="text-align: center;"><strong><em>Rua da Consola&ccedil;&atilde;o 930, S&atilde;o Paulo</em></strong></p>
+<p>&nbsp;</p>
+<p>9:00-9:15h - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abertura</p>
+<p>9:15-10:00h - &nbsp;&nbsp;&nbsp; <strong>Brian Miller</strong> &mdash; <em>Conhecendo a teoria do design inteligente</em></p>
+<p>10:00h-10:45h &nbsp; <strong>Michael Behe</strong> &mdash; <em>A fronteira entre design inteligente e evolu&ccedil;&atilde;o aleat&oacute;ria</em></p>
+<p>10:45-11:00h &nbsp;&nbsp;&nbsp; Coffeee Break</p>
+<p>11:00h-11:45h &nbsp; <strong>Douglas Axe</strong> &ndash; <em>Como sabermos que prote&iacute;nas s&atilde;o frutos de design inteligente?</em></p>
+<p>11:45-12:30h &nbsp;&nbsp;&nbsp; Perguntas e respostas com <strong>Brian Miller</strong>, <strong>Michael Behe</strong> e <strong>Douglas Axe.</strong></p>
+<p>12:30h-14:00h &nbsp; Almo&ccedil;o</p>
+<p>14:00h-14:30h - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>En&eacute;zio Almeida</strong> &ndash; <em>Os m&eacute;ritos cient&iacute;ficos da teoria do design inteligente</em></p>
+<p>14:30h-15: 00h- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Douglas Aleodin</strong> &ndash; <em>Design inteligente ou aparente? Seguindo os dados e fazendo a melhor infer&ecirc;ncia</em></p>
+<p>15:00h-15:30h - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Marcos Eberlin</strong> &ndash; <em>Os tr&ecirc;s pilares da teoria do design inteligente.</em></p>
+<p>15:30h-16:00h &nbsp; Coffee Break&nbsp; e Foto Oficial</p>
+<p>16:00-17:00h &nbsp;&nbsp;&nbsp; Perguntas e respostas com <strong>Brian Miller</strong>, <strong>Michael Behe,</strong> <strong>Douglas Axe, En&eacute;zio Almeida</strong>, <strong>Douglas Aleodin</strong> e <strong>Marcos Eberlin</strong>.</p> 2017-05-10 23:16:44 noticia_a2194f65a92e7c5044c9593f03ec191b.jpeg S S
+25 Inaugura</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+26 Neo-Darwinistas Poderiam Aprender Algo da F</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+27 Evid</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+28 Colunista Reinaldo Jos</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+29 A Noite em que 4 Milh</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+30 Uma dissens</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+32 Um desafio para os evolucionistas no contexto de justifica</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+33 O Design Inteligente </li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+
++++++++++
+tdi_sistema - parceiros:(3)
+id,nome,contato,imagem,link
+3 UNASP - Centro Universit</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+4 UNIVERSIDADE PRESBITERIANA MACKENZIE parceiro_efba14bd0e52655df4c14e552e28dde2.jpg http://portal.mackenzie.br/
+5 CENTRO UNIVERSIT</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+
++++++++++
+tdi_sistema - texto_site:(3)
+id,pagina,texto
+1 diretoria <p><span style="color: #800000;"><strong>Diretoria da TDI Brasil</strong></span></p>
+<p><strong>Presidente Emerito:&nbsp;En&eacute;zio de Almeida Filho</strong></p>
+<p><strong>Presidente Executivo:&nbsp;Marcos N. Eberlin</strong></p>
+<p><strong>&nbsp;1&ordm;. TESOUREIRO Caio Lucidius Naberezny Azevedo</strong></p>
+<p><strong>&nbsp;2&ordm;. TESOUREIRO Rodolfo Paiva</strong></p>
+<p><strong>1&ordm;. SECRET&Aacute;RIO Eduardo Meurer</strong></p>
+<p><strong>2&ordm;. SECRET&Aacute;RIO Luiz Fernando Lopes Nascimento</strong></p>
+2 conheca <p><span style="color: #000080;"><strong>O QUE &Eacute; A TDI? </strong></span></p>
+<p><span style="color: #000080;"><strong>&nbsp;</strong>A&nbsp;teoria do design inteligente&nbsp;(TDI) &eacute;&nbsp;a&nbsp;Ci&ecirc;ncia de detec&ccedil;&atilde;o &ndash;&nbsp;<em>ou n&atilde;o</em>&nbsp;&ndash; de design inteligente. Ou&nbsp;seja, &eacute; o estudo cient&iacute;fico de padr&otilde;es na natureza que possam referendar&nbsp;&ndash;&nbsp;<em>ou descartar&nbsp;&ndash;&nbsp;</em>a a&ccedil;&atilde;o de uma mente inteligente como&nbsp;a causa de um efeito. A TDI &eacute;, portanto, a Ci&ecirc;ncia que prop&otilde;e&nbsp;estabelecer quando, frente a um efeito, estamos autorizados cientificamente a inferir se a causa primeira mais prov&aacute;vel desse efeito - o Universo e Vida - seria a a&ccedil;&atilde;o de uma&nbsp;mente inteligente&nbsp;ou a de for&ccedil;as&nbsp;naturais&nbsp;n&atilde;o guiadas.&nbsp;[1]&nbsp;</span></p>
+<p><span style="color: #000080;">Os postulados da TDI e sua op&ccedil;&atilde;o hoje pela causa inteligente para o Universo e a Vida podem tamb&eacute;m ser entendidos atrav&eacute;s do argumento a seguir:</span></p>
+<ol>
+<li><span style="color: #000080;">A Vida e o Universo apresentam&nbsp; caracter&iacute;sticas&nbsp;de complexidade irredut&iacute;vel, informa&ccedil;&atilde;o abstrata funcional, ajuste fino e antevid&ecirc;ncia genial.</span></li>
+<li><span style="color: #000080;">As causas dispon&iacute;veis s&atilde;o for&ccedil;as naturais n&atilde;o-guiadas OU a a&ccedil;&atilde;o de uma mente inteligente.</span></li>
+<li><span style="color: #000080;">Somente uma mente inteligente&nbsp;teria a&nbsp;capacidade de formar o Universo e gerar nele Vida com estas caracter&iacute;sticas.&nbsp;</span></li>
+<li><span style="color: #000080;">Logo, uma a&ccedil;&atilde;o inteligente &eacute; a melhor infer&ecirc;ncia cient&iacute;fica para&nbsp;a&nbsp;causa - <em>conhecida,&nbsp;necess&aacute;ria, suficiente, test&aacute;vel e false&aacute;vel&nbsp;</em> - do&nbsp;Universo e da Vida.&nbsp; &nbsp;&nbsp;</span></li>
+</ol>
+<p><span style="color: #000080;">Quer conhecer melhor a TDI, e divulg&aacute;-la em sua institui&ccedil;&atilde;o? Agende uma palestra, curso ou simp&oacute;sio com nossos <a href="../palestrantes.php" target="_blank">palestrantes</a>.&nbsp;</span></p>
+<p><span style="color: #000080;"><strong>Quem s&atilde;o os&nbsp;membros da TDI BRASIL? </strong></span></p>
+<p><span style="color: #000080;">Os membros&nbsp;da Sociedade Brasileira do Design Inteligente -&nbsp;TDI BRASIL- &nbsp;s&atilde;o&nbsp;profissionais e acad&ecirc;micos brasileiros ou estrangeiros, graduandos ou graduados em &aacute;reas diversas do conhecimento cient&iacute;fico, e que assumem como <strong>compromisso &uacute;nico e exclusivo defender a Ci&ecirc;ncia e seguir seus dados</strong>, promovendo o livre debate acad&ecirc;mico/cient&iacute;fico sobre nossas origens, debate este que contemple como poss&iacute;veis causas tanto&nbsp;a a&ccedil;&atilde;o de processos naturais - como prop&otilde;e a teoria da evolu&ccedil;&atilde;o darwiniana - como tamb&eacute;m a a&ccedil;&atilde;o de uma mente inteligente - como prop&otilde;e a Teoria do Design Inteligente (TDI).&nbsp;Os membros da TDI BRASIL&nbsp;se dividem em duas alas:&nbsp;</span><br /><br /><span style="color: #000080;">1.&nbsp;A ala dos <strong>FUNDAMENTOS</strong>, que estuda, debate e formula dados e argumentos cient&iacute;ficos que permitam uma decis&atilde;o equilibrada entre processos naturais e uma a&ccedil;&atilde;o inteligente como a melhor infer&ecirc;ncia para o Universo e a Vida, sendo formada assim por pessoal de &aacute;reas como a da biologia, bioqu&iacute;mica, qu&iacute;mica, f&iacute;sica, cosmologia, paleontologia, e ci&ecirc;ncias afins.</span></p>
+<p><span style="color: #000080;">2. A ala das <strong>IMPLICA&Ccedil;&Ocirc;ES</strong>, a que foca no&nbsp;estudo e debate n&atilde;o da fundamenta&ccedil;&atilde;o cient&iacute;fica da TDI, mas de suas fortes e inevit&aacute;veis&nbsp;implica&ccedil;&otilde;es filos&oacute;ficas e teol&oacute;gicas e seus aspectos sociais e educacionais, sendo formada ent&atilde;o por fil&oacute;sofos, te&oacute;logos, cientistas sociais, advogados, estudiosos da filosofia da ci&ecirc;ncia e &aacute;reas afins.</span></p>
+<p><span style="color: #000080;"><strong>MISS&Atilde;O E COMPROMISSOS DOS MEMBROS DA &nbsp;TDI BRASIL &nbsp;</strong></span></p>
+<p><span style="color: #000080;">Os membros da TDI BRASIL&nbsp;entendem que, sobretudo, prestam bom servi&ccedil;o &agrave;&nbsp;na&ccedil;&atilde;o e ao povo brasileiro - o financiador da Ci&ecirc;ncia Brasileira - por cumprir com a sua obriga&ccedil;&atilde;o constitucional maior de defender e promover uma Ci&ecirc;ncia plenamente laica e que, por ser laica, deve estimular o livre debate de ideias, n&atilde;o fechando a priori com nenhuma pr&eacute;-concep&ccedil;&atilde;o sobre como o Universo e a Vida s&atilde;o constitu&iacute;dos ou teriam necessariamente que ser formados.</span></p>
+<p><span style="color: #000080;">Os membros da TDI BRASIL n&atilde;o s&atilde;o, portanto, necessariamente defensores da TDI, pois querem sobretudo debater as duas teorias e fazer no final desse debate a melhor infer&ecirc;ncia. N&atilde;o s&atilde;o ainda necessariamente especialistas na TDI e n&atilde;o necessariamente dominam seus princ&iacute;pios e argumentos. Nossos membros s&atilde;o, portanto, pessoas que est&atilde;o sobretudo procurando honestamente conhecer os dados e os argumentos de ambos os lados da disputa, e assim se fazem, no ambito da discuss&atilde;o e em prol da boa ci&ecirc;ncia, apartid&aacute;rios e neutros em rela&ccedil;&atilde;o a qualquer religi&atilde;o, cosmo-vis&atilde;o ou posi&ccedil;&atilde;o filos&oacute;fica. N&atilde;o dentro, mas fora do escopo de discuss&otilde;es cientificas que a TDI se prop&otilde;e a promover, membros da TDI Brasil tem, por&eacute;m, como cidad&atilde;os Brasileiros por direito garantido em sua constitui&ccedil;&atilde;o, total liberdade de defender - individualmente - qualquer posi&ccedil;&atilde;o filos&oacute;fica ou teol&oacute;gica, ou aus&ecirc;ncia delas.&nbsp;</span></p>
+<p><span style="color: #000080;"><strong>H&aacute; restri&ccedil;&otilde;es para membros?</strong> </span></p>
+<p><span style="color: #000080;">A&nbsp;TDI BRASIL n&atilde;o faz acep&ccedil;c&atilde;o alguma de seus membros quanto as suas posi&ccedil;&otilde;es filos&oacute;ficas e/ou teol&oacute;gicas, quer seja de ateus, agn&oacute;sticos, criacionistas, evolucionistas te&iacute;stas ou criacionistas progressivos, ou outras, pois &eacute; uma sociedade cient&iacute;fica que se dedica exclusivamente a analisar os dados cient&iacute;ficos sobre nossas origens, com estrat&eacute;gias adequadas que permitam fazer a melhor infer&ecirc;ncia poss&iacute;vel sobre a causa primeira da vida e do universo, deixando os dados falarem por si. Todos os que assumem este compromisso &uacute;nico, de se deixar guiar unicamente pelas evid&ecirc;ncias cient&iacute;ficas, s&atilde;o portanto muito bem vindos!</span></p>
+<p><span style="color: #000080;"><strong>H&aacute;&nbsp;taxas ou anuidades?&nbsp;&nbsp;</strong></span></p>
+<p><span style="color: #000080;">N&atilde;o! A TDI BRASIL n&atilde;o cobra taxas ou anuidades, com filia&ccedil;&atilde;o gratu&iacute;ta.</span></p>
+<p><span style="color: #000080;">Se voc&ecirc; &eacute; assim, um profissional ou acad&ecirc;mico que est&aacute; em busca somente da verdade sobre as nossas origens, e &eacute; defensor do livre debate de ideias, junte-se a n&oacute;s.</span></p>
+<p><span style="color: #000080;"> <span style="color: #ff0000;"><strong><a style="color: #ff0000;" href="../cadastro.php" target="_blank">Cadastre-se</a></strong></span> no link&nbsp;Membros!&nbsp;</span></p>
+<p>[1] Adptado do&nbsp;livro <a href="http://www.widbook.com/ebook/fomos-planejados" target="_blank">Fomos Planejados: A maior descoberta cient&iacute;fica de todos os tempos</a>" M. N. Eberlin&nbsp;</p>
+3 criterios <p><span style="color: #ff0000;"><strong>Importante. Leia antes de se cadastrar.</strong></span></p>
+<p><span style="color: #000080;"><strong>MEMBROS DA&nbsp;TDI BRASIL&nbsp;&nbsp;- Quem pode participar e quanto &eacute; a anuidade? </strong></span></p>
+<p><span style="color: #000080;"><strong>A afilia&ccedil;&atilde;o permite que voc&ecirc; seja informado de todas as atividades da TDI BRASIL (congressos, palestras, cursos, livros, v&iacute;deos), receba o Jornal da TDI &nbsp;e tenha descontos como membro. A afilia&ccedil;&atilde;o &eacute; &nbsp;totalmente GRATUITA sendo um oferecimento de nossos patrocinadores.&nbsp;</strong></span></p>
+<p><span style="color: #000080;"><strong>CRIT&Eacute;RIOS DE SELE&Ccedil;&Atilde;O &nbsp;&nbsp;</strong>Os membros&nbsp;da Sociedade Brasileira do Design Inteligente -&nbsp;TDI BRASIL- &nbsp;s&atilde;o&nbsp;profissionais e acad&ecirc;micos brasileiros ou estrangeiros, que estejam se graduando ou j&aacute; s&atilde;o graduados em &aacute;reas diversas do conhecimento cient&iacute;fico, e que assumem como <strong>compromisso &uacute;nico e exclusivo defender a Ci&ecirc;ncia e seguir seus dados</strong>, promovendo o livre debate acad&ecirc;mico/cient&iacute;fico sobre nossas origens, debate este que contemple como poss&iacute;veis causas tanto&nbsp;a a&ccedil;&atilde;o de processos naturais - como prop&otilde;e a teoria da evolu&ccedil;&atilde;o darwiniana - como tamb&eacute;m de uma mente inteligente - como prop&otilde;e a Teoria do Design Inteligente (TDI).&nbsp;Os membros da TDI BRASIL&nbsp;se dividem em duas alas:&nbsp;</span><br /><br /><span style="color: #000080;">1.&nbsp;A ala dos <strong>FUNDAMENTOS</strong>, que estuda, debate e formula dados e argumentos cient&iacute;ficos que permitam uma decis&atilde;o racional &nbsp;entre processos naturais ou uma a&ccedil;&atilde;o inteligente como a melhor infer&ecirc;ncia para o Universo e a Vida, sendo formada assim por pessoal de &aacute;reas como a da biologia, bioqu&iacute;mica, qu&iacute;mica, f&iacute;sica, cosmologia, paleontologia, e ci&ecirc;ncias afins.</span></p>
+<p><span style="color: #000080;">2. A ala das <strong>IMPLICA&Ccedil;&Ocirc;ES</strong>, a que foca no&nbsp;estudo e debate n&atilde;o da fundamenta&ccedil;&atilde;o cient&iacute;fica da TDI, mas de suas fortes e inevit&aacute;veis&nbsp;implica&ccedil;&otilde;es filos&oacute;ficas e teol&oacute;gicas e seus aspectos sociais e educacionais, sendo formada ent&atilde;o por fil&oacute;sofos, te&oacute;logos, cientistas sociais, advogados, estudiosos da filosofia da ci&ecirc;ncia e &aacute;reas afins.</span></p>
+<p><span style="color: #000080;"><strong>BIOGRAFIA - MODELO: </strong>&Eacute;<strong>&nbsp;</strong>muito importante que na sua biografia voc&ecirc; se descreva com detalhes para permitir que possamos verificar se os crit&eacute;rios de sele&ccedil;&atilde;o se aplicam, e para que todos saibam que nossos membros s&atilde;o pessoas qualificadas ou em busca de qualifica&ccedil;&atilde;o acad&ecirc;mica - por meio de estar cursando ou ter cursado uma universidade, cursos, ou mesmo sendo autodidata em assuntos relacionados com os FUNDAMENTOS ou as IMPLICA&Ccedil;&Ocirc;ES da TDI. Preencha ent&atilde;o sua biografia com esta recomenda&ccedil;&atilde;o em mente, usando como exemplo as biografias de nossos membros ou uma biografia fict&iacute;cia modelo abaixo, se voc&ecirc; tem um curr&iacute;culo lattes coloque o link no final. A sigla da universidade que voc&ecirc; est&aacute; cursando, cursou ou atua hoje como profissional - a sua escolha - deve ser fornecida em seu cadastro e aparecer&aacute; ao lado de seu nome em nosso cadastro de membros. Ex: Jos&eacute; Maria da Silva - UNICAMP:</span></p>
+<p><span style="color: #000080;"><span style="color: #ff0000;"><em>"Graduado em biologia (2002) pela Universidade de S&atilde;o&nbsp;Paulo - USP e mestrando em bioqu&iacute;mica (2009) pela Universidade de Brasilia - UnB e em Teologia (2016) pela Universidade Mackenzie - S&atilde;o&nbsp;Paulo . Fez o curso de especializa&ccedil;&atilde;o em Design Inteligente no Discovery Institute Brazil (2017). &nbsp;&Eacute; autor do livro "Design Inteligente e Evidente" publicado pela Editora da TDI BRASIL. http://lattes.cnpq.br/9866858833240787. &nbsp;&nbsp;</em></span>&nbsp;</span></p>
+<p><span style="color: #000080;"><strong>MISS&Atilde;O E COMPROMISSOS DOS MEMBROS DA &nbsp;TDI BRASIL &nbsp;</strong>Os membros da TDI BRASIL&nbsp;entendem que, sobretudo, prestam bom servi&ccedil;o &agrave;&nbsp;na&ccedil;&atilde;o e ao povo brasileiro - o financiador da Ci&ecirc;ncia Brasileira - por cumprir com a sua obriga&ccedil;&atilde;o constitucional maior de defender e promover uma Ci&ecirc;ncia plenamente laica e que, por ser laica, &nbsp;estimula o livre debate de ideias, n&atilde;o fechando a priori com nenhuma pr&eacute;-concep&ccedil;&atilde;o sobre como o Universo e a Vida s&atilde;o constitu&iacute;dos ou teriam necessariamente que ser formados.</span></p>
+<p><span style="color: #000080;">Os membros da TDI BRASIL n&atilde;o s&atilde;o, portanto, necessariamente defensores da TDI, pois querem sobretudo debater as duas teorias e fazer no final desse debate a melhor infer&ecirc;ncia. N&atilde;o s&atilde;o ainda necessariamente especialistas na TDI e n&atilde;o necessariamente dominam seus princ&iacute;pios e argumentos. Nossos membros s&atilde;o, portanto, pessoas que est&atilde;o sobretudo procurando honestamente conhecer os dados e os argumentos de ambos os lados da disputa, e assim se fazem, no &acirc;mbito da discuss&atilde;o e em prol da boa ci&ecirc;ncia, apartid&aacute;rios e neutros em rela&ccedil;&atilde;o a qualquer religi&atilde;o, cosmo-vis&atilde;o ou posi&ccedil;&atilde;o filos&oacute;fica. N&atilde;o dentro, mas fora do escopo de discuss&otilde;es cientificas que a TDI se prop&otilde;e a promover, membros da TDI Brasil tem, por&eacute;m, como cidad&atilde;os Brasileiros por direito garantido em sua constitui&ccedil;&atilde;o, total liberdade de defender - individualmente - qualquer posi&ccedil;&atilde;o filos&oacute;fica ou teol&oacute;gica, ou aus&ecirc;ncia delas.</span></p>
+<p><span style="color: #000080;">Se voc&ecirc; &eacute; assim, um profissional ou acad&ecirc;mico que est&aacute; em busca somente da verdade sobre as nossas origens, e &eacute; defensor do livre debate de ideias, junte-se a n&oacute;s. Cadastre-se j&aacute;!&nbsp;</span></p>
+<p>&nbsp;</p>
+
++++++++++
+tdi_sistema - videos:(22)
+id,titulo,urlyoutube,data,ativo
+2 Palestra 1o. TDI BRASIL Marcos Eberlin A Informa</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+3 Palestra de Encerramento 1o. TDI BRASIL  Adauto Louren</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+5 Palestra de Abertura 1o. TDI BRASIL Paul Nelson https://youtu.be/aufHIvHioDw 2016-10-05 00:14:21 S
+6 Design Inteligente no Domingo Espetacular - TV Record https://youtu.be/UG0TF27QHq4 2017-05-19 15:38:54 S
+7 Debate TDI x Evolu</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+8 Eberlin Fala da TDI no Programa VEJAM S</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+9 O que </li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+10 A TDI por Marcos Eberlin https://youtu.be/sNwQSEw-5Ic 2017-10-06 14:52:33 S
+11 A TDI e suas implica</li>
+                    </ul>
+        </div>
+    </div><!-- End position -->
+
+<div class="container margin_60">
+	<div class="row">
+		<div class="col-md-9">
+			<h2>
+12 O Design Inteligente por quem entende de Design Inteligente https://youtu.be/ZHxW2y4BEGc 2017-10-06 14:58:45 S
+
++++++++++
+
+ 

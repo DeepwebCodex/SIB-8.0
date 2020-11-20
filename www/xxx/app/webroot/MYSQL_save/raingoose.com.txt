@@ -1,0 +1,16 @@
+www.raingoose.com/products.php?pid=8&cid=1
+ 
+raingoose - wb_addons:(51)
+addon_id,type,directory,name,description,function,version,platform,author,license
+1 module backup Backup This module allows you to backup your database. tool 2.7 2.7.x Ryan Djurovich, John GNU General Public License
+2 module captcha_control Captcha and Advanced-Spam-Protection (ASP) Control Admin-Tool to control CAPTCHA and ASP tool 1.2.0 2.7 | 2.8.x Thomas Hornik (thorn) GNU General Public License
+3 module code Code This module allows you to execute PHP commands (limit access to users you trust!!) page 2.8.3 2.7 | 2.8.x Ryan Djurovich GNU General Public License
+4 module droplets Droplets This tool allows you to manage your local Droplets. tool 1.2.0 2.8.x Ruud and pcwacht GNU General Public License
+5 module fckeditor FCKeditor This module allows you to edit the contents of a page using <a href="http://www.fckeditor.net/" target="_blank">FCKeditor v2.6.6</a>. wysiwyg 2.9.7.1 2.7 | 2.8.x Christian Sommer, P. Widlund, S. Braunewell, M. Gallas, Wouldlouper, Aldus, Luisehahne GNU General Public License
+6 module form Form This module allows you to create customised online forms, such as a feedback form. Thank-you to Rudolph Lartey who help enhance this module, providing code for extra field types, etc. page 2.8.4 2.8.x Ryan Djurovich & Rudolph Lartey - additions John Maats - PCWacht GNU General Public License
+7 module jsadmin Javascript Admin This module adds Javascript functionality to the Website Baker Admin to improve some of the UI interactions. Uses the YahooUI library. tool 1.4.0 2.7 | 2.8.x Stepan Riha, Swen Uth BSD License
+8 module menu_link Menu Link This module allows you to insert a link into the menu. page 2.8 2.8.x Ryan Djurovich, thorn GNU General Public License
+9 module news News This page type is designed for making a news page. page 3.5.6 2.8.2 Ryan Djurovich, Rob Smith, Werner v.d.Decken GNU General Public License
+10 module output_filter Frontend Output Filter This module allows to filter the output before displaying it on the frontend. Support for filtering mailto links and mail addresses in strings. tool 0.4 2.8.3 Christian Sommer(doc), WB-Project, Werner v.d. Decken(DarkViper) GNU General Public License
+
++++++++++

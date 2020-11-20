@@ -1,0 +1,436 @@
+www.theludlowbrewingcompany.co.uk/page.php?Plv=1&P2=&P3=&P1=9
+ 
+LudlowBrewery_CMS - BackgroundImages:(5)
+IntRef,Title,Description,URLText,URL,Viewable,ZOrder
+1 n
+2 n
+3 n
+4 n
+5 n
+
++++++++++
+LudlowBrewery_CMS - BannerImages:(1)
+IntRef,Title,Description,URLText,URL,Viewable,ZOrder
+2 n
+
++++++++++
+LudlowBrewery_CMS - CImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - Cat1:(0)
+CatId,Owner,CatViewable,BrowserText,MetaDescription,MetaKeywords,MenuName,HeaderText,BodyText,GfxAlt,MenuSect,ZOrder,SubSection,SubCats
+
++++++++++
+LudlowBrewery_CMS - Cat2:(0)
+CatId,Owner,CatViewable,BrowserText,MetaDescription,MetaKeywords,MenuName,HeaderText,BodyText,GfxAlt,MenuSect,ZOrder,SubSection,SubCats
+
++++++++++
+LudlowBrewery_CMS - Cat3:(0)
+CatId,Owner,CatViewable,BrowserText,MetaDescription,MetaKeywords,MenuName,HeaderText,BodyText,GfxAlt,MenuSect,ZOrder,SubSection,SubCats
+
++++++++++
+LudlowBrewery_CMS - Config:(1)
+Conf_IntRef,Conf_SiteOwner,Conf_Show_Pages,Conf_Show_Accounts,Conf_Page_Lvl,Conf_Dir_PL1,Conf_Dir_Banner_PL1,Conf_Dir_PL2,Conf_Dir_Banner_PL2,Conf_Dir_PL3,Conf_Dir_Banner_PL3,Conf_Doc_Page,Conf_Dir_Doc_Page,Conf_Show_Shop,Conf_Cat_Lvl,Conf_Dir_CL1,Conf_Dir_CL2,Conf_Dir_CL3,Conf_Doc_Categories,Conf_Dir_Doc_Categories,Conf_Dir_Products,Conf_Num_Products_Img,Conf_Doc_Products,Conf_Dir_Doc_Products,Conf_Show_News,Conf_Dir_News,Conf_Doc_News,Conf_Dir_Doc_News,Conf_Show_FAQ,Conf_Dir_FAQ,Conf_Doc_FAQ,Conf_Dir_Doc_FAQ,Conf_Show_Gallerys,Conf_Dir_Gallerys,Conf_Doc_Gallerys,Conf_Dir_Doc_Gallerys,Conf_Show_Forms,Conf_Dir_Forms,Conf_Doc_Forms,Conf_Dir_Doc_Forms,Conf_Show_NLetter,Conf_Dir_NLetter,Conf_Dir_NLetterTmp
+1 Ludlow Brewery y n 3 images/Page1/ images/Banner1/ images/Page2/ images/Banner2/ images/Page3/ images/Banner3/ document/Page/ 3 images/Cat1/ images/Cat2/ images/Cat3/ n document/Categories/ images/Products/ 4 n document/Products/ n images/News/ n document/News/ n images/FAQ/ n document/FAQ/ y images/Gallerys/ n document/Gallerys/ n images/Forms/ n document/Forms/ n images/Emailer/ images/DemoEmailer/
+
++++++++++
+LudlowBrewery_CMS - DImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - Diary:(0)
+IntRef,DateStart,DateEnd,Title,BodyText,BodyText1,ZOrder,Viewable
+
++++++++++
+LudlowBrewery_CMS - Downloads:(0)
+DownloadId,DLLink,DLType,DLLvL,ZOrder,DLName,DLDescription,DLFilename,DLViewable
+
++++++++++
+LudlowBrewery_CMS - DynForm:(0)
+IntRef,Title,Header,Footer,FormResult,ToEmail,FromEmail,Subject,ButtonLabel,Viewable
+
++++++++++
+LudlowBrewery_CMS - DynFormAnswer:(0)
+IntRef,UserRef,FormRef,FormTitle,Question,Answer
+
++++++++++
+LudlowBrewery_CMS - DynFormQuestions:(0)
+IntRef,FormRef,Stage,ZOrder,Question,InputType,VarName,OptionName1,OptionValue1,OptionName2,OptionValue2,OptionName3,OptionValue3,OptionName4,OptionValue4,OptionName5,OptionValue5,OptionName6,OptionValue6,OptionName7,OptionValue7,OptionName8,OptionValue8,OptionName9,OptionValue9,OptionName10,OptionValue10,OptionValueDefault,OptionValueAlt,Required,RequiredText,RequiredSpecial,RequiredSpecialText,Viewable
+
++++++++++
+LudlowBrewery_CMS - EDemoImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - EImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - EmailerAdresses:(0)
+IntRef,Email,CreationDate
+
++++++++++
+LudlowBrewery_CMS - EmailerDemoTemplate:(0)
+IntRef,TemplateName,ReplyAddress,Subject,BodyCopy,UseSource,CreationDate
+
++++++++++
+LudlowBrewery_CMS - EmailerSource:(0)
+IntRef,Name,Notes,CSS,Header,Layout,Footer
+
++++++++++
+LudlowBrewery_CMS - EmailerTemplate:(0)
+IntRef,TemplateName,ReplyAddress,Subject,BodyCopy,UseSource,CreationDate
+
++++++++++
+LudlowBrewery_CMS - FImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - Faq:(0)
+IntRef,LinkId,Date,Title,SText,LText,ZOrder,Viewable
+
++++++++++
+LudlowBrewery_CMS - FaqGroup:(0)
+IntRef,Title,Viewable
+
++++++++++
+LudlowBrewery_CMS - GImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - GallImages:(31)
+IntRef,Link,Description,Title,HiRes,URL,Content,Viewable,ZOrder
+1 1 Our Brewery bike Our Brewery bike n 23
+2 1 Ludlow Brewery's Mash tun Ludlow Brewery's Mash tun n 12
+3 1 Ludlow Brewery mezzanine Ludlow Brewery mezzanine n 4
+4 1 Mash tun and copper Mash tun and copper n 26
+5 1 Brewing at Railway Shed Brewing at Railway Shed n 13
+6 1 Digging out the mash tun Digging out the mash tun n 15
+8 1 Ludlow Brewery front view at night Ludlow Brewery front view at night n 9
+9 1 Ludlow Brewery slanty front view Ludlow Brewery slanty front view n 8
+41 1 Venue Hire Venue Hire y 5
+12 1 Gift pack bottles Gift pack bottles n 30
+
++++++++++
+LudlowBrewery_CMS - Gallery:(2)
+IntRef,GalTitle,DispType,SText,LText,Viewable,ZOrder
+1 Brewery Gallery 1 y 0
+2 Cycling 1 y 0
+
++++++++++
+LudlowBrewery_CMS - HomePortal:(1)
+IntRef,Des1,Url1,Popup1,NewWindow1,Order1,Title2,Des2,Url2,Popup2,NewWindow2,Order2,Title3,Des3,Url3,Popup3,NewWindow3,Order3,Title4,Des4,Url4,Popup4,NewWindow4,Order4,Title1
+1 http://www.theludlowbrewingcompany.co.uk/page.php?Plv=1&P1=9&P2=&P3= 0 0 The Venue <p>ghg</p> http://www.theludlowbrewingcompany.co.uk/page.php?Plv=1&P1=3&P2=&P3= 0 0 Artisan Ales http://www.theludlowbrewingcompany.co.uk/page.php?Plv=1&P1=2&P2=&P3= 0 0 Brewery Events http://www.theludlowbrewingcompany.co.uk/page.php?Plv=1&P1=9&P2=&P3= 0 0 Latest events
+
++++++++++
+LudlowBrewery_CMS - NImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - News:(0)
+IntRef,Date,Title,SText,LText,ZOrder,Viewable
+
++++++++++
+LudlowBrewery_CMS - PImage:(44)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+53 2 0 n 0
+83 12 1 n 0
+63 5 2 n 0
+4 4 2 n 0
+5 4 2 n 0
+66 2 1 n 0
+65 2 1 n 0
+52 2 1 n 0
+100 9 1 n 0
+82 12 1 n 0
+
++++++++++
+LudlowBrewery_CMS - PL1:(9)
+PageId,Owner,PageViewable,SubViewable,PageStyleSel,BrowserText,MetaDescription,MetaKeywords,MenuName,CallOutTitle,CallOutText,HeaderText,BodyText,BodyText1,GfxAlt,GfxAlt1,MenuSect,Menu1,Menu2,Menu3,ZOrder,SubSection,SubPages,FAQ,Gallery,Portfolio,Form,SpecialForm
+1 0 y n 1 Ludlow Brewing Company Ludlow's finest Brewery Brewery, Ludlow, Shropshire, event and room hire, Breweries, brewerys, beer, tour Home Home 2 y 1 0 n 0 0 0 0 0
+2 0 y n 1 Ludlow Brewery's ales South Shropshire's finest ales Artisan Ales Artisan Ales <p>&nbsp;</p>
+<p>We use high quality ingredients in our brews: malt made from Maris Otter barley, and local hops from Little Lambswick Hop Farm, just down the road near Tenbury Wells. All we add is yeast, water and a bit of Ludlow Brewery magic!</p>
+<p>&nbsp;</p>
+<p><img style="margin-left: 5px; margin-right: 5px; float: left;" src="../../images/Page1/66.png" alt="" /><strong><br /><br /></strong></p>
+<p><strong>Ludlow Best 3.7%</strong> -&nbsp;A golden amber complexion, well balanced session beer. The aroma of this ale is banana, pineapple and toffee. It has a resisnous and dry finish.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><br /></strong></p>
+<p><img style="float: left; margin-left: 5px; margin-right: 5px;" src="../../images/Page1/68.png" alt="" /></p>
+<p><strong><br /></strong></p>
+<p><strong>Blonde 4.0%</strong>&nbsp;-&nbsp;The blonde gives a lemony, citrus aroma and is balanced, with crisp citrus notes in taste.</p>
+<p>&nbsp;</p>
+<p><strong><br /></strong></p>
+<p><strong><br /></strong></p>
+<p>&nbsp;</p>
+<p><img style="float: left; margin-left: 5px; margin-right: 5px;" src="../../images/Page1/65.png" alt="" /><strong><br /><br /></strong></p>
+<p><strong>Gold 4.2%</strong> - This has a golden ale complexion with a papaya, pineapple and lemon aroma. Gold has a soft, full bodied creamy taste.</p>
+<p>&nbsp;</p>
+<p><strong><br /></strong></p>
+<p><strong><br /></strong></p>
+<p><strong><br /></strong></p>
+<p><img style="float: left; margin-left: 5px; margin-right: 5px;" src="../../images/Page1/67.png" alt="" /><strong><br /><br /></strong></p>
+<p><strong>Black Knight 4.5%</strong><strong> -</strong> This stout has a ruby black complexion, with a smokey, liquorice aroma and a sweet, roasted nutty flavour.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br /><img style="float: left; margin-left: 5px; margin-right: 5px;" src="../../images/Page1/69.png" alt="" /><strong><br /><br /></strong></p>
+<p><strong>Boiling Well 4.7% </strong>- &nbsp;It has a auburn chesnut complexion and a grassy aroma of autumn fruit with a full bodied sweet then dry taste.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img style="float: left; margin-left: 5px; margin-right: 5px;" src="../../images/Page1/70.png" alt="" /></p>
+<p><strong><br /></strong></p>
+<p>&nbsp;</p>
+<p><strong>Stairway 5%</strong> -Stairway has a honey gold complexion with a grassy, citrus floral aroma. It has a sharp, sweet, full bodied taste.&nbsp;</p>
+<p>&nbsp;</p> <h1><img style="font-size: 10px;" src="../../images/Page1/86.jpg" alt="" border="0" /><img style="font-size: 10px;" src="../../images/Page1/53.png" alt="" border="0" /><span style="font-size: 2em;">Buy Beer!</span></h1>
+<p>We sell to the pub trade in our own nines (firkins) and eighteens (kilderkins), and deliver within a 50-mile radius of Ludlow.</p>
+<p>&nbsp;</p>
+<p><span style="color: #ffcc00;"><strong>You can buy our beer by either:</strong></span></p>
+<ol>
+<li>
+<p>Popping along to our <strong>brewery</strong>, which has a full &lsquo;on and off' licence. Here you can see how the magic is made, taste a drop or two, and buy our ales in bottles, 4 pint re-usable carry outs, 9 pint barrels or in 18 and 36 pint polypins to take away.</p>
+</li>
+<li>
+<p>Or call us to purchase via mail order, delivering across the country. A delivery charge of &pound;17.50 inc vat per order applies.</p>
+</li>
+</ol>
+<p>Contact us for further details <a href="../../page.php?Plv=1&amp;P1=7&amp;P2=&amp;P3=">here &gt;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>Price List</h1>
+<h4>500ml Bottles</h4>
+<p>&pound;2.10 each</p>
+<p>6 for &pound;12.00</p>
+<p>12 for &pound;23.00</p>
+<h4><br />Carry Outs, Polypins &amp; Barrels</h4>
+<p>4 pint carry outs - &pound;8.00<br />Party 9 pint mini cask - &pound;17.00<br />18 pint Polypin - &pound;32.50<br />36 pint Polypin - &pound;57.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>72 pint cask - &pound;98.00 (Plus an additional &pound;20 refundable deposit on return)</p>
+<p>Hire of hand pump - &pound;15.00</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> 2 y 4 0 y 0 0 0 0 0
+3 0 y n 1 Ludlow Brewery's Visitor Centre Brewery Tap and functions at Ludlow Brewery. Venue Visitor Centre <h3>Brewery Tap</h3>
+<p>Based in a sensitively restored Victorian railway shed, our visitor centre and brewery tap are open to day time visitors throughout the week. Gleaming brewing equipment stretches right up into the old ceilings and we've got a comfortable and informal bar area with our full range of quality beers on offer.</p>
+<p>&nbsp;</p>
+<h3>Virtual Tour</h3>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2suk!4v1459250342341!6m8!1m7!1sk4AQ8USAcj4AAAQfDP9XJg!2m2!1d52.37240877090112!2d-2.717364323801121!3f319!4f0!5f0.7820865974627469" width="550" height="400" frameborder="0"></iframe></p> <h3>Special Occasions</h3>
+<p>With high ceilings, lots of space, a convenient location and a comfortable bar area, our converted railway shed is a fantastic venue for events. We've held fashion shows, wedding receptions, concerts and parties here. If you're interested in finding out more pop in or drop us a <a href="../../page.php?Plv=1&amp;P1=7&amp;P2=&amp;P3=">line &gt;.</a></p>
+<p>&nbsp;</p> 2 y 5 4 y 0 1 0 0 0
+9 0 y n 1 Ludlow Brewery - What's On What's on at Ludlow Brewery and events we attend. What's On Events at the Brewery: <h1>&nbsp;&nbsp;</h1>
+<p><img style="float: right; margin: 5px;" src="../../images/Page1/95.jpg" alt="" /></p>
+<h1 class="_1mf _1mj" data-offset-key="e41me-0-0">LB Live - HotRox &amp; Andrew Pearce</h1>
+<p>&nbsp;</p>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">June 8th</span></h4>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</h4>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">7.30-11.30pm</span></h4>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">Join us at&nbsp;<a class="profileLink" href="https://www.facebook.com/ludlow.brewery/?__tn__=K-R&amp;eid=ARA8Hq6v5cGIfPOQKFm1fhB1LGwrpBL6vEXDesu8JmMDw1EKPy8gfo47fV4oYgvC8YAd_ZzXqDXgZPIh&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAfLkImlO0OkLWQzJZn33r_0T6GRdd-RzAMCqoyHT5Kr_dlyFK6rTtfNE9CjaGQuu134zSqUZkGccRZN60Xk75pFdxxLmPcOcXl4TC6a_x06TiJtvF9LeagsBmi82OOe-22lXZduMvrx9oTh5HFMdvAHwpHqx51a2LXZI7tMbHxlIck3q2zUCnfMDWoPaMjq5xirfvkZWfsdw9XB-42NlUySxoSwyeI9kG8TLslCk99LwP1Xcf82gMm3T4063F2SALl-J0cbsc1QXUzhPZ0eFmz6A" data-hovercard="/ajax/hovercard/page.php?id=1550281905233185&amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARA8Hq6v5cGIfPOQKFm1fhB1LGwrpBL6vEXDesu8JmMDw1EKPy8gfo47fV4oYgvC8YAd_ZzXqDXgZPIh%22%2C%22fref%22%3A%22mentions%22%2C%22directed_target_id%22%3A2273653446027148%7D" data-hovercard-prefer-more-content-show="1">Ludlow Brewery</a>&nbsp;for another enthralling night of live music with&nbsp;<a class="profileLink" href="https://www.facebook.com/HotroxOfficial/?__tn__=K-R&amp;eid=ARDEUykvnhwgHSpvIK8YqXSu9d1vKmUs-mqIovBpJoGQgeKkW_qgq6Wndgx5TrmpG4r-liafQxL6psCa&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAfLkImlO0OkLWQzJZn33r_0T6GRdd-RzAMCqoyHT5Kr_dlyFK6rTtfNE9CjaGQuu134zSqUZkGccRZN60Xk75pFdxxLmPcOcXl4TC6a_x06TiJtvF9LeagsBmi82OOe-22lXZduMvrx9oTh5HFMdvAHwpHqx51a2LXZI7tMbHxlIck3q2zUCnfMDWoPaMjq5xirfvkZWfsdw9XB-42NlUySxoSwyeI9kG8TLslCk99LwP1Xcf82gMm3T4063F2SALl-J0cbsc1QXUzhPZ0eFmz6A" data-hovercard="/ajax/hovercard/page.php?id=732752016742443&amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARDEUykvnhwgHSpvIK8YqXSu9d1vKmUs-mqIovBpJoGQgeKkW_qgq6Wndgx5TrmpG4r-liafQxL6psCa%22%2C%22fref%22%3A%22mentions%22%2C%22directed_target_id%22%3A2273653446027148%7D" data-hovercard-prefer-more-content-show="1">HotRox</a>&nbsp;&amp;&nbsp;<a class="profileLink" href="https://www.facebook.com/andyp.sound/?__tn__=K-R&amp;eid=ARCHLm63j2P8-GjfSrtbYCyaY69ahGHXWfjZFzqif8D_jabh3E82kX7vA7PaN_KW4864XAzS_KReaaua&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAfLkImlO0OkLWQzJZn33r_0T6GRdd-RzAMCqoyHT5Kr_dlyFK6rTtfNE9CjaGQuu134zSqUZkGccRZN60Xk75pFdxxLmPcOcXl4TC6a_x06TiJtvF9LeagsBmi82OOe-22lXZduMvrx9oTh5HFMdvAHwpHqx51a2LXZI7tMbHxlIck3q2zUCnfMDWoPaMjq5xirfvkZWfsdw9XB-42NlUySxoSwyeI9kG8TLslCk99LwP1Xcf82gMm3T4063F2SALl-J0cbsc1QXUzhPZ0eFmz6A" data-hovercard="/ajax/hovercard/page.php?id=1680777671950023&amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARCHLm63j2P8-GjfSrtbYCyaY69ahGHXWfjZFzqif8D_jabh3E82kX7vA7PaN_KW4864XAzS_KReaaua%22%2C%22fref%22%3A%22mentions%22%2C%22directed_target_id%22%3A2273653446027148%7D" data-hovercard-prefer-more-content-show="1">Andrew Pearce</a>! Tickets now available from Ludlow Brewery and can be purchased over the phone on 01584 873291. Doors open from 7.30pm with Live Music commencing from 8pm.&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h1 class="_1mf _1mj" data-offset-key="e41me-0-0">Embrace Speed Dating</h1>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">June 18th</span></h4>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">6pm-9pm</span></h4>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p><img style="float: right; margin: 5px;" src="../../images/Page1/101.png" alt="" /></p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0"><a href="https://www.facebook.com/Embrace-Speed-Dating-401241104023435/" target="_blank">Embrace Speed Dating</a> are hosting their first Shropshire event in Ludlow; renowned for its food and drink. They have very limited spaces, come join us and have a loving evening and perhaps meet your future partner!</p>
+<p>Booking details now available for the&nbsp;<a class="profileLink" href="https://www.facebook.com/events/2201451366852189/?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&amp;source=3&amp;source_newsfeed_story_type=regular&amp;action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&amp;has_source=1&amp;__tn__=K-R&amp;eid=ARCju4L3X9rE8HpXn7fgbPEqTZsxxwLKm8lI4qRbNPWWGNZUgQZ4X9Ai6vf7-eOgIvyYrTpnBfdDxO4q&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARBqFMIEE8YvQYNgzlhvu6fs0x4D-EXdz9uOXoROOMhpHtM-nK9wh2jRMwvY-XdojT7qrNw0eoMEp8aliwTBgQUbq2i9SG_WKMLmjbdIds9KyUp04CI4JMQcBgBwCulwsa6GNWxh1sV4jCTYm0Y_87WLcrQZNhoalEcwxbBHWXdGrScsZ87EH2RPbD0VK54EvDTTJhibSj5HEkhNDcmCLg58_HIVEAoqvEU9IHd55oDjbfC77vXnJsUGvqsnZ894P4ksdHfqNycoxAk6X77-3rxZB-UHJWs969xPa3L4pdtjgyNCo7V7BiZDLO5DI4uYpmJPs0kD5XuU7BZ6miua2c3gmHPJ" data-hovercard="/ajax/hovercard/event.php?id=2201451366852189&amp;extragetparams=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%2C%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARCju4L3X9rE8HpXn7fgbPEqTZsxxwLKm8lI4qRbNPWWGNZUgQZ4X9Ai6vf7-eOgIvyYrTpnBfdDxO4q%22%2C%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Embrace Speed Dating at Ludlow Brewery</a>. Call: 0121 238 5935, purchase online at&nbsp;<a href="http://www.embracespeeddating.co.uk/events-tickets?fbclid=IwAR15UMr9ryHt6oZIjlwnf1_MQuEwHRbsaTuJiv9ccJeYLHmdF45gPZ0ak5w" rel="noopener nofollow" target="_blank" data-ft="{" data-lynx-mode="async" data-lynx-uri="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.embracespeeddating.co.uk%2Fevents-tickets%3Ffbclid%3DIwAR15UMr9ryHt6oZIjlwnf1_MQuEwHRbsaTuJiv9ccJeYLHmdF45gPZ0ak5w&amp;h=AT0r4uP_03erKwAH5ew6bQCFk3zWZKELIic4qWK1XGvaEdNjod8l21l7-Z42vSEJ36Lq98VlZqj6trsB7jSLhs8GJnjmkhskJwa8td38YoCGfLucNc-RHG_WHCMhzq-1fQBpDkcYdjC9U9i-bS8SO8oAENx0-m9jfF6cJA8fRKT1eNHh6TxcSTzBsqWg3iIvTgP1OiBB6VyZO36RI5CK7pU7j9VGDvvmuVRfLDrEj0gYAfsGpCgdmAzGbAUKZQGEhzKNzV1pHZ9eyxO_CuLtxfFaWYPU-5WG6K6zKNnunA4pd7in00j2j8laa86wBD9WB2avRSyUOFmzibgTg1uALAx9XRZ8gM8n53Fvg8cBjHtobZBDZnU5EN65FiNr1Nk6tAR-iqfIgB8L_U6FvR4VfAFaXRkKsE-yaS5Cd-WRP7m_Jp-rNnTm13wJMChwIa0r9gL-XQyJXAUGzbO0OxsTECe-4hPgnJt8ZMYFHsaRQOwgfkjUzWVUod2MCukE0gRJHQOk_ByNzZwjHvpS_AjTjc9aTs1wcbb2EE-S_RzZk8PTj5-HnIEtHoOaTydNmDH91GAdqKBSwckWQBPOmD-ytkOu3gydYlBvRvq8qzuG45x7Iii8EphBfuMtok7Pepz2WUbFqg">www.embracespeeddating.co.uk/events-tickets</a>&nbsp;or email contact@embracespeeddating.co.uk for more details about&nbsp;Embrace Speed Dating</p>
+<p>Limited availability, selling fast!</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;<img style="float: right; margin: 5px;" src="../../images/Page1/96.jpg" alt="" /></p>
+<h1 class="_1mf _1mj" data-offset-key="e41me-0-0">LB Live - Jake and the Jesters &amp; The Others</h1>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">August 10th</span></h4>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</h4>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">7.30-11.30pm</span></h4>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">Join us at Ludlow Brewery and dance through the night to live music with <a href="https://www.facebook.com/Jake-and-the-Jesters-931742993687547/" target="_blank">Jake and the Jesters</a> &amp; The Others (featuring our very own brewer, Joe Jacks)! Tickets now available from Ludlow Brewery and can be purchased over the phone on 01584 873291. Doors open from 7.30pm with Live Music commencing from 8pm.</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h1 class="_1mf _1mj" data-offset-key="e41me-0-0">Ludlow Brewery Race Day</h1>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">October 9th</span></h4>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;<img src="../../images/Page1/93.jpg" alt="" border="0" /></p>
+<p>We are delighted to host our 2nd annual Ludlow Brewery Race Day at Ludlow Racecourse on Wednesday 9th October (date for the diary)! We will have a marquee with an easily accessible bar to keep you hydrated whilst you enjoy a flutter and soak in the fantastic atmosphere at "one of Britatin's friendliest racecourses".</p>
+<p>Take advantage of our exclusive offer to receive admission, a racecard &amp; 1 FREE drink for just &pound;15pp. Tickets are available to purchase from Ludlow Racecourse on&nbsp;01584 856221.</p>
+<div class="text_exposed_show">
+<p>Gates open at 12pm, first race 2.10pm. There will be a free bus service from Ludlow train station (next to the brewery) to the racecourse collecting an hour before first race and dropping off after the final race.</p>
+<p>Look forward to seeing you there and we hope to have another great sun-shining day with you all!</p>
+<p>&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;<img style="float: right; margin: 5px;" src="../../images/Page1/97.jpg" alt="" /></p>
+<h1 class="_1mf _1mj" data-offset-key="e41me-0-0">LB Live - Hot Climate New Year Party</h1>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h4 class="_1mf _1mj" style="font-size: 10px;" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">December 31st</span></h4>
+<h4 class="_1mf _1mj" style="font-size: 10px;" data-offset-key="e41me-0-0">&nbsp;</h4>
+<h4 class="_1mf _1mj" style="font-size: 10px;" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">8pm-1am</span></h4>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">Celebrate the new year at Ludlow Brewery and dance through the night to live music with Hot Climate - Party Band! Tickets now available from Ludlow Brewery and can be purchased over the phone on 01584 873291. Doors open from 8pm with Live Music commencing from 9pm. Light buffet supper included!</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;<img style="float: right; margin: 5px;" src="../../images/Page1/100.jpg" alt="" /><img style="float: right; margin: 5px;" src="../../images/Page1/98.jpg" alt="" /></p>
+<h1 class="_1mf _1mj" data-offset-key="e41me-0-0">LB Live - Remi Harris</h1>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">February 15th</span></h4>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</h4>
+<h4 class="_1mf _1mj" data-offset-key="e41me-0-0"><span style="color: #ffffff; background-color: #800000;">7.30-11.30pm</span></h4>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">Remi Harris is performing at Ludlow Brewery during our beer festival! Try many of our guest ales and enjoy the sounds of the amazing Remi Harris Trio Band. Tickets now available from Ludlow Brewery and can be purchased over the phone on 01584 873291. Doors open from 7.30pm with Live Music commencing from 8pm.</p>
+<p><strong>Remi Harris &amp; The Electric Beat Combo</strong><br /> <em>Instrumental Rock &amp; Blues</em></p>
+<p>Remi Harris is an exciting guitarist from the UK who's unique style draws inspiration from artists such as Django Reinhardt, Jimi Hendrix, Wes Montgomery, Peter Green and Led Zeppelin. He has performed at Buckingham Palace, Montreal Jazz Festival, BBC Proms at the Royal Albert Hall with Jamie Cullum, on BBC 4 Television and live on BBC Radio 2 &amp; 3.&nbsp;In this project Remi explores the sounds of&nbsp;60s and 70s Psychedelic Rock &amp; Blues&nbsp;alongside childhood friends Shane Dixon on Drums and Darren Beale on Bass.&nbsp;Expect lots of Jamming,&nbsp;Blues &amp; Big Riffs.</p>
+<p>&nbsp;<img style="float: right; margin: 5px;" src="../../images/Page1/99.jpg" alt="" /></p>
+<h1>LB Live - The Endings &amp; Andrew Pearce</h1>
+<div>&nbsp;</div>
+<h4><span style="color: #ffffff; background-color: #800000;">March 14th</span></h4>
+<h4>&nbsp;</h4>
+<h4><span style="color: #ffffff; background-color: #800000;">7.30-11.30pm</span></h4>
+<p>&nbsp;</p>
+<p>Join us at Ludlow Brewery for another enthralling night of live music over St Patrick's weekend with <a href="https://www.facebook.com/TheEndingsTelford/" target="_blank">The Endings - Telford</a> &amp; <a href="https://www.facebook.com/andyp.sound/" target="_blank">Andrew Pearce</a>! Tickets now available from Ludlow Brewery and can be purchased over the phone on 01584 873291. Doors open from 7.30pm with Live Music commencing from 8pm.</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+<p class="_1mf _1mj" data-offset-key="e41me-0-0">&nbsp;</p>
+</div> <h1>Events we attend:<span style="font-size: 10px;">&nbsp;</span></h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1><strong><a href="http://www.ludlowspringfestival.co.uk/" target="_blank">Ludlow Spring Festival</a></strong></h1>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff;"><span style="background-color: #800000;"><strong>May 11th &amp; 12th 2019</strong></span></span></p>
+<p>&nbsp;</p>
+<p>Like a Beer Festival but Better. Take 200 Real Ales, combine 60 passionate, local food and drink producers, mix in toe tapping live music, over 180 spectacular classic cars what do you get... The Ludlow Spring Festival of course!</p>
+<p>&nbsp;</p>
+<p>For tickets and more information please visit their&nbsp;<a href="http://www.ludlowspringfestival.co.uk/" target="_blank">website</a>.&nbsp;</p>
+<p>&nbsp;</p>
+<h1><strong><a href="http://greenfestival.co.uk/" target="_blank">Ludlow 21 Green Festival</a></strong></h1>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff; background-color: #800000;"><strong>July 14th</strong></span></p>
+<p>&nbsp;</p>
+<p>Eco-friendly stalls, food, music and activities for all the family.&nbsp;<a title="Ludlow Green Festival" href="http://greenfestival.co.uk/" target="_blank">Ludlow Green Festival</a>&nbsp;is an annual attraction for both local people and visitors, celebrating all things &lsquo;green&rsquo; with the Green Fair on Sunday offering inspiring demonstrations, illuminating information, tasty morsels, made with love items, music and plenty of fun activities over the Public Holiday to enjoy.</p>
+<p>&nbsp;</p>
+<h1><strong><a href="http://www.magnalonga.co.uk/index.html" target="_blank">Magnalonga</a></strong></h1>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff;"><span style="background-color: #800000;"><strong>11th August</strong></span></span></p>
+<p>&nbsp;</p>
+<p>The Magnalonga is a food and drink walk of about eight miles. It starts and finishes in Ludlow: a journey where you combine a walk through unspoilt countryside with some of the best food and drink from the Marches.</p>
+<p>&nbsp;</p>
+<p>Booking essential.</p>
+<p>&nbsp;</p>
+<h1><strong><a href="http://www.foodfestival.co.uk/" target="_blank">Ludlow Food Festival</a></strong></h1>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff;"><span style="background-color: #800000;"><strong>13-15th September</strong></span></span></p>
+<p>&nbsp;</p>
+<p>Inside Ludlow Castle with more than 180 local food and drink producers and suppliers: real food, ale, cider, perry, wine and more from the Marches, with samples and tastings.</p>
+<p><span style="color: #800000; background-color: #ffffff;">Brewery opening hours for Food Festival Weekend: Friday 10am-8pm, Saturday 10am-10pm &amp; 10am-5pm.</span></p>
+<p>&nbsp;</p>
+<p>For more information and tickets please visit the&nbsp;<a href="http://www.foodfestival.co.uk/" target="_blank">website</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1><a href="http://www.ludlowmedievalchristmas.co.uk/" target="_blank">Ludlow Medieval Christmas fayre</a></h1>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff;"><span style="background-color: #800000;"><strong>TBC</strong></span></span></p>
+<h4 style="font-size: 10px;"><span style="color: #ffffff; background-color: #800000;"></span>&nbsp;</h4>
+<p>Over 100 stalls selling seasonal wares. Entertainment throughout the castle. Medieval fun for knights and damsels of all ages.</p>
+<p>&nbsp;</p>
+<p>For more information and tickets please visit the&nbsp;<a href="http://www.ludlowmedievalchristmas.co.uk/" target="_blank">website.</a></p>
+<p>&nbsp;</p> 2 y 7 0 y 0 0 0 0 0
+12 0 y n 1 Hire of Ludlow Brewery hire Ludlow brewery for you event Tours and Hire Venue Hire <h3><strong>Special Occasions</strong></h3>
+<p><img style="float: right; margin-left: 5px; margin-right: 5px;" src="../../images/Page1/82.jpg" alt="" /></p>
+<p>With high ceilings, lots of space, a convenient location and a comfortable bar area, our converted railway shed is a fantastic venue for events. Since we opened we've held fashion shows, wedding receptions, christenings, concerts and parties, where you can decorate the brewery for your occasion.</p>
+<div>&nbsp;</div>
+<p>We have plenty of seating downstairs, with more available if required, and we also have our mezzaine which overlooks the bar area and visitor centre. The venue can hold up to 150 people but we recommend the maximum of 120 for the comfort of your guests.</p>
+<p><img style="margin: 10px; float: left;" src="../../images/Page1/83.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p>If you intend to have any entertainment, we have a stage area where there is enough room for a band or a DJ to set up. Our licensing hours are to 11:30pm where we would ask for you and your guests to vacate the premises by 12:00pm.</p>
+<p>You can either provide your own food or bring in an outside catering company. You could choose to have a hog roast or BBQ, which would go outside under our veranda, or to have a hot or cold buffet set up inside.</p>
+<p>We have a fully stocked bar with our real ales, along with other alcoholic beverages and soft drinks too. The entrance to the brewery tap has a disabled access along with a disabled toilet and baby changing facilities.</p>
+<p>If you're interested in booking an event with us, you can make an enquiry and we can hold that date for two weeks. If you would like to go ahead with the event we ask for a deposit to secure your booking. To find out more pop in or drop us a&nbsp;<a href="../../page.php?Plv=1&amp;P1=7&amp;P2=&amp;P3=">line &gt;.</a></p>
+<p><strong>Prices for hiring the Brewery:</strong></p>
+<p>Please contact the brewery for a quote.</p>
+<p>&nbsp;</p> <h1 style="text-align: center;"><strong>Tours of our working brewery</strong></h1>
+<p>&nbsp;</p>
+<p>We will give you a tour around our brewery and personally explain to you how our beer is brewed. If you are a member of a club or would just like to have a look at our working brewery, get in touch and we can arrange a tour.</p>
+<p>&nbsp;</p>
+<p>The tours are &pound;7 per person and include samples of all six beers and a free pint. They're available 3pm Monday to Friday and 2pm on Saturdays. Please ring us if you would like to book onto one of our tours.</p>
+<p>&nbsp;</p> 2 y 6 0 n 0 0 0 0 0
+6 0 y n 1 Ludlow Brewery links Information about events in and around Ludlow Links Links <p>&nbsp;<a href="https://www.facebook.com/ludlow.brewery" target="_blank"><img style="margin-left: 5px; margin-right: 5px; float: left;" src="data:image/jpeg;base64,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" alt="" width="37" height="38" /></a></p>
+<p>Take a look at our facebook page.</p>
+<p><a href="http://www.ludlow.org.uk/" target="_blank">LUDLOW.ORG.UK</a>-Information about events and attractions in and around Ludlow.</p>
+<p><a href="http://www.virtual-shropshire.co.uk/" target="_blank">VIRTUAL SHROPSHIRE</a> -A Guide to Shropshire Tourism and Leisure.</p>
+<p><a href="http://www.magnalonga.co.uk/index.html" target="_blank">LUDLOW MAGNALONGA WALK</a> The Magnalonga is a food and drink walk of about seven miles. It starts and finishes in Ludlow: a journey where you combine a walk through unspoilt countryside with some of the best food and drink from the Marches.</p>
+<p><a href="http://www.foodfestival.co.uk/" target="_blank">LUDLOW FOOD FESTIVAL</a> - The Internationally renowned Ludlow Food Festival features more than 130 top quality small independent food and drink producers from the Marches, the England-Wales border country, held inside Ludlow Castle on the second weekend in September.</p>
+<p><a href="http://www.ludlowspringfestival.co.uk/" target="_blank">LUDLOW SPRING FESTIVAL</a> - It's not just a festival of beer, bread and bangers, there'll be quite a few surprises in store. Run alongside the Marches Transport Festival in the second weekend in May.</p>
+<p><a href="http://www.ludlowmedievalchristmas.co.uk/" target="_blank">LUDLOW MEDIEVAL CHRISTMAS FAYRE</a> - The best medieval show in the land - over 100 stalls selling seasonal gifts with a medieval flavour held over the last weekend of November.</p> 2 y 3 0 n 0 0 0 0 0
+7 0 y n 1 Contact Ludlow Brewery Get in touch with Ludlow Brewery. Contact Us Contact Us <h3>Get in touch, we'd like to hear from you!</h3>
+<p>Ludlow Brewing Company Ltd.<br />The Railway Shed, Station Drive,<br />Ludlow, SY8 2PQ</p>
+<p>Tel: 01584 873291</p>
+<p>Email: beer@theludlowbrewingcompany.co.uk</p>
+<p><a href="https://www.facebook.com/ludlow.brewery" target="_blank"><img style="margin-left: 5px; margin-right: 5px;" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADOAMwDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDh6KKK9s4AooooAKKKKQBRRRTAKKUClxQA2jBp+KMUCGYNGDUmKMUAR4NFPIpMdqAG0ZB6Gp7a0nvpxb2tvLcSt0jiQuT+ArrtP+Fniq/UNJawWa9vtU/OPouf1xUSnGO7KUW9jiqPxH516nD8E71gDNrkEbd9luX/AJstT/8ACkXx/wAjCM/9eX/2ys/rFLuV7KfY8l60YNeqyfBK6A/d+IIW9msyP/ZzWbdfBzxFESYLrTZlHq7qx/DaR+tNV6b6h7OXY8874orp734e+K7EM0ujyuijO6Blkz+CnP6VzH4H8RWkZKWzJaa3DHFFFFUIO9FIOlLQAUUUUAFFGKUCgAxTgKUCnAUCuIBS7acFpwFAhgFLtqQLRtoAj20bakxRtoAj29K7DwZ4AuvFTLdXJa20tDgyD70p6FUz0A7tzzx61neE/DzeJfEEFhyIP9ZcOOqxjrj0J4H457V9E2ltFaW8dvBGkUEShI40GAoHQVy4itye7Hc2pU+bV7FTSdD0/Q7QW2m2scEfcqPmY+rN1J+taIFLRXnNt6s69gooooAKKKKAKWrXX2DR768JwIIJJT/wFSf6V8qINsargZA7fSvpL4h3X2TwFq75wXh8n/vtgn/s1fNw6V34Ne62c1d6oKMgUUyT734V1sxQ4dKWkHSlpgFFFOFAABTwKAKcBQJsAtPC0oFPAoEIBShacBTsUxDQKXbTgtKFosFxm2jb6VJtoxTsK56z8INOWPStQ1EpiSacQg/7KgH+bH8q9IHXpXG/C4AeC4gB/wAt5T/49XZ149d3qM9CkrQQUUUVkWGcUVHcTR29vJNK4SONS7sTgKByT+VePa58WdQluWj0WCK3tlJCzTLueQeuOij25P0rSnSlUfukynGO57LkUmRXz23xI8X7s/2zgegtocf+g1ag+LHimDAd7O4A/wCesGCf++WFbPCVPIzVeJ3fxguxD4Ljg/5+buOM/QBn/wDZRXhHfrmut8W+ObrxbY2lvcWUVubeQyFonJDkjHQjjv3NclXXQg4QszGpJSd0FMk+9+FPpkn3vwrV7EIcOlLSDpS0wFAp6imipFFAmKBUgFAFPUUCACngUoFPC07CEC04LShaeFpiG7aULTwKUCgQzbSbalxRimK57P8ADAY8GQj/AKbSfzrsq474ZDHg6L/rtJ/Ouxrxa38SR6VP4EFFFFZlnOePGK+B9WwSMw7eO4JAI/EHFfPJXrnnJr6F8fHHgbVP+uY/9CFfPpHFejg/gZyYj4kQkVGwqcio2FdRiQkUw1KRTCKBoZTJPvfhUlRyfe/Ck9hocOlOA5pB0pwpiHgVIopiipVFAhwFSKKaBUiimIcBT1FIBUiimSxQKdilApwFMVxAtOC04Ctbw7aRXniKwtriMSQyzBXQ9xSbsrgtXYyNtIRxXuY8D+G/+gVF+Dt/jS/8IP4c/wCgVH/323+Ncn12HZnR9Wl3KHw0/wCRPjH/AE2k/nXYVU07TbXSrUWtlAsMAJYIpJ5PXrVuuCpLmk5I64LlikFFFFQUc18QOPA2p/7i/wDoa14AR1FfTl9ZW+o2klpdwrNBJw6N0PesX/hBfDJ66Nb/AK/411UK8acbNGFWk5u6PnphUbYxX0QfAfhg/wDMGt/zb/GmnwD4Wxzo0GPq3+NbfXIdjP6u+586sKYwr074n+HtF0PTrBtNsUt5Zpm3MrMcqB05PqRXmTdK6Kc1OPMjOUeV2ZEaY4JapG6UxutU9gQ4CnAUAU4CmIctSrUYFSCgRIoqVRUakVKvNUiWSKKkApiipFFAmOAqQCkUVIoqiWAWtzwmv/FV6Z/13H8jWQorb8Jr/wAVVpv/AF2H8jU1F7jCD95HtwpaQUteEesFFFFABRRRQAUUUUAFIaWg0AeS/GhyZdEjB42zsR/37x/WvKSK9N+MUobW9Nhz9y2ZsfVv/sa81Ir1cOv3SOKr8bISKawGalIpjD5q1a0IQKKeBSKKeopiHAU8CmgU8CmIUCnqSKQCngU0IerkVKsgPWogKcooFYsq6nvUyc1TxSjPbI/GmS0aKitfw7cw2Wv2V1cPshjk3O2CcDB9K5sM69GP51IJZB0Y03ZqzElZ3R7j/wAJt4eHXUR/35k/+Jo/4Tfw5/0ER/35k/8Aia8Q8+X++fypplkJwXP5VyfUqfd/18jo+s1OyPofT9RtNUtFurOXzYWJAbaRyDg8EZq1XKfDolvBtsT1Mkv/AKGa6uvOqRUZuK6HbBtxTYUUUVBRT1TVbLRrI3l/N5MAYKX2s3J6cAE1if8ACw/Co/5in/kvL/8AE1V+J3/ImS/9do/514m3Wuyhh41I3Zz1asoSsj3X/hYnhX/oK/8AkvL/APE0h+IvhT/oK/8AkvL/APE14QRTCPetvqcO7M/rEjqPiLrVjr3iSK606fzrdLVIt2xl+YM5PDAH+IVyBFSEUwiuiMVGKijJy5ndkRFMbk1KRTCOab2BCCnimgU8UwHingU0U8CgQ4CngUiingUxCgU8DFNAp4FAmKKeBSAU8CmSGKUCnAU4CmIYBS45FPAoK0Bc9j+HYx4MtP8Afl/9Dauqrl/h8MeDbP8A35f/AEY1dRXi1v4kvVnp0vgQUUUVkaHH/Ez/AJEyX/rtH/OvFGFe1/Ez/kTZf+u0f868WxXp4T+H8zhxHxkRFMIqUimMK6jEiIphqQ0xqTGR1GetSnrUZHNJ7FIQdBUgpi08UxDxTxTRTxQhDwKeKaKeKYhwFPUUgFPFMQ4CngU0VIBTJYoFOAoAp4FMlsaFpdtPApcU7Cvqev8AgAY8G2X+9L/6Maumrm/Af/Im2P1l/wDRjV0leFW/iS9WetS+CPoFFFFZmhx/xL58Hyf9d4/514uw5r2n4lf8ifJ/13j/AJ14ww5xXp4T+H8zhxHxkRphqQg0xga6jFERFMNSEGmGgZGajPU1KRUZ6mpexSY0d/rU8EMs8ojijZ3PZetQrnoBk+nrXeaRpq6faKMAzsMyP3z6fSgRiweGLp1zNLHEfQZY/jU3/CLyD/l7X/vg/wCNdLRQOxzg8Myj/l6U/wDAD/jTv+EckH/Lwh/4Ca6GigVjn/8AhHpf+e8f/fNO/sCUdJ4/++TW9RRcOVGF/YU3/PaP8jThoko/5bRn8DW3RT5mLlRjf2NKP+Wkf5GnDSJR/wAtI/yNa9FPmYciMn+ypf8AnpH+tH9lzDnzE/WtaijnYvZxPQPBcTQeFbONiCR5nI/66NW/WN4V/wCRdtf+B/8AoZrZrxqv8SXqz0aatBIKKKKzLOV+INs934XaKMqD58Z+Y+9eTnQbsj78Of8AeP8AhXsfjH/kAn/rqn868/r0sI/3Zx11eRzJ0C8/vQ/99H/CmHw9e/3of++v/rV1NFdVzGxyb+Hr8LkeUfYN/jisue3mtX2Txujdgw6/Q16BUNzbRXlu0M65Vu/dfcGi4WPPScjNRscGrl9avZXclu5yVOc+oPSqTjLUnsCLWlqH1S0VhlTMuR68ivQvSvPdI/5C1n/11X+deh0DCiiigAooooAKKKKACiiigAooooAKKKKAPR/C3/Iu2n0b/wBCNbFZHhgEeHbT6N/6Ea168ep8b9Tvh8KCiiioKMDxj/yAT/11SvPhXoHjH/kAn/rqv9a8/HQV6WE/hnJW+IWiiiukxCkP+R60tFAHL+K0AuLaTHLKwJ+hH+Jrmz1NdN4s+9Z/R/8A2WuYPU0nsBZ0n/kLWf8A12X+dehggnivMoZHhmSROHjYMPqOa9ItbiO7t47iIgxuM8dj3psCaijNGRQAUUZFGaACiiigAooooAKKKKACg0UhoA9K8Nf8i9Z/7p/ma1qyvDfHh+z/ANw/zNateNP4md8fhQUUUVJRz/jH/kBf9tV/rXn616B4x/5AX/bVf615+K9LCfwzkr/ELRRRXSYhSGlJxR1OAee1AHMeLOHsx7P/AOy1zJPNbniS7FxqAiQgrCuDj1PX+lYhVc8mgENbGMmtHS9Xn0xztG+Jjkxnj8vQ1n0ySQRrkg9ccUwO6g8RadMmXlaJj1V1PH4jrU41rTT/AMvS/kf8K87F0no35CpBcoRwp/IUWFc9B/tjTv8An6T8jR/bGn/8/Sfka4EXC/3T+VOFwo7H8hRYXMd7/a1gf+XpKUarYn/l6j/OuEFyvcN+lPF0no1Fg5juf7Tsv+fmP86X+0rL/n5j/wC+q4gXKejf5/GnC5T0b/P40+UXMdr/AGjZ/wDPzF/31S/2hZ/8/MX/AH1XF/aVx0NKLlfQ0coc52Yv7Q/8vMX/AH0KX7daf8/MX/fYrjPtKnsaPPU9jRyhznueg+ItFg0O0jl1exjcJgq1wgI5+taX/CT6B/0G9O/8Ck/xr56+0J6H8qQ3C46GuV4OLbdzdYlpWsfQ3/CT6B/0HNN/8C0/xo/4SfQP+g5pv/gXH/jXzv8AaF9DTTcqOzfgKn6lHuP6zLse3eK9e0e60by7fVrGZ/NU7Y7hGOMH0NcV9ttP+fqD/v4P8a4X7Sp/vUw3SnJw3BxXRTpKnHlRlOpzO7O9+22h/wCXqD/v4KPtlr/z8w/9/BXAG5UjofyqM3C9wT+Aq7E8x6E99aKpLXUGP+ugrF1PxIioYrHLOePMI4H0965Q3Cf3T+lNFwrMFwfm4zRYdyUsWYk9TyT71HJGjtlhk49TUlGAaTVxp2P/2Q==" alt="" width="42" height="42" /></a>Facebook: Become one of our friends - Ludlow Brewery</p>
+<p>&nbsp;</p>
+<h3>Opening Times:</h3>
+<p>Monday - Thursday: 10am - 5pm</p>
+<p>Friday: 10am - 6pm</p>
+<p>Saturday:10am - 5pm</p>
+<p>Sunday: 11am - 4pm&nbsp;</p> <h1>Find us</h1>
+<p>We are situated just outside of Ludlow town centre, 50m north from Ludlow Railway Station, just off Station Drive.</p>
+<p>We are based opposite Aldi supermarket.</p>
+<p><br /><iframe src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=214230208617199921106.0004b8d9e5509eceb4356&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=52.372488,-2.717507&amp;spn=0.001965,0.003219&amp;z=17&amp;output=embed" width="300" height="300" frameborder="0" scrolling="no"></iframe><br /><small>View <a style="color: #0000ff; text-align: left;" href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=214230208617199921106.0004b8d9e5509eceb4356&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=52.372488,-2.717507&amp;spn=0.001965,0.003219&amp;z=17&amp;source=embed">Ludlow Brewing company</a> in a larger map</small></p> 2 y y 9 0 n 0 0 0 0 0
+8 0 y n 1 About Ludlow Brewing Company All about Ludlow Brewery and our ethos. About Us All About Ludlow Brewery <p>Fancy a pint? Discover the brewing magic of the award-winning Ludlow Brewery, here in Shropshire and the Marches - an area fast becoming one of the leading brewing regions in the UK.</p>
+<p>Located in a specially converted railway shed, just over 50 metres north of Ludlow railway station. The building has been fully refurbished to latest building standards and houses a 20 barrel brewing system. Ludlow Brewery produces award winning high quality ales right in the heart of the beautiful town of Ludlow.</p>
+<p>Joining Ludlow's tradition of fine food and drink, Ludlow Brewing Company is a small brewery which aims to produce high quality real ale for the discerning drinker. We are capable of producing near one and half million pints annually. Why not pop in and try our delicious ales for yourself?</p>
+<h3>Our Ethos</h3>
+<p>During the design of the brewery every opportunity was taken to ensure that an environmentally friendly and low carbon facility was established. We reclaim heat during the brewing process which is used to heat our underfloor heating, recycle rainwater, have low carbon insulation, use low energy lighting and have installed solar panels. So when you drink our beer, say &lsquo;cheers&rsquo; to real ale with a clean conscience!</p>
+<p>For the recognition of our participation in the innotative and high-quality project, we were awarded the Ludlow Heritage Award 2011. The rennovation of Ludlow Brewery was judged to be exemplary in terms of preserving and enhancing the character, through the use of both modern and ancient building materials. While the high quality craftsmanship upholds the best traditions of construction in the town.</p>
+<p>We&rsquo;re proud to be a local friendly brewery that makes good, honest beer for all those who enjoy a real pint.</p>
+<p>&nbsp;</p> <h3>Events at Ludlow Brewery</h3>
+<p>Want to know what events we've got coming up? Find our programme of events <a href="../../page.php?Plv=1&amp;P1=9&amp;P2=&amp;P3=">here &gt;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>&nbsp;</h3> 2 y 2 0 y 0 0 0 0 0
+11 0 y n 1 Ludlow Brewery's Cycling Cycling clothing photos Cycling <h3>CYCLING MERCHANDISE</h3>
+<p>Available in S, M, L, XL, XXL.</p>
+<p>Short sleeve top: &pound;45</p>
+<p>Long sleeve jacket: &pound;50</p>
+<p>Bibshorts: &pound;45</p> 2 y 8 4 n 0 2 0 0 0
+
++++++++++
+LudlowBrewery_CMS - PL2:(2)
+PageId,Owner,PageViewable,SubViewable,PageStyleSel,BrowserText,MetaDescription,MetaKeywords,MenuName,CallOutTitle,CallOutText,HeaderText,BodyText,BodyText1,GfxAlt,GfxAlt1,MenuSect,Menu1,Menu2,Menu3,SubSection,SubPages,Gallery,Portfolio,Form,SpecialForm,PLink1,ZOrder1,PLink2,ZOrder2,PLink3,ZOrder3,PLink6,ZOrder6,PLink7,ZOrder7,PLink8,ZOrder8,PLink9,ZOrder9,PLink11,ZOrder11,PLink12,ZOrder12
+4 0 y n 1 Ludlow Brewery - A History The History of Ludlow Brewing Company Ludlow Brewery - A History Ludlow Brewery - A History <p>Ludlow has a long tradition and history of brewing, but the last brewery in town, the Ludlow and Craven Arms Brewery, shut up shop in the 1930s, that is until now...</p>
+<p>It was the dream of Gary and Alison Walters to rekindle this industry in Ludlow and in May 2006 Ludlow Brewing Company's first mash was started, the rest as they say is history... September 2006 saw the brewery gain its first awards. Our first ale "Ludlow Gold" won the CAMRA Severn Valley Railway beer festival along with the annual beer festival held at the Sun Inn Leintwardine.</p>
+<p>Gold was soon followed by The Boiling Well, Best and a Black Knight. Further awards have been picked up including the distinction of becoming CAMRA's Shropshire Beer of the year in 2008/2009. Stairway to Paradise, was first brewed in September 2010 with silver in the SIBA for strong bitters 2011. Our newest pale ale Blonde was brewed at the end of 2014.</p>
+<p>Having successfully established the Brewery in the old malting building in Corve Street, it became apparent during 2008 that capacity and space were becoming issues. An abandoned railway shed on the same site as the current building looked like too good an opportunity to ignore! So a planning application was lodged in March 2009 and work on creating the new brewery began during the summer of that year.</p>
+<p>Brewing started at the new brewery in December 2010 on our new 20 barrel brewing system. The new building accomodates a Brewery Tap and Visitor Centre, which was opened to the public in April 2011 and makes a great venue for all sorts of occasions.</p>
+<p>The project has been supported with financial assistance from The Rural Development Programme for England and the EU and a Shropshire Tourism Business Grant (funded by Shropshire Council).</p>
+<p>&nbsp;</p> <p><img style="border: 0pt none;" src="../../images/Page2/4.jpg" alt="Cleaning out the mash tun" /></p>
+<p>Brewery Owner Gary Walters cleaning out the mash tun at our first brewery in 2006</p>
+<p>&nbsp;</p>
+<p><img style="border: 0pt none;" src="../../images/Page2/5.jpg" alt="Tasting our first brews" /></p>
+<p>Tasting our first brews</p>
+<p>&nbsp;</p> 2 0 n 0 0 0 0 n 0 n 0 n 0 n 0 n 0 y 2 n 0 n 0 n 0
+5 0 y n 1 Ludlow Brewery Leaflet The Ludlow Brewing Company Leaflet with Cyclops Ale descriptions and new photos Ludlow Brewery Leaflet Ludlow Brewery Leaflet <p>&nbsp;</p>
+<p>&nbsp;<img src="../../images/Page2/62.jpg" alt="" border="0" /></p>
+<p>&nbsp;<img src="../../images/Page2/63.jpg" alt="" border="0" /></p> 2 0 n 0 0 0 0 n 0 n 0 n 0 n 0 n 0 y 1 n 0 n 0 n 0
+
++++++++++
+LudlowBrewery_CMS - PL3:(0)
+PageId,Owner,PageViewable,SubViewable,PageStyleSel,BrowserText,MetaDescription,MetaKeywords,MenuName,CallOutTitle,CallOutText,HeaderText,BodyText,BodyText1,GfxAlt,GfxAlt1,MenuSect,Menu1,Menu2,Menu3,SubSection,SubPages,Gallery,Portfolio,Form,SpecialForm,PLink4,ZOrder4,PLink5,ZOrder5
+
++++++++++
+LudlowBrewery_CMS - PageCallouts:(0)
+IntRef,LinkId,LinkLvL,LinkRefLvl,LinkRef,LinkPath,LinkURL,ZOrder
+
++++++++++
+LudlowBrewery_CMS - PortalImage:(0)
+IntRef,LinkId,LvL,Description,URL,Viewable,ZOrder
+
++++++++++
+LudlowBrewery_CMS - TmpPage:(0)
+PageId,Owner,Pid,PLv,PageViewable,BrowserText,MetaDescription,MetaKeywords,MenuName,HeaderText,BodyText,BodyText1,GfxAlt,GfxAlt1,MenuSect,Menu1,Menu2,Menu3,ZOrder,SubSection,SubPages,Gallery,Portfolio,Form
+
++++++++++
+
+ 

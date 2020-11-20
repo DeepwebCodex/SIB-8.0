@@ -1,0 +1,1083 @@
+www.cettro.com.br/novosite/mostrar_noticia.php?id=121
+ 
+cettro - cettro2_agenda_cientifica:(22)
+id,data,titulo,palestrante,data_reuniao,horario,local,publico_alvo,observacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_agendamento_consultas:(1172)
+id,data,nome,email,telefone,sexo,data_nascimento,especialidade,primeira_consulta,data_preferida,turno,convenio,id_status_solicitacao,observacao_solicitacao,atualizacao_usuario_solicitacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_banners:(77)
+id,data,status,titulo,conteudo,imagem,link_galeria,link_pagina,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_cadastro_ebook:(370)
+id,data,nome,email,ebook,data_ult_atualizacao,nome_ult_atualizacao
+1 2017-02-04 ANGÉLICA MOURA angelica.apm@gmail.com Vida Ativa 0000-00-00
+2 2017-02-04 GIANNI MELO giannimelo@gmail.com Vida Ativa 0000-00-00
+3 2017-02-04 CARLA carla@carlafurtado.com.br Vida Ativa 0000-00-00
+4 2017-02-04 CARLA carla@carlafurtado.com.br Vida Ativa 0000-00-00
+5 2017-02-04 JANINE SILVA janineoy@gmail.com Vida Ativa 0000-00-00
+6 2017-02-04 MARIÂNGELA COELHO mariangelarcoelho74@gmail.com Vida Ativa 0000-00-00
+7 2017-02-04 LUISA COSTA FIGUEIREDO luisacosta.fisio@gmail.com Vida Ativa 0000-00-00
+8 2017-02-05 NELMA abelhanel@hotmail.com Vida Ativa 0000-00-00
+9 2017-02-06 RAFAEL VASCONCELOS rafasabr@yahoo.com.br Vida Ativa 0000-00-00
+10 2017-02-06 RAQUEL XAVIER LEITE raquelxl@hotmail.com Vida Ativa 0000-00-00
+91 2017-08-25 DIONÉIA BREHM JUSTO dioneiab@hotmail.com Vida Ativa 0000-00-00
+92 2017-08-26 LEONARDO RODRIGO SILVA DE MENESES leonardo.rodrigounb@gmail.com Nutrição 0000-00-00
+93 2017-08-26 ARTHUR HENRIQUE NEVES LACERDA VIRGULINO arthurneves.lacerda@gmail.com Nutrição 0000-00-00
+94 2017-08-26 KELLY FLORENCE kellyfarina@yahoo.com.br Nutrição 0000-00-00
+95 2017-08-26 PATRÍCIA VERAS TAVARES patricia.veras@hotmail.com Nutrição 0000-00-00
+96 2017-08-26 ADRIANA MEDEIROS MALISI EVANGELISTA drimalisi@yahoo.com.br Nutrição 0000-00-00
+97 2017-08-26 ADRIANA MEDEIROS MALISI EVANGELISTA drimalisi@yahoo.com.br Vida Ativa 0000-00-00
+98 2017-08-26 SABRINA SOUZA MARTINS DOS SANTOS martinssabrina@outlook.com Nutrição 0000-00-00
+99 2017-08-26 ELYOHANA ALVES elyohana26@gmail.com Nutrição 0000-00-00
+100 2017-08-26 ELYOHANA ALVES elyohana26@gmail.com Vida Ativa 0000-00-00
+
++++++++++
+cettro - cettro2_contato:(2371)
+id,data,nome,email,assunto,mensagem,id_status_solicitacao,observacao_solicitacao,atualizacao_usuario_solicitacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_convenios:(51)
+id,data,nome,observacao,data_ult_atualizacao,nome_ult_atualizacao
+59 2017-05-21 QUALLITY 2017-05-21 CARLA
+2 2015-10-13 ALLIANZ 2015-10-13 THIAGO
+3 2015-10-13 AMIL 2015-10-13 THIAGO
+4 2015-10-13 ASSEFAZ 2015-10-13 THIAGO
+5 2015-10-13 BACEN 2015-10-13 THIAGO
+6 2015-10-13 BRADESCO SAÚDE 2015-10-13 THIAGO
+7 2015-10-13 BRB SAÚDE 2015-10-13 THIAGO
+8 2015-10-13 CAMED 2015-10-13 THIAGO
+9 2015-10-13 CAPSAÚDE 2015-10-13 THIAGO
+10 2015-10-13 CASSI 2015-10-13 THIAGO
+
++++++++++
+cettro - cettro2_feed_noticias:(232)
+id,data,titulo,id_item,origem,data_ult_atualizacao,nome_ult_atualizacao
+1 2015-10-14 A Luta Não é Sua 1 banner 2015-12-21 CARLA
+2 2015-10-14 Cuide-se Bem 2 banner 0000-00-00
+3 2015-10-14 I Simpósio de Assistência ao Paciente Oncológico no Consultório Odontológico 3 banner 0000-00-00
+4 2015-10-21 II Simpósio Internacional de Onco-Hematologia Cettro 4 banner 0000-00-00
+5 2015-10-21 Livro Reconhece Brasileiras que Venceram o Câncer 5 banner 0000-00-00
+6 2015-10-21 Chá Outubro Rosa 6 banner 0000-00-00
+7 2015-10-28 Livro Reconhece Brasileiras que Venceram o Câncer 7 banner 2015-12-21 CARLA
+8 2017-11-01 Novembro Azul: Mês de Conscientização Sobre o Câncer de Próstata 8 banner 2017-12-01 CARLA
+9 2015-11-04 Painel de Especialistas - Próstata 9 banner 0000-00-00
+10 2015-10-15 O Triunfo da Soprano 3 noticia 0000-00-00
+93 2016-08-28 Dia Nacional de Combate ao Fumo 56 noticia 2016-08-28 CARLA
+94 2016-09-05 FAQ: Dengue 57 noticia 2016-09-05 CARLA
+95 2016-09-12 Álcool e Câncer: Em Pauta Mais Uma Vez 58 noticia 2016-09-12 CARLA
+96 2016-09-12 Mama: Terapia Adjuvante Hormonal 59 noticia 2016-09-12 CARLA
+97 2016-09-19 Outubro Rosa: Já Começou 60 noticia 2016-09-19 CARLA
+98 2016-09-19 Novas Diretrizes da American Cancer Society para Vacinação Contra HPV 39 banner 2016-10-31 CARLA
+99 2016-09-26 Nódulos na Tireoide 61 noticia 2016-09-26 CARLA
+100 2016-09-26 Internacional 62 noticia 2016-09-26 CARLA
+101 2016-10-03 Outubro Rosa: O Mês das Mulheres PodeRosas 40 banner 2016-10-31 CARLA
+102 2016-10-05 ESMO 2016: Cettro em Copenhangue 63 noticia 2016-10-10 CARLA
+
++++++++++
+cettro - cettro2_imprensa:(57)
+id,data,titulo,veiculo,caderno,imagem,link,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_medicos:(56)
+id,data,nome,crm,email,curriculo,imagem,especialidade,especialidade2,especialidade3,especialidade4,especialidade5,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_medicos_especialidades:(16)
+id,data,especialidade,data_ult_atualizacao,nome_ult_atualizacao
+1 2015-10-13 . Oncologia Clínica 2016-06-15 CARLA
+2 2015-10-13 Odontologia/Estomatologia 2016-06-02 CARLA
+3 2015-10-13 .. Hematologia 2016-06-15 CARLA
+4 2015-10-13 Cirurgia 2015-10-13 THIAGO
+6 2015-10-13 Psicologia 2015-10-13 THIAGO
+7 2015-10-13 Cirurgia Plástica 2015-10-13 THIAGO
+8 2015-10-13 Mastologia 2015-10-13 THIAGO
+9 2015-10-13 Enfermagem 2015-10-13 THIAGO
+10 2015-10-13 Farmácia Clínica 2015-10-13 THIAGO
+11 2015-10-13 ... Onco-Hematologia Pediátrica 2016-06-15 CARLA
+
++++++++++
+cettro - cettro2_noticias:(155)
+id,data,titulo,fonte,resumo,conteudo,imagem,legenda_imagem,link_galeria,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_simposio2_contato:(0)
+id,data,nome,empresa,cidade,telefone,email,mensagem,id_status_solicitacao,observacao_solicitacao,atualizacao_usuario_solicitacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_simposio2_inscricao:(54)
+id,data,nome,empresa,cidade,telefone,email,id_status_solicitacao,observacao_solicitacao,atualizacao_usuario_solicitacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_simposio2_viagem:(0)
+id,data,nome,empresa,cidade,telefone,email,mensagem,id_status_solicitacao,observacao_solicitacao,atualizacao_usuario_solicitacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_simposio_contato:(1)
+id,data,nome,empresa,cidade,telefone,email,mensagem,id_status_solicitacao,observacao_solicitacao,atualizacao_usuario_solicitacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_simposio_inscricao:(54)
+id,data,nome,empresa,cidade,telefone,email,id_status_solicitacao,observacao_solicitacao,atualizacao_usuario_solicitacao,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_status_solicitacao:(4)
+id,data,nome,data_ult_atualizacao,nome_ult_atualizacao
+1 2015-10-09 PENDENTE 0000-00-00
+2 2015-10-09 SIM 0000-00-00
+3 2015-10-09 NÃO 0000-00-00
+4 2015-10-09 EM ANDAMENTO 0000-00-00
+
++++++++++
+cettro - cettro2_usuarios:(3)
+id,data,nome,email,usuario,senha,id_nivel,status,data_ult_atualizacao,nome_ult_atualizacao
+
++++++++++
+cettro - cettro2_usuarios_nivel:(3)
+id,data,nome,data_ult_atualizacao,nome_ult_atualizacao
+1 2015-04-13 ADMINISTRADOR 0000-00-00
+2 2015-04-13 ATENDIMENTO 0000-00-00
+3 2015-04-13 ATUALIZAÇÃO SITE 0000-00-00
+
++++++++++
+cettro - cettro_acymailing_config:(75)
+namekey,value
+level Starter
+version 4.1.0
+from_name Cettro
+from_email ivon.filho@conectandopessoas.com.br
+mailer_method mail
+sendmail_path /usr/sbin/sendmail
+smtp_secured
+smtp_auth 0
+smtp_username
+smtp_password
+
++++++++++
+cettro - cettro_acymailing_fields:(3)
+fieldid,fieldname,namekey,type,value,published,ordering,options,core,required,backend,frontcomp,default,listing
+
++++++++++
+cettro - cettro_acymailing_filter:(0)
+filid,name,description,published,lasttime,trigger,report,action,filter
+
++++++++++
+cettro - cettro_acymailing_history:(36)
+subid,date,ip,action,data,source,mailid
+7 1400884011 186.213.220.5 created EXECUTED_BY::325 ( adriano ) HTTP_REFERER::http://www.cettro.com.br/administrator/index.php?option=com_users&view=user&layout=edit
+HTTP_USER_AGENT::Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::186.213.220.5
+REQUEST_URI::/administrator/index.php?option=com_users&layout=edit&id=0
+QUERY_STRING::option=com_users&layout=edit&id=0 0
+25 1432156752 187.104.245.60 created EXECUTED_BY::334 ( cettro ) HTTP_REFERER::http://www.cettro.com.br/administrator/index.php?option=com_users&view=user&layout=edit
+HTTP_USER_AGENT::Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:38.0) Gecko/20100101 Firefox/38.0
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::187.104.245.60
+REQUEST_URI::/administrator/index.php?option=com_users&layout=edit&id=0
+QUERY_STRING::option=com_users&layout=edit&id=0 0
+23 1428497717 201.65.95.34 created HTTP_REFERER::http://www.cettro.com.br/corpo-clinico-cettro/98-psicologia-dra-cristiane-decat
+HTTP_USER_AGENT::Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::201.65.95.34
+REQUEST_URI::/corpo-clinico-cettro 0
+24 1429031220 187.104.221.122 created HTTP_REFERER::http://www.cettro.com.br/
+HTTP_USER_AGENT::Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::187.104.221.122
+REQUEST_URI::/ 0
+22 1427130063 189.39.64.254 created HTTP_REFERER::http://www.cettro.com.br/contato/trabalhe-conosco
+HTTP_USER_AGENT::Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; POS2)
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::189.39.64.254
+REQUEST_URI::/contato/trabalhe-conosco 0
+9 1404940055 200.252.135.73 created HTTP_REFERER::http://www.cettro.com.br/informacoes/cartilha-12-passos
+HTTP_USER_AGENT::Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::200.252.135.73
+REQUEST_URI::/informacoes/cartilha-12-passos 0
+10 1405967184 201.41.118.60 created HTTP_REFERER::http://www.cettro.com.br/index.php/marque-sua-consulta
+HTTP_USER_AGENT::Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::201.41.118.60
+REQUEST_URI::/marque-sua-consulta 0
+11 1409147203 177.43.69.193 created HTTP_REFERER::http://cettro.com.br/contato/trabalhe-conosco
+HTTP_USER_AGENT::Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+HTTP_HOST::cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::177.43.69.193
+REQUEST_URI::/contato/trabalhe-conosco 0
+12 1409681549 177.5.244.43 created HTTP_REFERER::http://www.cettro.com.br/informacoes/perguntas-frequentes
+HTTP_USER_AGENT::Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::177.5.244.43
+REQUEST_URI::/informacoes/perguntas-frequentes 0
+21 1425407805 189.50.85.10 created EXECUTED_BY::330 ( connecting0802 ) HTTP_REFERER::http://www.cettro.com.br/administrator/index.php?option=com_users&view=user&layout=edit
+HTTP_USER_AGENT::Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+HTTP_HOST::www.cettro.com.br
+SERVER_ADDR::186.202.153.17
+REMOTE_ADDR::189.50.85.10
+REQUEST_URI::/administrator/index.php?option=com_users&layout=edit&id=0
+QUERY_STRING::option=com_users&layout=edit&id=0 0
+
++++++++++
+cettro - cettro_acymailing_list:(1)
+name,description,ordering,listid,published,userid,alias,color,visible,welmailid,unsubmailid,type,access_sub,access_manage,languages
+
++++++++++
+cettro - cettro_acymailing_listcampaign:(0)
+campaignid,listid
+
++++++++++
+cettro - cettro_acymailing_listmail:(0)
+listid,mailid
+
++++++++++
+cettro - cettro_acymailing_listsub:(27)
+listid,subid,subdate,unsubdate,status
+1 26 1432161555 1
+1 28 1432820915 1
+1 24 1429031221 1
+1 22 1427130063 1
+1 23 1428497717 1
+1 27 1432213595 1
+1 9 1404940056 1
+1 10 1405967184 1
+1 11 1409147203 1
+1 12 1409681549 1
+
++++++++++
+cettro - cettro_acymailing_mail:(8)
+mailid,subject,body,altbody,published,senddate,created,fromname,fromemail,replyname,replyemail,type,visible,userid,alias,attach,html,tempid,key,frequency,params,sentby,metakey,metadesc,filter
+
++++++++++
+cettro - cettro_acymailing_queue:(0)
+senddate,subid,mailid,priority,try,paramqueue
+
++++++++++
+cettro - cettro_acymailing_rules:(0)
+ruleid,name,ordering,regex,executed_on,action_message,action_user,published
+
++++++++++
+cettro - cettro_acymailing_stats:(0)
+mailid,senthtml,senttext,senddate,openunique,opentotal,bounceunique,fail,clicktotal,clickunique,unsub,forward,bouncedetails
+
++++++++++
+cettro - cettro_acymailing_subscriber:(36)
+subid,email,userid,name,created,confirmed,enabled,accept,ip,html,key
+
++++++++++
+cettro - cettro_acymailing_template:(3)
+tempid,name,description,body,altbody,created,published,premium,ordering,namekey,styles,subject,stylesheet,fromname,fromemail,replyname,replyemail
+
++++++++++
+cettro - cettro_acymailing_url:(0)
+urlid,name,url
+
++++++++++
+cettro - cettro_acymailing_urlclick:(0)
+urlid,mailid,click,subid,date,ip
+
++++++++++
+cettro - cettro_acymailing_userstats:(0)
+mailid,subid,html,sent,senddate,open,opendate,bounce,fail,ip
+
++++++++++
+cettro - cettro_assets:(262)
+id,parent_id,lft,rgt,level,name,title,rules
+1 0 1 523 0 root.1 Root Asset {"core.login.site":{"6":1,"2":1},"core.login.admin":{"6":1},"core.login.offline":{"6":1},"core.admin":{"8":1},"core.manage":{"7":1},"core.create":{"6":1,"3":1},"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1},"core.edit.own":{"6":1,"3":1}}
+2 1 1 2 1 com_admin com_admin {}
+3 1 3 6 1 com_banners com_banners {"core.admin":{"7":1},"core.manage":{"6":1},"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[]}
+4 1 7 8 1 com_cache com_cache {"core.admin":{"7":1},"core.manage":{"7":1}}
+5 1 9 10 1 com_checkin com_checkin {"core.admin":{"7":1},"core.manage":{"7":1}}
+6 1 11 12 1 com_config com_config {}
+7 1 13 18 1 com_contact com_contact {"core.admin":{"7":1},"core.manage":{"6":1},"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[],"core.edit.own":[]}
+8 1 19 322 1 com_content com_content {"core.admin":{"7":1},"core.manage":{"6":1},"core.create":{"3":1},"core.delete":[],"core.edit":{"4":1},"core.edit.state":{"5":1},"core.edit.own":[]}
+9 1 323 324 1 com_cpanel com_cpanel {}
+10 1 325 326 1 com_installer com_installer {"core.admin":[],"core.manage":{"7":0},"core.delete":{"7":0},"core.edit.state":{"7":0}}
+92 91 99 100 3 com_content.article.25 Página de Exemplo {"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}
+93 18 372 373 2 com_modules.module.207 Pode Confiar! {"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}
+94 18 374 375 2 com_modules.module.140 Newsletter [span class="rt-title-tag"]Help guides are available to assist[/span] {"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}
+95 18 376 377 2 com_modules.module.97 Rodapé {"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}
+96 18 378 379 2 com_modules.module.208 Newsletter [span class="rt-title-tag"]Help guides are available to assist[/span] {"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}
+97 8 102 109 2 com_content.category.17 Núcleo Científico {"core.create":{"6":1,"3":1},"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1},"core.edit.own":{"6":1,"3":1}}
+98 8 110 135 2 com_content.category.18 Home {"core.create":{"6":1,"3":1},"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1},"core.edit.own":{"6":1,"3":1}}
+99 8 136 157 2 com_content.category.19 Notícias {"core.create":{"6":1,"3":1},"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1},"core.edit.own":{"6":1,"3":1}}
+100 98 111 112 3 com_content.article.26 Quem Somos {"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}
+101 27 21 22 3 com_content.article.27 Instalações {"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}
+
++++++++++
+cettro - cettro_associations:(0)
+id,context,key
+
++++++++++
+cettro - cettro_banner_clients:(0)
+id,name,contact,email,extrainfo,state,checked_out,checked_out_time,metakey,own_prefix,metakey_prefix,purchase_type,track_clicks,track_impressions
+
++++++++++
+cettro - cettro_banner_tracks:(0)
+track_date,track_type,banner_id,count
+
++++++++++
+cettro - cettro_banners:(0)
+id,cid,type,name,alias,imptotal,impmade,clicks,clickurl,state,catid,description,custombannercode,sticky,ordering,metakey,params,own_prefix,metakey_prefix,purchase_type,track_clicks,track_impressions,checked_out,checked_out_time,publish_up,publish_down,reset,created,language,created_by,created_by_alias,modified,modified_by,version
+
++++++++++
+cettro - cettro_categories:(29)
+id,asset_id,parent_id,lft,rgt,level,path,extension,title,alias,note,description,published,checked_out,checked_out_time,access,params,metadesc,metakey,metadata,created_user_id,created_time,modified_user_id,modified_time,hits,language,version
+
++++++++++
+cettro - cettro_contact_details:(1)
+id,name,alias,con_position,address,suburb,state,country,postcode,telephone,fax,misc,image,email_to,default_con,published,checked_out,checked_out_time,ordering,params,user_id,catid,access,mobile,webpage,sortname1,sortname2,sortname3,language,created,created_by,created_by_alias,modified,modified_by,metakey,metadesc,metadata,featured,xreference,publish_up,publish_down,version,hits
+
++++++++++
+cettro - cettro_content:(132)
+id,asset_id,title,alias,introtext,fulltext,state,catid,created,created_by,created_by_alias,modified,modified_by,checked_out,checked_out_time,publish_up,publish_down,images,urls,attribs,version,ordering,metakey,metadesc,access,hits,metadata,featured,language,xreference
+
++++++++++
+cettro - cettro_content_frontpage:(2)
+content_id,ordering
+24 2
+129 1
+
++++++++++
+cettro - cettro_content_rating:(0)
+content_id,rating_sum,rating_count,lastip
+
++++++++++
+cettro - cettro_content_types:(15)
+type_id,type_title,type_alias,table,rules,field_mappings,router,content_history_options
+
++++++++++
+cettro - cettro_contentitem_tag_map:(0)
+type_alias,core_content_id,content_item_id,tag_id,tag_date,type_id
+
++++++++++
+cettro - cettro_core_log_searches:(0)
+search_term,hits
+
++++++++++
+cettro - cettro_extensions:(231)
+extension_id,name,type,element,folder,client_id,enabled,access,protected,manifest_cache,params,custom_data,system_data,checked_out,checked_out_time,ordering,state
+
++++++++++
+cettro - cettro_finder_filters:(0)
+filter_id,title,alias,state,created,created_by,created_by_alias,modified,modified_by,checked_out,checked_out_time,map_count,data,params
+
++++++++++
+cettro - cettro_finder_links:(0)
+link_id,url,route,title,description,indexdate,md5sum,published,state,access,language,publish_start_date,publish_end_date,start_date,end_date,list_price,sale_price,type_id,object
+
++++++++++
+cettro - cettro_finder_links_terms0:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms1:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms2:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms3:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms4:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms5:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms6:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms7:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms8:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_terms9:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_termsa:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_termsb:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_termsc:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_termsd:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_termse:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_links_termsf:(0)
+link_id,term_id,weight
+
++++++++++
+cettro - cettro_finder_taxonomy:(1)
+id,parent_id,title,state,access,ordering
+1 0 ROOT 0 0 0
+
++++++++++
+cettro - cettro_finder_taxonomy_map:(0)
+link_id,node_id
+
++++++++++
+cettro - cettro_finder_terms:(0)
+term_id,term,stem,common,phrase,weight,soundex,links,language
+
++++++++++
+cettro - cettro_finder_terms_common:(115)
+term,language
+a en
+about en
+after en
+ago en
+all en
+am en
+an en
+and en
+ani en
+any en
+via en
+want en
+was en
+way en
+were en
+what en
+when en
+where en
+whi en
+which en
+
++++++++++
+cettro - cettro_finder_tokens:(0)
+term,stem,common,phrase,weight,context,language
+
++++++++++
+cettro - cettro_finder_tokens_aggregate:(0)
+term_id,map_suffix,term,stem,common,phrase,term_weight,context,context_weight,total_weight,language
+
++++++++++
+cettro - cettro_finder_types:(0)
+id,title,mime
+
++++++++++
+cettro - cettro_igallery:(14)
+id,ordering,name,alias,profile,parent,menu_image_filename,menu_description,gallery_description,user,published,date,hits,publish_up,publish_down,moderate
+
++++++++++
+cettro - cettro_igallery_img:(231)
+id,gallery_id,ordering,date,filename,description,tags,alt_text,link,target_blank,user,access,published,rotation,hits,menu_image,publish_up,publish_down,moderate
+
++++++++++
+cettro - cettro_igallery_profiles:(1)
+id,ordering,name,img_quality,published,menu_max_width,menu_max_height,columns,show_large_image,max_width,max_height,img_container_width,img_container_height,fade_duration,preload,magnify,show_thumbs,thumb_width,thumb_height,crop_thumbs,thumb_position,thumb_container_width,thumb_container_height,images_per_row,thumb_scrollbar,arrows_up_down,arrows_left_right,scroll_speed,scroll_boundary,gallery_des_position,allow_comments,allow_rating,align,style,show_slideshow_controls,slideshow_autostart,slideshow_pause,show_descriptions,photo_des_position,photo_des_width,photo_des_height,lightbox,lbox_max_width,lbox_max_height,lbox_img_container_width,lbox_img_container_height,lbox_fade_duration,lbox_preload,lbox_show_thumbs,lbox_thumb_width,lbox_thumb_height,lbox_crop_thumbs,lbox_thumb_position,lbox_thumb_container_width,lbox_thumb_container_height,lbox_images_per_row,lbox_thumb_scrollbar,lbox_arrows_left_right,lbox_arrows_up_down,lbox_scroll_speed,lbox_scroll_boundary,lbox_allow_comments,lbox_allow_rating,lbox_close_position,lbox_show_slideshow_controls,lbox_slideshow_autostart,lbox_slideshow_pause,lbox_show_descriptions,lbox_photo_des_position,lbox_photo_des_width,lbox_photo_des_height,watermark,watermark_position,watermark_transparency,watermark_filename,download_image,lbox_download_image,show_search,show_cat_title,crop_menu,crop_main,crop_lbox,menu_pagination,menu_pagination_amount,round_large,round_thumb,round_fill,round_menu,refresh_mode,show_tags,lbox_show_tags,watermark_text,watermark_text_color,watermark_text_size,share_facebook,lbox_share_facebook,menu_image_defaults,report_image,lbox_report_image,thumb_pagination,thumb_pagination_amount,lbox_scalable,access,menu_access,show_category_hits,search_results,asset_id,slideshow_position,lbox_slideshow_position,show_filename,lbox_show_filename,show_numbering,lbox_show_numbering,show_thumb_info,lbox_show_thumb_info,plus_one,lbox_plus_one,main_image_align_horiz,main_image_align_vert,lbox_image_align_horiz,lbox_image_align_vert,show_image_count,image_ordering,twitter_button,lbox_twitter_button
+
++++++++++
+cettro - cettro_igallery_ratings:(0)
+id,image_id,rating,ip,user,published,date
+
++++++++++
+cettro - cettro_languages:(1)
+lang_id,lang_code,title,title_native,sef,image,description,metakey,metadesc,sitename,published,access,ordering
+
++++++++++
+cettro - cettro_menu:(162)
+id,menutype,title,alias,note,path,link,type,published,parent_id,level,component_id,checked_out,checked_out_time,browserNav,access,img,template_style_id,params,lft,rgt,home,language,client_id
+
++++++++++
+cettro - cettro_menu_types:(8)
+id,menutype,title,description
+1 mainmenu Main Menu The main menu for the site
+2 footermenu Footer Menu Footer Menu
+3 o-cettro O Cettro O Cettro
+4 acontece-no-cettro Acontece no Cettro
+5 nossos-diferenciais Nossos Diferenciais
+6 informacoes Informações
+7 servicos Serviços
+8 links-ocultos Links Ocultos
+
++++++++++
+cettro - cettro_messages:(0)
+message_id,user_id_from,user_id_to,folder_id,date_time,state,priority,subject,message
+
++++++++++
+cettro - cettro_messages_cfg:(0)
+user_id,cfg_name,cfg_value
+
++++++++++
+cettro - cettro_mj_amdd:(16722)
+ua,group,data
+
++++++++++
+cettro - cettro_mj_amdd_cache:(0)
+ua,data,time
+
++++++++++
+cettro - cettro_mj_modules:(0)
+id,markup
+
++++++++++
+cettro - cettro_mj_plugins:(0)
+id,markup
+
++++++++++
+cettro - cettro_modules:(153)
+id,asset_id,title,note,content,ordering,position,checked_out,checked_out_time,publish_up,publish_down,published,module,access,showtitle,params,client_id,language
+
++++++++++
+cettro - cettro_modules_menu:(247)
+moduleid,menuid
+2 0
+3 0
+4 0
+6 0
+7 0
+8 0
+9 0
+10 0
+12 0
+13 0
+157 155
+167 112
+167 179
+168 117
+169 119
+171 118
+172 118
+173 118
+174 118
+175 118
+
++++++++++
+cettro - cettro_newsfeeds:(0)
+catid,id,name,alias,link,published,numarticles,cache_time,checked_out,checked_out_time,ordering,rtl,access,language,params,created,created_by,created_by_alias,modified,modified_by,metakey,metadesc,metadata,xreference,publish_up,publish_down,description,version,hits,images
+
++++++++++
+cettro - cettro_overrider:(0)
+id,constant,string,file
+
++++++++++
+cettro - cettro_postinstall_messages:(3)
+postinstall_message_id,extension_id,title_key,description_key,action_key,language_extension,language_client_id,type,action_file,action,condition_file,condition_method,version_introduced,enabled
+
++++++++++
+cettro - cettro_redirect_links:(3718)
+id,old_url,new_url,referer,comment,hits,published,created_date,modified_date
+
++++++++++
+cettro - cettro_rokcandy:(9)
+id,catid,macro,html,published,checked_out,checked_out_time,ordering,params
+
++++++++++
+cettro - cettro_rokcommon_configs:(2)
+id,extension,type,file,priority
+3 roksprocket container /components/com_roksprocket/container.xml 10
+4 roksprocket library /components/com_roksprocket/lib 10
+
++++++++++
+cettro - cettro_roksprocket_items:(80)
+id,module_id,provider,provider_id,order,params
+
++++++++++
+cettro - cettro_rsform_calculations:(0)
+id,formId,total,expression,ordering
+
++++++++++
+cettro - cettro_rsform_component_type_fields:(194)
+ComponentTypeId,FieldName,FieldType,FieldValues,Ordering
+14 COMPONENTTYPE hidden 14 8
+14 ADDITIONALATTRIBUTES textarea 7
+14 DEFAULTVALUE textarea 6
+14 MAXSIZE textbox 5
+14 SIZE textbox 4
+14 NAME textbox 1
+14 CAPTION textbox 2
+14 REQUIRED select NO
+YES 3
+13 DISPLAYPROGRESSMSG textarea <div>
+ <p><em>Page <strong>{page}</strong> of {total}</em></p>
+ <div class="rsformProgressContainer">
+  <div class="rsformProgressBar" style="width: {percent}%;"></div>
+ </div>
+</div> 8
+13 DISPLAYPROGRESS select NO
+YES 8
+5 ADDITIONALATTRIBUTES textarea 6
+5 REQUIRED select NO
+YES 5
+5 ITEMS textarea 3
+5 FLOW select HORIZONTAL
+VERTICAL 4
+5 CAPTION textbox 2
+5 NAME textbox 1
+4 VALIDATIONMESSAGE textarea INVALIDINPUT 100
+4 COMPONENTTYPE hidden 4 7
+4 DESCRIPTION textarea 6
+4 ADDITIONALATTRIBUTES textarea 6
+
++++++++++
+cettro - cettro_rsform_component_types:(18)
+ComponentTypeId,ComponentTypeName
+1 textBox
+2 textArea
+3 selectList
+4 checkboxGroup
+5 radioGroup
+6 calendar
+7 button
+8 captcha
+9 fileUpload
+10 freeText
+
++++++++++
+cettro - cettro_rsform_components:(53)
+ComponentId,FormId,ComponentTypeId,Order,Published
+
++++++++++
+cettro - cettro_rsform_condition_details:(0)
+id,condition_id,component_id,operator,value
+
++++++++++
+cettro - cettro_rsform_conditions:(0)
+id,form_id,action,block,component_id,condition,lang_code
+
++++++++++
+cettro - cettro_rsform_config:(13)
+SettingName,SettingValue
+global.register.code Q9H113P34A3ZN595WZE0
+global.debug.mode 0
+global.iis 0
+global.editor 1
+global.codemirror 0
+auto_responsive 1
+global.date_mask Y-m-d H:i:s
+global.filtering joomla
+calculations.thousands ,
+calculations.decimal .
+
++++++++++
+cettro - cettro_rsform_directory:(0)
+formId,enablepdf,enablecsv,ViewLayout,ViewLayoutName,ViewLayoutAutogenerate,CSS,JS,ListScript,DetailsScript,EmailsScript,groups
+
++++++++++
+cettro - cettro_rsform_directory_fields:(0)
+formId,componentId,viewable,searchable,editable,indetails,incsv,ordering
+
++++++++++
+cettro - cettro_rsform_emails:(0)
+id,formId,type,from,fromname,replyto,to,cc,bcc,subject,mode,message
+
++++++++++
+cettro - cettro_rsform_forms:(8)
+FormId,FormName,FormLayout,FormLayoutName,FormLayoutAutogenerate,CSS,JS,FormTitle,ShowFormTitle,Published,Lang,ReturnUrl,ShowThankyou,Thankyou,ShowContinue,UserEmailText,UserEmailTo,UserEmailCC,UserEmailBCC,UserEmailFrom,UserEmailReplyTo,UserEmailFromName,UserEmailSubject,UserEmailMode,UserEmailAttach,UserEmailAttachFile,AdminEmailText,AdminEmailTo,AdminEmailCC,AdminEmailBCC,AdminEmailFrom,AdminEmailReplyTo,AdminEmailFromName,AdminEmailSubject,AdminEmailMode,ScriptProcess,ScriptProcess2,ScriptDisplay,UserEmailScript,AdminEmailScript,AdditionalEmailsScript,MetaTitle,MetaDesc,MetaKeywords,Required,ErrorMessage,MultipleSeparator,TextareaNewLines,CSSClass,CSSId,CSSName,CSSAction,CSSAdditionalAttributes,AjaxValidation,ThemeParams,Keepdata,Backendmenu,ConfirmSubmission,Access
+
++++++++++
+cettro - cettro_rsform_mappings:(0)
+id,formId,connection,host,port,username,password,database,method,table,data,wheredata,extra,andor,ordering
+
++++++++++
+cettro - cettro_rsform_posts:(6)
+form_id,enabled,method,silent,url
+3 0 1 1 http://
+4 0 1 1 http://
+5 0 1 1 http://
+6 0 1 1 http://
+7 0 1 1 http://
+8 0 1 1 http://
+
++++++++++
+cettro - cettro_rsform_properties:(498)
+PropertyId,ComponentId,PropertyName,PropertyValue
+1 1 NAME FullName
+2 1 CAPTION Full Name
+3 1 REQUIRED YES
+4 1 SIZE 20
+5 1 MAXSIZE
+6 1 VALIDATIONRULE none
+7 1 VALIDATIONMESSAGE Please type your full name.
+8 1 ADDITIONALATTRIBUTES
+9 1 DEFAULTVALUE
+10 1 DESCRIPTION
+91 13 CAPTION Number of Employees
+92 13 SIZE
+93 13 MULTIPLE NO
+94 13 ITEMS |Please Select[c]
+1-20
+21-50
+51-100
+>100|More than 100
+95 13 REQUIRED YES
+96 13 ADDITIONALATTRIBUTES
+97 13 DESCRIPTION
+98 13 VALIDATIONMESSAGE Please tell us how big is your company.
+99 14 NAME Position
+100 14 CAPTION Position
+541 57 RESET NO
+542 57 RESETLABEL
+543 57 PREVBUTTON PREV
+544 57 DISPLAYPROGRESSMSG <div>
+ <p><em>Page <strong>{page}</strong> of {total}</em></p>
+ <div class="rsformProgressContainer">
+  <div class="rsformProgressBar" style="width: {percent}%;"></div>
+ </div>
+</div>
+545 57 DISPLAYPROGRESS NO
+546 57 BUTTONTYPE TYPEINPUT
+547 57 ADDITIONALATTRIBUTES
+548 57 EMAILATTACH
+
++++++++++
+cettro - cettro_rsform_registration:(6)
+form_id,reg_merge_vars,activation,cbactivation,published
+4 a:6:{s:4:"name";s:4:"Nome";s:8:"username";s:4:"Nome";s:6:"email1";s:4:"Nome";s:6:"email2";s:4:"Nome";s:9:"password1";s:4:"Nome";s:9:"password2";s:4:"Nome";} 0 1 0
+3 a:6:{s:4:"name";s:5:"Email";s:8:"username";s:5:"Email";s:6:"email1";s:5:"Email";s:6:"email2";s:5:"Email";s:9:"password1";s:5:"Email";s:9:"password2";s:5:"Email";} 0 1 0
+5 a:6:{s:4:"name";s:4:"Nome";s:8:"username";s:4:"Nome";s:6:"email1";s:4:"Nome";s:6:"email2";s:4:"Nome";s:9:"password1";s:4:"Nome";s:9:"password2";s:4:"Nome";} 0 1 0
+6 a:6:{s:4:"name";s:4:"Nome";s:8:"username";s:4:"Nome";s:6:"email1";s:4:"Nome";s:6:"email2";s:4:"Nome";s:9:"password1";s:4:"Nome";s:9:"password2";s:4:"Nome";} 0 1 0
+7 a:6:{s:4:"name";s:4:"Nome";s:8:"username";s:4:"Nome";s:6:"email1";s:4:"Nome";s:6:"email2";s:4:"Nome";s:9:"password1";s:4:"Nome";s:9:"password2";s:4:"Nome";} 0 1 0
+8 a:6:{s:4:"name";s:4:"Nome";s:8:"username";s:4:"Nome";s:6:"email1";s:4:"Nome";s:6:"email2";s:4:"Nome";s:9:"password1";s:4:"Nome";s:9:"password2";s:4:"Nome";} 0 1 0
+
++++++++++
+cettro - cettro_rsform_submission_columns:(0)
+FormId,ColumnName,ColumnStatic
+
++++++++++
+cettro - cettro_rsform_submission_values:(12881)
+SubmissionValueId,FormId,SubmissionId,FieldName,FieldValue
+1 5 1 Nome Ivon Filho
+2 5 1 Email ivonfh@gmail.com
+3 5 1 Telefone 61 4103 3050
+4 5 1 Sexo Masculino
+5 5 1 Nascimento CLIQUE AO LADO ?
+6 5 1 Primeira_Consulta Sim
+7 5 1 Data_Consulta CLIQUE AO LADO ?
+8 5 1 Turno Manhã
+9 5 1 Marcar Marcar Consulta
+10 5 1 formId 5
+91 7 13 Nome Marina Maravalhas de Paiva
+92 7 13 Email marina.paiva@hotmail.com
+93 7 13 Mensagem Tenho formação em Administração de Empresas e quero me especializar na área hospitalar. Já possuo o curso de faturamento e posteriormente iria fazer o de analista de contas, auditoria e gestão hospitalar.
+94 7 13 Enviar Enviar
+95 7 13 formId 7
+96 7 14 Curriculo /53873f4241922-CURRICULO MACIEL NOVO.doc
+97 7 14 Nome Maciel Oliveira Balica
+98 7 14 Email macielbalica2009@gmail.com
+99 7 14 Mensagem MENSAGEM
+100 7 14 Enviar Enviar
+491 5 69 Nome nathalia
+492 5 69 Email nathalia@conectandopessoas.com.br
+493 5 69 Telefone 6185889641
+494 5 69 Sexo Feminino
+495 5 69 Nascimento 25.01.1988
+496 5 69 Especialidade Oncologia
+497 5 69 Primeira_Consulta Sim
+498 5 69 Data_Consulta 06.08.2014
+499 5 69 Turno Manhã
+500 5 69 Marcar Marcar Consulta
+991 4 134 Nome Dilson Mendes
+992 4 134 Email credenciamentocentralsaude@gmail.com
+993 4 134 Unidades Hospital Dia
+994 4 134 Mensagem Olá Prezado,
+Somos a Rede Central Saúde, um Auto Programa em Saúde e Bem Estar. Temos alcançado cada vez mais credibilidade e confiabilidade junto a grande massa da população, proporcionando a estes acesso a saúde preventiva de qualidade. Somos uma excelente opção aos planos de saúde convencionais que fogem da capacidade financeira de um grande percentual da população brasileira.
+ 
+A Rede Central Saúde conta hoje com aproximadamente 370 associados no Brasil, vale ressaltar que  estamos em todas capitais do Brasil e algumas cidades polo.
+ 
+A Rede Central Saúde tem grande interesse em credenciar esta conceituada empresa para o atendimento de nossos associados, por se tratar de uma instituição que preza pela qualidade e confiabilidade dos seus serviços prestados. Para tanto, precisamos de um desconto nos procedimentos realizados por sua empresa.
+ 
+O sistema de agendamento dos nossos associados para consultas, exames e tratamentos, é realizado através de nossa Central de Relacionamento,facilitando o relacionamento entre Central Saúde, Associados e Empresas de Saúde Credenciadas, de forma que os nossos associados JÁ PAGAM OS PROCEDIMENTOS À VISTA, de acordo com o valor estipulado em nosso contrato de credenciamento.
+ 
+Diante disso, em contrapartida de nossa parceria, podemos potencializar o volume de atendimentos prestados por sua empresa.
+ 
+Em nossas parcerias, sugerimos como base para nossos Parceiros/Credenciados o que segue:
+ 
+1-) Para consultas, o valor de R$ 40,00 a R$ 90,00;
+2-) Para Exames laboratoriais, o valor da Tabela CBHPM 5ª Edição com
+deflator a partir de 20% e;
+3-) Para Exames de Imagens/Diagnósticos, a Tabela CBHPM 5ª Edição
+com deflator a partir de 25% e;
+4-) Tabela para procedimentos Odontológicos Valores Referenciais para
+Procedimentos Odontológicos (VRPO) com deflator a partir de 20%.
+*VALORES SUGERIDOS E NEGOCIÁVEIS DOS PROCEDIMENTOS.
+ 
+ 
+-- 
+Atenciosamente
+ 
+___________
+Setor credenciamento
+Rede Central Saúde
+__________
+www.centralsaude.com
+995 4 134 Enviar Enviar
+996 4 134 formId 4
+997 7 135 Curriculo /53eaa72870df1-Curriculum Annanda.pdf
+998 7 135 Nome Annanda
+999 7 135 Email annanda.aires@gmail.com
+1000 7 135 Mensagem Boa noite. Gostaria de uma oportunidade para trabalhar no CETTRO. Tenho experiencia como recepcionista.sou proativa, responsável e pontual.Possuo curso de atendimento ao cliente e exerço muito bem a profissão.
+Desde ja agradeço.
+1991 7 280 Nome Isabel Cristina Soares Rodrigues
+1992 7 280 Email isabel.ldf@hotmail.com
+1993 7 280 Mensagem Gostaria de uma oportunidade. Sou técnica em enfermagem experiência em Centro Cirúrgico.
+Estou disponível.
+8596-3504
+1994 7 280 Enviar Enviar
+1995 7 280 formId 7
+1996 7 281 Curriculo /543442cf06f25-Curriculum Tecnico de enfermagem s.pdf
+1997 7 281 Nome Vandressa de Moraes Araujo da Silva
+1998 7 281 Email vandressa.ma@hotmail.com
+1999 7 281 Mensagem Segue o meu curriculum,desde já agradeço.
+2000 7 281 Enviar Enviar 
++++++++++
+cettro - cettro_rsform_submissions:(1934)
+SubmissionId,FormId,DateSubmitted,UserIp,Username,UserId,Lang,confirmed
+
++++++++++
+cettro - cettro_rsform_translations:(0)
+id,form_id,lang_code,reference,reference_id,value
+
++++++++++
+cettro - cettro_rsmonials:(8983)
+id,fname,lname,about,location,website,email,comment,ip,date,status
+
++++++++++
+cettro - cettro_rsmonials_param:(24)
+id,param_name,param_description,param_value,ordering
+2 admin_name Name of Administrator Moderador 1
+3 admin_email Email Address of Administrator - This will use for sending and receiving Email nathalia@conectandopessoas.com.br 2
+4 show_desc Set "false" to hide the description text appeared just agter the page title in front end. Set "true" to display true 3
+5 login_to_submit_testimonial Here you can specify who can post testimonials/comments. If you wish anyone can post testimonials then set the value of this field to "false". But if you wish only registered/logged in users can post comment then set the value to "true" here. false 4
+6 show_single_name_field Set "false" to display two name fields (i.e. "First Name" and "Last Name"). Set "true" to display single name field (i.e. "Your Name") true 5
+7 show_about Set "false" to hide "About You" field in front end. Set "true" to display false 6
+8 show_location Set "false" to hide "Your Location" field in front end. Set "true" to display false 7
+9 show_website Set "false" to hide "Your Website" field in front end. Set "true" to display false 8
+10 show_image Set "true" to enable image/picture uploading. Set "false" to disable. true 9
+11 image_max_width If you enabled "show_image", then please set the maximum allowed width of image (in pixel). 500 10
+
++++++++++
+cettro - cettro_rsmonials_param_style:(12)
+id,param_name,param_description,param_value,ordering
+1 testimonial_block_border Border Style of each Testimonial block:
+
+Example 1: 1px solid #cccccc
+Example 2: 2px dotted #0000ff
+Example 3: 1px dashed #006600 1px solid #dedede 1
+2 testimonial_block_background_color Background Color of Testimonial Block:
+
+Example: #CCCCCC #f3f3f3 2
+3 testimonial_block_rounded_corner Set "true" to get rounded corner of each testimonial block. Set "false" to get square block.
+
+Note: Rounded corner will not work in IE (upto IE 8). IE not supports it. From IE 9 it will work. IE9 is till to launch. false 3
+4 testimonial_block_rounded_corner_radius If you enabled "Rounded Corner", then you can set the Radius of the rounded corner (in pixel). By default it is 10. 10 4
+5 testimonial_block_enable_gradient If you wish to use Gradient set this to "true", otherwise "False".
+
+Note: Gradient will not work in IE (upto IE 8). IE not supports it. From IE 9 it will work. IE9 is till to launch. false 5
+6 testimonial_block_gradient_start_color If you enabled "Gradient" then please set the start color of the gradient here.
+
+Example: #F7F7F7 #F7F7F7 6
+7 testimonial_block_gradient_end_color If you enabled "Gradient" then please set the start color of the gradient here.
+
+Example: #FFFFFF #FFFFFF 7
+8 testimonial_block_quotation_image_style Enter "0" to "disable quotation image".
+Enter "1" to use "square type quotation image".
+Enter "2" to use "round type quotation image". 2 8
+9 testimonial_block_default_image If you enabled the image upload option in your testimonial form, then here you can set the default image.
+
+Enter "0" to "not display any image if someone do not upload his/her image".
+Enter "1" to use "Gray User image if there is no image".
+Enter "2" to use "Black User (Male) image if there is no image".
+Enter "3" to use "Black User (Female) image if there is no image". 1 9
+10 testimonial_block_image_position If you enabled the image upload option in your testimonial form, then here you can set the default image position.
+
+Enter "1" to "Display image in left side of testimonial".
+Enter "2" to "Display image in right side of testimonial".
+Enter "3" to "Display image in alternate side of testimonial (one in left, next one in right and so on...)". 1 10
+
++++++++++
+cettro - cettro_schemas:(1)
+extension_id,version_id
+700 3.2.1
+
++++++++++
+cettro - cettro_session:(4)
+session_id,client_id,guest,time,data,userid,username
+8f2itav7jissvbtmh00a8ob500 1 1 1557560413 Zg2uwvzlPmcZ8wgZlKZZaRURu9qPQ0oYZCCJoJx6LOE0pJ3jm_HKVJyeqIZ1ITY85JXLDzugxsn1SQu8Ezd3hf8W6EbbgxtGFnwrcEuYZmE8Xmms7X_IswRsYtKJELL47mqjHH6FXmkdTgmRNBMKu4TBNQ3Zh9UwJqLHgjy22jU6FfJdBln6F3U5FXI0G3k959fzAWWEwIoOEtuMTa64_-H6kIkM-W77q42_7MjZxjMzrBXrGPjLv1n3fYrXU81vicdOGAb1PEO6vZ_QMRcb26i5k5Mg0DD-adHbWhh7fyjP4j1o6tjFMNNLg7RBi3oxJUtxdPk_sVmefV1gvc534cd7fxyeHQW9sbLoD9gfirDD8OWwi7QYQLdvmnPKAayU4Rs41GSb75igHhP_9Be7TvkLHlSOAd-rtmyeF0Fzj3ROSb6BqWZ1VnjpPVVqRH2JUDYb3JEM9WY-I6fk0aXa_zBgG10oBln32JVPTtYcB_09EVdZQCfDhNMk_BMDsPzXA4jDRqoikGeSEnOusNng7FyWdBPFFsl0xG-knRt-Ho9NvUrY-vHD9_4jkw1c1t39QbyW8_8ExBxRYxmCc5b0aSE9bV9k5x8XwY3tVtYMzQZkpEpeFv3o1VOcH_1v7sbtDm302rappEHK7tAjhaSAawf0yPWDPADViwh3TSROomDwDQ_6ICr5fRYsIzdeOCMBDNlWgb5valULo9U-R7QiY4NFJyXS1XpPJzHhwcYAkefNYqKYbg1kJXfKUi38MdQpDV2-sd-LFZWUCifVw2KnpXFt2zGpuXbsByXN2UaeV7QexxEwEb3C_lIzDIVGvt37dgdvOvj3kO2ZypXNRGpaGuMVgs-cXKftQc4NJcFqJgnBfl3RCR83EJ2WPkzmeMn6_IPIKq0NnVbjBhDJ0dMz0Ho8ICN7VvN-nZ4qKLe6I_j4Fe_ZtJaSGA5eu8CxrQqsLaRV-7vg0hta4ThVEKWJxIkRUGijDpCg1JUdlriPpZm8ZuHxpEiSSCEcQFYZvcsSdiirnLlKnpRjQ_DNQpcMNlf1Mv4foVn8k25kJZNXu1x4lRw45Kx4CAqUUpLMnzQjUS6sry3ahyD0C4sVVqvgxZXgGSDc8Os8bjuDj4kf0qpvaPhaHAZsrC7wkdkzmqdrTjUEizwj0ghzhWTVqmGCHnTf89C7pRXkigfL5OdIKNgiqFoxFnlY92i5KZePR9hWAlMDu0JSKX2xCYXysPQnKzcXAP54biLeNbCy4kZyhdOzETkTdCHI0dg773uz1BPC287LkaRsHF76Mx6LHoFERMJwuczoXiSQgFOKiDir2T7V33HTr3pReFut2bT5G4Vkh4xFDIOCfDLUg1rcgGR3k5DD-O3czuySAQoRESaHZ9kiXcPvot1ut12AEDUr-SET 0
+9f8usj16ho14pshbbchb7tqb92 1 1 1557560412 q7LOu9QkEecJyVJcO64v53J8lMJYPKvRGdx5J0G86hZvgcacaJUOfwLEcRQB49Y071ctjjLvtbByV1cr0Q7H3VIkqAp9YFmB4JuiKpPzL8jamxytFWCHUiM-dA6eRu9r1gP3npxBFnVfkoMhW8nZgt9QUtFSaopuaEGW2cihHIwygzDUmomIMMGYf01woRmDBtXkEL08zwQZFuQn1Zppu-KJ_pgzcX1WX_VTxgcD851KFm9ZcaH9jtCNUSj30EZYg8SSeyUbbIGr-yNikmcGSDsY223o3UksETTNSCbdAcUKA0M_kEBPsl6oJkyMaKXFiA63o2PD4-tPx9KyHiYI8zUooj29-EklG645NUli22OyZ98Yn_VgUpQeH2BgvqrMnw4aaJm-D1d7ZNthB5IW02cMJrhki49h_fUZPifznVGaAec2EjvRZifMOlIz6Z2SdUMwB1vb-Q1Wa3Ov9tcCF1JmPfiPIdOnjbo1hnehsfC1oy8JQi-iVvPC_oCB0iaPjAGcjOA0EYfQtuUfDOTBSDgYvbs6JGtqn9NJu0_X9ARUxqjRHEWk4-6p4h4gkRTEf_R2agwasfjD5BQCF1wvZ5FFb585sH7qiGabc0GAVHp_kd-ueTgdD1XGsSckZpauEuBnw4KqlXH62InKCG65X2sI7aOzuIMZIUWj7ZVlsw33LLpQRkIGx8QkR_tpAaf8oBk68jFx0jCWYfDKQONsLoFZUkcJ5AsaHGJJxJOILNILPGuczop8LMn1urhg0pJTsmsnfLv7tGSuNGS1Gz7_3pFX-4vb0TReXfL-ahUvF5Ud1f4MuYUyiI6Fn2lwFLYqUEJxaUuVbiZp25csBYQYYHD9csUQELjIzjOyT6U5sM58GtD2nQCBuHrz_N2jV2AKfrPsc7WkGNLeQT-j0eOp707H0nVkANXVvNCVpxdtAmLQ_Qcge1Zj1er20gfvWza4YKWUKkT1LFtflZb4lnuECjyt6BDbLxNoYVkQJclVW4N24hvBNqZWc78bXxiOsYtLHHlXmqxO0okoucfhA2AHCqfLHumB-74o-k3f1THev6FLcLdi62rNuyCKavdRkuyxTFdkDujPVmZhVL4LpqV1rv-_Ss8HRUWNbNX2aGU1_OE3TrOc62N2F91sXTXClon-BUNJ9BRbv_4kqD-DWUtByaXN9Y_g98NvKMvxJmp9K5TbN2wQIYgYumifr_NaGBxPKMvsbi-KL_h61mPafG2_PUyKQiDg_qOz3K2YgYzu5sOr8K7GUnk7AAXk4ozt5I5-9lelsDfoXUKXTFv95OxmDBCAr2NrqPeL03E6MoYkU9CD_5o7hUNhc0A8hj6wsKcSQaQJAVkZvey7jKZh1NB1CcjBxqJ8vq0nsZaQ5TAsbaQ. 0
+ahkl2c0hs8g4io3mcs1deg5qm3 1 1 1557560412 TUQ8Q04w7Yba_1c5ojvFta4a90tLQiZIh06GPFK5E_64uB_G1r5eVEHjdzb-PqS-SAD14I0PgroOmW54H_cayeL2PKoL7joOyKuksQO9yQLXE5tHGIDQkpD-0JZ3HcEPTdXZWjC3bJ5W58YigjS3_es3LA0Q0UvkJIt2hzMXQ8vfWP3tIntGsDskLHk_U6v5f88aSz_399u2BxoVKxlqY7GFTzf1QC4QuNihw1M3wlPnZvxeXWp6F8rcgTv3dlayVfzRmjhgut03w5v4jmT5PyZaNzXiSyOJRBB65OtyZaVXXWGLn8Eu5YJxOfbifKaX4YO7b4xm0QVXFZ13OIEv55a9T1bQ-ZbUJmCnY37ZDcLBpSahMH8vgrmkIBFuDU04rCjBR5_D9Jn_IgE0tL7OGrqD-ktECuvx9Kso5uevfARuXxJrfspz5C6PKDTe6--6T6clUhUPuaorEFZL41WVfLcODAEP5HB0fwS0dbogGF29t0RNNmX6u0e3TmDpiNy94JiJagERDIZp2Te8gqZBzp0w5bQdmTRIOpNBwB-Aj1kcwa1MIvoZc0gDFMquTr302nNw8CgAtRHsh9rQyqBoJGj2EDvnBJZ6g7nKsIr0iBEEDwsqX1834C7c4fIWG5nw-ySRTCVoPiPWmIiTKU9bawgQBgzn5e_UyfUN_00n_rLOKPVvR6r3ICI8ufQZcFZKemiyEY7ZcW_CH0OW5UJ5UARnMoEW3dYcem4ZgZqFSL_YjEJzHhVDf6fpZjvpbfN9kPrGybWfatWJ8wexXSSocMkOftXtSvVT0QR42YwOq7NzvDC88knkNoSYTZHWQfWqerCbHHPyix4NUruSzP1G1CjGTRFahZcPF-r2jJYFAPiZC3p2SXj4M5Uqe7quDHgfqhkam85bW9XzRZTS3_tBX77mZfxZJzJVlJ5KiZSwa5zOORcY8BGpht0SGNnHZVMSc6t8l_qdof55-L2pJpGDw-j3mNsYTfc6HBR90cfJzO9KmaJodzTIiCM564GrBNk-pn8RjjNnB4Yq3p1yrvwQVL1IN9sjxGUKOM-YHy-xsBSxEBtD7XIkGrZY58TQIvtgPbf5stMhHGQ-xnKs8ddVopA8GNVZqrTQhtgiV_FITN-eOWD2dVstTJtk25ZDvTDkxWk-M9mhu9l7scGDdNqkhxzJ5MpOfx5maSQUW7tlLjhfz7pjgLRvF9Oj6_hK_szU0fkXsFKiATqsJnqVtdor3RuOSn4VmLMnTIUgYb38ZHErqK7e8p4QHek58ilanBnztkC8Hxc82SXZJ6-Gox2uia_H8e1CQCH0S_OrT27jFag. 0
+ku8pk8uavkgdpe8otcrfghpes4 1 1 1557560413 6Mk6kButj9-ITSH4xNGBS4iVMIWj7sirbXl7cSWStNUJf007rsoTLFS-Uln7KU4phbA_2bMuru1pWWc1XLLGKE8TGgMpf4dhxSE9Pza_qre4nytxKrtJypr0EgbWxhzxKxYxmGZI2HZhReXBrSiPbm870jEzXgbQqgIwWUE7KLQoVUF9Exiiims1PdhMNkn3YH1Bhqf7f9OoxvoOeB345Ph4nDZId-eEWgFUD__khj_A60NykWt_ZR0WPxWYDlbvYTFet5cHOcbV9rgRXQJqiuKNyu0vKHW9wMMhyOORa3hTM4OyNmBSQfEsi1cAcZTknBvf1Np8HX4WE9DZ4cE7i29hHlr7yTBrWwXCYx2jGSPi-6uHFOz26Ojbmq2mgJyALaUA7BOBs__Z4JUloxTMfQUwFkMbAHJWHCnPK1acWUJLqy3F5pjug5jhr-HirKg0HUAuYa3kzabeGh3QPp0vPuCfruMAYF0R3S7z4Y8GBEFgExpHlJp9pgR124M8COXk6SnI0L5MPNTy-ql4XBTosniK62NvAxEf-bAqc1x9UeznB4davI-Lqbs3CadSlRFuOAtRzFO0AiWJFJqiiwo-qbRZfdY-NzjhmljyRfJi2_8DYrLxabUe-4F8rUeHC69QN5a4QM0ht_xtjBGyRRLIlV_g2Muf_cGuWq2LiTmrio9wxrSXW6aPDb1YmAdeOcK2qCg4r7cJSP6miWSeqMtlbDmNmYFDjyGhQ3JcRr_RkzqZmw7r52eMkq0cld0geCQct49Nd1BrVoHbd6qTzrme_9P3zSobVvfBFOBnxABb28-vQNzgLhCVEOp-batHoCXpL-wUCNZdFnRndhVPA93jUZJBZTnxVkBfBGk-uh3PBBYVfVOFRZV_n2SizrVoJ7fBt_943rIeRPf2FsWuUtih9YwV7syQGHk67qySCt00BLeWjL577-qdji2unj2u7zri7iukWY_vPHS0_aUoGADyF_PDvv-pNs2zWRraWZhpJyHdx5zFY_NXzglUvewj5AEoazPwzKucvP39iTSD4z_CUDt7R4VrPz8i74mn4eiDPzV5FVwJNLiSRPWQ3ONVH0ZT7HFpfoYHA32_Kb_LEb8W4FLAplAnvOitSrYTKPIEGGHgjraDX9nQ5TX_RIXT_dNRtuUs48UpzIGxKCTpUDbUZaZvJp1iiDLzj6k5wvmsG9iJHks8fnn822btR_2sAZn2CZPuuYKmuBb7HzSFA3Yrke5b_nHJPqCf8jJlidyAtVLrZZGKMdcoJDp0i_OGel89NbdOjIBMDAFmZh7vemiUM8gHgh2vl-i7xVxBLRiqu0x17fmLoSWef-xr07Wb2pIOiMGkh7ukJaxUgfqDapF2ik-z9aLoiQSDsajnov3fajU. 0
+
++++++++++
+cettro - cettro_tags:(1)
+id,parent_id,lft,rgt,level,path,title,alias,note,description,published,checked_out,checked_out_time,access,params,metadesc,metakey,metadata,created_user_id,created_time,created_by_alias,modified_user_id,modified_time,images,urls,hits,language,version,publish_up,publish_down
+
++++++++++
+cettro - cettro_template_styles:(18)
+id,template,client_id,home,title,params
+2 bluestork 1 0 Bluestork - Default {"useRoundedCorners":"1","showSiteName":"0"}
+3 atomic 0 0 Atomic - Default {}
+4 beez_20 0 0 Beez2 - Default {"wrapperSmall":"53","wrapperLarge":"72","logo":"images\/joomla_black.gif","sitetitle":"Joomla!","sitedescription":"Open Source Content Management","navposition":"left","templatecolor":"personal","html5":"0"}
+5 hathor 1 0 Hathor - Default {"showSiteName":"0","colourChoice":"","boldText":"0"}
+6 beez5 0 0 Beez5 - Default {"wrapperSmall":"53","wrapperLarge":"72","logo":"images\/sampledata\/fruitshop\/fruits.gif","sitetitle":"Joomla!","sitedescription":"Open Source Content Management","navposition":"left","html5":"0"}
+11 rt_spectral 0 1 Spectral - Default {"master":"true","current_id":"11","template_full_name":"Spectral","grid_system":"12","template_prefix":"spectral-","cookie_time":"31536000","override_set":"2.5","name":"Preset1","copy_lang_files_if_diff":"1","logo":{"enabled":"1","position":"header-a","type":"spectral","custom":{"image":""}},"fixed-header":"0","header":{"background":"#EDEDED","overlay":"#E3D3D6","type":"preset1","bg-position":"50% 50%","customheader":{"image":""},"layout":"a:1:{i:12;a:1:{i:2;a:2:{i:0;i:3;i:1;i:9;}}}","showall":"0","showmax":"6"},"main":{"body-style":"light","accent":"#082952","accent2":"#ad312f","body-type":"full-bg","backgroundtop":"#8AA6B1","backgroundmiddle":"#B7EAFB","backgroundbottom":"#8AA6B1"},"mainbody-overlap":"0","footer":{"background":"#000000","overlay":"dark","type":"preset1","bg-position":"50% 50%","customfooter":{"image":""},"layout":"a:1:{i:12;a:1:{i:1;a:1:{i:0;i:12;}}}","showall":"0","showmax":"6"},"font":{"family":"s:spectral","size":"default","size-is":"default"},"viewswitcher-priority":"1","logo-priority":"2","copyright-priority":"3","styledeclaration-priority":"4","fontsizer-priority":"5","date-priority":"7","totop-priority":"8","systemmessages-priority":"9","smartload-priority":"13","pagesuffix-priority":"14","resetsettings-priority":"15","analytics-priority":"16","dropdownmenu-priority":"18","jstools-priority":"21","moduleoverlays-priority":"22","rtl-priority":"23","splitmenu-priority":"24","webfonts-priority":"27","styledeclaration-enabled":"1","social":{"enabled":"0","target":"_blank","button-1-icon":"icon-facebook","button-1-text":"","button-1-link":"http:\/\/www.facebook.com\/RocketTheme","button-3-icon":"icon-google-plus","button-3-text":"","button-3-link":"https:\/\/plus.google.com\/114430407008695950828\/posts","button-5-icon":"icon-linkedin","button-5-text":"","button-5-link":"http:\/\/www.linkedin.com\/in\/rockettheme","position":"social","hidden-spacer":"","button-2-icon":"icon-twitter","button-2-text":"","button-2-link":"https:\/\/twitter.com\/rockettheme","button-4-icon":"icon-rss","button-4-text":"","button-4-link":"http:\/\/www.rockettheme.com\/blog?format=feed&amp;type=rss","button-6-icon":"","button-6-text":"","button-6-link":""},"chart-enabled":"1","comingsoon":{"enabled":"0","date":"1","month":"0","year":"2020"},"email-subscription":{"enabled":"0"},"feedburner-uri":"","date":{"enabled":"0","position":"utility-a","clientside":"0","formats":"%A, %B %d, %Y"},"fontsizer":{"enabled":"0","position":"utility-b"},"login":{"enabled":"0","position":"utility-c","text":"Member Login","logouttext":"Logout"},"popup":{"enabled":"0","position":"utility-d","text":"Popup Module"},"branding":{"enabled":"0","position":"copyright-a"},"copyright":{"enabled":"0","position":"copyright-c","text":"<img src=\"images\/site\/logo-conectando-hover.jpg\">","layout":"a:1:{i:12;a:2:{i:2;a:2:{i:0;i:6;i:1;i:6;}i:3;a:3:{i:0;i:3;i:1;i:6;i:2;i:3;}}}","showall":"0","showmax":"6"},"totop":{"enabled":"1","position":"copyright-b","text":"<span class=\"icon-angle-up\"><\/span>"},"systemmessages":{"enabled":"1","position":"drawer"},"resetsettings":{"enabled":"0","position":"copyright-d","text":"Reset Settings"},"analytics":{"enabled":"1","code":"UA-51288334-1","position":"analytics"},"menu":{"enabled":"1","type":"dropdownmenu","numbering":"enabled","dropdownmenu":{"theme":"gantry-dropdown","limit_levels":"0","startLevel":"0","showAllChildren":"1","class_sfx":"top","cache":"0","menutype":"mainmenu","position":"header-b","responsive-menu":"panel","enable-current-id":"0","module_cache":"1"},"splitmenu":{"mainmenu-limit_levels":"1","mainmenu-startLevel":"0","mainmenu-endLevel":"0","mainmenu-class_sfx":"top","submenu-limit_levels":"1","submenu-startLevel":"1","submenu-endLevel":"9","cache":"0","menutype":"mainmenu","theme":"gantry-splitmenu","mainmenu-position":"header-b","submenu-position":"sidebar-a","submenu-title":"1","submenu-class_sfx":"","submenu-module_sfx":"","responsive-menu":"panel","roknavmenu_dropdown_enable-current-id":"0","module_cache":"1"}},"top":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"showcase":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"utility":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"feature":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"maintop":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"expandedtop":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"mainbodyPosition":"a:1:{i:12;a:1:{i:2;a:2:{s:2:\"mb\";i:8;s:2:\"sa\";i:4;}}}","mainbottom":{"layout":"a:1:{i:12;a:2:{i:1;a:1:{i:0;i:12;}i:2;a:2:{i:0;i:8;i:1;i:4;}}}","showall":"0","showmax":"2"},"expandedbottom":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"extension":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"bottom":{"layout":"3,3,3,3","showall":"0","showmax":"6"},"layout-mode":"responsive","loadtransition":"0","component-enabled":"1","mainbody-enabled":"1","rtl-enabled":"1","pagesuffix-enabled":"1","selectivizr-enabled":"1","less":{"compression":"1","compilewait":"2","debugheader":"0"},"ie7splash-enabled":"1","demo":"1","k2":"0"}
+12 rt_spectral 0 0 Spectral - Home {"master":"11","current_id":"12","mainbody-overlap":"1","footer":{"layout":"a:1:{i:12;a:1:{i:2;a:2:{i:0;i:7;i:1;i:5;}}}"},"showcase":{"layout":"a:1:{i:12;a:2:{i:1;a:1:{i:0;i:12;}i:2;a:2:{i:0;i:6;i:1;i:6;}}}"},"utility":{"layout":"a:1:{i:12;a:1:{i:2;a:2:{i:0;i:6;i:1;i:6;}}}"},"feature":{"layout":"a:1:{i:12;a:1:{i:2;a:2:{i:0;i:6;i:1;i:6;}}}"},"mainbody-enabled":"0"}
+13 rt_spectral 0 0 Spectral - Offline {"master":"11","current_id":"13","component-enabled":"0","mainbody-enabled":"0"}
+14 rt_spectral 0 0 Spectral - Pages {"master":"11","current_id":"14","footer":{"layout":"a:1:{i:12;a:1:{i:2;a:2:{i:0;i:7;i:1;i:5;}}}"}}
+15 protostar 0 0 protostar - Default {"templateColor":"","logoFile":"","googleFont":"1","googleFontName":"Open+Sans","fluidContainer":"0"}
+
++++++++++
+cettro - cettro_ucm_base:(0)
+ucm_id,ucm_item_id,ucm_type_id,ucm_language_id
+
++++++++++
+cettro - cettro_ucm_content:(0)
+core_content_id,core_type_alias,core_title,core_alias,core_body,core_state,core_checked_out_time,core_checked_out_user_id,core_access,core_params,core_featured,core_metadata,core_created_user_id,core_created_by_alias,core_created_time,core_modified_user_id,core_modified_time,core_language,core_publish_up,core_publish_down,core_content_item_id,asset_id,core_images,core_urls,core_hits,core_version,core_ordering,core_metakey,core_metadesc,core_catid,core_xreference,core_type_id
+
++++++++++
+cettro - cettro_ucm_history:(0)
+version_id,ucm_item_id,ucm_type_id,version_note,save_date,editor_user_id,character_count,sha1_hash,version_data,keep_forever
+
++++++++++
+cettro - cettro_uniterevolution_sliders:(1)
+id,title,alias,published,ordering,params
+1 Banner Home 1 0 {"slider_type":"responsitive","slider_width":"1190","slider_height":"469","responsitive_w1":"940","responsitive_sw1":"770","responsitive_w2":"780","responsitive_sw2":"500","responsitive_w3":"510","responsitive_sw3":"310","responsitive_w4":"","responsitive_sw4":"","responsitive_w5":"","responsitive_sw5":"","responsitive_w6":"","responsitive_sw6":"","delay":"9000","touchenabled":"off","stop_on_hover":"on","shuffle":"off","php_resize":"off","load_googlefont":"false","google_font":"PT+Sans+Narrow:400,700","stop_slider":"off","stop_after_loops":"0","stop_at_slide":"2","position":"center","margin_top":"-23","margin_bottom":"0","margin_left":"0","margin_right":"0","clear_both":"false","shadow_type":"0","show_timerbar":"false","timebar_position":"top","background_color":"transparent","padding":"0","show_background_image":"false","background_image":"","navigaion_type":"none","navigation_arrows":"verticalcentered","navigation_style":"round","navigaion_align_hor":"center","navigaion_align_vert":"bottom","navigaion_offset_hor":"0","navigaion_offset_vert":"20","navigaion_always_on":"false","hide_thumbs":"200","thumb_width":"100","thumb_height":"50","thumb_amount":"5","hide_slider_under":"0","hide_defined_layers_under":"0","hide_all_layers_under":"0"}
+
++++++++++
+cettro - cettro_uniterevolution_slides:(6)
+id,catid,sliderid,title,alias,image,description,published,checked_out,checked_out_time,ordering,params,layers
+
++++++++++
+cettro - cettro_update_sites:(13)
+update_site_id,name,type,location,enabled,last_check_timestamp
+1 Joomla Core collection http://update.joomla.org/core/sts/list_sts.xml 0 0
+2 Joomla Extension Directory collection http://update.joomla.org/jed/list.xml 1 1434022282
+3 Accredited Joomla! Translations collection http://update.joomla.org/language/translationlist_3.xml 0 0
+4 Gantry Framework Update Site extension http://www.gantry-framework.org/updates/joomla16/gantry.xml 0 1434022282
+5 RocketTheme Update Directory collection http://updates.rockettheme.com/joomla/updates.xml?site_id=e3d243f8df28ae6a70fa4ab09977cde3&ignore=update.xml 1 1434022281
+6 Conflate Extension Updates collection http://www.conflate.nl/extensions/updates/conflate.xml 1 1434022281
+7 collection http://www.mobilejoomla.com/updates/list.xml 1 1434022281
+8 Mobile Joomla Updates extension http://www.mobilejoomla.com/updates/com_mobilejoomla.xml 0 0
+9 AcyMailing extension http://www.acyba.com/component/updateme/updatexml/component-acymailing/level-Starter/file-extension.xml 1 1434022281
+10 JM Google Maps extension http://extensions.joomlaman.com/jmgooglemap/update.xml 0 0
+
++++++++++
+cettro - cettro_update_sites_extensions:(22)
+update_site_id,extension_id
+1 700
+2 700
+3 600
+4 10001
+5 10006
+5 10011
+5 10013
+5 10015
+5 10017
+5 10021
+
++++++++++
+cettro - cettro_updates:(28)
+update_id,update_site_id,extension_id,name,description,element,type,folder,client_id,version,data,detailsurl,infourl
+
++++++++++
+cettro - cettro_user_keys:(0)
+id,user_id,token,series,invalid,time,uastring
+
++++++++++
+cettro - cettro_user_notes:(0)
+id,user_id,catid,subject,body,state,checked_out,checked_out_time,created_user_id,created_time,modified_user_id,modified_time,review_time,publish_up,publish_down
+
++++++++++
+cettro - cettro_user_profiles:(0)
+user_id,profile_key,profile_value,ordering
+
++++++++++
+cettro - cettro_user_usergroup_map:(9)
+user_id,group_id
+330 8
+334 8
+335 8
+336 2
+337 2
+338 2
+339 2
+340 2
+341 2
+
++++++++++
+cettro - cettro_usergroups:(9)
+id,parent_id,lft,rgt,title
+1 0 1 18 Public
+2 1 8 15 Registered
+3 2 9 14 Author
+4 3 10 13 Editor
+5 4 11 12 Publisher
+6 1 4 7 Manager
+7 6 5 6 Administrator
+8 1 16 17 Super Users
+9 1 2 3 Guest
+
++++++++++
+cettro - cettro_users:(9)
+id,name,username,email,password,block,sendEmail,registerDate,lastvisitDate,activation,params,lastResetTime,resetCount,otpKey,otep
+
++++++++++
+cettro - cettro_viewlevels:(3)
+id,title,ordering,rules
+1 Public 0 [1]
+2 Registered 1 [6,2,8]
+3 Special 2 [6,3,8]
+
++++++++++
+cettro - cettro_weblinks:(0)
+id,catid,title,alias,url,description,hits,state,checked_out,checked_out_time,ordering,access,params,language,created,created_by,created_by_alias,modified,modified_by,metakey,metadesc,metadata,featured,xreference,publish_up,publish_down,version,images
+
++++++++++
+cettro - cettro_wf_profiles:(4)
+id,name,description,users,types,components,area,device,rows,plugins,published,ordering,checked_out,checked_out_time,params
+
++++++++++
+cettro - cettro_widgetkit_widget:(11)
+id,type,style,name,content,created,modified
+1 gallery slider Fotos Cettro Asa Norte {"type":"gallery","id":1,"name":"Fotos Cettro Asa Norte","settings":{"style":"slider","width":200,"height":280,"order":"default","total_width":"auto","spacing":0,"center":1,"sticky":0,"duration":500,"lightbox":1,"lightbox_caption":1,"spotlight":1,"spotlight_effect":""},"style":"slider","paths":["\/galeria-asa-norte"],"captions":{"\/galeria-asa-norte\/asa1.JPG":"","\/galeria-asa-norte\/asa2.JPG":"","\/galeria-asa-norte\/asa4.JPG":"","\/galeria-asa-norte\/asa5.JPG":"","\/galeria-asa-norte\/asa7.JPG":"","\/galeria-asa-norte\/asa8.JPG":""},"links":{"\/galeria-asa-norte\/asa1.JPG":"","\/galeria-asa-norte\/asa2.JPG":"","\/galeria-asa-norte\/asa4.JPG":"","\/galeria-asa-norte\/asa5.JPG":"","\/galeria-asa-norte\/asa7.JPG":"","\/galeria-asa-norte\/asa8.JPG":""}} 2014-03-25 20:14:06 2014-06-04 14:06:08
+2 gallery wall Seviços {"type":"gallery","id":2,"name":"Sevi\u00e7os","settings":{"style":"wall","width":190,"height":"auto","order":"default","effect":"spotlight","margin":"","corners":"","lightbox":0,"lightbox_caption":0,"spotlight_effect":""},"style":"wall","paths":["\/servicos"],"captions":{"\/servicos\/01.jpg":"Conhe\u00e7a o Cettro","\/servicos\/02.jpg":"Espa\u00e7o da Fam\u00edlia","\/servicos\/03.jpg":"Espa\u00e7o do Paciente","\/servicos\/04.jpg":"Cettro Pettit"},"links":{"\/servicos\/01.jpg":"index.php\/conheca-o-cettro","\/servicos\/02.jpg":"index.php\/espaco-da-familia","\/servicos\/03.jpg":"index.php\/espaco-do-paciente","\/servicos\/04.jpg":"index.php\/cettro-pettit"}} 2014-04-03 16:36:55 2014-04-22 14:42:28
+3 gallery default Menu Botões {"type":"gallery","id":0,"name":"Menu Bot\u00f5es","settings":{"style":"default","width":"auto","height":"auto","thumb_width":80,"thumb_height":60,"autoplay":1,"interval":5000,"duration":500,"index":0,"buttons":1,"slices":20,"animated":"fade","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":3,"slideset_effect_duration":300,"order":"default","navigation":1,"lightbox":0},"style":"default","paths":[],"captions":[],"links":[]} 2014-04-03 16:55:13 2014-04-03 16:55:13
+4 gallery wall Menu Botões {"type":"gallery","id":4,"name":"Menu Bot\u00f5es","settings":{"style":"wall","width":"auto","height":"auto","order":"default","effect":"","margin":"margin","corners":"","lightbox":0,"lightbox_caption":0,"spotlight_effect":""},"style":"wall","paths":["\/menu-botoes"],"captions":{"\/menu-botoes\/01.jpg":"Qualidade de Vida","\/menu-botoes\/02.jpg":"Multim\u00eddia","\/menu-botoes\/04.jpg":"N\u00facleo Cient\u00edfico","\/menu-botoes\/05.jpg":"Preven\u00e7\u00e3o de C\u00e2ncer"},"links":{"\/menu-botoes\/01.jpg":"index.php\/qualidade-de-vida","\/menu-botoes\/02.jpg":"index.php\/multimidia","\/menu-botoes\/04.jpg":"index.php\/nucleo-cientifico-cettro","\/menu-botoes\/05.jpg":"index.php\/prevencao-de-cancer"}} 2014-04-03 16:55:49 2014-04-03 19:11:19
+5 map default Mapa {"type":"map","id":5,"name":"Mapa","settings":{"style":"default","width":"auto","height":400,"mapTypeId":"roadmap","zoom":14,"mapCtrl":1,"typeCtrl":0,"popup":1,"directions":0,"unitSystem":0,"clusterMarker":0,"styler_invert_lightness":0,"zoomWhl":1,"styler_hue":"","styler_saturation":0,"styler_lightness":0,"styler_gamma":0},"style":"default","items":{"533eb36f32e14":{"title":"Cettro - Hospital Dia","lat":"-15.785241492715382","lng":"-47.885755403735345","icon":"red-pushpin","popup":"<strong>Cettro - Hospital Dia e Pedi\u00e1trico<\/strong>\r\n<br \/>SMH\/N Quadra 02 Bl. \"A\" Ed. de Cl\u00ednicas\r\n<br \/>12\u00ba Andar - Bras\u00edlia DF\r\n<br \/>(61) 3429 2900 \/ 3429 2902"},"533eb42d0985e":{"title":"Cettro - Unidade Avan\u00e7ada","lat":"-15.792253570362446","lng":"-47.8564453125","icon":"pink-pushpin","popup":"<strong>Cettro - Hospital Dia<\/strong>\r\n<br \/>SMH\/N Quadra 02\r\n<br \/>Bl. \"A\" Ed. de Cl\u00ednicas 12\u00ba Andar\r\n<br \/>(61) 3429 2900 \/ 3429 2902"}}} 2014-04-04 13:33:20 2014-04-04 13:59:22
+7 gallery default Cettro Família {"type":"gallery","id":7,"name":"Cettro Fam\u00edlia","settings":{"style":"default","width":750,"height":290,"autoplay":1,"order":"default","interval":5000,"duration":500,"index":0,"navigation":0,"buttons":1,"slices":20,"animated":"fade","caption_animation_duration":500,"lightbox":1},"style":"default","paths":["\/cettro-familia"],"captions":{"\/cettro-familia\/01.jpg":"","\/cettro-familia\/02.jpg":"","\/cettro-familia\/03.jpg":"","\/cettro-familia\/04.jpg":"","\/cettro-familia\/05.jpg":"","\/cettro-familia\/06.jpg":""},"links":{"\/cettro-familia\/01.jpg":"","\/cettro-familia\/02.jpg":"","\/cettro-familia\/03.jpg":"","\/cettro-familia\/04.jpg":"","\/cettro-familia\/05.jpg":"","\/cettro-familia\/06.jpg":""}} 2014-04-22 13:40:04 2014-04-22 17:45:16
+8 gallery default Cettro pettit {"type":"gallery","id":8,"name":"Cettro pettit","settings":{"style":"default","width":750,"height":290,"autoplay":1,"order":"default","interval":5000,"duration":500,"index":0,"navigation":0,"buttons":1,"slices":20,"animated":"fade","caption_animation_duration":500,"lightbox":1},"style":"default","paths":["\/cettro-pettit"],"captions":{"\/cettro-pettit\/01.jpg":""},"links":{"\/cettro-pettit\/01.jpg":""}} 2014-04-22 17:43:55 2014-04-22 17:44:56
+9 gallery slider Fotos Cettro {"type":"gallery","id":9,"name":"Fotos Cettro","settings":{"style":"slider","width":200,"height":"auto","order":"default","total_width":"auto","spacing":0,"center":1,"sticky":0,"duration":500,"lightbox":1,"lightbox_caption":1,"spotlight":1,"spotlight_effect":""},"style":"slider","paths":["\/fotos-cettro"],"captions":{"\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-1.jpg":"Cettro | Centro de C\u00e2ncer de Bras\u00edlia | Oncologia e Hematologia Bras\u00edlia","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-2.jpg":"Cettro | Centro de C\u00e2ncer de Bras\u00edlia | Oncologia e Hematologia Bras\u00edlia","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-3.jpg":"Cettro | Centro de C\u00e2ncer de Bras\u00edlia | Oncologia e Hematologia Bras\u00edlia","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-4.jpg":"Cettro | Centro de C\u00e2ncer de Bras\u00edlia | Oncologia e Hematologia Bras\u00edlia","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-5.jpg":"Cettro | Centro de C\u00e2ncer de Bras\u00edlia | Oncologia e Hematologia Bras\u00edlia","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-6.jpg":"Cettro | Centro de C\u00e2ncer de Bras\u00edlia | Oncologia e Hematologia Bras\u00edlia"},"links":{"\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-1.jpg":"","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-2.jpg":"","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-3.jpg":"","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-4.jpg":"","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-5.jpg":"","\/fotos-cettro\/cettro-centro-de-cancer-de-brasilia-6.jpg":""}} 2014-05-07 19:01:59 2014-05-22 16:56:32
+10 gallery slider Fotos Cettro Taguatinga {"type":"gallery","id":10,"name":"Fotos Cettro Taguatinga","settings":{"style":"slider","width":200,"height":280,"order":"default","total_width":"auto","spacing":0,"center":1,"sticky":0,"duration":500,"lightbox":1,"lightbox_caption":1,"spotlight":1,"spotlight_effect":""},"style":"slider","paths":["\/taguatinga"],"captions":{"\/taguatinga\/foto01_grande.jpg":"","\/taguatinga\/foto02_grande.jpg":"","\/taguatinga\/foto03_grande.jpg":"","\/taguatinga\/foto04_grande.jpg":"","\/taguatinga\/foto05_grande.jpg":"","\/taguatinga\/foto06_grande.jpg":"","\/taguatinga\/hcbr03_zpsb8bfad0b.jpg":""},"links":{"\/taguatinga\/foto01_grande.jpg":"","\/taguatinga\/foto02_grande.jpg":"","\/taguatinga\/foto03_grande.jpg":"","\/taguatinga\/foto04_grande.jpg":"","\/taguatinga\/foto05_grande.jpg":"","\/taguatinga\/foto06_grande.jpg":"","\/taguatinga\/hcbr03_zpsb8bfad0b.jpg":""}} 2014-05-22 16:55:17 2014-05-22 16:55:59
+11 gallery slider Fotos Cettro Ceilândia {"type":"gallery","id":11,"name":"Fotos Cettro Ceil\u00e2ndia","settings":{"style":"slider","width":200,"height":280,"order":"default","total_width":"auto","spacing":0,"center":1,"sticky":0,"duration":500,"lightbox":1,"lightbox_caption":1,"spotlight":1,"spotlight_effect":""},"style":"slider","paths":["\/ceilandia"],"captions":{"\/ceilandia\/IMG_3490.JPG":"","\/ceilandia\/IMG_3491.JPG":"","\/ceilandia\/IMG_3492.JPG":"","\/ceilandia\/IMG_3493.JPG":"","\/ceilandia\/IMG_3494.JPG":"","\/ceilandia\/IMG_3496.JPG":"","\/ceilandia\/IMG_3513.JPG":"","\/ceilandia\/IMG_3514.JPG":"","\/ceilandia\/IMG_3515.JPG":"","\/ceilandia\/IMG_3516.JPG":""},"links":{"\/ceilandia\/IMG_3490.JPG":"","\/ceilandia\/IMG_3491.JPG":"","\/ceilandia\/IMG_3492.JPG":"","\/ceilandia\/IMG_3493.JPG":"","\/ceilandia\/IMG_3494.JPG":"","\/ceilandia\/IMG_3496.JPG":"","\/ceilandia\/IMG_3513.JPG":"","\/ceilandia\/IMG_3514.JPG":"","\/ceilandia\/IMG_3515.JPG":"","\/ceilandia\/IMG_3516.JPG":""}} 2014-05-22 16:55:28 2014-05-22 16:59:27
+
++++++++++
+
+ 

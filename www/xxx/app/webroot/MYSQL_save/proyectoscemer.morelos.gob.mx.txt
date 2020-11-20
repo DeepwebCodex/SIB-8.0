@@ -1,0 +1,233 @@
+proyectoscemer.morelos.gob.mx/anteproyectos_drupal.php?id=1478
+ 
+mor18_proyecemer - anteproyecto:(1900)
+no_proy,fecha,anno,nom_proy,proyecto,dictamen,mir,comentario,dependencia_clave1
+
++++++++++
+mor18_proyecemer - bitacora:(0)
+no_reporte,consulta,operacion,usuario,exitoso,fecha,ip,usuarios_id_usuario
+
++++++++++
+mor18_proyecemer - comentarios:(884229)
+idcomentarios,comentario,fecha,usuario,correo,tramite_id_tramite,programa_no_prog,anteproyecto_no_proy
+
++++++++++
+mor18_proyecemer - contador:(1722115)
+id,ip,hora,minuto,dia,mes,anno
+1 189.138.224.124 21 58 122 5 2013
+2 189.138.224.124 21 59 122 5 2013
+3 189.138.224.124 10 0 122 5 2013
+4 189.138.224.124 10 23 122 5 2013
+5 189.138.224.124 10 25 122 5 2013
+6 201.145.234.160 12 44 122 5 2013
+7 201.145.234.160 12 45 122 5 2013
+8 201.145.234.160 12 46 122 5 2013
+9 201.145.234.160 12 48 122 5 2013
+10 201.145.234.160 13 33 122 5 2013
+91 201.145.238.222 14 22 132 5 2013
+92 201.145.238.222 14 24 132 5 2013
+93 201.145.238.222 14 32 132 5 2013
+94 201.145.238.222 14 34 132 5 2013
+95 201.145.238.222 14 35 132 5 2013
+96 201.145.238.222 14 36 132 5 2013
+97 201.145.238.222 14 44 132 5 2013
+98 201.145.238.222 14 49 132 5 2013
+99 201.145.238.222 14 50 132 5 2013
+100 201.145.238.222 14 52 132 5 2013
+491 201.145.249.110 13 14 161 6 2013
+492 201.145.249.110 13 15 161 6 2013
+493 201.145.249.110 14 36 161 6 2013
+494 201.145.245.165 14 44 161 6 2013
+495 201.145.245.165 14 46 161 6 2013
+496 201.145.249.110 15 7 161 6 2013
+497 201.145.226.1 20 27 162 6 2013
+498 201.145.226.1 21 47 162 6 2013
+499 201.145.245.165 10 11 162 6 2013
+500 201.145.245.165 10 12 162 6 2013
+991 201.145.251.2 14 43 171 6 2013
+992 66.220.152.113 14 45 171 6 2013
+993 66.220.152.115 14 49 171 6 2013
+994 66.220.152.114 14 49 171 6 2013
+995 201.145.236.90 15 1 171 6 2013
+996 201.145.251.2 15 3 171 6 2013
+997 201.145.236.90 15 9 171 6 2013
+998 201.145.251.2 15 39 171 6 2013
+999 201.145.251.2 15 41 171 6 2013
+1000 201.145.236.90 15 45 171 6 2013
+1991 201.141.218.26 21 30 175 6 2013
+1992 201.137.48.167 21 31 175 6 2013
+1993 66.249.73.113 21 31 175 6 2013
+1994 66.249.73.113 21 32 175 6 2013
+1995 201.145.142.18 21 32 175 6 2013
+1996 66.249.73.113 21 33 175 6 2013
+1997 201.160.0.138 21 34 175 6 2013
+1998 66.249.73.113 21 34 175 6 2013
+1999 66.249.73.113 21 35 175 6 2013
+2000 201.145.197.159 21 35 175 6 2013 
++++++++++
+mor18_proyecemer - dependencia:(96)
+clave,nombre,tipo_id_tipo
+1 ComisiÃ³n Estatal de Reservas Territoriales 1
+10 SecretarÃ­a de Cultura 2
+11 SecretarÃ­a de Desarrollo Agropecuario 2
+12 SecretarÃ­a de Turismo 2
+13 Instituto de la Mujer para el Estado de Morelos 1
+14 SecretarÃ­a de EconomÃ­a 2
+15 SecretarÃ­a de Hacienda 2
+16 SecretarÃ­a de Movilidad y Transportes 2
+17 SecretarÃ­a de Desarrollo Sustentable 2
+18 ComisiÃ³n Estatal de Agua 1
+91 ComisiÃ³n Ejecutiva de AtenciÃ³n y ReparaciÃ³n a VÃ­ctimas del Estado de Morelos 1
+92 Fideicomiso Museo Morelense de Arte ContemporÃ¡neo Juan Soriano 1
+93 Fideicomiso Centro Cultural Teopanzolco 1
+94 FiscalÃ­a Especializada en Combate a la CorrupciÃ³n 2
+95 Secretaria de Turismo y Cultura 2
+96 Secretaria de Desarrollo EconÃ³mico y del Trabajo 2
+
++++++++++
+mor18_proyecemer - directorio:(14)
+iddirectorio,nombre,cedula,cargo,correo,domicilio,telefono,nombramiento,nivel,foto
+
++++++++++
+mor18_proyecemer - noticias:(14)
+id_n,titulo,texto,foto,fecha,resumen,usuarios_id_usuario
+17 SE REALIZA EN MORELOS LA XX SESIÃN ORDINARIA DEL CONSEJO REGIONAL DE MEJORA REGULATORIA CENTRO-PAÃS <p>Se compartieron experiencias en materia de mejora regulatoria con funcionarios del Gobierno de Nicaragua.
+
+</p>
+                          <p>El 18 de Julio de 2013, se llevÃ³ a cabo en el Estado de Morelos el desarrollo de la XX SesiÃ³n Ordinaria del Consejo Regional de Mejora Regulatoria Centro-PaÃ­s, en la cual participaron funcionarios de los Gobiernos del Distrito Federal, Estado de MÃ©xico, Guerrero, QuerÃ©taro, Puebla, Tlaxcala, asÃ­ como de la ComisiÃ³n Federal de Mejora Regulatoria (COFEMER), dicho Consejo Regional tiene como objetivo fundamental el intercambio de experiencias y casos de Ã©xito en materia de mejora regulatoria para la generaciÃ³n de acciones y atenciÃ³n de problemÃ¡ticas comunes que permitan elevar los niveles de competitividad regional.                          </p>
+                          <p>En dicha SesiÃ³n se presentaron diversos proyectos entre los que destacan el Modelos de Costeo EstÃ¡ndar del Registro Estatal de TrÃ¡mites y Servicios del Estado de Morelos, la Estrategia de SimplificaciÃ³n y AutomatizaciÃ³n de TrÃ¡mites y Servicios del Gobierno del Distrito Federal, la Plataforma Integral de AtenciÃ³n Ciudadana del Ayuntamiento de Puebla, las acciones de mejora regulatoria impulsadas por el Gobierno de Tlaxcala y el Estado de MÃ©xico, asÃ­ como el seguimiento de la Agenda Nacional de Mejora Regulatoria por parte del Lic. David Samadi Castilla, Coordinador General de Proyectos Especiales, Lic. HÃ©ctor Salas Camacho, Coordinador de Mejora Regulatoria Institucional, y la Lic. Gabriela MontaÃ±o GarcÃ­a, Coordinadora de Estados y Municipios de la COFEMER.                          </p>
+                          <p>En el marco del desarrollo de esta SesiÃ³n se contÃ³ con la presencia de funcionarios del Gobierno de Nicaragua para conocer las instituciones, polÃ­ticas, herramientas, y buenas prÃ¡cticas de mejora regulatoria implementadas por el Gobierno de Morelos y el resto de las Entidades Federativas participantes.                          </p>
+                          <p>Del Gobierno de Nicaragua participaron en la visita Claudia Bruselas Curtis, Coordinadora de AsesorÃ­a Legal de la Presidencia de la RepÃºblica de Nicaragua; Maritza Halleslevens, Directora Nacional de los Registros PÃºblicos Mercantil; Carlos Zarruk, Director de Postestablecimiento, Agencia de PromociÃ³n de Inversiones PRONICARAGUA; MarÃ­a Auxiliadora Salgado Escoto, Directora General Administrativa Financiera, Ministerio de Fomento, Industria y Comercio (MIFIC); Jader Alid Beltrand BlandÃ³n, Director de Clima de Negocios, (MIFIC); e Ileana Mantilla GutiÃ©rrez, Asesora del Ministro, (MIFIC), quienes a su vez realizaron una visita al Sistema de Apertura RÃ¡pida de Empresas (SARE) del Municipio de Cuernavaca, a fin conocer su funcionamiento, como modelo para la apertura de negocios, que se encuentra posicionado en Tercer Lugar a nivel nacional por parte del Banco Mundial a travÃ©s del Estudio Doing Business 2012, asÃ­ mismo el Lic. Alfredo GarcÃ­a Reynoso, Director General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos (ISRyC), recibiÃ³ a los funcionarios para dar un recorrido por el ISRyC como caso de Ã©xito y referencia internacional, documentado asÃ­ por la OrganizaciÃ³n para la CooperaciÃ³n y el Desarrollo EconÃ³micos (OCDE) por la modernizaciÃ³n de sus procesos.                          </p>
+                          <p>Por parte del Gobierno del Estado de Morelos participaron el Director General de la ComisiÃ³n Estatal de Mejora Regulatoria (CEMER), Salvador Sandoval Palazuelos, Mtro. Eduardo BretÃ³n Ochoa, Director Operativo de CEMER y Secretario TÃ©cnico del Consejo Regional de Mejora Regulatoria Centro-PaÃ­s y el C.P. ZenÃ³n de JesÃºs Guerrero Figueroa, Director de AdministraciÃ³n y Registro de CEMER.                        </p>
+                        <p>Con esta actividad se da cumplimiento a la lÃ­nea de acciÃ³n que busca consolidar mecanismos que fomenten la cooperaciÃ³n regulatoria entre PaÃ­ses, la cual se establece en el Objetivo 4.7, la Estrategia 4.7.2 para un MÃ©xico PrÃ³spero, como lo establece el Plan Nacional de Desarrollo 2013-2018 y el Convenio de CoordinaciÃ³n sobre la materia entre el Gobierno del Estado de Morelos y el Gobierno Federal y se reitera el compromiso del Gobierno de la Nueva VisiÃ³n por impulsar la polÃ­tica de mejora regulatoria que promueva la modernizaciÃ³n, eficiencia, simplificaciÃ³n administrativa, agilidad y transparencia dentro de la AdministraciÃ³n PÃºblica Estatal.</p> ../images/Noticias/Noticia_2013-09-06_51.jpg 2013-07-18 SE REALIZA EN MORELOS LA XX SESIÃN ORDINARIA DEL 0
+15 ParticipÃ³ el Estado de Morelos en la 31 Conferencia Nacional de Mejora Regulatoria, celebrada 17, 18 y 19 de Abril de 2013 en el Estado de Aguascalientes <p>â¢         Mejora regulatoria factor fundamental para incrementar la competitividad en nuestro paÃ­s.
+                          </p>
+                          <p>â¢      Se contÃ³ con la asistencia de entidades federativas, OCDE, AMSDE y la oficina de la Estrategia Digital Nacional.                          </p>
+                          <p>Con el objetivo de forjar la excelencia en la competitividad que beneficie a los sectores productivos y a los ciudadanos, asÃ­ como para impulsar el crecimiento econÃ³mico, se inaugurÃ³ la 31Âª Conferencia Nacional de Mejora Regulatoria en el Estado de Aguascalientes con la asistencia de todas las entidades federativas y funcionarios municipales del paÃ­s.                          </p>
+                          <p>En su mensaje de bienvenida, EsaÃº Garza de Vega, Secretario de Desarrollo EconÃ³mico del Estado de Aguascalientes seÃ±alÃ³ que la Conferencia ampliarÃ¡ la visiÃ³n y forjarÃ¡ los horizontes en materia de gobernanza regulatoria.                          </p>
+                          <p>Asimismo, destacÃ³ que en la Conferencia se compartirÃ¡n las mejores prÃ¡cticas para posicionar a la mejora regulatoria en el paÃ­s y se promoverÃ¡ la competencia en los Estados.                          </p>
+                          <p>Carlos Lozano de la Torre, Gobernador Constitucional del Estado de Aguascalientes seÃ±alÃ³ que la Gobernanza Regulatoria no es una opciÃ³n, es una exigencia del siglo XXI para establecer polÃ­ticas pÃºblicas a largo plazo ya que incrementa la competitividad de las naciones y destacÃ³ que la polÃ­tica regulatoria favorece el desarrollo sostenible.                          </p>
+                          <p>Por su parte, Virgilio Andrade MartÃ­nez, Titular de la ComisiÃ³n Federal de Mejora Regulatoria (COFEMER), expresÃ³ que este evento simboliza el valor de cooperaciÃ³n por la bÃºsqueda de un MÃ©xico prÃ³spero y resaltÃ³ que con la participaciÃ³n de los tres Ã³rdenes de gobierno se podrÃ¡ desarrollar una vida Ã³ptima para las empresas y los ciudadanos.                          </p>
+                          <p>AdemÃ¡s, destacÃ³ que la mejora regulatoria consiste en simplificar trÃ¡mites para facilitar la vida de la ciudadanÃ­a y la apertura para hacer negocios mismos que generarÃ¡n un paÃ­s mÃ¡s competitivo.                          </p>
+                          <p>Durante su participaciÃ³n, RocÃ­o RuÃ­z ChÃ¡vez, Subsecretaria de Normatividad y Competitividad de la SE resaltÃ³ que se necesita avanzar en la polÃ­tica de mejora regulatoria para que los resultados se traduzcan en beneficios para los ciudadanos y empresas. AdemÃ¡s, reiterÃ³ que en el Gobierno Federal se estÃ¡ trabajando por una regulaciÃ³n eficiente y eficaz para generar una economÃ­a competitiva.                          </p>
+                          <p>RuÃ­z ChÃ¡vez, enfatizÃ³ que la mejora regulatoria tiene como objetivo el funcionamiento de los mercados, el cual es un factor fundamental para incrementar la competitividad en nuestro paÃ­s y resaltÃ³ que la SecretarÃ­a de EconomÃ­a (SE) y la COFEMER trabajan en coordinaciÃ³n por la mejora regulatoria en las entidades federativas y municipios de MÃ©xico.                          </p>
+                          <p>Finalmente, Mario Anguiano Moreno, Gobernador del Estado de Colima felicitÃ³ y agradeciÃ³ al gobierno de Aguascalientes por la iniciativa de llevar a cabo la Conferencia y por la capacitaciÃ³n para trabajar en la simplificaciÃ³n que genere beneficios a los ciudadanos.                          </p>
+                          <p>En la Conferencia se contÃ³ con la asistencia de las entidades federativas, de la OrganizaciÃ³n para la CooperaciÃ³n y el Desarrollo EconÃ³mico (OCDE), la AsociaciÃ³n Mexicana de Secretarios de Desarrollo EconÃ³mico (AMSDE) y la oficina de Estrategia Digital Nacional. <br />
+                            <br />
+                        </p> ../images/Noticias/Noticia_2013-09-06_24.jpg 2013-04-17 ParticipÃ³ el Estado de Morelos en la 31 Conferenc 0
+14 XIX SesiÃ³n Ordinaria del Consejo Regional de Mejora Regulatoria Centro-PaÃ­s El pasado 20 de Marzo de 2013 en la Ciudad de Puebla se llevÃ³ a cabo la XIX SesiÃ³n Ordinaria del Consejo Regional de Mejora Regulatoria Centro-PaÃ­s, en la cual participaron funcionarios de los Estados de Puebla, Hidalgo, Tlaxcala, Veracruz y Morelos, asÃ­ como representantes de la ComisiÃ³n Federal de Mejora Regulatoria (COFEMER), de la OrganizaciÃ³n para la CooperaciÃ³n y el Desarrollo EconÃ³mico (OCDE) y de la AsociaciÃ³n Mexicana de Secretarios de Desarrollo EconÃ³mico (AMSDE) para el impulso de proyectos regionales de mejora regulatoria y acciones a favor de la competitividad de esta zona del PaÃ­s. ../images/Noticias/Noticia_2013-09-06_5.jpg 2013-03-20 XIX SesiÃ³n Ordinaria del Consejo Regional de Mejo 0
+16 ParticipÃ³ el Estado de Morelos en la 31 Conferencia Nacional de Mejora Regulatoria, celebrada 17, 18 y 19 de Abril de 2013 en el Estado de Aguascalientes <p>Se reÃºnen en Morelos secretarios de Desarrollo EconÃ³mico de la Zona Centro integrados a la AMSDE
+
+</p>
+                          <p>â¢ Fueron recibidos por el secretario de Gobierno Jorge Messeguer quien propuso integrar a Puebla en esta asociaciÃ³n
+                          </p>
+                          <p>â¢ Se destacÃ³ la importancia de lograr la Mejora Regulatoria al crear y mantener un marco regulatorio transparente
+                          </p>
+                          <p>Al encabezar la instalaciÃ³n del consejo directivo de la AsociaciÃ³n Mexicana de Secretarios de Desarrollo EconÃ³mico (AMSDE) que se realizÃ³ en Cuernavaca, Jorge Messeguer GuillÃ©n, secretario de Gobierno de Morelos, propuso intercambiar mÃ¡s allÃ¡ de informaciÃ³n y una agenda legislativa, experiencias de los proyectos exitosos que se lleven a cabo en cada uno de sus estados para armonizar los ejes econÃ³micos y realizar planes conjuntos que beneficien a la zona centro del paÃ­s.
+                          </p>
+                          <p>Durante su mensaje de bienvenida, acompaÃ±ado de Julio Mitre Cendejas, titular de la SecretarÃ­a de EconomÃ­a del Gobierno de la Nueva VisiÃ³n, Messeguer GuillÃ©n destacÃ³ la importancia de incorporar al estado de Puebla (ya que sÃ³lo pertenecen al grupo el Distrito Federal, Estado de MÃ©xico, Tlaxcala, Hidalgo y Morelos) en los trabajos de la AMSDE de la regiÃ³n centro, tal como se hace en las reuniones de gobernadores de la regiÃ³n Centro del paÃ­s.
+                          </p>
+                          <p>"ValdrÃ­a la pena armonizar esta asociaciÃ³n con el trabajo que hacen los gobernadores de la zona centro y es mucho mÃ¡s fÃ¡cil si ustedes impulsan una iniciativa como la mejora regulatoria. Les pongo un ejemplo, el gobernador Graco RamÃ­rez, en su reuniÃ³n con los funcionarios del Distrito Federal, el Estado de MÃ©xico, Tlaxcala, Hidalgo y Guerrero presentÃ³ un proyecto para poder preservar la cordillera volcÃ¡nica que nos separa o divide a los estados", declarÃ³.
+                          </p>
+                          <p>DestacÃ³ que esta propuesta pretende preservar un Ã¡rea que es del interÃ©s nacional, porque dota de agua a una regiÃ³n que equivale al 60% del Producto Interno Bruto (PIB) del paÃ­s, ya que ahÃ­ se genera el agua que consume la regiÃ³n mÃ¡s importante econÃ³micamente de MÃ©xico, donde vive mÃ¡s del 25% de la poblaciÃ³n.
+                          </p>
+                          <p>Jorge Messeguer subrayÃ³ que Morelos tiene una ventaja competitiva, que es la innovaciÃ³n, ya que cuenta con 40 centros de investigaciÃ³n, por lo que se estÃ¡n generando parques de ciencia y tecnologÃ­a.
+                          </p>
+                          <p>Por su parte, Julio Mitre, en su calidad de coordinador de la regiÃ³n centro del AMSDE, seÃ±alÃ³ que el Gobierno de la Nueva VisiÃ³n trabaja para mejorar la infraestructura y se coordina para el proyecto carretero que desde Morelos permita llegar al norte del Distrito Federal sin tener que cruzar toda la ciudad.
+                          </p>
+                          <p>"Cuando en Hidalgo se cerrÃ³ el arco Norte empezaron a llegar una cantidad enorme de inversiones, que tienen que ver con lo que llamamos la megalÃ³polis, que no es mÃ¡s que una convivencia de mercados y poblaciÃ³n, toda esta secciÃ³n del paÃ­s es la mÃ¡s importante, es la que aporta mÃ¡s PIB a todo el paÃ­s, 44 millones de habitantes participan en este tema, por eso se nos hace muy importante que toquemos temas que tengan que ver con la comunicaciÃ³n entre estados, porque los estados los divide una sola lÃ­nea, pero a las poblaciones no", aseverÃ³ Mitre Cendejas.
+                          </p>
+                          <p>En tanto, Misael LÃ³pez Vergara, director general de la AMSDE, mencionÃ³ que el trabajo coordinado de las entidades federativas en el impulso al desarrollo regional serÃ¡ medular en los ejes rectores que promueve la asociaciÃ³n.
+                          </p>
+                          <p>"El trabajo coordinado lograrÃ¡ impulsar a los sectores estratÃ©gicos regionales coincidentes con alto potencial de desarrollo econÃ³mico, generando sinergias entre las entidades, ademÃ¡s de enriquecer y aportar a las iniciativas que ya trabajan cada uno de ustedes con el gobierno federal", seÃ±alÃ³ LÃ³pez Vergara.
+                          </p>
+                          <p>AdemÃ¡s destacÃ³ la importancia de lograr la Mejora Regulatoria al crear y mantener un marco regulatorio transparente y eficiente, mediante la simplificaciÃ³n de los procedimientos jurÃ­dicos y la eliminaciÃ³n de los obstÃ¡culos para la operaciÃ³n eficiente de las actividades del sector productivo y la sociedad civil, con el fin de mejorar los niveles de competitividad.                          </p>
+                          <p>Cabe seÃ±alar que en la instalaciÃ³n del Consejo Directivo de la AMSDE tambiÃ©n estuvieron presentes JosÃ© Pablo Maauad Pontod, de la Sedeco Hidalgo; Fabiola Huaua Bulos, coordinadora de Enlace de Nasco y AMSDE; Ricardo Rubio Silva, secretario tÃ©cnico de la Sedeco Hidalgo; Francisco Caballero GarcÃ­a, coordinador general de RegulaciÃ³n y PlaneaciÃ³n EconÃ³mica de la Sedeco del Distrito Federal.                          </p>
+                          <p>AsÃ­ como Katia Elizabeth Torres, directora de Comercio Exterior de la Sedeco Tlaxcala; Oscar JimÃ©nez RayÃ³n, director general de Comercio de la Sedeco del Estado de MÃ©xico; Enrique MartÃ­nez del Mazo, director estatal de la ComisiÃ³n de Mejora Regulatoria del Estado de MÃ©xico.                        </p>
+                        <p>Por parte de Morelos, ademÃ¡s de Messeguer GuillÃ©n y Mitre Cendejas estuvieron presentes Juan Carlos Pascual Abad, subsecretario de Fomento Empresarial; MarÃ­a Cristina HernÃ¡ndez DÃ­az, subsecretaria de PlaneaciÃ³n Pymes; MarÃ­a Elena SantibÃ¡Ã±ez Flores, directora general de recursos federalizados; Salvador Sandoval Palazuelos, director general de la Cemer y Eduardo BretÃ³n Ochoa, Director Operativo de la Cemer. </p> ../images/Noticias/Noticia_2013-09-06_2.jpg 2013-06-30 ParticipÃ³ el Estado de Morelos en la 31 Conferenc 0
+12 Firma de Convenio de ColaboraciÃ³n en materia de mejora regulatoria entre el H. Ayuntamiento de Cuernavaca y la ComisiÃ³n Estatal de Mejora Regulatoria <p>Se mejorarÃ¡ la competitividad y la economÃ­a de Cuernavaca, mediante la apertura de negocios y la generaciÃ³n de nuevos empleos, luego de que el presidente municipal de Cuernavaca, Jorge Morales Barud, firmÃ³ el convenio de coordinaciÃ³n con la ComisiÃ³n Estatal de Mejora Regulatoria.
+Ante la coordinadora de Estados y Municipios de la ComisiÃ³n Federal de Mejora Regulatoria (COFEMER), Gabriela MontaÃ±o GarcÃ­a, el Director General de la ComisiÃ³n Estatal de Mejora Regulatoria (CEMER), Salvador Sandoval Palazuelos, el alcalde aseverÃ³ que la firma del convenio responde a la interrelaciÃ³n que el H. Ayuntamiento tiene con las representaciones de empresarios que participan dentro del quehacer municipal.</p>
+                  <p>El edil capitalino indicÃ³ que los empresarios del municipio de Cuernavaca podrÃ¡n realizar los trÃ¡mites correspondientes para la apertura de pequeÃ±as, medianas y grandes empresas con prontitud, con el efecto de acelerar la generaciÃ³n de empleos.
+                    AdemÃ¡s, aseverÃ³ que la creaciÃ³n de nuevos empleos debe verse desde un punto de vista integral. âUna de las causas del comportamiento delincuencial, estÃ¡ en funciÃ³n del tema econÃ³mico, por lo que la creaciÃ³n de empleos significa reducir la violencia y delincuenciaâ dijo.
+                    El ayuntamiento trabajarÃ¡ de la mano con los gobiernos federal y estatal, para alcanzar objetivos comunes que fortalezcan la convivencia social y se materialicen en mayores inversiones dentro de la capital, para generar mayor derrama econÃ³mica. <br />
+                    <br />
+                  </p> ../images/Noticias/Noticia_2013-09-06_53.jpg 2013-04-15 Firma de Convenio de ColaboraciÃ³n en materia de m 0
+13 Firma de Convenio de ColaboraciÃ³n en materia de mejora regulatoria entre el H. Ayuntamiento de Jojutla y la ComisiÃ³n Estatal de Mejora Regulatoria El miÃ©rcoles 20 de Febrero de 2013 se llevÃ³ a cabo la firma del Convenio con la ComisiÃ³n Estatal de Mejora Regulatoria del Gobierno Estado de Morelos en las instalaciones del H. Ayuntamiento de Jojutla en donde estuvieron presentes la Presidenta Municipal de Jojutla Hortencia Figueroa Peralta, el Director General del CEMER, Salvador Sandoval Palazuelos, Eduardo BretÃ³n Ochoa, Director Operativo de la CEMER, el Regidor de GobernaciÃ³n y Reglamentos, Atanasio PÃ©rez Villalobos y el SÃ­ndico Municipal Manuel V. JuÃ¡rez Policarpo.<br />
+                          <br /> ../images/Noticias/Noticia_2013-09-06_37.jpg 2013-02-20 Firma de Convenio de ColaboraciÃ³n en materia de m 0
+11 Pide el gobernador a municipios eliminar trÃ¡mites engorrosos que restan competitividad al estado <p>â¢ EncabezÃ³ la primera sesiÃ³n ordinaria del Consejo Estatal de Mejora Regulatoria</p>
+
+<p>â¢	TambiÃ©n firmÃ³ con convenio de colaboraciÃ³n con la COFEMER</p>
+
+<p>El gobernador Graco RamÃ­rez dijo que la complejidad y la lentitud de los trÃ¡mites "Desalienta a quien quiera invertir y nos quita competitividad"; por eso hizo un llamado a los ayuntamientos a que, a la brevedad, firmen los convenios de colaboraciÃ³n con el Consejo Estatal de Mejora Regulatoria (CEMER) y cuenten con una ventanilla Ãºnica de atenciÃ³n a la ciudadanÃ­a.</p>
+
+<p>AsÃ­ lo expresÃ³ este dÃ­a al encabezar la primera sesiÃ³n ordinaria del CEMER, en la que tambiÃ©n se firmÃ³ un convenio de colaboraciÃ³n con el titular de la ComisiÃ³n Federal de Mejora Regulatoria (COFEMER), Virgilio Andrade MartÃ­nez.</p>
+
+<p>Graco RamÃ­rez destacÃ³ que la importancia de este convenio radica en que Morelos tiene la posibilidad de atender con eficiencia y eficacia las posibilidades de negocios, que de concretarse, generarÃ¡n empleo y aumentarÃ¡n competitividad del estado.</p>
+
+<p>"Esta enfermedad de los trÃ¡mites y lentitud desalienta a quien quiera invertir y nos quita competitividad, posibilidades de desarrollo", expresÃ³ el gobernador.</p>
+
+<p>En tal sentido, se hizo un llamado a los presidentes municipales que aÃºn no se adhieren al esquema de trabajo del CEMER, con el propÃ³sito de agilizar los trÃ¡mites que tanto frenan el desarrollo del estado.</p> 
+
+<p>"OjalÃ¡ que todos los ayuntamientos amplÃ­en rÃ¡pidamente sus convenios, para que podamos tener la ventanilla Ãºnica y funcionemos de manera expedita para facilitar la inversiÃ³n de los empresarios", dijo Graco RamÃ­rez.</p>
+
+<p>En su intervenciÃ³n, el titular de la COFEMER, Virgilio Andrade MartÃ­nez reconociÃ³ el esfuerzo que en Morelos se ha realizado en materia de simplificaciÃ³n de trÃ¡mites, lo cual lo ha colocado en el 4Âº lugar a nivel nacional. Por eso ratificÃ³ el compromiso de trabajar de la mano con el estado de Morelos.</p>
+
+<p>Dijo que el convenio entre la COFEMER y el CEMER permitirÃ¡ sentar las bases necesarias para que se brinde asesorÃ­a tÃ©cnica en materia de mejora regulatoria al Gobierno del Estado de Morelos, y las acciones que deben emprender de manera conjunta.</p> 
+
+<p>A esta primera sesiÃ³n ordinaria tambiÃ©n acudieron el secretario de Gobierno, Jorge Messeguer GuillÃ©n; el director general del CEMER, Salvador Sandoval Palazuelos; Gerardo Flores Romero, representante de la OrganizaciÃ³n para la CooperaciÃ³n y el Desarrollo EconÃ³micos (OCDE); empresarios y presidentes municipales de al menos 5 ayuntamientos.</p> 
+
+<p>Graco RamÃ­rez seÃ±alÃ³ que la simplificaciÃ³n de trÃ¡mites va de la mano con el resto de las acciones que su administraciÃ³n estÃ¡ realizando para que el estado de Morelos recupere la competitividad y encuentre la confianza de los inversionistas, en tal sentido enlistÃ³ acciones como la de brindar seguridad pÃºblica, mejorar la infraestructura carretera, y construir la central termoelÃ©ctrica y el gasoducto.</p> ../images/Noticias/Noticia_2013-09-06_66.jpg 2013-05-06 Pide el gobernador a municipios eliminar trÃ¡mites 0
+18 ParticipÃ³ el Estado de Morelos en la 31 Conferencia Nacional de Mejora Regulatoria, celebrada 17, 18 y 19 de Abril de 2013 en el Estado de Aguascalientes <p>Este lunes el gobernador Graco RamÃ­rez acudiÃ³ a la presentaciÃ³n Programa para la FormalizaciÃ³n del Empleo 2013 y firmÃ³ el Acuerdo para fomentar la formalidad laboral encabezado por el Presidente Enrique PeÃ±a Nieto coincidiendo en que es necesario un rediseÃ±o de las polÃ­ticas pÃºblicas para crear mÃ¡s empleos y mejorar la productividad.
+                        
+En este acto en el que participaron gobernadores, el Jefe de Gobierno del Distrito Federal, y representantes del sector productivo del paÃ­s, Graco RamÃ­rez seÃ±alÃ³ que en Morelos se avanza en diferentes acuerdos en la materia para fomentar el empleo y la inversiÃ³n, muestra de ello es el respaldo a instancias como la ComisiÃ³n Estatal de Mejora Regulatoria (CEMER) y el Instituto de Servicios Registrales y Catastrales, de los mejores calificados a nivel nacional y por organismos internacionales.</p> ../images/Noticias/Noticia_2013-09-06_85.jpg 2013-07-22 ParticipÃ³ el Estado de Morelos en la 31 Conferenc 0
+19 Nuevas Oficinas de la CEMER <p>Nuevas Oficinas de la CEMER</p>
+<p>Estamos a sus Ã³rdenes a partir del 19 de Agosto de 2013 en:</p>
+<p>Boulevard Adolfo LÃ³pez Mateos # 100 esq. Dr. Guillermo GÃ¡ndara, 2Â° Piso, Colonia El Vergel, Cuernavaca, Morelos c.p. 62400 (Antes Edificio de la SecretarÃ­a de Hacienda y CrÃ©dito PÃºblico y SAT)</p>
+<p>Tels. 3129056 y 3129128</p>
+<p>cemer@morelos.gob.mx</p> ../images/Noticias/Noticia_2013-09-06_19.jpg 0000-00-00 Nuevas Oficinas de la CEMER 0
+20 <em>32Âª Conferencia Nacional de Mejora Regulatoria: Impulsando la Productividad</em> <p>
+	Del 22 al 24 de octubre  el estado de Veracruz serÃ¡ el anfitriÃ³n de la <em>32Âª Conferencia Nacional de Mejora Regulatoria: Impulsando la Productividad</em>, la cual tiene como objetivo reunir a las autoridades de los tres Ã³rdenes de gobierno, organismos nacionales e internacionales y el sector empresarial y acadÃ©mico para compartir experiencias, prÃ¡cticas y lecciones aprendidas que permitan posicionar a la mejora regulatoria como polÃ­tica pÃºblica para impulsar la productividad y el crecimiento econÃ³mico de las entidades federativas.</p>
+<p>
+	Asimismo, en la  <em>32Âª Conferencia Nacional de Mejora Regulatoria </em>se difundirÃ¡n las mejores prÃ¡cticas nacionales e internacionales y se darÃ¡ seguimiento y continuidad a la ya establecidas para impulsar la productividad de las entidades federativas del paÃ­s.</p>
+<p>
+	Temas como Democratizar la Productividad, ConsolidaciÃ³n de la Agenda Digital en MÃ©xico, Fortalecimiento de la Reforma Regulatoria Municipal, asÃ­ como ponencias de expertos nacionales e internacionales de primer nivel constituirÃ¡n el evento para una mejora regulatoria eficiente, eficaz y fundamental para el desarrollo.</p>
+
+<p><br/><a href="http://mejoraregulatoria.veracruz.gob.mx/#&amp;panel1-4" target="_blank">Click aqui para registrarte </a> ../images/Noticias/Noticia_2013-09-12_89.jpg 2013-09-12 Participa en la 32Âª Conferencia Nacional de Mejor 0
+
++++++++++
+mor18_proyecemer - programa:(393)
+no_prog,fecha,anno,programaInicial,programaFinal,dictamen,reporte1,reporte2,reporte3,reporte4,dependencia_clave
+
++++++++++
+mor18_proyecemer - tipo:(3)
+id_tipo,tipo
+1 Entidad
+2 Dependencia
+3 Municipio
+
++++++++++
+mor18_proyecemer - tramite:(0)
+id_tramite,nombre,fileTramite,fileFormato,numTramDescargas,numForDescargas,dependencia_clave1,tramiteCategoria_idtramiteCategoria
+
++++++++++
+mor18_proyecemer - tramitecategoria:(0)
+idtramiteCategoria,categoria
+
++++++++++
+mor18_proyecemer - usuarios:(7)
+id_usuario,usuario,contrasena,nombre,apellido_p,apellido_m,cargo,tipo
+1 gerardo co.1245 jose gerardo ramirez garcia webmaster 1
+45 gerardo2 co.1245 jose gerardo ramirez garcia auxiliar 2
+46 gerardo3 co.1245 jose gerardo ramirez garcia auxiliar2 3
+49 diana 123 DIANA RODAS MATEOS Comisionado 4
+50 pau2 123 2
+51 vero 1722 Veronica Ojeda Villegas Comisionada 4
+52 dir_op m0r3l0s2014. Dirección Operativa Dirección Operativa 4
+
++++++++++
+mor18_proyecemer - usuarios_has_dependencia:(0)
+usuarios_id_usuario,dependencia_clave
+
++++++++++
+
+ 

@@ -1,0 +1,3008 @@
+cafedecogroup.com/outlet.php?name=TheBeerHouse&oid=59
+ 
+SMSService - SMSDomain:(5)
+SMSDomainID,createDate,domainName,quota,assignedQuota,status
+28 2012-11-02 15:46:24 foodsquare.com.hk 0 0 0
+29 2014-04-29 15:26:06 tkdywc.hk 0 0 0
+30 2014-08-08 16:52:51 cafedecogroup.com 0 0 0
+31 2015-05-28 09:57:12 blutrading.com.hk 0 0 0
+32 2017-01-03 11:34:05 foodgrouphk.com 0 0 0
+
++++++++++
+SMSService - SMSDomainQuotaLog:(17)
+domainQuotaLogID,domainName,adminUser,quota,createDate,IPaddr
+313 foodsquare.com.hk 14 0 2012-11-02 15:46:24 118.142.56.118
+314 tkdywc.hk 14 0 2014-04-29 15:26:06 203.90.225.25
+315 tkdywc.hk 14 0 2014-04-29 15:36:19 203.90.225.25
+316 cafedecogroup.com 14 0 2014-08-08 16:52:51 203.90.225.25
+317 blutrading.com.hk 14 0 2015-05-28 09:57:12 203.90.225.25
+318 foodgrouphk.com 14 0 2017-01-03 11:34:05 116.48.142.8
+319 cafedecogroup.com 14 0 2017-08-29 14:38:44 203.90.225.25
+320 cafedecogroup.com 14 0 2017-08-29 14:38:45 203.90.225.25
+321 cafedecogroup.com 14 0 2017-08-29 14:38:47 203.90.225.25
+322 cafedecogroup.com 14 0 2017-08-29 14:38:49 203.90.225.25
+
++++++++++
+SMSService - SMSDomainUser:(571)
+SMSUserID,SMSDomainID,Username,quota,status,createDate
+174 28 postmaster@foodsquare.com.hk 0 0 2012-11-02 15:46:24
+175 29 postmaster@tkdywc.hk 0 0 2014-04-29 15:26:06
+176 30 alan@cafedecogroup.com 0 0 2014-08-08 16:52:51
+177 30 allies@cafedecogroup.com 0 0 2014-08-08 16:52:51
+178 30 annvu@cafedecogroup.com 0 0 2014-08-08 16:52:51
+179 30 babu@cafedecogroup.com 0 0 2014-08-08 16:52:51
+180 30 cafedeco@cafedecogroup.com 0 0 2014-08-08 16:52:51
+181 30 cafedecogroup@cafedecogroup.com 0 0 2014-08-08 16:52:51
+182 30 cashiermacao@cafedecogroup.com 0 0 2014-08-08 16:52:51
+183 30 cdmacao@cafedecogroup.com 0 0 2014-08-08 16:52:51
+264 30 jose@cafedecogroup.com 0 0 2014-08-08 16:52:52
+265 30 june@cafedecogroup.com 0 0 2014-08-08 16:52:52
+266 30 katherine@cafedecogroup.com 0 0 2014-08-08 16:52:52
+267 30 keung@cafedecogroup.com 0 0 2014-08-08 16:52:52
+268 30 kiosks@cafedecogroup.com 0 0 2014-08-08 16:52:52
+269 30 kit@cafedecogroup.com 0 0 2014-08-08 16:52:52
+270 30 kookie@cafedecogroup.com 0 0 2014-08-08 16:52:52
+271 30 kurt@cafedecogroup.com 0 0 2014-08-08 16:52:52
+272 30 leo@cafedecogroup.com 0 0 2014-08-08 16:52:52
+273 30 lun@cafedecogroup.com 0 0 2014-08-08 16:52:52
+664 30 beerlineroc3@cafedecogroup.com 0 0 2017-08-29 14:38:44
+665 30 beerlinerwg@cafedecogroup.com 0 0 2017-08-29 14:38:44
+666 30 beerlinertmtp@cafedecogroup.com 0 0 2017-08-29 14:38:44
+667 30 thebeerhouselp@cafedecogroup.com 0 0 2017-08-29 14:38:44
+668 30 ivytang@cafedecogroup.com 0 0 2017-08-29 14:38:44
+669 30 stack@cafedecogroup.com 0 0 2017-08-29 14:38:44
+670 30 hung@cafedecogroup.com 0 0 2017-08-29 14:38:44
+671 30 spotifystack@cafedecogroup.com 0 0 2017-08-29 14:38:44
+672 30 johnkeene@cafedecogroup.com 0 0 2017-08-29 14:38:44
+673 30 spotifypizzeriapys@cafedecogroup.com 0 0 2017-08-29 14:38:44
+
++++++++++
+SMSService - SMSScheduler:(0)
+SMSScheduleID,UserName,FromName,Recipient,RecipNum,MessageQuota,Message,CreateTime,StartDate,EndDate,JobDate,JobTime,ItvlType,MonthItvl,WeekItvl,WeekdayItvl,DayItvl,Status,LastRunDate,Notify,IsNotified,OldSMSScheduleID,ReturnQuota,ScheduleQuota
+
++++++++++
+SMSService - SMSSchedulerJob:(0)
+SMSJobID,MessageID,Recipient,JobDate,JobStatus,StartProcessTime,EndProcessTime,RequestStatus,ReqStatChkTime,DeliveryStatus,DlryStatChkTime,SMSScheduleID,ReturnQuota
+
++++++++++
+SMSService - SMSUserQuotaLog:(0)
+userQuotaLogID,userName,updateBy,quota,createDate,IPaddr,SMSScheduleID
+
++++++++++
+SMSService - SchUsr:(0)
+SchUsrID,SchDomainID,Username,quota,status
+
++++++++++
+SMSService - Scheduler:(0)
+ScheduleID,Email,CreateTime,Path,Message,Recipient,Mailhost,StartDate,EndDate,Status,ScheduleType,LastModifyDate,JobDate,JobTime,ItvlType,MonthItvl,WeekItvl,WeekdayItvl,DayItvl,LastRunDate
+
++++++++++
+SMSService - SchedulerJob:(0)
+JobID,ScheduleID,JobDate,StartProcessTime,EndProcessTime,JobStatus
+
++++++++++
+SMSService - qlaSchDomain:(0)
+domainName,status,quota,SchDomainID,assignedQuota
+
++++++++++
+
+ 
+admin_mc04 -  :()
+
++++++++++
+
+ 
+cfdg_db -  :()
+
++++++++++
+
+ 
+db_cafede - sys_error:(6)
+id_log,error_type,class_name,function_name,error_message,dt_create
+16 Function Error ImageUpload upload() No error code available. 2016-09-07 15:46:59
+17 Function Error FileClass upload() No error code available. 2016-09-07 15:48:33
+18 Function Error FileClass upload() No error code available. 2016-09-07 15:49:15
+19 Function Error FileClass upload() No error code available. 2016-09-13 23:51:18
+20 Function Error FileClass upload() No error code available. 2016-09-13 23:55:41
+21 Function Error FileClass upload() No error code available. 2017-12-04 11:22:28
+
++++++++++
+db_cafede - tb_admin:(1)
+id,user_name,user_pwd,nick_name,is_admin,status,dt_create,dt_update
+1 admin $P$B41/qt/j0y6IJnNL0xlrzLgMHZRxjW/ administrator 1 1 2016-01-01 00:00:00 2016-09-13 00:52:07
+
++++++++++
+db_cafede - tb_client:(21)
+id_client,client_image,client_url,id_order,is_active,is_delete,dt_create,dt_update
+1 _material/client/1/client_1.png 1 1 0 2016-09-07 16:16:07 2016-09-07 16:17:36
+2 _material/client/2/client_2.png 2 1 0 2016-09-07 16:17:51 2016-09-07 16:18:05
+3 _material/client/3/client_3.png 3 1 0 2016-09-12 11:15:58
+4 _material/client/4/client_4.png 4 1 0 2016-09-12 11:16:07
+5 _material/client/5/client_5.png 5 1 0 2016-09-12 11:16:15
+6 _material/client/6/client_6.png 6 1 0 2016-09-12 11:16:24
+7 _material/client/7/client_7.png 7 1 0 2016-09-12 11:16:31
+8 _material/client/8/client_8.png 8 1 0 2016-09-12 11:16:39
+9 _material/client/9/client_9.png 9 1 0 2016-09-12 11:16:47
+10 _material/client/10/client_10.png 10 1 0 2016-09-12 11:16:55
+
++++++++++
+db_cafede - tb_menu:(6)
+id_menu,menu_name,menu_image,menu_file,id_order,is_active,is_delete,dt_create,dt_update
+1 Tailored<br>Catering Service _material/menu/1/menu_img_1.jpg _material/menu/1/menu_file_1.pdf 1 1 0 2016-09-07 15:50:19 2016-09-13 00:31:08
+2 Cocktail Canapés _material/menu/2/menu_img_2.jpg _material/menu/2/menu_file_2.pdf 2 1 0 2016-09-07 15:53:40 2016-09-12 11:03:31
+3 Set Menu<br>&<br>Buffet Menu _material/menu/3/menu_img_3.jpg _material/menu/3/menu_file_3.pdf 3 1 0 2016-09-12 11:04:39 2016-09-12 11:06:15
+4 Drinks Package _material/menu/4/menu_img_4.jpg _material/menu/4/menu_file_4.pdf 4 1 0 2016-09-12 11:05:10
+5 Party Takeaway<br>Package _material/menu/5/menu_img_5.jpg _material/menu/5/menu_file_5.pdf 5 1 1 2016-12-01 13:05:25 2017-02-14 11:22:14
+6 Festive Package _material/menu/6/menu_img_6.jpg _material/menu/6/menu_file_6.pdf 5 1 1 2017-11-27 12:53:55 2018-01-02 16:34:06
+
++++++++++
+db_cafede - tb_slide:(7)
+id_slide,slide_image,id_order,is_active,is_delete,dt_create,dt_update
+1 _material/slide/1/slide_1.jpg 1 1 0 2016-09-07 14:37:28 2016-09-12 10:59:16
+2 _material/slide/2/slide_2.jpg 2 1 0 2016-09-07 14:40:28 2016-09-12 11:00:10
+3 _material/slide/3/slide_3.jpg 3 1 1 2016-09-07 14:41:24 2016-09-07 14:42:33
+4 _material/slide/4/slide_4.jpg 4 1 1 2016-09-07 14:42:12 2016-09-07 14:42:16
+5 _material/slide/5/slide_5.jpg 3 1 0 2016-09-07 15:44:38 2016-09-12 11:00:18
+6 _material/slide/6/slide_6.jpg 4 1 0 2016-09-12 11:00:31
+7 _material/slide/7/slide_7.jpg 5 1 1 2016-09-13 00:25:21 2016-09-13 00:25:38
+
++++++++++
+db_cafede - tb_testimonial:(3)
+id_testimonial,name,content,id_order,is_active,is_delete,dt_create,dt_update
+1 Ken, Cafe Deco Group <p><em>&ldquo;We have greatly enjoyed the delicious food and excellence service provided by Cafe Deco Catering for our ___ product launch event!&rdquo;</em></p> 1 1 0 2016-09-07 16:43:03 2016-09-12 11:21:06
+2 Ken, Cafe Deco Group <p><em>&ldquo;We have greatly enjoyed the delicious food and excellence service provided by Cafe Deco Catering for our ___ product launch event!&rdquo;</em></p> 2 1 0 2016-09-07 16:46:52 2016-09-12 11:21:32
+3 Ken 2, Cafe Deco Group <p>&ldquo;We have greatly enjoyed the delicious food and excellence service provided by Cafe Deco Catering for our ___ product launch event!&rdquo;</p> 3 1 0 2016-09-12 11:21:56 2016-09-13 00:26:42
+
++++++++++
+db_cafede - tbl_admin:(1)
+admin_id,user_name,user_pwd,is_valid
+1 admin mycafe123G! 1
+
++++++++++
+db_cafede - tbl_banners:(7)
+banner_id,url,priority
+1 99
+2 98
+3 12
+8 outlet.php?oid=28 10
+9 outlet.php?oid=23&name=TheBoathouse 9
+10 outlet.php?oid=63&name=Beerliner(WhampoaGarden) 8
+18 http://www.cafedecogroup.com/outlet.php?oid=31&name=CafeDecoPizzeria 3
+
++++++++++
+db_cafede - tbl_beerliner_categories:(6)
+category_id,name_eng,name_tc,name_sc,priority,hidden
+1 Be a Beerliner 投入 Beerliner 投入 Beerliner 6 0
+2 Chef's Blog 主廚博客 主厨博客 5 1
+3 German Recipes 德國風味食譜 德国风味食谱 4 0
+4 Try Our Signature 品嚐我們的招牌菜 品尝我们的招牌菜 3 0
+5 Our Locations 分店位置 分店位置 2 0
+6 Become Our Partners 成為合作伙伴 成为合作伙伴 1 0
+
++++++++++
+db_cafede - tbl_beerliner_galleries:(10)
+gallery_id,name_eng,name_tc,name_sc,priority,hidden
+1 Wanchai 灣仔 湾仔 6 1
+2 Discovery Bay 愉景灣 愉景湾 5 1
+3 Olympian City 奧海城 奥海城 4 0
+4 Soho East 蘇豪東 苏豪东 3 1
+5 Food 食品 食品 2 0
+6 Drink 飲品 饮品 1 0
+7 Metroplaza 新都會廣場 新都会广场 3 0
+8 Tuen Mun Town Plaza 屯門市廣場 屯门市广场 3 0
+9 Langham Place 朗豪坊 朗豪坊 3 0
+10 Whampoa Garden 黃埔花園 黄埔花园 3 0
+
++++++++++
+db_cafede - tbl_beerliner_gallery_photos:(86)
+photo_id,gallery_id,priority,hidden
+1 1 1 0
+2 1 1 0
+3 1 1 0
+4 1 1 0
+5 1 1 0
+6 1 1 0
+7 1 1 0
+8 1 1 0
+9 2 1 0
+10 2 1 0
+
++++++++++
+db_cafede - tbl_beerliner_page_contents:(51)
+page_id,lang,name,content
+1 eng About Us <p>Beerliner German Bar &amp; Restaurant aims to bring Germany's well-known culinary tradition in a casual yet modern ambiance. Our team put their kitchen skills to test and share their extensive knowledge in delivering hearty dishes like <em>Roasted Pork Knuckle</em>, <em>Sausage Platter</em> and <em>Flammkuchen</em> (thin crust pizzas), coupled with premium German beers, cocktails, wines and schnapps.</p>
+<h3>Concept</h3>
+<p>In early 2010, Cafe Deco Group saw a need to provide popular German favorites so the Group came up an idea to open a German restaurant in Hong Kong. After numerous meetings and discussions, we came up with "Berliner", which was derived from "Ich bin ein Berliner" or "I am a Berliner", a famous quote from a speech made by US President John F. Kennedy in June 26, 1963.</p>
+
+<p>In mid 2016, Berliner is rebranded to ‘Beerliner’ by giving a bright and exciting image just like our new and improved food and drink offerings for our customers. In Beerliner, diners can enjoy more German traditions and culture.</p>
+
+<p>Beerliner expands rapidly in convenient locations across Hong Kong. We have 5 Beerliner outlets, situated in Olympian City 3, Metroplaza, Tuen Mun, Langham Place and Whampoa Garden respectively.</p>
+1 tc 關於我們 <p>Beerliner German Bar &amp; Restaurant一直致力在休閒又不失現代的氛圍下，把德國著名的烹飪傳統呈獻給一眾食客。我們的專業團隊一直鑽研他們的烹飪方法，為食客提供一道又一道豐盛的菜餚，例如秘製德國豬手，香腸拼盤和薄薄餅，再加上不同的德國啤酒，雞尾酒，葡萄酒和烈酒。</p>
+<h3>概念</h3>
+<p>早於2012年，Cafe Deco Group洞悉到食客對德國美食的追求，開始計劃開設德國餐廳。經過無數次的商討，集團構思出‘柏林人Berliner’ 的概念，Berliner的名稱來自"Ich bin ein Berliner"或"I am a Berliner"，引用自前美國總統John F. Kennedy在演說時的名句。在1963年6月26日，他以此說話表明美國支持德國西部的柏林人。</p>
+<p>於2016年中旬，Berliner改名為‘Beerliner’ ，除了為賓客帶來一系列滿載德國風情的升級地道美食及啤酒，同時注入更多新穎的德國元素，將德國人歡愉的飲食及派對文化帶到香港。</p>
+<p>Beerliner 的店舖遍佈全港，5間分店分別位於奧海城、葵芳、屯門、朗豪坊及黃埔花園。</p>
+1 sc 关於我们 <p>Beerliner German Bar &amp; Restaurant一直致力在休闲又不失现代的氛围下，把德国着名的烹饪传统呈献给一众食客。我们的专业团队一直钻研他们的烹饪方法，为食客提供一道又一道丰盛的菜肴，例如秘制德国猪手，香肠拼盘和薄薄饼，再加上不同的德国啤酒，鸡尾酒，葡萄酒和烈酒。</p>
+<h3>概念</h3>
+<p>早于2012年，Cafe Deco Group洞悉到食客对德国美食的追求，开始计划开设一德国餐厅。经过无数次的商讨，集团构思出‘柏林人Berliner’ 的概念，Berliner的名称来自"Ich bin ein Berliner"或"I am a Berliner"，引用自前美国总统John F. Kennedy在演说时的名句。在1963年6月26日，他以此说话表明美国支持德国西部的柏林人。</p>
+<p>于2016年中旬，Berliner改名为‘Beerliner’，除了为宾客带来一系列满载德国风情的升级地道美食及啤酒，同时注入更多新颖的德国元素，将德国人欢愉的饮食及派对文化带到香港。</p>
+<p>Beerliner 的店铺遍布全港，5间分店分别位于奥海城、葵芳、屯门、朗豪坊及黄埔花园。</p>
+2 eng Development of Berliner
+2 tc Berliner 的發展
+2 sc Berliner 的发展
+3 eng FAQ
+3 tc 常見問題
+3 sc 常见问题
+4 eng Contact <p>If you are interested in operating a Beerliner Franchise and wish to learn more about it, please email us your information to info@cafedecogroup.com and we will get back to you shortly.</p>
+
++++++++++
+db_cafede - tbl_beerliner_pages:(17)
+page_id,category_id,file,priority,hidden
+1 6 about-us.php 4 0
+2 6 development-of-berliner.php 3 1
+3 6 faq.php 2 1
+4 6 contact.php 1 0
+5 1 dine-the-german-way.php 2 0
+6 1 order-the-berliner-way.php 1 0
+7 4 sausage.php 4 0
+8 4 knuckle.php 3 0
+9 4 beer.php 2 0
+10 4 schnapp.php 1 0
+
++++++++++
+db_cafede - tbl_beerliner_recipes:(6)
+recipe_id,lang,title,content,priority
+1 eng German Beef Rouladen <p>Rouladen (or beef rolls) are typically filled with bacon, onion, mustard and pickles and are wrapped by a thin slice of beef. This delicious and traditional German recipe is generally for moments when the entire family is together, usually for Sunday lunch, and goes perfectly well with Potato Dumplings and red cabbage.</p>
+<p><strong>Ingredients</strong></p>
+<ul>
+  <li>6 slices of Beef – either ask the butchers to cut the beef ‘top round’ or buy a flank steak and do it yourself</li>
+  <li>3 slices of lean bacon, chopped</li>
+  <li>1 onion, sliced</li>
+  <li>3 garlic dill pickles, sliced</li>
+  <li>2 tbsp of butter</li>
+  <li>Dijon or German style mustard </li>
+  <li>Salt & pepper</li>
+  <li>Corn starch</li>
+  <li>1 - 2 cups water</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Start off by seasoning one side of the beef slices with salt and freshly ground pepper then spread a thin layer of Mustard over the top of the seasoning</p>
+<p>Evenly distribute the bacon, pickle and onion slices on top of the mustard </p>
+<p>Roll up the slices, tucking the ends in and securing the sides with skewers, wooden cocktail picks, or sew them together with thread to keep the ingredients from falling out</p>
+<p>Heat butter in skillet and brown the Rouladen well on all sides. Be sure to not crowd Rouladen in the skillet or they will not brown nicely. If you do not have a large enough skillet, brown the Rouladen in small batches. Add any extra butter if need be</p>
+<p>Once all of the rolls are well browned take them out of the skillet and add your 1 or 2 cups of hot water, gently stirring up browned bits</p>
+<p>Return all of the Rouladen and any accumulated juices to skillet, bring to simmer and cover for around an hour and a half whilst leaving the heat on</p>
+<p>Remove the Rouladen from the skillet and thicken the gravy with 1 or 2 tablespoons of Corn Starch mixed with a small amount of cold water. Stir the mixture and gravy together gently until it has slightly thickened</p>
+<p>Season the gravy to your preferred taste with salt and freshly ground pepper. If you wish, add sour cream to the gravy</p>
+<p>Remove the skewers, picks, or thread and serve the delicious Rouladen with the gravy
+</p> 1
+2 eng Koenigsberger Klopse <p>This classical German dish entails delightfully tender meatballs in a rich white wine-caper sauce. These delicious meatballs are traditionally served with potatoes and a vegetable side dish. This recipe serves four people.</p>
+<p><strong>Ingredients</strong></p>
+<p>Broth:</p>
+<ul>
+  <li>1 Small piece of bone marrow (optional)</li>
+  <li>2 tsp of Vegetable broth</li>
+  <li>4 1/2 cups of Water</li>
+  <li>1 Small Onion, peeled and halved</li>
+  <li>1 dried Bay leaf</li>
+  <li>5 whole Black Peppercorns</li>
+</ul>
+<p>Meatballs:</p>
+<ul>
+  <li>2 small Onions, peeled and finely diced</li>
+  <li>1 tbsp of Butter</li>
+  <li>250g (1/2lb) ground Pork</li>
+  <li>250g (1/2lb) ground Beef</li>
+  <li>2 day old Buns, quickly wet them under running water and tear them up. If the bread is dripping then squeeze out the excess water</li>
+  <li>1 Egg</li>
+  <li>1/2 a bunch of Parsley, finely chopped </li>
+  <li>1 tbsp of pickled Capers, lightly crushed</li>
+  <li>1 tbsp of Anchovy paste or several pieces of Anchovy, finely chopped</li>
+  <li>Salt and Pepper to taste</li>
+</ul>
+<p>Sauce:</p>
+<ul>
+  <li>2 tbsp of Butter</li>
+  <li>2 tbsp of Flour, you may need more if you want your sauce thicker </li>
+  <li>1/2 a Liter (500ml or 2-1/4 cups) of broth</li>
+  <li>1 tbsp of whole Pickled Capers</li>
+  <li>1 tbsp of fresh Lemon juice</li>
+  <li>1/8 a Liter (125ml or 1/2 a cup) of Sour Cream</li>
+  <li>2 tbsp of Whipping Cream</li>
+  <li>175ml (3/4 of a cup of 6 fl. Oz) of dry White Wine or substitute the left over </li>
+</ul>
+<p>Broth</p>
+<ul>
+  <li>1 tsp of Sugar</li>
+  <li>2 Egg Yolks, lightly beaten</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Broth:<p>
+<p>Add all of the ingredients for the broth into a medium saucepan and bring to a boil. Reduce the heat to medium and allow the broth to simmer for 40 minutes</p>
+
+<p>Strain the contents from the broth and simmer again over low heat for another 20 minutes. Whilst waiting begin preparation on the meatballs</p>
+
+<p>Meatballs:</p>
+<p>Simmer the Onions and Butter over medium heat for a few minutes or until the Onions are translucent. Set them aside and allow them to cool</p>
+
+<p>In a medium bowl add all of the ingredients for the Meatballs into a medium sized bowl and season with Salt and Pepper to your liking</p>
+
+<p>Add the cooled onions to the bowl and with clean hands, mix everything together</p>
+
+<p>Transfer the meat to a cutting board or clean work surface and roughly shape it into a 12” x 7” x 1” rectangle. Cut the mixture into 16 equal pieces and roll the pieces into balls</p>
+
+<p>Transfer the broth to a skillet or a deep frying pan and gently place the meatballs in the broth to ensure that they are evenly cooked. Cover the pot and allow the meatballs to simmer gently for 15 minutes. If the meatballs are not simmered gently they will fall apart</p>
+
+<p>Remove the meatballs from the broth and be sure to keep them warm whilst you make the white wine-caper sauce</p>
+
+<p>Sauce:</p>
+<p>Melt the butter in a medium saucepan over medium-high heat and stir in the flour and then add the broth</p>
+
+<p>Add the remaining ingredients except for the egg yolks, season with salt and pepper to your taste, and cook cause over a low flame for 10 minutes</p>
+
+<p>Remove the sauce from heat and mix in 2 tbsp of the sauce into the egg yolks and then stir into the sauce</p>
+
+<p>Add the warm meatballs and cover the pot, allowing the mixture to stand for 10 minutes before serving</p> 2
+3 tc German Beef Rouladen <p>Rouladen (or beef rolls) are typically filled with bacon, onion, mustard and pickles and are wrapped by a thin slice of beef. This delicious and traditional German recipe is generally for moments when the entire family is together, usually for Sunday lunch, and goes perfectly well with Potato Dumplings and red cabbage.</p>
+<p><strong>Ingredients</strong></p>
+<ul>
+  <li>6 slices of Beef – either ask the butchers to cut the beef ‘top round’ or buy a flank steak and do it yourself</li>
+  <li>3 slices of lean bacon, chopped</li>
+  <li>1 onion, sliced</li>
+  <li>3 garlic dill pickles, sliced</li>
+  <li>2 tbsp of butter</li>
+  <li>Dijon or German style mustard </li>
+  <li>Salt & pepper</li>
+  <li>Corn starch</li>
+  <li>1 - 2 cups water</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Start off by seasoning one side of the beef slices with salt and freshly ground pepper then spread a thin layer of Mustard over the top of the seasoning</p>
+<p>Evenly distribute the bacon, pickle and onion slices on top of the mustard </p>
+<p>Roll up the slices, tucking the ends in and securing the sides with skewers, wooden cocktail picks, or sew them together with thread to keep the ingredients from falling out</p>
+<p>Heat butter in skillet and brown the Rouladen well on all sides. Be sure to not crowd Rouladen in the skillet or they will not brown nicely. If you do not have a large enough skillet, brown the Rouladen in small batches. Add any extra butter if need be</p>
+<p>Once all of the rolls are well browned take them out of the skillet and add your 1 or 2 cups of hot water, gently stirring up browned bits</p>
+<p>Return all of the Rouladen and any accumulated juices to skillet, bring to simmer and cover for around an hour and a half whilst leaving the heat on</p>
+<p>Remove the Rouladen from the skillet and thicken the gravy with 1 or 2 tablespoons of Corn Starch mixed with a small amount of cold water. Stir the mixture and gravy together gently until it has slightly thickened</p>
+<p>Season the gravy to your preferred taste with salt and freshly ground pepper. If you wish, add sour cream to the gravy</p>
+<p>Remove the skewers, picks, or thread and serve the delicious Rouladen with the gravy
+</p> 1
+4 tc Koenigsberger Klopse <p>This classical German dish entails delightfully tender meatballs in a rich white wine-caper sauce. These delicious meatballs are traditionally served with potatoes and a vegetable side dish. This recipe serves four people.</p>
+<p><strong>Ingredients</strong></p>
+<p>Broth:</p>
+<ul>
+  <li>1 Small piece of bone marrow (optional)</li>
+  <li>2 tsp of Vegetable broth</li>
+  <li>4 1/2 cups of Water</li>
+  <li>1 Small Onion, peeled and halved</li>
+  <li>1 dried Bay leaf</li>
+  <li>5 whole Black Peppercorns</li>
+</ul>
+<p>Meatballs:</p>
+<ul>
+  <li>2 small Onions, peeled and finely diced</li>
+  <li>1 tbsp of Butter</li>
+  <li>250g (1/2lb) ground Pork</li>
+  <li>250g (1/2lb) ground Beef</li>
+  <li>2 day old Buns, quickly wet them under running water and tear them up. If the bread is dripping then squeeze out the excess water</li>
+  <li>1 Egg</li>
+  <li>1/2 a bunch of Parsley, finely chopped </li>
+  <li>1 tbsp of pickled Capers, lightly crushed</li>
+  <li>1 tbsp of Anchovy paste or several pieces of Anchovy, finely chopped</li>
+  <li>Salt and Pepper to taste</li>
+</ul>
+<p>Sauce:</p>
+<ul>
+  <li>2 tbsp of Butter</li>
+  <li>2 tbsp of Flour, you may need more if you want your sauce thicker </li>
+  <li>1/2 a Liter (500ml or 2-1/4 cups) of broth</li>
+  <li>1 tbsp of whole Pickled Capers</li>
+  <li>1 tbsp of fresh Lemon juice</li>
+  <li>1/8 a Liter (125ml or 1/2 a cup) of Sour Cream</li>
+  <li>2 tbsp of Whipping Cream</li>
+  <li>175ml (3/4 of a cup of 6 fl. Oz) of dry White Wine or substitute the left over </li>
+</ul>
+<p>Broth</p>
+<ul>
+  <li>1 tsp of Sugar</li>
+  <li>2 Egg Yolks, lightly beaten</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Broth:<p>
+<p>Add all of the ingredients for the broth into a medium saucepan and bring to a boil. Reduce the heat to medium and allow the broth to simmer for 40 minutes</p>
+
+<p>Strain the contents from the broth and simmer again over low heat for another 20 minutes. Whilst waiting begin preparation on the meatballs</p>
+
+<p>Meatballs:</p>
+<p>Simmer the Onions and Butter over medium heat for a few minutes or until the Onions are translucent. Set them aside and allow them to cool</p>
+
+<p>In a medium bowl add all of the ingredients for the Meatballs into a medium sized bowl and season with Salt and Pepper to your liking</p>
+
+<p>Add the cooled onions to the bowl and with clean hands, mix everything together</p>
+
+<p>Transfer the meat to a cutting board or clean work surface and roughly shape it into a 12” x 7” x 1” rectangle. Cut the mixture into 16 equal pieces and roll the pieces into balls</p>
+
+<p>Transfer the broth to a skillet or a deep frying pan and gently place the meatballs in the broth to ensure that they are evenly cooked. Cover the pot and allow the meatballs to simmer gently for 15 minutes. If the meatballs are not simmered gently they will fall apart</p>
+
+<p>Remove the meatballs from the broth and be sure to keep them warm whilst you make the white wine-caper sauce</p>
+
+<p>Sauce:</p>
+<p>Melt the butter in a medium saucepan over medium-high heat and stir in the flour and then add the broth</p>
+
+<p>Add the remaining ingredients except for the egg yolks, season with salt and pepper to your taste, and cook cause over a low flame for 10 minutes</p>
+
+<p>Remove the sauce from heat and mix in 2 tbsp of the sauce into the egg yolks and then stir into the sauce</p>
+
+<p>Add the warm meatballs and cover the pot, allowing the mixture to stand for 10 minutes before serving</p> 2
+5 sc German Beef Rouladen <p>Rouladen (or beef rolls) are typically filled with bacon, onion, mustard and pickles and are wrapped by a thin slice of beef. This delicious and traditional German recipe is generally for moments when the entire family is together, usually for Sunday lunch, and goes perfectly well with Potato Dumplings and red cabbage.</p>
+<p><strong>Ingredients</strong></p>
+<ul>
+  <li>6 slices of Beef – either ask the butchers to cut the beef ‘top round’ or buy a flank steak and do it yourself</li>
+  <li>3 slices of lean bacon, chopped</li>
+  <li>1 onion, sliced</li>
+  <li>3 garlic dill pickles, sliced</li>
+  <li>2 tbsp of butter</li>
+  <li>Dijon or German style mustard </li>
+  <li>Salt & pepper</li>
+  <li>Corn starch</li>
+  <li>1 - 2 cups water</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Start off by seasoning one side of the beef slices with salt and freshly ground pepper then spread a thin layer of Mustard over the top of the seasoning</p>
+<p>Evenly distribute the bacon, pickle and onion slices on top of the mustard </p>
+<p>Roll up the slices, tucking the ends in and securing the sides with skewers, wooden cocktail picks, or sew them together with thread to keep the ingredients from falling out</p>
+<p>Heat butter in skillet and brown the Rouladen well on all sides. Be sure to not crowd Rouladen in the skillet or they will not brown nicely. If you do not have a large enough skillet, brown the Rouladen in small batches. Add any extra butter if need be</p>
+<p>Once all of the rolls are well browned take them out of the skillet and add your 1 or 2 cups of hot water, gently stirring up browned bits</p>
+<p>Return all of the Rouladen and any accumulated juices to skillet, bring to simmer and cover for around an hour and a half whilst leaving the heat on</p>
+<p>Remove the Rouladen from the skillet and thicken the gravy with 1 or 2 tablespoons of Corn Starch mixed with a small amount of cold water. Stir the mixture and gravy together gently until it has slightly thickened</p>
+<p>Season the gravy to your preferred taste with salt and freshly ground pepper. If you wish, add sour cream to the gravy</p>
+<p>Remove the skewers, picks, or thread and serve the delicious Rouladen with the gravy
+</p> 1
+6 sc Koenigsberger Klopse <p>This classical German dish entails delightfully tender meatballs in a rich white wine-caper sauce. These delicious meatballs are traditionally served with potatoes and a vegetable side dish. This recipe serves four people.</p>
+<p><strong>Ingredients</strong></p>
+<p>Broth:</p>
+<ul>
+  <li>1 Small piece of bone marrow (optional)</li>
+  <li>2 tsp of Vegetable broth</li>
+  <li>4 1/2 cups of Water</li>
+  <li>1 Small Onion, peeled and halved</li>
+  <li>1 dried Bay leaf</li>
+  <li>5 whole Black Peppercorns</li>
+</ul>
+<p>Meatballs:</p>
+<ul>
+  <li>2 small Onions, peeled and finely diced</li>
+  <li>1 tbsp of Butter</li>
+  <li>250g (1/2lb) ground Pork</li>
+  <li>250g (1/2lb) ground Beef</li>
+  <li>2 day old Buns, quickly wet them under running water and tear them up. If the bread is dripping then squeeze out the excess water</li>
+  <li>1 Egg</li>
+  <li>1/2 a bunch of Parsley, finely chopped </li>
+  <li>1 tbsp of pickled Capers, lightly crushed</li>
+  <li>1 tbsp of Anchovy paste or several pieces of Anchovy, finely chopped</li>
+  <li>Salt and Pepper to taste</li>
+</ul>
+<p>Sauce:</p>
+<ul>
+  <li>2 tbsp of Butter</li>
+  <li>2 tbsp of Flour, you may need more if you want your sauce thicker </li>
+  <li>1/2 a Liter (500ml or 2-1/4 cups) of broth</li>
+  <li>1 tbsp of whole Pickled Capers</li>
+  <li>1 tbsp of fresh Lemon juice</li>
+  <li>1/8 a Liter (125ml or 1/2 a cup) of Sour Cream</li>
+  <li>2 tbsp of Whipping Cream</li>
+  <li>175ml (3/4 of a cup of 6 fl. Oz) of dry White Wine or substitute the left over </li>
+</ul>
+<p>Broth</p>
+<ul>
+  <li>1 tsp of Sugar</li>
+  <li>2 Egg Yolks, lightly beaten</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Broth:<p>
+<p>Add all of the ingredients for the broth into a medium saucepan and bring to a boil. Reduce the heat to medium and allow the broth to simmer for 40 minutes</p>
+
+<p>Strain the contents from the broth and simmer again over low heat for another 20 minutes. Whilst waiting begin preparation on the meatballs</p>
+
+<p>Meatballs:</p>
+<p>Simmer the Onions and Butter over medium heat for a few minutes or until the Onions are translucent. Set them aside and allow them to cool</p>
+
+<p>In a medium bowl add all of the ingredients for the Meatballs into a medium sized bowl and season with Salt and Pepper to your liking</p>
+
+<p>Add the cooled onions to the bowl and with clean hands, mix everything together</p>
+
+<p>Transfer the meat to a cutting board or clean work surface and roughly shape it into a 12” x 7” x 1” rectangle. Cut the mixture into 16 equal pieces and roll the pieces into balls</p>
+
+<p>Transfer the broth to a skillet or a deep frying pan and gently place the meatballs in the broth to ensure that they are evenly cooked. Cover the pot and allow the meatballs to simmer gently for 15 minutes. If the meatballs are not simmered gently they will fall apart</p>
+
+<p>Remove the meatballs from the broth and be sure to keep them warm whilst you make the white wine-caper sauce</p>
+
+<p>Sauce:</p>
+<p>Melt the butter in a medium saucepan over medium-high heat and stir in the flour and then add the broth</p>
+
+<p>Add the remaining ingredients except for the egg yolks, season with salt and pepper to your taste, and cook cause over a low flame for 10 minutes</p>
+
+<p>Remove the sauce from heat and mix in 2 tbsp of the sauce into the egg yolks and then stir into the sauce</p>
+
+<p>Add the warm meatballs and cover the pot, allowing the mixture to stand for 10 minutes before serving</p> 2
+
++++++++++
+db_cafede - tbl_berliner_categories:(6)
+category_id,name_eng,name_tc,name_sc,priority,hidden
+1 Be a Berliner 投入 Berliner 投入 Berliner 6 0
+2 Chef's Blog 主廚博客 主厨博客 5 1
+3 German Recipes 德國風味食譜 德国风味食谱 4 0
+4 Try Our Signature 品嚐我們的招牌菜 品尝我们的招牌菜 3 0
+5 Our Locations 分店位置 分店位置 2 0
+6 Become Our Partners 成為合作伙伴 成为合作伙伴 1 0
+
++++++++++
+db_cafede - tbl_berliner_galleries:(10)
+gallery_id,name_eng,name_tc,name_sc,priority,hidden
+1 Wanchai 灣仔 湾仔 6 0
+2 Discovery Bay 愉景灣 愉景湾 5 0
+3 Olympian City 奧海城 奥海城 4 0
+4 Soho East 蘇豪東 苏豪东 3 1
+5 Food 食品 食品 2 0
+6 Drink 飲品 饮品 1 0
+7 Metroplaza 新都會廣場 新都会广场 3 0
+8 tmtplaza 屯門市廣場 屯门市广场 3 0
+9 Langham Place 朗豪坊 朗豪坊 3 0
+10 Whampoa Garden 黃埔花園 黄埔花园 3 0
+
++++++++++
+db_cafede - tbl_berliner_gallery_photos:(71)
+photo_id,gallery_id,priority,hidden
+1 1 1 0
+2 1 1 0
+3 1 1 0
+4 1 1 0
+5 1 1 0
+6 1 1 0
+7 1 1 0
+8 1 1 0
+9 2 1 0
+10 2 1 0
+
++++++++++
+db_cafede - tbl_berliner_page_contents:(51)
+page_id,lang,name,content
+1 eng About Us <p>Berliner German Bar &amp; Restaurant aims to bring Germany's well-known culinary tradition in a casual yet modern ambiance. Our team put their kitchen skills to test and share their extensive knowledge in delivering hearty dishes like <em>Roasted Pork Knuckle</em>, <em>Sausage Platter</em> and <em>Flammkuchen</em> (thin crust pizzas), coupled with premium German beers, cocktails, wines and schnapps.</p>
+<h3>Concept</h3>
+<p>In early 2010, Cafe Deco Group saw a need to provide popular German favorites so the Group came up an idea to open a German restaurant in Hong Kong. After numerous meetings and discussions, we came up with "Berliner", which was derived from "Ich bin ein Berliner" or "I am a Berliner", a famous quote from a speech made by US President John F. Kennedy in June 26, 1963.</p>
+<p>Berliner continued to expand quickly in convenient locations across Hong Kong. In July 2011, it opened in Olympian City 3, followed by Discovery Bay in October 2011, Wanchai in July 2012, Metroplaza in July 2014 and Tuen Mun Town Plaza in February 2015.</p>
+1 tc 關於我們 <p>Berliner German Bar &amp; Restaurant一直致力在休閒又不失現代的氛圍下，把德國著名的烹飪傳統呈獻給一眾食客。我們的專業團隊一直鑽研他們的烹飪方法，為食客提供一道又一道豐盛的菜餚，例如秘製德國豬手，香腸拼盤和薄薄餅，再加上不同的德國啤酒，雞尾酒，葡萄酒和烈酒。</p>
+<h3>概念</h3>
+<p>早於2012年，Cafe Deco Group洞悉到食客對德國美食的追求，開始計劃開設一德國餐廳。經過無數次的商討，集團構思出‘柏林人Berliner’ 的概念，Berliner的名稱來自"Ich bin ein Berliner"或"I am a Berliner"，引用自前美國總統John F. Kennedy在演說時的名句。在1963年6月26日，他以此說話表明美國支持德國西部的柏林人。</p>
+<p>Berliner 的店舖遍佈全港，奧海城店於2011年7月27日正式開幕。三個月後，Berliner登陸愉景灣D Deck，2012年6月位於灣仔的W Square店亦投入服務，於2014年7月將其德式滋味伸延至葵芳新都會廣場，而品牌亦於2015年2月進駐屯門市廣場。
+1 sc 关於我们 <p>Berliner German Bar &amp; Restaurant一直致力在休闲又不失现代的氛围下，把德国着名的烹饪传统呈献给一众食客。我们的专业团队一直钻研他们的烹饪方法，为食客提供一道又一道丰盛的菜肴，例如秘制德国猪手，香肠拼盘和薄薄饼，再加上不同的德国啤酒，鸡尾酒，葡萄酒和烈酒。</p>
+<h3>概念</h3>
+<p>早於2012年，Cafe Deco Group洞悉到食客对德国美食的追求，开始计划开设一德国餐厅。经过无数次的商讨，集团构思出‘柏林人Berliner’ 的概念，Berliner的名称来自"Ich bin ein Berliner"或"I am a Berliner"，引用自前美国总统John F. Kennedy在演说时的名句。在1963年6月26日，他以此说话表明美国支持德国西部的柏林人。</p>
+<p>Berliner 的店铺遍布全港，奥海城店於2011年7月27日正式开幕。三个月後，Berliner登陆愉景湾D Deck，2012年6月位於湾仔的W Square店亦投入服务，於2014年7月将其德式滋味伸延至葵芳新都会广场，而品牌亦于2015年2月进驻屯门市广场。
+2 eng Development of Berliner
+2 tc Berliner 的發展
+2 sc Berliner 的发展
+3 eng FAQ
+3 tc 常見問題
+3 sc 常见问题
+4 eng Contact <p>If you are interested in operating a Berliner Franchise and wish to learn more about it, please email us your information to info@cafedecogroup.com and we will get back to you shortly.</p>
+
++++++++++
+db_cafede - tbl_berliner_pages:(17)
+page_id,category_id,file,priority,hidden
+1 6 about-us.php 4 0
+2 6 development-of-berliner.php 3 1
+3 6 faq.php 2 1
+4 6 contact.php 1 0
+5 1 dine-the-german-way.php 2 0
+6 1 order-the-berliner-way.php 1 0
+7 4 sausage.php 4 0
+8 4 knuckle.php 3 0
+9 4 beer.php 2 0
+10 4 schnapp.php 1 0
+
++++++++++
+db_cafede - tbl_berliner_recipes:(6)
+recipe_id,lang,title,content,priority
+1 eng German Beef Rouladen <p>Rouladen (or beef rolls) are typically filled with bacon, onion, mustard and pickles and are wrapped by a thin slice of beef. This delicious and traditional German recipe is generally for moments when the entire family is together, usually for Sunday lunch, and goes perfectly well with Potato Dumplings and red cabbage.</p>
+<p><strong>Ingredients</strong></p>
+<ul>
+  <li>6 slices of Beef – either ask the butchers to cut the beef ‘top round’ or buy a flank steak and do it yourself</li>
+  <li>3 slices of lean bacon, chopped</li>
+  <li>1 onion, sliced</li>
+  <li>3 garlic dill pickles, sliced</li>
+  <li>2 tbsp of butter</li>
+  <li>Dijon or German style mustard </li>
+  <li>Salt & pepper</li>
+  <li>Corn starch</li>
+  <li>1 - 2 cups water</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Start off by seasoning one side of the beef slices with salt and freshly ground pepper then spread a thin layer of Mustard over the top of the seasoning</p>
+<p>Evenly distribute the bacon, pickle and onion slices on top of the mustard </p>
+<p>Roll up the slices, tucking the ends in and securing the sides with skewers, wooden cocktail picks, or sew them together with thread to keep the ingredients from falling out</p>
+<p>Heat butter in skillet and brown the Rouladen well on all sides. Be sure to not crowd Rouladen in the skillet or they will not brown nicely. If you do not have a large enough skillet, brown the Rouladen in small batches. Add any extra butter if need be</p>
+<p>Once all of the rolls are well browned take them out of the skillet and add your 1 or 2 cups of hot water, gently stirring up browned bits</p>
+<p>Return all of the Rouladen and any accumulated juices to skillet, bring to simmer and cover for around an hour and a half whilst leaving the heat on</p>
+<p>Remove the Rouladen from the skillet and thicken the gravy with 1 or 2 tablespoons of Corn Starch mixed with a small amount of cold water. Stir the mixture and gravy together gently until it has slightly thickened</p>
+<p>Season the gravy to your preferred taste with salt and freshly ground pepper. If you wish, add sour cream to the gravy</p>
+<p>Remove the skewers, picks, or thread and serve the delicious Rouladen with the gravy
+</p> 1
+2 eng Koenigsberger Klopse <p>This classical German dish entails delightfully tender meatballs in a rich white wine-caper sauce. These delicious meatballs are traditionally served with potatoes and a vegetable side dish. This recipe serves four people.</p>
+<p><strong>Ingredients</strong></p>
+<p>Broth:</p>
+<ul>
+  <li>1 Small piece of bone marrow (optional)</li>
+  <li>2 tsp of Vegetable broth</li>
+  <li>4 1/2 cups of Water</li>
+  <li>1 Small Onion, peeled and halved</li>
+  <li>1 dried Bay leaf</li>
+  <li>5 whole Black Peppercorns</li>
+</ul>
+<p>Meatballs:</p>
+<ul>
+  <li>2 small Onions, peeled and finely diced</li>
+  <li>1 tbsp of Butter</li>
+  <li>250g (1/2lb) ground Pork</li>
+  <li>250g (1/2lb) ground Beef</li>
+  <li>2 day old Buns, quickly wet them under running water and tear them up. If the bread is dripping then squeeze out the excess water</li>
+  <li>1 Egg</li>
+  <li>1/2 a bunch of Parsley, finely chopped </li>
+  <li>1 tbsp of pickled Capers, lightly crushed</li>
+  <li>1 tbsp of Anchovy paste or several pieces of Anchovy, finely chopped</li>
+  <li>Salt and Pepper to taste</li>
+</ul>
+<p>Sauce:</p>
+<ul>
+  <li>2 tbsp of Butter</li>
+  <li>2 tbsp of Flour, you may need more if you want your sauce thicker </li>
+  <li>1/2 a Liter (500ml or 2-1/4 cups) of broth</li>
+  <li>1 tbsp of whole Pickled Capers</li>
+  <li>1 tbsp of fresh Lemon juice</li>
+  <li>1/8 a Liter (125ml or 1/2 a cup) of Sour Cream</li>
+  <li>2 tbsp of Whipping Cream</li>
+  <li>175ml (3/4 of a cup of 6 fl. Oz) of dry White Wine or substitute the left over </li>
+</ul>
+<p>Broth</p>
+<ul>
+  <li>1 tsp of Sugar</li>
+  <li>2 Egg Yolks, lightly beaten</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Broth:<p>
+<p>Add all of the ingredients for the broth into a medium saucepan and bring to a boil. Reduce the heat to medium and allow the broth to simmer for 40 minutes</p>
+
+<p>Strain the contents from the broth and simmer again over low heat for another 20 minutes. Whilst waiting begin preparation on the meatballs</p>
+
+<p>Meatballs:</p>
+<p>Simmer the Onions and Butter over medium heat for a few minutes or until the Onions are translucent. Set them aside and allow them to cool</p>
+
+<p>In a medium bowl add all of the ingredients for the Meatballs into a medium sized bowl and season with Salt and Pepper to your liking</p>
+
+<p>Add the cooled onions to the bowl and with clean hands, mix everything together</p>
+
+<p>Transfer the meat to a cutting board or clean work surface and roughly shape it into a 12” x 7” x 1” rectangle. Cut the mixture into 16 equal pieces and roll the pieces into balls</p>
+
+<p>Transfer the broth to a skillet or a deep frying pan and gently place the meatballs in the broth to ensure that they are evenly cooked. Cover the pot and allow the meatballs to simmer gently for 15 minutes. If the meatballs are not simmered gently they will fall apart</p>
+
+<p>Remove the meatballs from the broth and be sure to keep them warm whilst you make the white wine-caper sauce</p>
+
+<p>Sauce:</p>
+<p>Melt the butter in a medium saucepan over medium-high heat and stir in the flour and then add the broth</p>
+
+<p>Add the remaining ingredients except for the egg yolks, season with salt and pepper to your taste, and cook cause over a low flame for 10 minutes</p>
+
+<p>Remove the sauce from heat and mix in 2 tbsp of the sauce into the egg yolks and then stir into the sauce</p>
+
+<p>Add the warm meatballs and cover the pot, allowing the mixture to stand for 10 minutes before serving</p> 2
+3 tc German Beef Rouladen <p>Rouladen (or beef rolls) are typically filled with bacon, onion, mustard and pickles and are wrapped by a thin slice of beef. This delicious and traditional German recipe is generally for moments when the entire family is together, usually for Sunday lunch, and goes perfectly well with Potato Dumplings and red cabbage.</p>
+<p><strong>Ingredients</strong></p>
+<ul>
+  <li>6 slices of Beef – either ask the butchers to cut the beef ‘top round’ or buy a flank steak and do it yourself</li>
+  <li>3 slices of lean bacon, chopped</li>
+  <li>1 onion, sliced</li>
+  <li>3 garlic dill pickles, sliced</li>
+  <li>2 tbsp of butter</li>
+  <li>Dijon or German style mustard </li>
+  <li>Salt & pepper</li>
+  <li>Corn starch</li>
+  <li>1 - 2 cups water</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Start off by seasoning one side of the beef slices with salt and freshly ground pepper then spread a thin layer of Mustard over the top of the seasoning</p>
+<p>Evenly distribute the bacon, pickle and onion slices on top of the mustard </p>
+<p>Roll up the slices, tucking the ends in and securing the sides with skewers, wooden cocktail picks, or sew them together with thread to keep the ingredients from falling out</p>
+<p>Heat butter in skillet and brown the Rouladen well on all sides. Be sure to not crowd Rouladen in the skillet or they will not brown nicely. If you do not have a large enough skillet, brown the Rouladen in small batches. Add any extra butter if need be</p>
+<p>Once all of the rolls are well browned take them out of the skillet and add your 1 or 2 cups of hot water, gently stirring up browned bits</p>
+<p>Return all of the Rouladen and any accumulated juices to skillet, bring to simmer and cover for around an hour and a half whilst leaving the heat on</p>
+<p>Remove the Rouladen from the skillet and thicken the gravy with 1 or 2 tablespoons of Corn Starch mixed with a small amount of cold water. Stir the mixture and gravy together gently until it has slightly thickened</p>
+<p>Season the gravy to your preferred taste with salt and freshly ground pepper. If you wish, add sour cream to the gravy</p>
+<p>Remove the skewers, picks, or thread and serve the delicious Rouladen with the gravy
+</p> 1
+4 tc Koenigsberger Klopse <p>This classical German dish entails delightfully tender meatballs in a rich white wine-caper sauce. These delicious meatballs are traditionally served with potatoes and a vegetable side dish. This recipe serves four people.</p>
+<p><strong>Ingredients</strong></p>
+<p>Broth:</p>
+<ul>
+  <li>1 Small piece of bone marrow (optional)</li>
+  <li>2 tsp of Vegetable broth</li>
+  <li>4 1/2 cups of Water</li>
+  <li>1 Small Onion, peeled and halved</li>
+  <li>1 dried Bay leaf</li>
+  <li>5 whole Black Peppercorns</li>
+</ul>
+<p>Meatballs:</p>
+<ul>
+  <li>2 small Onions, peeled and finely diced</li>
+  <li>1 tbsp of Butter</li>
+  <li>250g (1/2lb) ground Pork</li>
+  <li>250g (1/2lb) ground Beef</li>
+  <li>2 day old Buns, quickly wet them under running water and tear them up. If the bread is dripping then squeeze out the excess water</li>
+  <li>1 Egg</li>
+  <li>1/2 a bunch of Parsley, finely chopped </li>
+  <li>1 tbsp of pickled Capers, lightly crushed</li>
+  <li>1 tbsp of Anchovy paste or several pieces of Anchovy, finely chopped</li>
+  <li>Salt and Pepper to taste</li>
+</ul>
+<p>Sauce:</p>
+<ul>
+  <li>2 tbsp of Butter</li>
+  <li>2 tbsp of Flour, you may need more if you want your sauce thicker </li>
+  <li>1/2 a Liter (500ml or 2-1/4 cups) of broth</li>
+  <li>1 tbsp of whole Pickled Capers</li>
+  <li>1 tbsp of fresh Lemon juice</li>
+  <li>1/8 a Liter (125ml or 1/2 a cup) of Sour Cream</li>
+  <li>2 tbsp of Whipping Cream</li>
+  <li>175ml (3/4 of a cup of 6 fl. Oz) of dry White Wine or substitute the left over </li>
+</ul>
+<p>Broth</p>
+<ul>
+  <li>1 tsp of Sugar</li>
+  <li>2 Egg Yolks, lightly beaten</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Broth:<p>
+<p>Add all of the ingredients for the broth into a medium saucepan and bring to a boil. Reduce the heat to medium and allow the broth to simmer for 40 minutes</p>
+
+<p>Strain the contents from the broth and simmer again over low heat for another 20 minutes. Whilst waiting begin preparation on the meatballs</p>
+
+<p>Meatballs:</p>
+<p>Simmer the Onions and Butter over medium heat for a few minutes or until the Onions are translucent. Set them aside and allow them to cool</p>
+
+<p>In a medium bowl add all of the ingredients for the Meatballs into a medium sized bowl and season with Salt and Pepper to your liking</p>
+
+<p>Add the cooled onions to the bowl and with clean hands, mix everything together</p>
+
+<p>Transfer the meat to a cutting board or clean work surface and roughly shape it into a 12” x 7” x 1” rectangle. Cut the mixture into 16 equal pieces and roll the pieces into balls</p>
+
+<p>Transfer the broth to a skillet or a deep frying pan and gently place the meatballs in the broth to ensure that they are evenly cooked. Cover the pot and allow the meatballs to simmer gently for 15 minutes. If the meatballs are not simmered gently they will fall apart</p>
+
+<p>Remove the meatballs from the broth and be sure to keep them warm whilst you make the white wine-caper sauce</p>
+
+<p>Sauce:</p>
+<p>Melt the butter in a medium saucepan over medium-high heat and stir in the flour and then add the broth</p>
+
+<p>Add the remaining ingredients except for the egg yolks, season with salt and pepper to your taste, and cook cause over a low flame for 10 minutes</p>
+
+<p>Remove the sauce from heat and mix in 2 tbsp of the sauce into the egg yolks and then stir into the sauce</p>
+
+<p>Add the warm meatballs and cover the pot, allowing the mixture to stand for 10 minutes before serving</p> 2
+5 sc German Beef Rouladen <p>Rouladen (or beef rolls) are typically filled with bacon, onion, mustard and pickles and are wrapped by a thin slice of beef. This delicious and traditional German recipe is generally for moments when the entire family is together, usually for Sunday lunch, and goes perfectly well with Potato Dumplings and red cabbage.</p>
+<p><strong>Ingredients</strong></p>
+<ul>
+  <li>6 slices of Beef – either ask the butchers to cut the beef ‘top round’ or buy a flank steak and do it yourself</li>
+  <li>3 slices of lean bacon, chopped</li>
+  <li>1 onion, sliced</li>
+  <li>3 garlic dill pickles, sliced</li>
+  <li>2 tbsp of butter</li>
+  <li>Dijon or German style mustard </li>
+  <li>Salt & pepper</li>
+  <li>Corn starch</li>
+  <li>1 - 2 cups water</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Start off by seasoning one side of the beef slices with salt and freshly ground pepper then spread a thin layer of Mustard over the top of the seasoning</p>
+<p>Evenly distribute the bacon, pickle and onion slices on top of the mustard </p>
+<p>Roll up the slices, tucking the ends in and securing the sides with skewers, wooden cocktail picks, or sew them together with thread to keep the ingredients from falling out</p>
+<p>Heat butter in skillet and brown the Rouladen well on all sides. Be sure to not crowd Rouladen in the skillet or they will not brown nicely. If you do not have a large enough skillet, brown the Rouladen in small batches. Add any extra butter if need be</p>
+<p>Once all of the rolls are well browned take them out of the skillet and add your 1 or 2 cups of hot water, gently stirring up browned bits</p>
+<p>Return all of the Rouladen and any accumulated juices to skillet, bring to simmer and cover for around an hour and a half whilst leaving the heat on</p>
+<p>Remove the Rouladen from the skillet and thicken the gravy with 1 or 2 tablespoons of Corn Starch mixed with a small amount of cold water. Stir the mixture and gravy together gently until it has slightly thickened</p>
+<p>Season the gravy to your preferred taste with salt and freshly ground pepper. If you wish, add sour cream to the gravy</p>
+<p>Remove the skewers, picks, or thread and serve the delicious Rouladen with the gravy
+</p> 1
+6 sc Koenigsberger Klopse <p>This classical German dish entails delightfully tender meatballs in a rich white wine-caper sauce. These delicious meatballs are traditionally served with potatoes and a vegetable side dish. This recipe serves four people.</p>
+<p><strong>Ingredients</strong></p>
+<p>Broth:</p>
+<ul>
+  <li>1 Small piece of bone marrow (optional)</li>
+  <li>2 tsp of Vegetable broth</li>
+  <li>4 1/2 cups of Water</li>
+  <li>1 Small Onion, peeled and halved</li>
+  <li>1 dried Bay leaf</li>
+  <li>5 whole Black Peppercorns</li>
+</ul>
+<p>Meatballs:</p>
+<ul>
+  <li>2 small Onions, peeled and finely diced</li>
+  <li>1 tbsp of Butter</li>
+  <li>250g (1/2lb) ground Pork</li>
+  <li>250g (1/2lb) ground Beef</li>
+  <li>2 day old Buns, quickly wet them under running water and tear them up. If the bread is dripping then squeeze out the excess water</li>
+  <li>1 Egg</li>
+  <li>1/2 a bunch of Parsley, finely chopped </li>
+  <li>1 tbsp of pickled Capers, lightly crushed</li>
+  <li>1 tbsp of Anchovy paste or several pieces of Anchovy, finely chopped</li>
+  <li>Salt and Pepper to taste</li>
+</ul>
+<p>Sauce:</p>
+<ul>
+  <li>2 tbsp of Butter</li>
+  <li>2 tbsp of Flour, you may need more if you want your sauce thicker </li>
+  <li>1/2 a Liter (500ml or 2-1/4 cups) of broth</li>
+  <li>1 tbsp of whole Pickled Capers</li>
+  <li>1 tbsp of fresh Lemon juice</li>
+  <li>1/8 a Liter (125ml or 1/2 a cup) of Sour Cream</li>
+  <li>2 tbsp of Whipping Cream</li>
+  <li>175ml (3/4 of a cup of 6 fl. Oz) of dry White Wine or substitute the left over </li>
+</ul>
+<p>Broth</p>
+<ul>
+  <li>1 tsp of Sugar</li>
+  <li>2 Egg Yolks, lightly beaten</li>
+</ul>
+<p><strong>Method</strong></p>
+<p>Broth:<p>
+<p>Add all of the ingredients for the broth into a medium saucepan and bring to a boil. Reduce the heat to medium and allow the broth to simmer for 40 minutes</p>
+
+<p>Strain the contents from the broth and simmer again over low heat for another 20 minutes. Whilst waiting begin preparation on the meatballs</p>
+
+<p>Meatballs:</p>
+<p>Simmer the Onions and Butter over medium heat for a few minutes or until the Onions are translucent. Set them aside and allow them to cool</p>
+
+<p>In a medium bowl add all of the ingredients for the Meatballs into a medium sized bowl and season with Salt and Pepper to your liking</p>
+
+<p>Add the cooled onions to the bowl and with clean hands, mix everything together</p>
+
+<p>Transfer the meat to a cutting board or clean work surface and roughly shape it into a 12” x 7” x 1” rectangle. Cut the mixture into 16 equal pieces and roll the pieces into balls</p>
+
+<p>Transfer the broth to a skillet or a deep frying pan and gently place the meatballs in the broth to ensure that they are evenly cooked. Cover the pot and allow the meatballs to simmer gently for 15 minutes. If the meatballs are not simmered gently they will fall apart</p>
+
+<p>Remove the meatballs from the broth and be sure to keep them warm whilst you make the white wine-caper sauce</p>
+
+<p>Sauce:</p>
+<p>Melt the butter in a medium saucepan over medium-high heat and stir in the flour and then add the broth</p>
+
+<p>Add the remaining ingredients except for the egg yolks, season with salt and pepper to your taste, and cook cause over a low flame for 10 minutes</p>
+
+<p>Remove the sauce from heat and mix in 2 tbsp of the sauce into the egg yolks and then stir into the sauce</p>
+
+<p>Add the warm meatballs and cover the pot, allowing the mixture to stand for 10 minutes before serving</p> 2
+
++++++++++
+db_cafede - tbl_blogs:(2829)
+blog_id,lang,outlet_id,type,subject,summary,content,published_date,modified_date,expiry_date,hidden,focus
+3 eng 3 news Happy Hour Every day from 12pm to 9pm, get 2-4-1 on all house spirits and special prices on selected beers and wines. Every day from 12pm to 9pm, get 2-4-1 on all house spirits and special prices on selected beers and wines. For more information, please call 2520 5303. 2011-07-11 00:00:00 2011-08-15 06:16:58 1900-01-01 00:00:00 0 0
+3 tc 3 news 歡樂時光 每天正午12時至晚上9時
+特選烈酒買一送一
+精選啤酒及紅白酒優惠 每天正午12時至晚上9時
+特選烈酒買一送一
+精選啤酒及紅白酒優惠
+詳情請致電2520 5303查詢 2011-07-11 00:00:00 2011-08-15 06:16:58 1900-01-01 00:00:00 0 0
+3 sc 3 news 欢乐时光 每天正午12时至晚上9时 
+特选烈酒买一送一 
+精选啤酒及红白酒优惠 每天正午12时至晚上9时 
+特选烈酒买一送一 
+精选啤酒及红白酒优惠 
+详情请致电2520 5303查询 2011-07-11 00:00:00 2011-08-15 06:16:58 1900-01-01 00:00:00 0 0
+5 eng 3 news Sip 'n Relax Every Wednesday, 6pm till Late. 2-4-1 cocktails for ladies. Every Wednesday, 6pm Till Late. 2-4-1 cocktails for ladies. Please call +852 2520 5303 for details. 2011-07-11 00:00:00 2011-08-15 06:18:12 1900-01-01 00:00:00 0 0
+5 tc 3 news Sip 'n Relax 逢星期三晚上6時開始，女士可享雞尾酒買一送一。 逢星期三晚上6時開始，女士可享雞尾酒買一送一。詳情請致電2520 5303查詢。 2011-07-11 00:00:00 2011-08-15 06:18:12 1900-01-01 00:00:00 0 0
+5 sc 3 news Sip 'n Relax 逢星期三晚上6时开始，女士可享鸡尾酒买一送一。 逢星期三晚上6时开始，女士可享鸡尾酒买一送一。详情请致电2520 5303查询。 2011-07-11 00:00:00 2011-08-15 06:18:12 1900-01-01 00:00:00 0 0
+18 eng 16 news Daily Specials Check out the daily specials from Monday to Sunday. Check out the daily specials from Monday to Sunday. For inquiries, please call 2868 6026. 2011-07-12 00:00:00 2011-07-12 05:47:24 1900-01-01 00:00:00 0 0
+18 tc 16 news Daily Specials 由星期一至日，我們都提供不同精選菜式。 由星期一至日，我們都提供不同精選菜式。詳情請致電2868 6026查詢。 2011-07-12 00:00:00 2011-07-12 05:47:24 1900-01-01 00:00:00 0 0
+18 sc 16 news Daily Specials 由星期一至日,我们都提供不同精选菜式。 由星期一至日,我们都提供不同精选菜式。详情请致电2868 6026查询。 2011-07-12 00:00:00 2011-07-12 05:47:24 1900-01-01 00:00:00 0 0
+26 eng 22 news Live N' Loud Every night, catch the hottest band Below and Above, and Impulz from 9pm onwards. Every night, catch the hottest band Below and Above, and Impulz from 9pm onwards. For more information, please call 2520 5101. 2011-07-12 00:00:00 2011-07-14 03:23:56 1900-01-01 00:00:00 0 0
+733 eng 52 news Cold Case Monday Rediscovering classics in the latest lounge on Wyndham Street! Rediscovering classics in the latest lounge on Wyndham Street! 2013-08-30 00:00:00 2015-01-05 11:44:08 1900-01-01 00:00:00 1 0
+733 tc 52 news 星期一晚 經典懷舊金曲之夜 經典懷舊金曲之夜 2013-08-30 00:00:00 2015-01-05 11:44:08 1900-01-01 00:00:00 1 0
+733 sc 52 news 星期一晚 经典怀旧金曲之夜 经典怀旧金曲之夜 2013-08-30 00:00:00 2015-01-05 11:44:08 1900-01-01 00:00:00 1 0
+734 eng 52 news Platinum Tuesday Top 10 music from any year, any chart! Top 10 music from any year, any chart! 2013-08-30 00:00:00 2015-01-05 11:44:18 1900-01-01 00:00:00 1 0
+734 tc 52 news 星期二晚 來自不同年代，不同流行榜的十大歌曲！ 來自不同年代，不同流行榜的十大歌曲！ 2013-08-30 00:00:00 2015-01-05 11:44:18 1900-01-01 00:00:00 1 0
+734 sc 52 news 星期二晚 来自不同年代，不同流行榜的十大歌曲！ 来自不同年代，不同流行榜的十大歌曲！ 2013-08-30 00:00:00 2015-01-05 11:44:18 1900-01-01 00:00:00 1 0
+735 eng 52 news London Calling Wednesday Independent music night Independent music night 2013-08-30 00:00:00 2015-01-05 11:44:28 1900-01-01 00:00:00 1 0
+735 tc 52 news 星期三晚 獨立音樂 獨立音樂 2013-08-30 00:00:00 2015-01-05 11:44:28 1900-01-01 00:00:00 1 0
+735 sc 52 news 星期三晚 独立音乐 独立音乐 2013-08-30 00:00:00 2015-01-05 11:44:28 1900-01-01 00:00:00 1 0
+736 eng 52 news Sway Thursday Hip-hop, RnB, Rap and Reggae Hip-hop, RnB, Rap and Reggae 2013-08-30 00:00:00 2015-01-05 11:44:40 1900-01-01 00:00:00 1 0
+1081 tc 58 news 德國鹹豬手8折優惠 於Berliner朗豪坊分店可享德國鹹豬手8折優惠！ 於Berliner朗豪坊分店可享德國鹹豬手8折優惠！ 2015-06-01 00:00:00 2015-06-01 09:53:00 2015-06-22 00:00:00 0 0
+1081 sc 58 news 德国咸猪手8折优惠 于Berliner朗豪坊分店可享德国咸猪手8折优惠！ 于Berliner朗豪坊分店可享德国咸猪手8折优惠！ 2015-06-01 00:00:00 2015-06-01 09:53:00 2015-06-22 00:00:00 0 0
+1082 eng 59 news 20% off on Roasted Pork Knuckle Come here now to enjoy 20% off on traditional German delicacies – Roasted Pork Knuckle! Come here now to enjoy 20% off on traditional German delicacies – Roasted Pork Knuckle! 2015-06-01 00:00:00 2015-06-01 10:22:51 2015-06-22 00:00:00 0 0
+1082 tc 59 news 德國鹹豬手8折優惠 於Berliner朗豪坊分店可享德國鹹豬手8折優惠！ 於Berliner朗豪坊分店可享德國鹹豬手8折優惠！ 2015-06-01 00:00:00 2015-06-01 10:22:51 2015-06-22 00:00:00 0 0
+1082 sc 59 news 德国咸猪手8折优惠 于Berliner朗豪坊分店可享德国咸猪手8折优惠！ 于Berliner朗豪坊分店可享德国咸猪手8折优惠！ 2015-06-01 00:00:00 2015-06-01 10:22:51 2015-06-22 00:00:00 0 0
+1083 eng 59 news Lunch Combo! Bring your friends and colleagues over for lunch today! 2017-05-05 00:00:00 2018-03-29 06:08:50 1900-01-01 00:00:00 1 0
+1083 tc 59 news 精選午市套餐 今天一於與同事朋友們來The Beer House享受精選午餐! 2017-05-05 00:00:00 2018-03-29 06:08:50 1900-01-01 00:00:00 1 0
+1083 sc 59 news 精选午市套餐 今天一于与同事朋友们来The Beer House享受精选午餐! 2017-05-05 00:00:00 2018-03-29 06:08:50 1900-01-01 00:00:00 1 0
+1084 eng 13 news New Lunch Set Come and enjoy our new set lunch menu available from Monday to Friday. Come and enjoy our new set lunch menu available from Monday to Friday. 2015-06-09 00:00:00 2015-06-10 09:39:24 1900-01-01 00:00:00 0 0
+1084 tc 13 news 全新午市套餐 星期一至星期五的全新午市套餐只需港幣115元起 星期一至星期五的全新午市套餐只需港幣115元起 2015-06-09 00:00:00 2015-06-10 09:39:24 1900-01-01 00:00:00 0 0
+1267 eng 6 news International Lunch Buffet with Irish Rock Oysters Enjoy the freshness of seafood at our gourmet buffet!! 2017-03-14 00:00:00 2017-03-23 11:04:28 2017-04-09 00:00:00 0 0
+1267 tc 6 news 愛爾蘭生蠔國際自助午餐 由開蠔高手主理，享用海鮮自助午餐，品嚐來自愛爾蘭海洋鮮味！ 2017-03-14 00:00:00 2017-03-23 11:04:28 2017-04-09 00:00:00 0 0
+1267 sc 6 news 爱尔兰生蚝国际自助午餐 由开蚝高手主理，享用海鲜自助午餐，品尝来自爱尔兰海洋鲜味！ 2017-03-14 00:00:00 2017-03-23 11:04:28 2017-04-09 00:00:00 0 0
+1268 eng 62 news Rugby Spirit Get into the Rugby 7s spirit! 2016-03-30 00:00:00 2016-09-01 11:32:31 1900-01-01 00:00:00 1 0
+1268 tc 62 news 國際七人欖球賽即將進行 投入香港國際七人欖球賽的狂熱！ 2016-03-30 00:00:00 2016-09-01 11:32:31 1900-01-01 00:00:00 1 0
+1268 sc 62 news 香港国际七人榄球赛即将进行 投入香港国际七人榄球赛的狂热气氛！ 2016-03-30 00:00:00 2016-09-01 11:32:31 1900-01-01 00:00:00 1 0
+1269 eng 21 news Rugby Spirit Get into the Rugby 7s spirit! Get into the Rugby 7s spirit! 2016-03-30 00:00:00 2016-04-12 05:19:08 1900-01-01 00:00:00 1 0
+1269 tc 21 news 國際七人欖球賽即將進行 投入香港國際七人欖球賽的狂熱！ 投入香港國際七人欖球賽的狂熱！ 2016-03-30 00:00:00 2016-04-12 05:19:08 1900-01-01 00:00:00 1 0
+1269 sc 21 news 香港国际七人榄球赛即将进行 投入香港国际七人榄球赛的狂热气氛！ 投入香港国际七人榄球赛的狂热气氛！ 2016-03-30 00:00:00 2016-04-12 05:19:08 1900-01-01 00:00:00 1 0
+1270 eng 20 news Rugby Spirit Get into the Rugby 7s spirit! Get into the Rugby 7s spirit! 2016-03-30 00:00:00 2016-04-12 05:18:01 1900-01-01 00:00:00 1 0
+1701 tc 31 news 八月特色薄餅–泰式海鮮 Cafe Deco Pizzeria 於八月限定呈獻泰式海鮮薄餅，與你盡嚐泰國風情！ 2017-08-01 00:00:00 2017-09-06 01:19:03 1900-01-01 00:00:00 1 0
+1701 sc 31 news 八月特色薄饼–泰式海鲜 Cafe Deco Pizzeria 于八月限定呈献泰式海鲜薄饼，与你尽尝泰国风情！ 2017-08-01 00:00:00 2017-09-06 01:19:03 1900-01-01 00:00:00 1 0
+1702 eng 56 news Pizza of August – Thai Seafood Cafe Deco Pizzeria presents the exotic Thai Seafood Pizza as our special Pizza of August! Upload your Thai Seafood Pizza photo to Instagram and get a free drink! 2017-08-01 00:00:00 2017-09-06 01:19:21 1900-01-01 00:00:00 1 0
+1702 tc 56 news 八月特色薄餅–泰式海鮮 Cafe Deco Pizzeria 於八月限定呈獻泰式海鮮薄餅，與你盡嚐泰國風情！上載有關相片到Instagram更可獲贈免費飲品！ 2017-08-01 00:00:00 2017-09-06 01:19:21 1900-01-01 00:00:00 1 0
+1702 sc 56 news 八月特色薄饼–泰式海鲜 Cafe Deco Pizzeria 于八月限定呈献泰式海鲜薄饼，与你尽尝泰国风情！上载有关相片到Instagram更可获赠免费饮品！ 2017-08-01 00:00:00 2017-09-06 01:19:21 1900-01-01 00:00:00 1 0
+1703 eng 59 news Beer and Nibbles! The Golden Duck Salted Egg Yolk Gourmet Combo! Come and try the $148 combo at The Beer House with the renowned Golden Duck gourmet salted egg yolk fish skin crisps or potato crisps from Singapore, together with 2 glasses of Warsteiner beer! 2017-08-18 00:00:00 2018-02-15 10:25:07 1900-01-01 00:00:00 1 0
+1703 tc 59 news 佐酒佳品！金鴨鹹蛋小食套餐！ 快以優惠價 $148 於 The Beer House 享用來自新加坡的金鴨鹹蛋魚皮或薯片配 2 杯 Warsteiner 啤酒！ 2017-08-18 00:00:00 2018-02-15 10:25:07 1900-01-01 00:00:00 1 0
+1703 sc 59 news 佐酒佳品！金鸭咸蛋小食套餐！ 快以优惠价 $148 于 The Beer House 享用来自新加坡的金鸭咸蛋鱼皮或薯片配 2 杯 Warsteiner 啤酒！ 2017-08-18 00:00:00 2018-02-15 10:25:07 1900-01-01 00:00:00 1 0
+1704 eng 60 news G&T is for Gourmet & Tonic! The Golden Duck Salted Egg Yolk Gourmet Combo! Come and try the $168 combo at Tonic (Langham Place) with the renowned Golden Duck gourmet salted egg yolk fish skin crisps or potato crisps from Singapore, together with 2 glasses of classic Sangria! 2017-08-18 00:00:00 2018-02-15 10:25:31 1900-01-01 00:00:00 1 0
+1704 tc 60 news 佐酒佳品！金鴨鹹蛋小食套餐！ 快以優惠價 $168 於朗豪坊 Tonic 享用來自新加坡的金鴨鹹蛋魚皮或薯片配 2 杯西班牙水果甜酒！ 2017-08-18 00:00:00 2018-02-15 10:25:31 1900-01-01 00:00:00 1 0 
++++++++++
+db_cafede - tbl_brands:(30)
+brand_id,type,name_eng,name_tc,name_sc,priority,hidden
+2 ;restaurant; Beerliner Beerliner Beerliner 1 0
+4 ;restaurant; Petit Paris Petit Paris Petit Paris 1 1
+5 ;restaurant; Cafe Deco 峰景餐廳 峰景餐厅 1 1
+6 ;bar; Café Duvet Café Duvet Café Duvet 1 0
+7 ;restaurant; Cafe Iguana Cafe Iguana Cafe Iguana 1 1
+9 ;bar; Marlin Marlin Marlin 1 1
+11 ;restaurant; Nomads Nomads Nomads 1 1
+15 ;bar; Pickled Pelican Pickled Pelican Pickled Pelican 1 0
+16 ;bar; Pier 7 Café & Bar Pier 7 Café & Bar Pier 7 Café & Bar 1 1
+18 ;bar; Stormies Stormies Stormies 1 0
+
++++++++++
+db_cafede - tbl_flavours:(5)
+flavour_id,name_eng,name_tc,name_sc,priority
+1 International 國際 国际 8
+2 Western 西式 西式 1
+6 German 德國 德国 9
+13 Chinese 中國 中国 12
+16 Czech 捷克 捷克 9
+
++++++++++
+db_cafede - tbl_jobs:(21)
+job_id,lang,subject,published_date
+89 eng Restaurant & Bar - Restaurant Manager / Assistant Restaurant Manager 2017-05-15 00:00:00
+90 tc Restaurant & Bar - Restaurant Manager / Assistant Restaurant Manager 2017-05-15 00:00:00
+92 sc Restaurant & Bar - Restaurant Manager / Assistant Restaurant Manager 2017-05-15 00:00:00
+94 eng Restaurant & Bar - Bar / Floor Supervisor 2017-05-15 00:00:00
+95 tc Restaurant & Bar - Bar / Floor Supervisor 2017-05-15 00:00:00
+96 sc Restaurant & Bar - Bar / Floor Supervisor 2017-05-15 00:00:00
+97 eng Restaurant & Bar - Senior Bartender / Bartender 2017-05-15 00:00:00
+98 tc Restaurant & Bar - Senior Bartender / Bartender 2017-05-15 00:00:00
+99 sc Restaurant & Bar - Senior Bartender / Bartender 2017-05-15 00:00:00
+100 eng Restaurant & Bar - Senior Server / Server 2017-05-15 00:00:00
+
++++++++++
+db_cafede - tbl_locations:(25)
+location_id,region_id,name_eng,name_tc,name_sc,priority
+1 1 Soho 蘇豪 苏豪 16
+2 1 The Peak 山頂 山顶 23
+4 1 Lan Kwai Fong 蘭桂坊 兰桂坊 12
+5 1 Wyndham Street 雲咸街 云咸街 11
+6 1 Wanchai 灣仔 湾仔 10
+7 1 Soho East 蘇豪東 苏豪东 8
+8 1 Central Pier 7 中環7號碼頭 中环7号码头 7
+9 1 Stanley 赤柱 赤柱 6
+10 1 Tsim Sha Tsui 尖沙咀 尖沙咀 5
+11 1 Discovery Bay 愉景灣 愉景湾 1
+
++++++++++
+db_cafede - tbl_mailinglist:(2116)
+email,unsubscribed
+wilson.fernandez@yahoo.com.au 0
+makstatement@yahoo.com.hk 0
+delight2u@naver.com 0
+delight2u@naver.com 0
+delight2u@naver.com 0
+skyisblueda@daum.net 0
+rachelchan@maxims.com.hk 0
+xingfu8889@yahoo.com.tw 0
+greathyun670@nate.com 0
+dolla21@naver.com 0
+Urbanoutlet@gmail.com 0
+Urbanoutlet@gmail.com 0
+dbhk21@yahoo.com.hk 0
+dbhk21@yahoo.com.hk 0
+darthholmatro@yahoo.com.hk 0
+thisbywong@hotmail.com 0
+andychrisyyk@gmail.com 0
+kristina.hongkong@gmail.com 0
+kristina.hongkong@gmail.com 0
+laufongjudy@netvigator.com 0
+fiokie@hotmail.com 0
+cchau888@netvigator.com 0
+cchau888@netvigator.com 0
+cchau888@netvigator.com 0
+jmiddlift@aol.com 0
+letivicra@hotmail.com 0
+leglegleg@hotmail.com 0
+peeann2@hotmail.com 0
+peeann2@hotmail.com 0
+peeann2@hotmail.com 0
+annyee.chan@gmail.com 0
+ellatse@me.com 0
+willy@yatcheong.com 0
+bbombpig@me.com 0
+maliwkhan@yahoo.com 0
+andyhuish@gmail.com 0
+yuenwilliam@gmail.com 0
+williambut@ucr.com.hk 0
+a8466shd@gmail.com 0
+kosak@email.de 0
+Sunkaijai@gmail.com 0
+Sunkaijai@gmail.com 0
+Sunkaijai@gmail.com 0
+kklamringo@yahoo.com.hk 0
+roxanne@sassymediagroup.com 0
+bryanho1129@gmail.com 0
+vinnie@pacific.net.hk 0
+nmor@hotmail.com 0
+bshlo@mailcity.com 0
+carrieheiedm@gmail.com 0 
++++++++++
+db_cafede - tbl_outlet_details:(150)
+outlet_id,lang,name,description,address,openinghours
+1 eng Bourbon Bourbon offers a unique dining and nightlife experience in Soho. It guarantees a lively atmosphere on any occasion. Guests will surely enjoy drinking in a casual and relaxed ambiance which offers a décor decked with contemporary art paintings on the wall.
+
+Spoil yourself with creative bourbon cocktails prepared by well-trained bartenders. For die-hard American bourbon and whiskey aficionados, the well-stocked bar features an impressive list from prestigious distilleries in Scotland, Ireland and Canada. The food menu, on the other hand, offers delicious Southern Cuisine. G/F, 21 Elgin Street,
+Soho, Central,
+Hong Kong Mon - Fri:
+12:00pm - late
+
+Sat, Sun and Public Holidays:
+11:00am - late
+1 tc Bourbon 位於蘇豪區，餐廳以美國南部新奧爾良著名歷史街道命名，更將當地的街道風景搬到室內，店前部是酒吧，最適合在用膳前來一杯放鬆心情。後部是私密後花園用餐區(Dining Quarter)，可容納40人之多，無論是大班朋友開派對或兩小口子都可在此輕鬆歡聚，細嘗美國南部的風味菜式。
+
+主餐牌有坊間少見的風味佳餚；讓大家有如置身美國南部，一邊感受其歡愉氣息，一邊品嚐甚具當地特色的豐富宴饗，是香港不可多得的美饌享受。 香港中環
+蘇豪區
+伊利近街21號 星期一至五:
+中午12時至深夜
+
+星期六、日及公眾假期
+上午11時至深夜
+1 sc Bourbon 位於苏豪区，餐厅以美国南部新奥尔良着名历史街道命名，更将当地的街道风景搬到室内，店前部是酒吧，最适合在用膳前来一杯放松心情。後部是私密後花园用餐区(Dining Quarter)，可容纳40人之多，无论是大班朋友开派对或两小口子都可在此轻松欢聚，细尝美国南部的风味菜式。
+
+主餐牌有坊间少见的风味佳肴；让大家有如置身美国南部，一边感受其欢愉气息，一边品尝甚具当地特色的丰富宴飨，是香港不可多得的美馔享受。 香港中环
+
+苏豪区
+
+伊利近街21号 星期一至五: 
+中午12时至深夜  
+
+星期六、日及公众假期:
+上午11时至深夜
+4 eng Petit Paris Petit Paris brings a Parisian touch to the popular Soho dining district. It reflects the ambience of Parisian street cafes, where dark wood paneling, maroon coloured-walls and mirrors etched with decorative scrolls are displayed creating a warm and cozy atmosphere.
+
+ Features dishes include Seafood Bouillabaisse; Black Angus Sirloin; and Seared Duck Foie Gras.
+
+<img src="images/brg_logo.gif" border="0" />
+
+<a href="https://www.facebook.com/petitparissoho/" target="_blank"><img src="imagesfb-petitparis.jpg" border="0" /></a> 23 Elgin Street,
+Soho,
+Central, Hong Kong Mon - Sat
+12:00 noon - 3:00pm; 6:00pm - 11:00pm
+
+Sun
+12pm – 10pm
+4 tc Petit Paris Petit Paris為時尚的蘇豪區帶來巴黎風味。餐廳以特別設計的傢具和燈光帶出原本巴黎咖啡室的情調。天花板上的雕花令整體設計更為優美; 黑白小格子地磚、古舊圖案的海報、牆上的銅架子綴以舊旅行箱和法國畫家帽，處處流露懷舊法國風情。
+
+美國安格斯肉眼扒配巴黎牛油汁及香煎鵝肝為Petit Paris的兩項主打推介。 香港中環
+蘇豪區
+伊利近街23號 星期一至六
+正午12時至下午3時; 晚上6時至11時
+
+星期日
+正午12時至晚上10時
+4 sc Petit Paris Petit Paris为时尚的苏豪区带来巴黎风味。餐厅以特别设计的家具和灯光带出原本巴黎咖啡室的情调。天花板上的雕花令整体设计更为优美; 黑白小格子地砖，古旧图案的海报，墙上的铜架子缀以旧旅行箱和法国画家帽，处处流露怀旧法国风情。
+
+美国安格斯肉眼扒配巴黎牛油汁及香煎鹅肝为Petit Paris的两项主打推介。 香港中环
+苏豪区
+伊利近街23号 星期一至六 
+正午12时至下午3时; 晚上6时至11时
+  
+星期日 
+正午12时至晚上10时
+5 eng Café de Paris Stanley Café de Paris brings a different, elegant touch. Overlooking a glorious sea view of Stanley, Café de Paris is furnished in a white-and-red colour scheme where intricate Victorian-style fluer-de-lys-patterned wallpaper is juxtaposed with red velvet upholstery and black wrought iron railings and ornate lighting.
+
+Café de Paris offers 10oz US Steak with Cafe de Paris Butter, Mussels with onions, garlic, white wine and parsley with mixed salad and French fries, and more. 
+
+<a href="http://www.facebook.com/cafedeparissoho" target="_blank"><img src="images/fb-cafedeparis.jpg" border="0" /></a> 2/F,90 Stanley Main Street,
+Stanley, Hong Kong Daily 12pm-10:30pm
+5 tc Café de Paris 赤柱 赤柱Café de Paris全店以紅、白作主調，配襯著充滿維多利亞風格的印花牆紙，深紅色的絲絨梳化及黑鐵捲花燈飾及圍欄。黑白瓷磚地板為Café de Paris 必有的原素，而一列設於窗前的小桌及二行卡位再加上全海景的景觀及傳統法國風情，必能令每位客人與親友盡享暢敘的美好時光。
+
+牛扒、青口及秘製薯條為Café de Paris的三項主打推介。 香港赤柱
+赤柱大街90號2樓 星期日至四:
+上午11時30分至晚上11時
+
+星期五至六:
+上午11時30分至凌晨1時
+5 sc Café de Paris 赤柱 赤柱Café de Paris全店以红丶白作主调，配衬着充满维多利亚风格的印花墙纸，深红色的丝绒梳化及黑铁卷花灯饰及围栏。黑白瓷砖地板为Café de Paris 必有的原素，而一列设於窗前的小桌及二行卡位再加上全海景的景观及传统法国风情，必能令每位客人与亲友尽享畅叙的美好时光。
+
+牛扒丶青口及秘制薯条为Café de Paris的三项主打推介。 香港赤柱
+赤柱大街90号2楼 星期日至四: 
+上午11时30分至晚上11时  
+
+星期五至六: 
+上午11时30分至凌晨1时
+6 eng Cafe Deco Ideally located at the heart of Tsim Sha Tsui, The ONE, Cafe Deco offers a striking panoramic skyline view and overlooking the skyscrapers of world-class Victoria Harbour, a cozy outdoor terrace, a stylish high table cocktail bar, a private area, and an intimate welcoming dining area. It offers an elevated dining experience for a modern international audience.
+
+Cafe Deco offers an array of international cuisine, with a series of seafood and grill gourmet theme in mind, each offering a unique dining experience. The culinary team has created an exciting menu including the whole live Canadian lobster from its lobster tank, the sumptuous feast of the Indian Thali as well as branded by the grill, and masterfully cooked prime beef from the United States to suit beef lovers. 
+
+The wine cellar offers a wide range of gloriously curated list of bottles from red and white spectrum, so there is always something interesting on the pour. 
+
+Cafe Deco has everything accommodating for solo diners, families, small groups and couples alike. 20/F The ONE, 100 Nathan Road, Tsim Sha Tsui, Kowloon, Hong Kong Monday to Saturday 12noon - 10:30pm 
+Sunday 11:30am - 10:30pm
+43 eng Dim Sum Bar (Harbour City) Offering a food paradise for wok-fried dishes and dim sum lovers alike, the classic yet stylish eatery emphasizes on authentic and traditional local cuisine with a healthy and modern twist.
+
+<a href="http://www.facebook.com/dimsumbarhk " target="_blank"><img src="images/fb-dimsumbar.jpg" border="0" /></a> Shop G103, G/F,
+Gateway Arcade, Harbour City,
+Tsim Sha Tsui Daily 8am – 10.30pm
+43 tc 點一龍 (尖沙咀) 點一龍跟傳統的酒家截然不同。餐廳佈置簡約時尚，提供至潮的點心美食與巧手小炒。 香港尖沙咀
+海港城港威商場
+地下G103店 每天上午8時至晚上10時30分
+43 sc 點一龍 (尖沙咀) 點一龍跟传统的酒家截然不同。餐厅布置简约时尚,提供至潮的点心美食与巧手小炒。 香港尖沙咀
+海港城港威商场
+地下G103店 每天上午8时至晚上10时30分
+46 eng Berliner (Discovery Bay) Berliner has a unique façade - an inspired exterior that imposes a 3D architectural rendering of an 18th century structure. The restaurant’s swanky interior is an ultimate in chic style with an eclectic mix of contemporary décor and Old Word design elements like striking arched doorways and modern chandelier lights. It also boasts a large open kitchen and a classic micro-brewery found at the rear end of the restaurant. Complementing the cream-colored stoned brick walls and brown teak furnishings with soft lighting, it offers a casual dining place in a stylish setting. Moreover, for breezy atmosphere, the alfresco area is a good place to relax and unwind.
+
+Wanna learn more about Berliner, click <a href="http://www.berliner.com.hk" target="_blank">www.berliner.com.hk</a>
+
+<a href="https://www.facebook.com/BerlinerGermanBarAndRestaurant" target="_blank"><img src="images/fb-berliner.jpg" width="250" border="0" /></a> G01B, D Deck, 
+Discovery Bay, Hong Kong Monday - Sunday 12pm to 12am
+46 tc Berliner (愉景灣) 這是集團開設的Berliner德國餐廳分店，提供一系列德國沙律、頭盤、主菜及甜品。本店採用十八世紀3D建築設計，例如獨特的古式拱門及時尚的枝形吊燈，糅合摩登和傳統。柔和的燈光、奶白色的磚牆和棕色的柚木傢俱，為餐廳營造簡約時尚的用膳環境。店內設有大型開放式廚房，餐廳盡頭是傳統啤酒酒窖。若賓客想感受一下自然氣息，亦可選擇餐廳的露天位置盡享悠然閒適。
+
+想知多一點，請瀏覽
+<a href="http://www.berliner.com.hk" target="_blank">www.berliner.com.hk</a>
+
+<a href="https://www.facebook.com/BerlinerGermanBarAndRestaurant" target="_blank"><img src="images/icon_facebook_berliner.jpg" border="0" /></a> 香港愉景灣D Deck G01B店 星期一至日:   
+中午12時至凌晨12時
+46 sc Berliner (愉景湾) 这是集团开设的Berliner德国餐厅分店，提供一系列德国沙律、头盘、主菜及甜品。本店采用十八世纪3D建筑设计，例如独特的古式拱门及时尚的枝形吊灯，糅合摩登和传统。柔和的灯光、奶白色的砖墙和棕色的柚木家具，为餐厅营造简约时尚的用膳环境。店内设有大型开放式厨房，餐厅尽头是传统啤酒酒窖。若宾客想感受一下自然气息，亦可选择餐厅的露天位置尽享悠然闲适。
+
+想知多一点，请浏览
+<a href="http://www.berliner.com.hk" target="_blank">www.berliner.com.hk</a>
+
+<a href="https://www.facebook.com/BerlinerGermanBarAndRestaurant" target="_blank"><img src="images/icon_facebook_berliner.jpg" border="0" /></a> 香港愉景湾D Deck G01B店 星期一至日:   
+中午12时至凌晨12时
+48 eng Dim Sum Bar (Nina Tower) Dim Sum Bar is no ordinary dim sum restaurant. The casual yet modern ambience offers a food paradise especially for dim sum lovers.
+
+<a href="http://www.facebook.com/dimsumbarhk " target="_blank"><img src="images/fb-dimsumbar.jpg" border="0" /></a> Shop 119, 1/F, Nina Tower Shopping Mall, 
+8 Yeung Uk Road, Tsuen Wan, 
+Hong Kong 8am to 10.30pm daily
+48 tc 點一龍 (荃灣) 點一龍跟傳統的酒家截然不同。餐廳佈置簡約時尚，提供至潮的點心美食。 香港荃灣楊屋道8號
+如心廣場商場1樓119店 每天上午8時至晚上10時30分
+48 sc 點一龍 (荃湾) 點一龍跟传统的酒家截然不同。餐厅布置简约时尚,提供至潮的点心美食。 香港荃湾杨屋道8号
+如心广场商场1楼119店 每天上午8时至晚上10时30分
+49 eng Made in HK (apm) Made in HK Restaurant celebrates Hong Kong-style Western cuisine with a contemporary touch. With a rethought and refined menu, MIHK entertains diners from dawn till dusk. 
+
+MIHK gives a grand uplift to dishes that locals have been eating since childhood, which also carries their countless valuable memories. Some of our signature dishes include Tonkatsu Baked Rice with Tomato Sauce & Green Apple, Sizzling Mixed Grill and French Toast with Egg Custard. Shop L1-13, Level 1, 
+apm, Millennium City 5, 
+418 Kwun Tong Road, 
+Kwun Tong Monday to Sunday
+8:00am - 11:00pm
+
++++++++++
+db_cafede - tbl_outlets:(50)
+outlet_id,brand_id,location_id,flavour_id,menu,lat,lng,tel,fax,email,hasevent,event_tel,event_email,event_floorplan,event_saleskit,event_videotour,event_virtualtour,added_date,modified_date,priority,hidden
+1 1 1 3 ;food;beverage;dessert; 22.282051 114.152174 +852 2540 6630 +852 2810 0671 bourbon@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 0 2013-01-29 09:42:52 2013-01-29 09:42:52 1 1
+4 4 1 5 ;food;beverage; 22.2817186615282 114.152396321297 +852 2810 0771 +852 2810 0671 petitparissoho@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 1 2018-02-01 09:46:34 2018-02-01 09:46:34 1 1
+5 4 9 5 ;food;beverage;dessert; 22.2186573 114.2111487 +852 2813 4822 cafedeparisstanley@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 0 2016-02-24 12:41:30 2016-02-24 12:41:30 1 1
+6 5 10 1 ;food;beverage;dessert; 22.299918 114.172788 +852 2849 5111 +852 2849 5188 cafedeco@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 1 2019-04-08 09:26:47 2019-04-08 09:26:47 1 1
+7 6 11 2 ;beverage; 22.2964026454437 114.016660451889 +852 2987 0966 +852 2987 2366 cafeduvet@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 0 2018-07-03 09:43:10 2018-07-03 09:43:10 1 1
+8 7 18 9 ;food;beverage; 22.304914 114.161641 +852 2196 8733 +852 2196 8766 cafeiguanaelements@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 0 2015-04-08 10:47:38 2015-04-08 10:47:38 1 1
+10 6 4 2 ;beverage; 22.2808069626647 114.155679345131 +852 2121 8070 +852 2525 3477 cafeduvetlkf@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 0 2018-01-17 05:52:04 2018-01-17 05:52:04 1 0
+12 11 10 10 ;beverage; 22.300936 114.174641 +852 2722 0733 +852 2722 5159 nomads@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 1 2018-05-18 01:39:43 2018-05-18 01:39:43 1 1
+14 13 1 7 ;food;beverage;dessert; 22.2817426534197 114.152393639088 +852 2525 0919 +852 2525 0719 peccato@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 0 2013-01-07 10:05:50 2013-01-07 10:05:50 1 1
+17 15 9 2 ;food;beverage; 22.218696 114.211062 +852 2813 4313 +852 2813 4318 pickledpelicanstanley@cafedecogroup.com 1 +852 2108 4467 info@cafedecogroup.com 0 0 0 1 2019-04-01 10:46:25 2019-04-01 10:46:25 1 0
+
++++++++++
+db_cafede - tbl_page_contents:(27)
+page_id,lang,name,content
+1 eng History <p>Cafe Deco Group is one of Hong Kong's leading and most successful bar and restaurant groups. The success behind the group lies in its full dining experience for all, including consistently high quality of food, wide variety of cuisines, friendly and efficient service, as well as appealing ambience of its outlets for any occasion, business or pleasure.</p>
+<p>In January 2011, Chevalier Pacific Holdings Limited, the parent of Igor's Group, and Cafe Deco Group announced a merger, creating one of the largest food and beverage companies based in Hong Kong. This merger combines the expertise of two leading food and beverage companies &ndash; Igor&rsquo;s Group and Cafe Deco Group. Joining forces with over 30 outlets in Hong Kong, Macau and Sydney, the new group named Cafe Deco Group, will have a stronger and more diverse portfolio of restaurants and bars.</p>
+<p>Should you have any enquiries, please email us <a href="mailto:info@cafedecogroup.com">info@cafedecogroup.com</a>.</p>
+1 tc 歷史 <p>Cafe Deco Group是香港最優秀的餐飲集團之一。成功的原因源自其全面的餐飲體驗，當中包括優質的食物、多樣化的菜式、友善且富效率的服務、以及愉快氛圍，適合各種商務或休閒場合。</p>
+<p>二零一一年一月，其士泛亞控股有限公司(峰景餐廳集團及Igor's集團的母公司)宣佈將峰景餐廳集團及Igor's集團合併，使之成為香港最強大的餐飲集團之一。合併後的集團名為Cafe Deco Group，分別在香港、澳門及悉尼擁有超過30間餐廳及酒吧，結合餐飲管理的專業才能，未來將不斷擴展版圖，提供更多元化的國際美食給賓客。</p>
+<p>如有任何查詢，可電郵到 <a href="mailto:info@cafedecogroup.com">info@cafedecogroup.com</a></p>
+1 sc 历史 <p>Cafe Deco Group是香港最优秀的餐饮集团之一。成功的原因源自其全面的餐饮体验，当中包括优质的食物、多样化的菜式、友善且富效率的服务、以及愉快氛围，适合各种商务或休闲场合。</p>
+<p>二零一一年一月，其士泛亚控股有限公司(峰景餐厅集团及Igor's集团的母公司)宣布将峰景餐厅集团及Igor's集团合并，使之成为香港最强大的餐饮集团之一。合并後的集团名为Cafe Deco Group，分别在香港丶澳门及悉尼拥有超过30间餐厅及酒吧，结合餐饮管理的专业才能，未来将不断扩展版图，提供更多元化的国际美食给宾客。</p>
+<p>如有任何查询，可电邮到 <a href="mailto:info@cafedecogroup.com">info@cafedecogroup.com</a>。</p>
+2 eng Mission Statement and Vision <p>Mission: to create hospitality venues where utmost guest experience is our undivided priority.</p>
+<p>Vision: In our dedicated pursuit of excellence, we are committed to the outstanding quality of our food, service, people and out-of-home dining and entertainment concepts that enrich the life and experience of our guests and staff alike.</p>
+2 tc Cafe Deco Group承諾及理念 <p>集團承諾提供客人最殷勤的款待，務求令客人感受到賓至如歸的體驗。</p>
+<p>集團的理念在於不斷力求上進，提供最完善的餐飲體驗及服務質素。與此同時，確保員工質素亦是集團首要目標。</p>
+2 sc Cafe Deco Group承诺及理念 <p>集团承诺提供客人最殷勤的款待，务求令客人感受到宾至如归的体验。</p>
+<p>集团的理念在於不断力求上进，提供最完善的餐饮体验及服务质素。与此同时，确保员工质素亦是集团首要目标。</p>
+3 eng Franchise <p>With its first franchise at the Hong Kong International Airport, Cafe Deco Group continues to take its well established brand and successful track record to overseas markets and offers like-minded investors throughout Asia, Europe and the Middle-East the opportunity to acquire a Cafe Deco franchise and benefit from the Group's world class expertise and experience in restaurant management.</p>
+<p>If you are interested in operating a Cafe Deco Franchise and wish to learn more about it, please email us your information to franchise@cafedecogroup.com and we will get back to you shortly.</p>
+3 tc 特許經營權 <p>過去十多年，Cafe Deco Group無論在香港、澳洲，至澳門，都提供了過百萬旅客及消費者獨一無二的餐飲體驗，成為飲食界的指標，建立領導地位。</p>
+<p>今天，Cafe Deco Group歡迎各有志於飲食界發展的投資者把集團的業務推至另一高峰，將獨一無二的餐飲體驗帶進世界各地，包括亞洲、歐洲，甚至中東，令更多識飲識食的人士能夠品嚐本集團的美味菜餚。</p>
+<p>如欲獲得更多Cafe Deco Group特許經營權的資料，可電郵致 franchise@cafedecogroup.com ，我們會盡快回覆。</p>
+3 sc 特许经营权 <p>过去十多年，Cafe Deco Group无论在香港丶澳洲，至澳门，都提供了过百万旅客及消费者独一无二的餐饮体验，成为饮食界的指标，建立领导地位。</p>
+<p>今天，Cafe Deco Group欢迎各有志於饮食界发展的投资者把集团的业务推至另一高峰，将独一无二的餐饮体验带进世界各地，包括亚洲丶欧洲，甚至中东，令更多识饮识食的人士能够品尝本集团的美味菜肴。</p>
+<p>如欲获得更多Cafe Deco Group特许经营权的资料，可电邮致 franchise@cafedecogroup.com ，我们会尽快回覆。</p>
+4 eng VIP Benefits <p><strong>Welcome to the Cafe Deco Group VIP Program</strong></p>
+<p><strong>We would like to reward our frequent diners for their loyalty by offering special privileges and benefits.</strong></p>
+<p><strong>Read on and find out more about our exciting offers. Visit our website frequently for all the great benefits you can enjoy and learn about the newly joined partners in our program.</strong><strong> </strong></p>
+<p>As a Cafe Deco Group VIP, you can enjoy the following privileges:<br /> <strong><br /> <strong>Discounts</strong></strong><sup>1</sup><strong>:</strong></p>
+<p>10% year-round offer, all day every day</p>
+<p><strong>CDG Dining Credits</strong><sup>2</sup><span style="font-size: 10px;">:</span></p>
+<ul>
+<li>1 CDG Dining Credit can be earned for every HKD 10 spent at participating outlets</li>
+<li>CDG Dining Credits can be redeemed at any one of our participating outlets</li>
+<li>A VIP member can redeem these dining credits when 600 or more CDG Dining Credits have been accumulated. A minimum of 600 CDG Dining Credits is to be used for each redemption</li>
+<li>CDG Dining Credits will be awarded up to HKD 50,000 spending per bill (i.e. 5,000 CDG Dining Credits) including private and corporate functions</li>
+</ul>
+<p><strong>Exclusive Benefits</strong>:</p>
+<ul>
+<li>Invitations to exclusive VIP events</li>
+<li>Access to special VIP-only promotions</li>
+<li>Enjoy exclusive discount offers from <a href="http://cafedecogroup.com/specials.php">affiliated partners</a></li>
+</ul>
+<p><strong>VIP Hotline</strong><br />Our VIP team is happy to provide any assistance to our privileged VIP members.</p>
+<p>VIP Hotline: +852 5320-0060 Monday to Friday, 9:30am - 6:30pm (except public holidays). You can also contact us by emailing to <a href="mailto:vip@cafedecogroup.com">vip@cafedecogroup.com</a></p>
+<p><sup>1</sup> Discount is applicable for dine-in only and not applicable to all sales events, Cafe Sydney, Cafe Deco Shanghai Pudong International Airport, Cafe Deco Macau &amp; Dim Sum Bar (Hung Hom)<br /> <sup>2</sup> CDG Dining Credits are for dine-in only and not applicable to Cafe Sydney, Cafe Deco Shanghai Pudong International Airport, Cafe Deco Macau and Dim Sum Bar (Hung Hom). Dining Credits redemption cannot be used in conjunction with any credit card promotion and outlet promotion offers.&nbsp;</p>
+<ul>
+</ul>
+
++++++++++
+db_cafede - tbl_pages:(9)
+page_id,category,added_date,modified_date,priority,hidden
+1 corporate 2014-12-02 10:24:55 2014-12-02 10:24:55 3 0
+2 corporate 2016-05-24 02:52:41 2016-05-24 02:52:41 2 0
+3 corporate 2015-08-17 10:51:43 2015-08-17 10:51:43 1 0
+4 benefits 2019-04-08 12:47:34 2019-04-08 12:47:34 1 0
+6 policy 2017-02-15 12:09:34 2017-02-15 12:09:34 1 0
+8 other 2017-02-15 12:08:53 2017-02-15 12:08:53 1 0
+10 other 2019-04-08 01:10:18 2019-04-08 01:10:18 1 0
+11 other 2017-02-15 12:06:18 2017-02-15 12:06:18 1 0
+13 other 2017-02-15 12:07:20 2017-02-15 12:07:20 1 1
+
++++++++++
+db_cafede - tbl_press:(205)
+press_id,lang,subject,published_date
+143 eng Pivo Czech Bar brings the ultimate Czech experience to Hong Kong 2015-08-03 00:00:00
+144 tc 全新捷克體驗 Pivo Czech Bar登陸香港 2015-08-03 00:00:00
+145 sc 全新捷克体验Pivo Czech Bar登陆香港 2015-08-05 00:00:00
+146 eng All-you-can-eat dim sum and award-winning panda dumplings are arriving at Dim Sum Bar! 2015-09-01 00:00:00
+147 tc 點一龍再度推出點心放題 可愛熊貓粉果榮獲美食金獎 2015-09-01 00:00:00
+148 sc 点一龙再度推出点心放题 可爱熊猫粉果荣获美食金奖 2015-09-01 00:00:00
+149 eng Prost! Celebrate Oktoberfest with Berliner’s exclusive German beers and delicacies 2015-10-02 00:00:00
+150 tc 2015德國啤酒節Berliner推出限量版生啤及精選美食 2015-10-02 00:00:00
+151 sc 2015德国啤酒节Berliner推出限量版生啤及精选美食 2015-10-02 00:00:00
+152 eng Stormies amazes diners with new location at Yoho Mall in Yuen Long  and a facelift in Lan Kwai Fong 2015-11-20 00:00:00
+262 tc Watermark 慶祝開業十週年 呈獻海鮮盛宴及特別大抽獎 2017-07-27 00:00:00
+263 tc 峰景餐廳呈獻全新海鮮盛饌優惠及悠閒下午茶 2017-07-31 00:00:00
+264 sc 峰景餐厅呈献全新海鲜盛馔优惠及悠闲下午茶 2017-07-31 00:00:00
+265 eng Cafe Deco presents all-new seafood galore and afternoon tea set 2017-07-31 00:00:00
+266 eng Cafe Deco Pizzeria Proudly Presents New Menus with “East meets West” Pizza Collection! 2017-08-17 00:00:00
+267 sc Cafe Deco Pizzeria 呈献新款特色美食 中西合璧薄饼强势登场 2017-08-17 00:00:00
+268 tc Cafe Deco Pizzeria 呈獻新款特色美食 中西合璧薄餅強勢登場 2017-08-17 00:00:00
+269 eng Watermark Presents New A La Carte Menu with Seafood Spectacle 2017-09-08 00:00:00
+270 tc 全新 Watermark 主餐牌帶來多國海鮮美饌 2017-09-08 00:00:00
+271 sc 全新 Watermark 主餐牌带来多国海鲜美馔 2017-09-08 00:00:00
+
++++++++++
+db_cafede - tbl_staff:(1)
+staff_id,user_name,user_pwd,is_valid
+1 user1 q!pass!1 1
+
++++++++++
+
+ 
+db_foodsq - tbl_admin:(1)
+admin_id,username,password,name,lastloggedin_time,status
+1 admin 8a73c0e04a058d780569fd36619ad018 Admin 2017-06-21 19:57:22 1
+
++++++++++
+db_foodsq - tbl_page:(5)
+page_id,category_id,name_eng,name_tc,content_eng,content_tc,filename,priority,hidden,modified_time
+1 1 Our Philosophy 營運理念 <p>Food Square is committed to excellence and dedication to uncompromising quality. We continously strive to be the leader in the food processing industry.</p>
+<p><img style="margin: 0 10px;" src="http://www.foodsquare.com.hk/assets/philosophy.jpg" alt="" /></p> <p>馥薈不斷努力以領導食品加工行業為目標，全心投入，致力追求產品及服務的卓越質素。</p>
+<p><img style="margin: 0 10px;" src="http://www.foodsquare.com.hk/assets/philosophy.jpg" alt="" /></p> philosophy.php 4 0 2013-12-04 13:41:03
+2 1 Our Company 產品服務 <p><img src="http://www.foodsquare.com.hk/assets/company_eng.jpg" align="right" style="margin: 0 10px" />Established in 2005, Food Square provides cost effective value-added products to a broad spectrum of customers in Hong Kong. We offer a wide variety of specialty foods prepared in our over 10,000 square feet facility and can customize items to suit a customer's needs.</p>
+<p>Our team of experienced chefs are highly skilled and can create products tailored to your specific needs. We value our partnerships with customers and work with these partners from conception to production, packaging and delivery.</p> <p><img src="http://www.foodsquare.com.hk/assets/company_tc.jpg" align="right" style="margin: 0 10px" />於2005年成立，馥薈在香港為不同客户層提供高度成本效益的食品加工產品。於愈萬呎的廠房內，我們特別設計及準備一系列不同種類的本地製作新鮮食品，滿足市場上的需要。</p>
+<p>我們富經驗的廚師團隊可按顧客不同要求創作特色食品。從構思，製作，包裝到運送，我們都視顧客為伙伴， 透過緊密溝通合作，了解其需要並提供解決方案。</p> company.php 3 0 2013-05-10 12:33:39
+3 1 Our Facilities & Equipments 設備資料 <p>With over 10,000 square feet of food production and warehouse space, our process flow is designed to maximize capacity and comply with HACCP principles including segregated workstations for meats, seafood and poultry.</p>
+    <table width="640" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <th width="40" align="center">&nbsp;</th>
+        <th>Machine Type</th>
+        <th>Production Capacity</th>
+      </tr>
+      <tr>
+        <td align="center">1</td>
+        <td>Salmon Slicing Machine</td>
+        <td>3 sides/60 seconds</td>
+      </tr>
+      <tr>
+        <td align="center">2</td>
+        <td>Bastra Smokers</td>
+        <td>160 sides of salmon/batch</td>
+      </tr>
+      <tr>
+        <td align="center">3</td>
+        <td>Seydelmann Meat Grinder</td>
+        <td>100 kg/10 minutes</td>
+      </tr>
+      </table>
+<p align="center"><img src="http://www.foodsquare.com.hk/assets/facilities_1_eng.jpg" /><img src="http://www.foodsquare.com.hk/assets/facilities_2_eng.jpg" /><img src="http://www.foodsquare.com.hk/assets/facilities_3_eng.jpg" /></p> <p>於愈萬呎不同的製作室及儲存空間內，製作工序經特別設計去提高生產力並同時符合 HACCP 食品安全認證要求，設立不同的工作點獨立處理肉類，海鮮類及家禽類食材。</p>
+    <table width="640" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <th width="40" align="center">&nbsp;</th>
+        <th>機器類別</th>
+        <th>生產力</th>
+      </tr>
+      <tr>
+        <td align="center">1</td>
+        <td>三文魚切片機</td>
+        <td>每60秒3份</td>
+      </tr>
+      <tr>
+        <td align="center">2</td>
+        <td>煙燻焗爐</td>
+        <td>每批160份三文魚</td>
+      </tr>
+      <tr>
+        <td align="center">3</td>
+        <td>碎肉機</td>
+        <td>每10分鐘100公斤</td>
+      </tr>
+      </table>
+<p align="center"><img src="http://www.foodsquare.com.hk/assets/facilities_1_tc.jpg" /><img src="http://www.foodsquare.com.hk/assets/facilities_2_tc.jpg" /><img src="http://www.foodsquare.com.hk/assets/facilities_3_tc.jpg" /></p> facilities.php 2 0 2013-05-10 12:33:39
+4 4 Contact Us 聯絡我們 <p><strong>Food Square Hong Kong Limited</strong></p>
+<p>If you have any product enquiry or special request, please feel free to contact us by the way below.</p>
+<table width="480" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="80">Address</td>
+<td>Flat B-C, 2/F., Unison Industrial Building,<br /> 7 Sun Yip Street,<br /> Chai Wan, Hong Kong</td>
+</tr>
+<tr>
+<td>Tel</td>
+<td>(852) 2889 1900</td>
+</tr>
+<tr>
+<td>Fax</td>
+<td>(852) 2898 8354</td>
+</tr>
+<tr>
+<td>Email</td>
+<td><a href="mailto:info@foodsquare.com.hk">info@foodsquare.com.hk</a></td>
+</tr>
+</tbody>
+</table> <p><strong>馥薈香港有限公司</strong></p>
+<p>若有任何產品查詢或要求，可以以下方法聯絡我們。</p>
+<table width="480" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="80">地址</td>
+<td>香港柴灣新業街7號協興工業大廈2樓B-C室</td>
+</tr>
+<tr>
+<td>電話</td>
+<td>(852) 2889 1900</td>
+</tr>
+<tr>
+<td>傳真</td>
+<td>(852) 2898 8354</td>
+</tr>
+<tr>
+<td>電郵</td>
+<td><a href="mailto:info@foodsquare.com.hk">info@foodsquare.com.hk</a></td>
+</tr>
+</tbody>
+</table> contact.php 1 0 2013-12-04 13:48:48
+5 3 Our Clients 我們的客戶 <p><em>"Food Square is great and their services exceed our expectations"<br /> "They helped us a lot, particularly fulfilling our last minute orders"</em></p>
+<p align="right"><strong>Tony Shum, Director of Purchasing<br /> Four Seasons Hotel Hong Kong</strong></p>
+<p><em>"We appreciate that your food quality, service provided to our hotels as well as competitive price subject to our needs."</em></p>
+<p align="right"><strong>Gary Lim, Purchasing<br /> Swire Hotels</strong></p> <p><em>"Food Square is great and their services exceed our expectations"<br /> "They helped us a lot, particularly fulfilling our last minute orders"</em></p>
+<p align="right"><strong>Tony Shum, Director of Purchasing<br /> Four Seasons Hotel Hong Kong</strong></p>
+<p><em>"We appreciate that your food quality, service provided to our hotels as well as competitive price subject to our needs."</em></p>
+<p align="right"><strong>Gary Lim, Purchasing<br /> Swire Hotels</strong></p> clients.php 0 0 2013-06-13 10:15:43
+
++++++++++
+db_foodsq - tbl_page_category:(4)
+category_id,name_eng,name_tc,filename,priority,hidden
+1 About Food Square 有關馥薈 philosophy.php 4 0
+2 Our Products 我們的產品 products.php 3 0
+3 Our Clients 我們的客戶 clients.php 2 0
+4 Contact Us 聯絡我們 contact.php 1 0
+
++++++++++
+db_foodsq - tbl_product:(180)
+product_id,category_id,code,name_eng,name_tc,attribute_eng,attribute_tc,priority,hidden,modified_time
+1 1 22001 Wiener Sausage (8") 維也納腸 (8") 2 kg 2 kg 99 0 2014-09-23 13:31:18
+2 1 22004 Hot Dog Sausage (4") 熱狗腸 (4") 2 kg 2 kg 81 0 2014-09-23 12:57:21
+3 1 22005 Jumbo Hot Dog Sausage (7") 珍寶熱狗腸 (7") 2 kg 2 kg 80 0 2014-09-23 12:57:09
+170 1 22402 Smoked Beef Sausage (8") 煙牛肉腸 (8") 1 kg 1 kg 67 0 2015-04-15 12:29:37
+5 1 22103 Herb Pork Sausage (6") 香草豬肉腸 (6") 2 kg 2 kg 34 0 2015-03-11 16:36:53
+6 1 22090 Super Pork Cheese Sausage (42 cm) 芝士豬肉腸  (42 cm) 2.8 kg 2.8 kg 72 0 2015-12-21 11:42:03
+7 1 22064 English Pork Sausage (4") 英式豬肉早餐腸 (4") 2 kg 2 kg 38 0 2015-03-11 16:35:38
+167 1 22012 Pork Cheese Krainer (9") 豬肉芝士佳拿腸(9") 2 kg 2 kg 77 0 2014-09-23 12:56:24
+10 1 22056 Frankfurter Sausage (10") 法蘭克福腸 (10") 2 kg 2 kg 83 0 2014-09-23 13:30:30
+11 1 22048 Frankfurter Sausage (9") 法蘭克福腸(9") 2 kg 2 kg 84 0 2014-09-23 13:30:40
+200 6 21407 Smoked Turkey Breast (Boneless) (Sliced) 煙火雞胸 (無骨) (切片) 1.4+ kg 1.4+ kg 3 0 2015-03-11 16:10:29
+198 6 15078 Roasted Chicken Breast (Boneless & Skin On) 燒雞胸 (有皮無骨) Per kg Per kg 10 0 2014-05-09 11:08:30
+197 6 55013 Chicken Breast (Boneless & Skinless) (Raw) 雞胸 (無皮無骨) Per kg Per kg 11 0 2014-05-09 11:08:54
+194 3 16012 Crumbed Fish Fillet 吉列魚柳 1 kg 1 kg 0 0 2014-07-17 14:25:17
+191 3 40102 Plain Pulled Pork Plain Pulled Pork 500 g 500 g 3 0 2014-07-17 14:26:18
+192 3 40101 BBQ Pulled Pork 燒烤醬豬肉絲 1 kg 1 kg 2 0 2014-07-17 14:26:05
+193 3 16011 Crumbed Chicken Fillet 吉列雞柳 1 kg 1 kg 1 0 2014-07-17 14:25:29
+190 3 40104 Pork Rillettes 豬肉醬 1 kg 1 kg 4 0 2014-07-17 14:26:43
+110 6 15009 Chicken Whole for Roasting (Raw) 全隻雞 (生) (燒烤用) 1.6+ kg 1.6+ kg 18 0 2015-11-06 12:10:57
+112 6 15083 Roasted Chicken Breast (Boneless & Skinless) 燒雞胸(無皮無骨) Per kg Per kg 9 0 2014-05-09 11:08:03
+
++++++++++
+db_foodsq - tbl_product_category:(10)
+category_id,name_eng,name_tc,priority,hidden
+1 Sausage 腸類 9 0
+2 Burger Patty 漢堡肉 8 0
+3 Specialty Made 特選加工產品 7 0
+4 Pork &amp; Bacon 豬肉類 6 0
+5 Meat 肉類 5 0
+6 Poultry 家禽類 3 0
+7 Cold Cut 凍切肉腸 2 0
+8 Smoked &amp; Fresh Fish 煙燻及鮮魚類 1 0
+9 Ham 火腿 4 0
+10 German Condiments 德國調味品 0 0
+
++++++++++
+db_foodsq - tbl_promotion:(2)
+promotion_id,name_eng,name_tc,filename,hidden,published_time,expiry_time
+6 2 2 2008.php 1 2016-05-21 00:00:00 2016-05-28 00:00:00
+7 3 3 angel.php 1 2016-05-21 00:00:00 2016-05-22 00:00:00
+
++++++++++
+
+ 
+db_lists - phplist_admin:(1)
+id,loginname,namelc,email,created,modified,modifiedby,password,passwordchanged,superuser,disabled
+1 admin admin 2011-09-22 16:25:32 2011-09-22 16:29:11 admin phplist 2011-09-22 1 0
+
++++++++++
+db_lists - phplist_admin_attribute:(0)
+adminattributeid,adminid,value
+
++++++++++
+db_lists - phplist_admin_task:(0)
+adminid,taskid,level
+
++++++++++
+db_lists - phplist_adminattribute:(0)
+id,name,type,listorder,default_value,required,tablename
+
++++++++++
+db_lists - phplist_admintoken:(13)
+id,adminid,value,entered,expires
+93 0 0c64c3db44c15e1a9d84c0e2ec28c983 1497762219 2017-06-18 14:03:39
+92 0 76603074a28d68f645509d10a1b5c550 1497762199 2017-06-18 14:03:19
+91 0 b29d6c40db486a2ae1123a7ec15e7530 1497762168 2017-06-18 14:02:48
+90 0 b2d9db604326c472c88c5e3be9da991a 1497762158 2017-06-18 14:02:38
+89 0 902edc9e84a02f2e62487e05c69c3dda 1497759431 2017-06-18 13:17:11
+88 0 8e967364f77cb9bcffaa21f013784bcf 1497759405 2017-06-18 13:16:45
+87 0 3e17a9c377b1e1ad269000a06b250ac4 1497759300 2017-06-18 13:15:00
+86 1 3991e327c8593e2be1e7309fa24889a4 1486373400 2017-02-06 18:30:00
+85 1 6ae2ec099a0a7b30928dfb0953438db4 1486373397 2017-02-06 18:29:57
+84 1 2dcd2ba11fe9564b6de0cdc619c8abb6 1486373390 2017-02-06 18:29:50
+
++++++++++
+db_lists - phplist_attachment:(0)
+id,filename,remotefile,mimetype,description,size
+
++++++++++
+db_lists - phplist_bounce:(0)
+id,date,header,data,status,comment
+
++++++++++
+db_lists - phplist_bounceregex:(0)
+id,regex,action,listorder,admin,comment,status,count
+
++++++++++
+db_lists - phplist_bounceregex_bounce:(0)
+regex,bounce
+
++++++++++
+db_lists - phplist_config:(48)
+item,value,editable,type
+version 2.10.17 0
+updatelastcheck 2017-02-06 14:56:58 0
+website www.cafedecogroup.com 1
+domain cafedecogroup.com 1
+xormask c53d7a4ec991504b7059ac8bb79e6c58 0
+check_new_version 7 1
+admin_address webmaster@[DOMAIN] 1
+admin_addresses 1
+report_address listreports@[DOMAIN] 1
+message_from_address noreply@[DOMAIN] 1
+
++++++++++
+db_lists - phplist_eventlog:(3)
+id,entered,page,entry
+1 2017-02-06 17:19:01 home login ip invalid from 213.87.160.191 for admin (was 188.227.104.174)
+2 2017-02-06 17:26:50 login invalid login from 84.33.25.86, tried logging in as admin
+3 2017-02-06 17:27:12 login invalid login from 84.33.25.86, tried logging in as testmode
+
++++++++++
+db_lists - phplist_linktrack:(0)
+linkid,messageid,userid,url,forward,firstclick,latestclick,clicked
+
++++++++++
+db_lists - phplist_linktrack_userclick:(0)
+linkid,userid,messageid,name,data,date
+
++++++++++
+db_lists - phplist_list:(1)
+id,name,description,entered,listorder,prefix,rssfeed,modified,active,owner
+1 test List for testing. 2011-09-22 16:25:32 2011-09-22 16:25:32 0 1
+
++++++++++
+db_lists - phplist_listmessage:(0)
+id,messageid,listid,entered,modified
+
++++++++++
+db_lists - phplist_listrss:(0)
+listid,type,entered,info
+
++++++++++
+db_lists - phplist_listuser:(0)
+userid,listid,entered,modified
+
++++++++++
+db_lists - phplist_message:(4)
+id,subject,fromfield,tofield,replyto,message,textmessage,footer,entered,modified,embargo,repeatinterval,repeatuntil,status,userselection,sent,htmlformatted,sendformat,template,processed,astext,ashtml,astextandhtml,aspdf,astextandpdf,viewed,bouncecount,sendstart,rsstemplate,owner
+1 (no subject) 2011-09-22 16:32:54 2011-09-22 16:32:54 2011-09-22 16:32:54 0 2011-09-22 16:32:54 draft 0 HTML 0 0 0 0 0 0 0 0 0 1
+2 (no subject) 2011-09-22 16:32:57 2011-09-22 16:32:57 2011-09-22 16:32:57 0 2011-09-22 16:32:57 draft 0 HTML 0 0 0 0 0 0 0 0 0 1
+3 (no subject) 2016-02-18 04:55:09 2016-02-18 04:54:00 0 2016-02-18 04:54:55 draft 0 HTML 0 0 0 0 0 0 0 0 0 1
+4 (no subject) 2016-02-18 04:55:13 2016-02-18 04:55:13 2016-02-18 04:55:13 0 2016-02-18 04:55:13 draft 0 HTML 0 0 0 0 0 0 0 0 0 1
+
++++++++++
+db_lists - phplist_message_attachment:(0)
+id,messageid,attachmentid
+
++++++++++
+db_lists - phplist_messagedata:(0)
+name,id,data
+
++++++++++
+db_lists - phplist_rssitem:(0)
+id,title,link,source,list,added,processed,astext,ashtml
+
++++++++++
+db_lists - phplist_rssitem_data:(0)
+itemid,tag,data
+
++++++++++
+db_lists - phplist_rssitem_user:(0)
+itemid,userid,entered
+
++++++++++
+db_lists - phplist_sendprocess:(0)
+id,started,modified,alive,ipaddress,page
+
++++++++++
+db_lists - phplist_subscribepage:(0)
+id,title,active,owner
+
++++++++++
+db_lists - phplist_subscribepage_data:(0)
+id,name,data
+
++++++++++
+db_lists - phplist_task:(50)
+id,page,type
+1 adminattributes system
+2 attributes system
+3 upgrade system
+4 configure system
+5 spage system
+6 spageedit system
+7 defaultconfig system
+8 defaults system
+9 initialise system
+10 bounces system
+
++++++++++
+db_lists - phplist_template:(0)
+id,title,template,listorder
+
++++++++++
+db_lists - phplist_templateimage:(1)
+id,template,mimetype,filename,data,width,height
+1 0 image/png powerphplist.png iVBORw0KGgoAAAANSUhEUgAAAEYAAAAeCAMAAACmLZgsAAADAFBMVEXYx6fmfGXfnmCchGd3VDPipmrouYIHBwe3qpNlVkTmcWHdmFrfRTeojW3IpXn25L7mo3TaGhe6mXLCmm+7lGnntn7sx5Sxh1usk3akdEfBiFPtyJfgo2bjqW7krnTjqnDproK1pInvODRRTEKFemnuzaAtIRXenF7KqIHfn2KHcVjtyZjnqHrnknLhpGjnt4HeMyzlnnHr1rLkmW3WAADllGuUfmPcKSMcFxLnuICUd1f037kqJiDqv47sxZLYAQHLtJLfOTI7KhrInnHqwY7hTUHz2rGDbVTz27Xkr3XJvKPng3HuypzouoPrwo/hXk3x1qzqwIvizavrwpDu0atqYVTqnoBdTz7QlFvqtYbgST14cWPar33hYkrw0qZKQjjdml12XkPSv52NhHPovIjjrHLZDQz03bbsxZHcq3fgQjsUEg92YUmUinjgpGbvz6PZtYjcp3Tr2bWEaUzz3LXx1KhFOi7pvojy2K314rzjvYzjf2EwLCbw0qRvUzb25MBoSi3gomXdmFvlsXhBOzIiHxrw06i8oHzx1qrqwIvmjWt4aVaFXjnopHzuy5724r/supM5Myzeml3qv4rx1Kbou4bmuYTosoHhyaTipWngoWTmtHvms3rjrXLmsn2yf07OkFf137zsx5bw1KvmsXjoq33uzqTsxpTouojdl1vlZlvswpDy16rDtZrkbFq3jmHhUUXhpmrbHxriX0/lsnrirnf14r/ty6BZPiXouYflsnjmsXvimmZaQSjiqGvipmnhpmn2473msnjovIbtx5nem13w0aRKNCDipWrrw5TsvY7qvokODArhWUnqwI/ip2vemVzlpnTrw5Hjq3Dy17Dihl/xSUPvbl3Nu53gUEPfQDPhpWnlh2nwi3ToiXDouYXt27n03LO1nX3bFBHjlmbaCAnroHXYCAfBs5fWqXXsxZbnwIzjYFPrw5Ddwp3pvYyUaD7On27RpnjXpXDswJTWpG/gsn3lwJHy4Lv037jiaFbdmVzcl1kDAgEEAwIAAACJJzCsAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9MKFQolCwe/95QAAAXuSURBVHicrZF5XJJ3HMdVHodmZhcmCqbzRFNRSbGpCHk2tF46y6yQyiup7LDDpSlgpoVmHjNAXi3TWs0Oj8qt0qxJxyhn1LZga1u2tVou290In31/D7j197YPz+/7+x6/75vv83ssjP9B4xMyWhhf/msxgtSg0sbrswEjMRgkBomdBIzBYGdnkIDszLvElJWgwPBSAsljEELCDtYxxQfq0lKBQPBRDmAg+4lBKBQaTDLtQskrvrlEEImakChJAAMQdSWBGRTW1/NwvFco0+Dlg2znMfxdWS8kcCqs3noMLAaG7TxYXw++TOg9Vu89NjhYL6S9pxaoS9WCJ+ilfEA8qjPurDmYwZP1ysp5Y+UyHhWyuI8z7oNhPoPIYL0+VpCRXfU5yMauoqZB/bPKRoGgcct1OmCsQPDn5VSelRWGjZXzqJh3BprGCs1hhaahYpgVKpsyVpgmAzUxZl/fglT5rNNoMc4A8agMBprGW5bB4zF43kSCgTOuYgwMAw8MdpHIOOMMBpWHehi0Hq8tjYBRB+nHLcYVCrGYR1UoFOhuxApvTMwrV5juRpGhOThxN97OcA78iwoxlScWQ0DPrkTDVPGlNMDQaOvXw6LRaIGwiIDY//aJKvLEYhSKaaYTnT38RR1VVR1VUVqE0ev1crn+kvwa2uR6faD8kt5ajrL6TnD1+v5+eScq6C/p+/X6a4HyQDjZL3eNquyo6ujYfoTSh17Kum9oaMh6CJk+a2LvG0LORDRR7YODKI3Ow6P6qnA70qI06dAQYOiguVwOh8XisOIe0ukPdRwiYN6l980jizZDuY9OnyUa37mRPmMr3A5OJv06DzYjWmyvoBw6HTBarbaGy8qNO/m0ixUXqtVe0HFyM/9cGM7q+k4bRtYkaAnNEuE7Z/+0BI9cuzIL9/t5VuTW/WScXVHhESWFKmBcVapuTteO4ODQyazTD1WqC5M53Jrh0Ls61mdrSGRRgkqVo1KpTrHHN6tI5P0znj+fbz//zPLdMe6RRtuYGF+Ka46rK2CSkpK6WN3DsOlYmcFJScM6TkEzRDtYr28kaUR+SYQAM+/MXtyWCFqya+PjD5QY98bXJktRAjA9UimTdTNYer69m3lyTtv5dpjGra1t6grWp2sQRnpZ2vZhG5pGGkYuCZv5/HHErSPx8dtXleDp57KVUunly1LAtLQovxh5tHBPwP1JTyfd3xMQEMcpCJi6Z8Ujzpc98FJ+SqWyRak8xTau7PHNwvEs2wSnA0XfxMcjzDMKdCtbWgBDoVCab+bC1+HkjnwLhjuZU5A5DRzdUgrCUAjNBMxvlOklIg18oNUheXlFgLENMhUpgIkANVsyR6Z1MbnMrpHwe5mcgnvhuUzL8xERYSKRXwQhhHkc9NoGXyfPrHGNTV5eHsJQgkxVwCQjBbWHBs+1PP7m3KnDoXGcuIA5oXMokCYBBpVfSwbM2uXZsfy3QkJSPfBlIS+KYiJhGlMxGTBXmsxyOz3teHBTUztMU9fUlIxSJBGbZCpOFxnX/n4uNeSNFy+KbPH0TYlHfOGDv0PUrjQB5uNtZjXrWKdrtm0DDLcOQpQniTTpTvb29k5TprPHw0IWpC+zWXViNVtjk+h1ewpM02RuBUw1oYbqajcuK7Omurpdx2HWNVQTvzANrimJ3LWrxG+3CF/99Toc3+9RgZM9U2tvV0/ZhS/JJjobGgATa1JK7NLu8JNuKbFucSxuXYop6VQRCRDAeH6eVbJu04JlWRB7eP7ofzv2lm9WZMIPRGNsLGBGzUqLag9wi0obvbE43PKX0bTR0ZSU0Q0PnB48cHd3t7HY9L27xR/FxaknFthYeLnkp6Slvb3b3tfUmfI+YKKj8/OjzYawTxbfAHvU0cW/trDyTuKhfQ4DDsUDoOJiB4fiRAG/NRrq+eY24gGMI6GjaCE5tjq2+vvzvQoFiwgEaMBhYADtDmVnEyu9+HCGOPhPYytgXMzyh2Z+ba1Xobry8J3EvENny8rKHF5V2b7Ew4V8l1fkb+5zAcz/or8Ag3ozZFZX3G0AAAAASUVORK5CYII= 70 30
+
++++++++++
+db_lists - phplist_urlcache:(0)
+id,url,lastmodified,added,content
+
++++++++++
+db_lists - phplist_user_attribute:(0)
+id,name,type,listorder,default_value,required,tablename
+
++++++++++
+db_lists - phplist_user_blacklist:(0)
+email,added
+
++++++++++
+db_lists - phplist_user_blacklist_data:(0)
+email,name,data
+
++++++++++
+db_lists - phplist_user_message_bounce:(0)
+id,user,message,bounce,time
+
++++++++++
+db_lists - phplist_user_message_forward:(0)
+id,user,message,forward,status,time
+
++++++++++
+db_lists - phplist_user_rss:(0)
+userid,last
+
++++++++++
+db_lists - phplist_user_user:(0)
+id,email,confirmed,blacklisted,bouncecount,entered,modified,uniqid,htmlemail,subscribepage,rssfrequency,password,passwordchanged,disabled,extradata,foreignkey
+
++++++++++
+db_lists - phplist_user_user_attribute:(0)
+attributeid,userid,value
+
++++++++++
+db_lists - phplist_user_user_history:(0)
+id,userid,ip,date,summary,detail,systeminfo
+
++++++++++
+db_lists - phplist_usermessage:(0)
+messageid,userid,entered,viewed,status
+
++++++++++
+db_lists - phplist_userstats:(0)
+id,unixdate,item,listid,value
+
++++++++++
+
+ 
+db_mc04 -  :()
+
++++++++++
+
+ 
+mysql - columns_priv:(0)
+Host,Db,User,Table_name,Column_name,Timestamp,Column_priv
+
++++++++++
+mysql - db:(4)
+Host,Db,User,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Create_tmp_table_priv,Lock_tables_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Execute_priv
+localhost policyd policymaster Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y
+localhost umailcms umailcms Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y
+localhost scheduler schuser Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y
+localhost SMSService sms_user Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y
+
++++++++++
+mysql - func:(0)
+name,ret,dl,type
+
++++++++++
+mysql - help_category:(36)
+help_category_id,name,parent_category_id,url
+1 Geographic 0
+2 Polygon properties 31
+3 WKT 31
+4 Numeric Functions 35
+5 MBR 31
+6 Control flow functions 35
+7 Transactions 32
+8 Account Management 32
+9 Point properties 31
+10 Encryption Functions 35
+
++++++++++
+mysql - help_keyword:(404)
+help_keyword_id,name
+0 JOIN
+1 REPEAT
+2 SERIALIZABLE
+3 REPLACE
+4 RETURNS
+5 MASTER_SSL_CA
+6 NCHAR
+7 COLUMNS
+8 WORK
+9 DATETIME
+90 MOD
+91 DEFAULT
+92 TYPE
+93 NO_WRITE_TO_BINLOG
+94 OPTIMIZE
+95 RESET
+96 ITERATE
+97 DO
+98 BIGINT
+99 SET
+
++++++++++
+mysql - help_relation:(850)
+help_topic_id,help_keyword_id
+1 0
+341 0
+218 1
+427 2
+3 3
+402 3
+88 4
+176 5
+410 6
+17 7
+446 44
+45 45
+97 45
+188 46
+1 47
+49 47
+42 48
+75 48
+97 48
+182 49
+291 221
+446 222
+296 223
+441 224
+80 225
+176 226
+316 227
+341 227
+347 227
+341 228
+
++++++++++
+mysql - help_topic:(484)
+help_topic_id,name,help_category_id,description,example,url
+0 MIN 15 Syntax:
+MIN([DISTINCT] expr)
+
+Returns the minimum value of expr. MIN() may take a string argument; in
+such cases, it returns the minimum string value. See
+http://dev.mysql.com/doc/refman/5.0/en/mysql-indexes.html. The DISTINCT
+keyword can be used to find the minimum of the distinct values of expr,
+however, this produces the same result as omitting DISTINCT.
+
+MIN() returns NULL if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html mysql> SELECT student_name, MIN(test_score), MAX(test_score)
+    ->        FROM student
+    ->        GROUP BY student_name; http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html
+1 JOIN 25 MySQL supports the following JOIN syntaxes for the table_references
+part of SELECT statements and multiple-table DELETE and UPDATE
+statements:
+
+table_references:
+    table_reference [, table_reference] ...
+
+table_reference:
+    table_factor
+  | join_table
+
+table_factor:
+    tbl_name [[AS] alias] [index_hint)]
+  | table_subquery [AS] alias
+  | ( table_references )
+  | { OJ table_reference LEFT OUTER JOIN table_reference
+        ON conditional_expr }
+
+join_table:
+    table_reference [INNER | CROSS] JOIN table_factor [join_condition]
+  | table_reference STRAIGHT_JOIN table_factor
+  | table_reference STRAIGHT_JOIN table_factor ON conditional_expr
+  | table_reference {LEFT|RIGHT} [OUTER] JOIN table_reference join_condition
+  | table_reference NATURAL [{LEFT|RIGHT} [OUTER]] JOIN table_factor
+
+join_condition:
+    ON conditional_expr
+  | USING (column_list)
+
+index_hint:
+    USE {INDEX|KEY} [FOR JOIN] (index_list)
+  | IGNORE {INDEX|KEY} [FOR JOIN] (index_list)
+  | FORCE {INDEX|KEY} [FOR JOIN] (index_list)
+
+index_list:
+    index_name [, index_name] ...
+
+A table reference is also known as a join expression.
+
+The syntax of table_factor is extended in comparison with the SQL
+Standard. The latter accepts only table_reference, not a list of them
+inside a pair of parentheses.
+
+This is a conservative extension if we consider each comma in a list of
+table_reference items as equivalent to an inner join. For example:
+
+SELECT * FROM t1 LEFT JOIN (t2, t3, t4)
+                 ON (t2.a=t1.a AND t3.b=t1.b AND t4.c=t1.c)
+
+is equivalent to:
+
+SELECT * FROM t1 LEFT JOIN (t2 CROSS JOIN t3 CROSS JOIN t4)
+                 ON (t2.a=t1.a AND t3.b=t1.b AND t4.c=t1.c)
+
+In MySQL, CROSS JOIN is a syntactic equivalent to INNER JOIN (they can
+replace each other). In standard SQL, they are not equivalent. INNER
+JOIN is used with an ON clause, CROSS JOIN is used otherwise.
+
+In versions of MySQL prior to 5.0.1, parentheses in table_references
+were just omitted and all join operations were grouped to the left. In
+general, parentheses can be ignored in join expressions containing only
+inner join operations. As of 5.0.1, nested joins are allowed (see
+http://dev.mysql.com/doc/refman/5.0/en/nested-join-optimization.html).
+
+Further changes in join processing were made in 5.0.12 to make MySQL
+more compliant with standard SQL. These charges are described later in
+this section.
+
+Index hints can be specified to affect how the MySQL optimizer makes
+use of indexes. For more information, see
+http://dev.mysql.com/doc/refman/5.0/en/index-hints.html.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/join.html SELECT left_tbl.*
+  FROM left_tbl LEFT JOIN right_tbl ON left_tbl.id = right_tbl.id
+  WHERE right_tbl.id IS NULL; http://dev.mysql.com/doc/refman/5.0/en/join.html
+2 HEX 34 Syntax:
+HEX(N_or_S)
+
+If N_or_S is a number, returns a string representation of the
+hexadecimal value of N, where N is a longlong (BIGINT) number. This is
+equivalent to CONV(N,10,16).
+
+If N_or_S is a string, returns a hexadecimal string representation of
+N_or_S where each character in N_or_S is converted to two hexadecimal
+digits. The inverse of this operation is performed by the UNHEX()
+function.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/string-functions.html mysql> SELECT HEX(255);
+        -> 'FF'
+mysql> SELECT 0x616263;
+        -> 'abc'
+mysql> SELECT HEX('abc');
+        -> 616263 http://dev.mysql.com/doc/refman/5.0/en/string-functions.html
+3 REPLACE 25 Syntax:
+REPLACE [LOW_PRIORITY | DELAYED]
+    [INTO] tbl_name [(col_name,...)]
+    {VALUES | VALUE} ({expr | DEFAULT},...),(...),...
+
+Or:
+
+REPLACE [LOW_PRIORITY | DELAYED]
+    [INTO] tbl_name
+    SET col_name={expr | DEFAULT}, ...
+
+Or:
+
+REPLACE [LOW_PRIORITY | DELAYED]
+    [INTO] tbl_name [(col_name,...)]
+    SELECT ...
+
+REPLACE works exactly like INSERT, except that if an old row in the
+table has the same value as a new row for a PRIMARY KEY or a UNIQUE
+index, the old row is deleted before the new row is inserted. See [HELP
+INSERT].
+
+REPLACE is a MySQL extension to the SQL standard. It either inserts, or
+deletes and inserts. For another MySQL extension to standard SQL ---
+that either inserts or updates --- see
+http://dev.mysql.com/doc/refman/5.0/en/insert-on-duplicate.html.
+
+Note that unless the table has a PRIMARY KEY or UNIQUE index, using a
+REPLACE statement makes no sense. It becomes equivalent to INSERT,
+because there is no index to be used to determine whether a new row
+duplicates another.
+
+Values for all columns are taken from the values specified in the
+REPLACE statement. Any missing columns are set to their default values,
+just as happens for INSERT. You cannot refer to values from the current
+row and use them in the new row. If you use an assignment such as SET
+col_name = col_name + 1, the reference to the column name on the right
+hand side is treated as DEFAULT(col_name), so the assignment is
+equivalent to SET col_name = DEFAULT(col_name) + 1.
+
+To use REPLACE, you must have both the INSERT and DELETE privileges for
+the table.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/replace.html http://dev.mysql.com/doc/refman/5.0/en/replace.html
+4 CONTAINS 28 Contains(g1,g2)
+
+Returns 1 or 0 to indicate whether g1 completely contains g2. This
+tests the opposite relationship as Within().
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/functions-that-test-spatial-relationships-between-geometries.html http://dev.mysql.com/doc/refman/5.0/en/functions-that-test-spatial-relationships-between-geometries.html
+5 SRID 33 SRID(g)
+
+Returns an integer indicating the Spatial Reference System ID for the
+geometry value g.
+
+In MySQL, the SRID value is just an integer associated with the
+geometry value. All calculations are done assuming Euclidean (planar)
+geometry.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/geometry-property-functions.html#general-geometry-property-functions mysql> SELECT SRID(GeomFromText('LineString(1 1,2 2)',101));
++-----------------------------------------------+
+| SRID(GeomFromText('LineString(1 1,2 2)',101)) |
++-----------------------------------------------+
+|                                           101 |
++-----------------------------------------------+ http://dev.mysql.com/doc/refman/5.0/en/geometry-property-functions.html#general-geometry-property-functions
+6 CURRENT_TIMESTAMP 29 Syntax:
+CURRENT_TIMESTAMP, CURRENT_TIMESTAMP()
+
+CURRENT_TIMESTAMP and CURRENT_TIMESTAMP() are synonyms for NOW().
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/date-and-time-functions.html http://dev.mysql.com/doc/refman/5.0/en/date-and-time-functions.html
+7 VARIANCE 15 Syntax:
+VARIANCE(expr)
+
+Returns the population standard variance of expr. This is an extension
+to standard SQL. As of MySQL 5.0.3, the standard SQL function VAR_POP()
+can be used instead.
+
+VARIANCE() returns NULL if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html
+8 VAR_SAMP 15 Syntax:
+VAR_SAMP(expr)
+
+Returns the sample variance of expr. That is, the denominator is the
+number of rows minus one. This function was added in MySQL 5.0.3.
+
+VAR_SAMP() returns NULL if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html
+9 CONCAT 34 Syntax:
+CONCAT(str1,str2,...)
+
+Returns the string that results from concatenating the arguments. May
+have one or more arguments. If all arguments are non-binary strings,
+the result is a non-binary string. If the arguments include any binary
+strings, the result is a binary string. A numeric argument is converted
+to its equivalent binary string form; if you want to avoid that, you
+can use an explicit type cast, as in this example:
+
+SELECT CONCAT(CAST(int_col AS CHAR), char_col);
+
+CONCAT() returns NULL if any argument is NULL.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/string-functions.html mysql> SELECT CONCAT('My', 'S', 'QL');
+        -> 'MySQL'
+mysql> SELECT CONCAT('My', NULL, 'QL');
+        -> NULL
+mysql> SELECT CONCAT(14.3);
+        -> '14.3' http://dev.mysql.com/doc/refman/5.0/en/string-functions.html
+90 TIMESTAMP 19 TIMESTAMP
+
+A timestamp. The range is '1970-01-01 00:00:01' UTC to '2038-01-09
+03:14:07' UTC. TIMESTAMP values are stored as the number of seconds
+since the epoch ('1970-01-01 00:00:00' UTC). A TIMESTAMP cannot
+represent the value '1970-01-01 00:00:00' because that is equivalent to
+0 seconds from the epoch and the value 0 is reserved for representing
+'0000-00-00 00:00:00', the "zero" TIMESTAMP value.
+
+A TIMESTAMP column is useful for recording the date and time of an
+INSERT or UPDATE operation. By default, the first TIMESTAMP column in a
+table is automatically set to the date and time of the most recent
+operation if you do not assign it a value yourself. You can also set
+any TIMESTAMP column to the current date and time by assigning it a
+NULL value. Variations on automatic initialization and update
+properties are described in
+http://dev.mysql.com/doc/refman/5.0/en/timestamp.html.
+
+A TIMESTAMP value is returned as a string in the format 'YYYY-MM-DD
+HH:MM:SS' with a display width fixed at 19 characters. To obtain the
+value as a number, you should add +0 to the timestamp column.
+
+*Note*: The TIMESTAMP format that was used prior to MySQL 4.1 is not
+supported in MySQL 5.0; see MySQL 3.23, 4.0, 4.1 Reference Manual for
+information regarding the old format.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/date-and-time-type-overview.html http://dev.mysql.com/doc/refman/5.0/en/date-and-time-type-overview.html
+91 DES_DECRYPT 10 Syntax:
+DES_DECRYPT(crypt_str[,key_str])
+
+Decrypts a string encrypted with DES_ENCRYPT(). If an error occurs,
+this function returns NULL.
+
+This function works only if MySQL has been configured with SSL support.
+See http://dev.mysql.com/doc/refman/5.0/en/secure-connections.html.
+
+If no key_str argument is given, DES_DECRYPT() examines the first byte
+of the encrypted string to determine the DES key number that was used
+to encrypt the original string, and then reads the key from the DES key
+file to decrypt the message. For this to work, the user must have the
+SUPER privilege. The key file can be specified with the --des-key-file
+server option.
+
+If you pass this function a key_str argument, that string is used as
+the key for decrypting the message.
+
+If the crypt_str argument does not appear to be an encrypted string,
+MySQL returns the given crypt_str.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/encryption-functions.html http://dev.mysql.com/doc/refman/5.0/en/encryption-functions.html
+92 CACHE INDEX 25 Syntax:
+CACHE INDEX
+  tbl_index_list [, tbl_index_list] ...
+  IN key_cache_name
+
+tbl_index_list:
+  tbl_name [[INDEX|KEY] (index_name[, index_name] ...)]
+
+The CACHE INDEX statement assigns table indexes to a specific key
+cache. It is used only for MyISAM tables.
+
+The following statement assigns indexes from the tables t1, t2, and t3
+to the key cache named hot_cache:
+
+mysql> CACHE INDEX t1, t2, t3 IN hot_cache;
++---------+--------------------+----------+----------+
+| Table   | Op                 | Msg_type | Msg_text |
++---------+--------------------+----------+----------+
+| test.t1 | assign_to_keycache | status   | OK       |
+| test.t2 | assign_to_keycache | status   | OK       |
+| test.t3 | assign_to_keycache | status   | OK       |
++---------+--------------------+----------+----------+
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/cache-index.html http://dev.mysql.com/doc/refman/5.0/en/cache-index.html
+93 ENDPOINT 11 EndPoint(ls)
+
+Returns the Point that is the endpoint of the LineString value ls.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/geometry-property-functions.html#linestring-property-functions mysql> SET @ls = 'LineString(1 1,2 2,3 3)';
+mysql> SELECT AsText(EndPoint(GeomFromText(@ls)));
++-------------------------------------+
+| AsText(EndPoint(GeomFromText(@ls))) |
++-------------------------------------+
+| POINT(3 3)                          |
++-------------------------------------+ http://dev.mysql.com/doc/refman/5.0/en/geometry-property-functions.html#linestring-property-functions
+94 COMPRESS 10 Syntax:
+COMPRESS(string_to_compress)
+
+Compresses a string and returns the result as a binary string. This
+function requires MySQL to have been compiled with a compression
+library such as zlib. Otherwise, the return value is always NULL. The
+compressed string can be uncompressed with UNCOMPRESS().
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/encryption-functions.html mysql> SELECT LENGTH(COMPRESS(REPEAT('a',1000)));
+        -> 21
+mysql> SELECT LENGTH(COMPRESS(''));
+        -> 0
+mysql> SELECT LENGTH(COMPRESS('a'));
+        -> 13
+mysql> SELECT LENGTH(COMPRESS(REPEAT('a',16)));
+        -> 15 http://dev.mysql.com/doc/refman/5.0/en/encryption-functions.html
+95 INSERT 25 Syntax:
+INSERT [LOW_PRIORITY | DELAYED | HIGH_PRIORITY] [IGNORE]
+    [INTO] tbl_name [(col_name,...)]
+    {VALUES | VALUE} ({expr | DEFAULT},...),(...),...
+    [ ON DUPLICATE KEY UPDATE
+      col_name=expr
+        [, col_name=expr] ... ]
+
+Or:
+
+INSERT [LOW_PRIORITY | DELAYED | HIGH_PRIORITY] [IGNORE]
+    [INTO] tbl_name
+    SET col_name={expr | DEFAULT}, ...
+    [ ON DUPLICATE KEY UPDATE
+      col_name=expr
+        [, col_name=expr] ... ]
+
+Or:
+
+INSERT [LOW_PRIORITY | HIGH_PRIORITY] [IGNORE]
+    [INTO] tbl_name [(col_name,...)]
+    SELECT ...
+    [ ON DUPLICATE KEY UPDATE
+      col_name=expr
+        [, col_name=expr] ... ]
+
+INSERT inserts new rows into an existing table. The INSERT ... VALUES
+and INSERT ... SET forms of the statement insert rows based on
+explicitly specified values. The INSERT ... SELECT form inserts rows
+selected from another table or tables. INSERT ... SELECT is discussed
+further in [HELP INSERT SELECT].
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/insert.html http://dev.mysql.com/doc/refman/5.0/en/insert.html
+96 COUNT 15 Syntax:
+COUNT(expr)
+
+Returns a count of the number of non-NULL values of expr in the rows
+retrieved by a SELECT statement. The result is a BIGINT value.
+
+COUNT() returns 0 if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html mysql> SELECT student.student_name,COUNT(*)
+    ->        FROM student,course
+    ->        WHERE student.student_id=course.student_id
+    ->        GROUP BY student_name; http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html
+97 HANDLER 25 Syntax:
+HANDLER tbl_name OPEN [ [AS] alias]
+HANDLER tbl_name READ index_name { = | >= | <= | < } (value1,value2,...)
+    [ WHERE where_condition ] [LIMIT ... ]
+HANDLER tbl_name READ index_name { FIRST | NEXT | PREV | LAST }
+    [ WHERE where_condition ] [LIMIT ... ]
+HANDLER tbl_name READ { FIRST | NEXT }
+    [ WHERE where_condition ] [LIMIT ... ]
+HANDLER tbl_name CLOSE
+
+The HANDLER statement provides direct access to table storage engine
+interfaces. It is available for MyISAM and InnoDB tables.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/handler.html http://dev.mysql.com/doc/refman/5.0/en/handler.html
+98 MLINEFROMTEXT 3 MLineFromText(wkt[,srid]), MultiLineStringFromText(wkt[,srid])
+
+Constructs a MULTILINESTRING value using its WKT representation and
+SRID.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/creating-spatial-values.html#gis-wkt-functions http://dev.mysql.com/doc/refman/5.0/en/creating-spatial-values.html#gis-wkt-functions
+99 GEOMCOLLFROMWKB 30 GeomCollFromWKB(wkb[,srid]), GeometryCollectionFromWKB(wkb[,srid])
+
+Constructs a GEOMETRYCOLLECTION value using its WKB representation and
+SRID.
+
+URL: http://dev.mysql.com/doc/refman/5.0/en/creating-spatial-values.html#gis-wkb-functions http://dev.mysql.com/doc/refman/5.0/en/creating-spatial-values.html#gis-wkb-functions
+
++++++++++
+mysql - host:(0)
+Host,Db,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Create_tmp_table_priv,Lock_tables_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Execute_priv
+
++++++++++
+mysql - proc:(6)
+db,name,type,specific_name,language,sql_data_access,is_deterministic,security_type,param_list,returns,body,definer,created,modified,sql_mode,comment
+scheduler CHECK_VM_PERIOD PROCEDURE CHECK_VM_PERIOD SQL CONTAINS_SQL NO DEFINER IN usrEmail VARCHAR(255),
+		IN onTime DATETIME,
+		IN offTime DATETIME,
+		IN createTime DATETIME,
+		
+		out validate INT(1) BEGIN
+	DECLARE r INT;
+	DECLARE count INT;
+	DECLARE cur_1 CURSOR FOR 
+		SELECT count(*) 
+		FROM Scheduler as S1, Scheduler as S2 WHERE  
+		    ( S1.Email = usrEmail AND S2.Email = usrEmail) 
+		AND ( S1.Status = 1 AND S2.Status = 1 )
+		AND ( S1.CreateTime = S2.CreateTime) 
+		AND ( S1.ScheduleType='VM_ON' AND S2.ScheduleType='VM_OFF') 
+		AND (
+				(
+				 onTime >= DATE_FORMAT(CONCAT(S1.JobDate,' ',S1.JobTime),'%Y-%m-%d %H:%i:%s') 
+					AND 
+				 onTime <= DATE_FORMAT(CONCAT(S2.JobDate,' ',S2.JobTime),'%Y-%m-%d %H:%i:%s')
+				)
+			OR
+				(
+				 offTime >= DATE_FORMAT(CONCAT(S1.JobDate,' ',S1.JobTime),'%Y-%m-%d %H:%i:%s') 
+					AND 
+				 offTime <= DATE_FORMAT(CONCAT(S2.JobDate,' ',S2.JobTime),'%Y-%m-%d %H:%i:%s')
+				)
+			OR
+				(
+					onTime <= DATE_FORMAT(CONCAT(S1.JobDate,' ',S1.JobTime),'%Y-%m-%d %H:%i:%s')
+						AND
+					offTime >= DATE_FORMAT(CONCAT(S2.JobDate,' ',S2.JobTime),'%Y-%m-%d %H:%i:%s')						
+				)
+			)
+		AND ( S1.CreateTime != createTime );
+		
+		
+	DECLARE CONTINUE HANDLER FOR NOT FOUND SET r = 1;
+	
+	SET count = 0;
+	OPEN cur_1;
+	REPEAT
+		FETCH cur_1 INTO count;
+	UNTIL r = 1 END REPEAT;
+	CLOSE cur_1;
+	
+	IF count = 0 THEN
+		SET validate = 1;
+	ELSE
+		SET validate = 0;
+	END IF;
+	
+END root@localhost 2011-03-22 17:23:21 2011-03-22 17:23:21
+scheduler GET_ALL_SCHEDULE PROCEDURE GET_ALL_SCHEDULE SQL CONTAINS_SQL NO DEFINER IN baseDate DATE,
+	IN endDate DATE,
+	
+	IN iType VARCHAR(30),
+	IN monthItvl INT(8),
+	IN weekItvl INT(8),
+	IN weekdayItvl INT(8),
+	IN dayItvl INT(8),
+	
+	OUT schedule TEXT BEGIN
+	DECLARE nextDate DATE;
+	DECLARE startDate DATE;
+	DECLARE nextDateStr VARCHAR(30);
+	DECLARE loopCounter INT;
+	SET schedule=NULL;
+	
+	CALL GET_NEXT_DATE(baseDate, iType,monthItvl,weekItvl,weekdayItvl,dayItvl,startDate);
+	IF startDate <= endDate THEN
+		SET nextDateStr=DATE_FORMAT(startDate,'%Y-%m-%d');
+		SET schedule=nextDateStr;
+		
+		SET loopCounter=0;
+		SET nextDate=startDate;
+		
+		loop_label: LOOP
+			CALL GET_FOLLOW_DATE(nextDate,iType,monthItvl,weekItvl,weekdayItvl,dayItvl,nextDate);
+			IF nextDate > endDate THEN
+				LEAVE loop_label;
+			END IF;
+			IF loopCounter > 10000 THEN
+				LEAVE loop_label;
+			END IF;
+			SET nextDateStr = DATE_FORMAT(nextDate,'%Y-%m-%d');
+			
+			SET schedule=CONCAT_WS(',',schedule,nextDateStr);
+			SET loopCounter = loopCounter+1;
+		END LOOP;
+	END IF;
+END root@localhost 2011-03-22 17:23:21 2011-03-22 17:23:21
+scheduler GET_FOLLOW_DATE PROCEDURE GET_FOLLOW_DATE SQL CONTAINS_SQL NO DEFINER IN baseDate Date,
+	IN iType varchar(30),
+	IN monthItvl int(8),
+	IN weekItvl int(8),
+	IN weekdayItvl int(8),
+	IN dayItvl int(8),
+	
+	OUT startDate Date BEGIN
+	DECLARE lastDay DATE;
+	 
+	IF iType='DAILY' THEN
+		SET startDate=baseDate+INTERVAL dayItvl DAY; 
+	END IF;
+	
+	IF iType='WEEKLY' AND weekdayItvl=0 THEN
+		SET startDate=baseDate+INTERVAL weekItvl WEEK; 
+	END IF;
+	
+	IF iType='WEEKLY' AND weekdayItvl!=0 THEN
+		SET startDate=baseDate+INTERVAL weekItvl WEEK-
+			INTERVAL DAYOFWEEK(baseDate+INTERVAL weekItvl WEEK) DAY + INTERVAL weekdayItvl DAY;
+	END IF;
+	
+	
+	IF iType='MONTHLY' AND  dayItvl!=0 AND dayItvl <= 31 THEN
+		SET startDate=baseDate + INTERVAL monthItvl MONTH-
+			INTERVAL DAYOFMONTH(baseDate + INTERVAL monthItvl MONTH) DAY + INTERVAL dayItvl DAY;
+		
+		SET lastDay = LAST_DAY(
+								baseDate + INTERVAL monthItvl MONTH-
+								INTERVAL DAYOFMONTH(baseDate + INTERVAL monthItvl MONTH)-1 DAY 
+							);
+		BEGIN
+			DECLARE i INT ;
+			SET i = 1;
+			WHILE startDate > lastDay AND i < 100 DO
+				SET startDate=baseDate + INTERVAL monthItvl+i*monthItvl MONTH-
+					INTERVAL DAYOFMONTH(baseDate + INTERVAL monthItvl+i*monthItvl MONTH) DAY + INTERVAL dayItvl DAY;
+				SET lastDay = LAST_DAY(
+									baseDate + INTERVAL monthItvl+i*monthItvl MONTH-
+									INTERVAL DAYOFMONTH(baseDate + INTERVAL monthItvl+i*monthItvl MONTH)-1 DAY 
+								);
+				set i = i+1;
+			END WHILE;
+		END;
+		
+	END IF;
+	
+	IF iType='MONTHLY' AND  dayItvl!=0 AND dayItvl >= 32 THEN
+		SET startDate = LAST_DAY(
+								baseDate + INTERVAL monthItvl MONTH-
+								INTERVAL DAYOFMONTH(baseDate + INTERVAL monthItvl MONTH)-1 DAY 
+							);
+		
+	END IF;
+	
+	
+	
+	IF iType='MONTHLY' AND dayItvl=0 AND weekdayItvl!=0 THEN
+		CALL MONTHLY_WEEKDAY_PATTERN(baseDate,monthItvl,weekItvl,weekdayItvl,startDate);
+	END IF;
+	
+	
+	
+	IF iType='YEARLY' AND dayItvl <= 31 THEN
+		SET startDate=baseDate + INTERVAL 1 YEAR -
+			INTERVAL DAYOFYEAR(baseDate + INTERVAL 1 YEAR) DAY+
+			INTERVAL (monthItvl-1) MONTH+ INTERVAl dayItvl DAY;
+			
+		SET lastDay = LAST_DAY(
+								baseDate + INTERVAL 1 YEAR -
+								INTERVAL DAYOFYEAR(baseDate + INTERVAL 1 YEAR)-1 DAY+
+								INTERVAL (monthItvl-1) MONTH
+							);
+		
+		BEGIN
+			DECLARE i INT ;
+			SET i = 1;
+			WHILE startDate > lastDay AND i < 100 DO
+				SET startDate=baseDate + INTERVAL 1+i YEAR -
+					INTERVAL DAYOFYEAR(baseDate + INTERVAL 1+i YEAR) DAY+
+					INTERVAL (monthItvl-1) MONTH+ INTERVAl dayItvl DAY;
+				
+				SET lastDay = LAST_DAY(
+									baseDate + INTERVAL 1+i YEAR -
+									INTERVAL DAYOFYEAR(baseDate + INTERVAL 1+i YEAR)-1 DAY+
+									INTERVAL (monthItvl-1) MONTH
+								);
+				SET i = i + 1;
+			END WHILE;		
+		END;	
+	END IF;
+	
+	
+	IF iType='YEARLY' AND dayItvl >= 32 THEN
+		SET startDate = LAST_DAY(
+								baseDate + INTERVAL 1 YEAR -
+								INTERVAL DAYOFYEAR(baseDate + INTERVAL 1 YEAR)-1 DAY+
+								INTERVAL (monthItvl-1) MONTH
+							);			
+	END IF;
+	
+END root@localhost 2011-03-22 17:23:21 2011-03-22 17:23:21
+scheduler GET_NEXT_DATE PROCEDURE GET_NEXT_DATE SQL CONTAINS_SQL NO DEFINER IN baseDate DATE,
+	IN iType VARCHAR(30),
+	IN monthItvl INT(8),
+	IN weekItvl INT(8),
+	IN weekdayItvl INT(8),
+	IN dayItvl INT(8),
+	
+	OUT startDate DATE BEGIN
+	 
+	IF iType='DAILY' THEN
+		SET startDate=baseDate+INTERVAL dayItvl DAY; 
+	END IF;
+	
+	IF iType='WEEKLY' AND weekdayItvl=0 THEN
+		SET startDate=baseDate+INTERVAL weekItvl WEEK; 
+	END IF;
+	
+	
+	IF iType='WEEKLY' AND weekdayItvl!=0 THEN
+		BEGIN
+			DECLARE dayinweek INT;
+			SET dayinweek = DAYOFWEEK(baseDate);
+			
+			
+			IF weekdayItvl > dayinweek THEN
+				SET startDate = baseDate + INTERVAL weekdayItvl-dayinweek DAY;
+			END IF;
+			
+			
+			
+			
+			IF weekdayItvl <= dayinweek THEN
+				CALL GET_FOLLOW_DATE(baseDate,iType,monthItvl, weekItvl, weekdayItvl,dayItvl,startDate);
+			END IF;
+			
+		END;
+	END IF;
+	
+	
+	IF iType='MONTHLY' AND  dayItvl!=0 AND dayItvl <= 31 THEN
+		BEGIN
+			DECLARE dayinmonth INT;
+			SET dayinmonth = DAYOFMONTH(baseDate);
+			
+			CALL GET_FOLLOW_DATE(baseDate,iType,1,weekItvl,weekdayItvl,dayItvl,startDate);
+			IF dayItvl > dayinmonth AND dayItvl <= DAYOFMONTH(LAST_DAY(baseDate)) THEN
+				SET startDate = baseDate + INTERVAL dayItvl - dayinmonth DAY;
+			END IF;
+		END;
+	END IF;
+	
+	
+	IF iType='MONTHLY' AND  dayItvl!=0 AND dayItvl >= 32 THEN
+		CALL GET_FOLLOW_DATE(baseDate,iType,1,weekItvl,weekdayItvl,dayItvl,startDate);
+		IF LAST_DAY(baseDate)>baseDate THEN
+			SET startDate = LAST_DAY(baseDate);
+		END IF;
+	END IF;
+	
+	
+	IF iType='MONTHLY' AND dayItvl=0 AND weekdayItvl!=0 THEN
+		BEGIN
+			DECLARE lastMonthDate DATE;
+			SET lastMonthDate = baseDate - INTERVAL 1 MONTH;
+			CALL MONTHLY_WEEKDAY_PATTERN(lastMonthDate,1,weekItvl,weekdayItvl,startDate);
+			
+			IF startDate <= baseDate THEN
+				CALL MONTHLY_WEEKDAY_PATTERN(baseDate,1,weekItvl,weekdayItvl,startDate);
+			END IF;
+		END;
+	END IF;
+	
+	
+	IF iType='YEARLY' AND dayItvl <= 31 THEN
+		BEGIN
+			DECLARE lastYearDate DATE;
+			SET lastYearDate = baseDate - INTERVAL 1 YEAR;
+			CALL GET_FOLLOW_DATE(lastYearDate,iType,monthItvl,weekItvl,weekdayItvl,dayItvl,startDate);
+		
+			IF startDate <= baseDate THEN
+				CALL GET_FOLLOW_DATE(baseDate,iType,monthItvl,weekItvl,weekdayItvl,dayItvl,startDate);
+			END IF;
+		END;
+	END IF;
+	
+	
+	IF iType='YEARLY' AND dayItvl >= 32 THEN
+		BEGIN
+			DECLARE lastYearDate DATE;
+			SET lastYearDate = baseDate - INTERVAL 1 YEAR;
+			CALL GET_FOLLOW_DATE(lastYearDate,iType,monthItvl,weekItvl,weekdayItvl,dayItvl,startDate);
+		
+			IF startDate <= baseDate THEN
+				CALL GET_FOLLOW_DATE(baseDate,iType,monthItvl,weekItvl,weekdayItvl,dayItvl,startDate);
+			END IF;
+		END;
+	END IF;
+		
+END root@localhost 2011-03-22 17:23:21 2011-03-22 17:23:21
+scheduler MONTHLY_WEEKDAY_PATTERN PROCEDURE MONTHLY_WEEKDAY_PATTERN SQL CONTAINS_SQL NO DEFINER IN baseDate DATE,
+	IN monthItvl INT,
+	IN weekItvl INT,
+	IN weekdayItvl INT,
+	
+	OUT startDate DATE BEGIN
+	DECLARE weekCounter,dayCounter INT;
+	DECLARE tmpDate DATE;
+	SET weekCounter = 0;
+	SET dayCounter = 0;
+	SET tmpDate = baseDate + INTERVAL monthItvl MONTH- 
+					INTERVAL DAYOFMONTH(baseDate + INTERVAL monthItvl MONTH) DAY;
+					
+	IF weekItvl <= 4 THEN
+		loop_label_prev: LOOP
+			SET tmpDate = tmpDate + INTERVAL 1 DAY;
+			SET dayCounter=dayCounter+1;
+			
+			IF DAYOFWEEK(tmpDate)=weekdayItvl  THEN
+				SET weekCounter=weekCounter + 1;
+				
+				IF weekCounter=weekItvl THEN
+					SET startDate=tmpDate;
+					LEAVE loop_label_prev;
+				END IF;
+			END IF;
+			
+			IF dayCounter > 31 THEN
+				SET startDate = tmpDate;
+				LEAVE loop_label_prev;
+			END IF;
+		
+		END LOOP;
+	
+	ELSE
+		SET tmpDate = LAST_DAY(
+							baseDate + INTERVAL monthItvl MONTH- 
+							INTERVAL DAYOFMONTH(baseDate + INTERVAL monthItvl MONTH)-1 DAY
+							)+INTERVAL 1 DAY;
+		loop_label_post: LOOP
+			SET tmpDate = tmpDate - INTERVAL 1 DAY;
+			SET dayCounter=dayCounter+1;
+			
+			IF DAYOFWEEK(tmpDate)=weekdayItvl THEN
+				SET startDate = tmpDate;
+				LEAVE loop_label_post;
+			END IF;
+			
+			IF dayCounter > 31 THEN
+				SET startDate = tmpDate;
+				LEAVE loop_label_post;
+			END IF;
+		END LOOP;
+	END IF;
+	
+END root@localhost 2011-03-22 17:23:21 2011-03-22 17:23:21
+scheduler NEXT_JOB_DATE PROCEDURE NEXT_JOB_DATE SQL CONTAINS_SQL NO DEFINER IN id INT,
+		OUT nextDate DATE BEGIN
+	DECLARE b INT;
+	DECLARE dates TEXT;
+	DECLARE lastRun DATE;
+	
+	DECLARE cur_1 CURSOR FOR SELECT JobDate,LastRunDate FROM Scheduler WHERE ScheduleID = id;
+	DECLARE CONTINUE HANDLER FOR NOT FOUND SET b=1;
+	
+	OPEN cur_1;
+	REPEAT
+		FETCH cur_1 INTO dates, lastRun;
+		
+		BEGIN
+			DECLARE head VARCHAR(255);
+			DECLARE tail VARCHAR(255);
+			DECLARE pos INT;
+	
+			SET tail = dates;
+			loop_label : LOOP
+				SET pos = LOCATE(',',tail);
+				IF pos!=0 THEN
+					SET head = LEFT(tail,pos-1);
+					SET tail = RIGHT(tail,LENGTH(tail)-pos);
+					IF lastRun is not NULL AND head=lastRun  THEN
+						SET nextDate = LEFT(tail,10);
+					END IF;
+					IF CURDATE()<=head AND lastRun is NULL THEN
+						SET nextDate = STR_TO_DATE(head,'%Y-%m-%d');
+						LEAVE loop_label;
+					END IF;
+				END IF; 
+				IF pos = 0 THEN
+					SET head = tail;
+					SET tail = '';
+					IF CURDATE()<=head AND lastRun is NULL THEN
+						SET nextDate = STR_TO_DATE(head,'%Y-%m-%d');
+					END IF;
+					LEAVE loop_label;
+				END IF;
+			END LOOP;
+		END;
+	UNTIL b=1 END REPEAT;
+END root@localhost 2011-03-22 17:23:21 2011-03-22 17:23:21
+
++++++++++
+mysql - procs_priv:(0)
+Host,Db,User,Routine_name,Routine_type,Grantor,Proc_priv,Timestamp
+
++++++++++
+mysql - tables_priv:(0)
+Host,Db,User,Table_name,Grantor,Timestamp,Table_priv,Column_priv
+
++++++++++
+mysql - time_zone:(0)
+Time_zone_id,Use_leap_seconds
+
++++++++++
+mysql - time_zone_leap_second:(0)
+Transition_time,Correction
+
++++++++++
+mysql - time_zone_name:(0)
+Name,Time_zone_id
+
++++++++++
+mysql - time_zone_transition:(0)
+Time_zone_id,Transition_time,Transition_type_id
+
++++++++++
+mysql - time_zone_transition_type:(0)
+Time_zone_id,Transition_type_id,Offset,Is_DST,Abbreviation
+
++++++++++
+mysql - user:(12)
+Host,User,Password,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Reload_priv,Shutdown_priv,Process_priv,File_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Show_db_priv,Super_priv,Create_tmp_table_priv,Lock_tables_priv,Execute_priv,Repl_slave_priv,Repl_client_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Create_user_priv,ssl_type,ssl_cipher,x509_issuer,x509_subject,max_questions,max_updates,max_connections,max_user_connections
+localhost root 5eaa15815b857b28 Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+cafedecogroup root 5eaa15815b857b28 Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+127.0.0.1 root 5eaa15815b857b28 Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+localhost admin_mc04 575613870236549c Y Y Y Y Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+localhost umailcms 102d5b0a7e1be122 N N N N N N N N N N N N N N N N N N N N N N N N N N 0 0 0 0
+localhost schuser 6e40402a24d1f7a3 N N N N N N N N N N N N N N N N N N N N N N N N N N 0 0 0 0
+localhost ad_cafede 7d1ba90d2800e892 Y Y Y Y Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+localohst cfdg_admin 4790ba362cd7c750 Y Y Y Y Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+localhost cfdg_admin 4790ba362cd7c750 Y Y Y Y Y Y Y Y Y Y N Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+localhost sms_user 44c7989c5e4db989 N N N N N N N N N N N N N N N N N N N N N N N N N N 0 0 0 0
+
++++++++++
+
+ 
+policyd - access_control:(2)
+ID,PolicyID,Name,Verdict,Data,Comment,Disabled
+1 2 NoOut REJECT Not authorized to send outbound email. 0
+2 1 WhiteList OK Ok 0
+
++++++++++
+policyd - accounting:(6)
+ID,PolicyID,Name,Track,AccountingPeriod,MessageCountLimit,MessageCumulativeSizeLimit,Verdict,Data,LastAccounting,Comment,Disabled
+1 8 D1000 Sender:user@domain 0 1000 REJECT Exceed daily limit 0 0
+2 7 D10 Sender:user@domain 0 10 REJECT Exceed daily limit 0 0
+3 10 D300 Sender:user@domain 0 300 REJECT Exceed daily limit 0 0
+4 9 D2000 Sender:user@domain 0 2000 REJECT Exceed daily limit 0 0
+5 11 D500 Sender:user@domain 0 500 REJECT Exceed daily limit 0 0
+6 12 D100 Sender:user@domain 0 100 0 REJECT Exceed daily limit 0 0
+
++++++++++
+policyd - accounting_tracking:(87220)
+AccountingID,TrackKey,PeriodKey,LastUpdate,MessageCount,MessageCumulativeSize
+2 Sender:ronaldpoon@udomain.com.hk 2014-03-05 1394002110 10 11
+6 Sender:kevin@foodsquare.com.hk 2014-03-05 1394003595 100 153700
+1 Sender:xavier@cafedecogroup.com 2014-03-05 1394014802 27 32969
+5 Sender:vanes@cafedecogroup.com 2014-03-05 1394011890 7 3109
+4 Sender:nicolawu@cafedecogroup.com 2014-03-05 1394009373 24 1111
+1 Sender:coco@cafedecogroup.com 2014-03-05 1394017810 31 31333
+1 Sender:rex@cafedecogroup.com 2014-03-05 1394023995 53 52767
+3 Sender:cherryleung@cafedecogroup.com 2014-03-05 1394003604 1 42
+3 Sender:franky@cafedecogroup.com 2014-03-05 1394003626 1 14
+3 Sender:cafedeparissoho@cafedecogroup.com 2014-03-05 1394003772 1 1176
+3 Sender:sai@cafedecogroup.com 2014-03-06 1394089195 2 396
+3 Sender:louissuen@cafedecogroup.com 2014-03-06 1394097097 2 329
+3 Sender:sally@cafedecogroup.com 2014-03-06 1394098909 4 126
+3 Sender:watermark@cafedecogroup.com 2014-03-06 1394119849 6 2497
+3 Sender:franky@cafedecogroup.com 2014-03-06 1394092507 2 1809
+3 Sender:kevin@cafedecogroup.com 2014-03-06 1394093997 3 362
+3 Sender:samuel@cafedecogroup.com 2014-03-06 1394091705 2 892
+3 Sender:tom@cafedecogroup.com 2014-03-06 1394099824 5 1819
+3 Sender:erik@cafedecogroup.com 2014-03-06 1394091949 1 290
+3 Sender:ivan@cafedecogroup.com 2014-03-06 1394101298 4 58
+3 Sender:sheila@cafedecogroup.com 2014-03-14 1394784256 2 9
+3 Sender:info@foodsquare.com.hk 2014-03-14 1394782752 7 841
+3 Sender:ivan@cafedecogroup.com 2014-03-14 1394784228 9 714
+3 Sender:vychitch@cafedecogroup.com 2014-03-14 1394786784 2 112
+3 Sender:jeromel@cafedecogroup.com 2014-03-14 1394773547 1 32
+1 Sender:louis@cafedecogroup.com 2014-03-14 1394775689 1 46
+3 Sender:malcolm@cafedecogroup.com 2014-03-14 1394776447 2 1996
+3 Sender:suman@cafedecogroup.com 2014-03-14 1394777289 1 3
+3 Sender:louissuen@cafedecogroup.com 2014-03-14 1394792122 3 349
+3 Sender:info@cafedecogroup.com 2014-03-14 1394780132 7 89
+3 Sender:vip@cafedecogroup.com 2014-03-25 1395739859 27 1483
+5 Sender:cheriewong@cafedecogroup.com 2014-03-25 1395751031 8 3762
+1 Sender:catherine@cafedecogroup.com 2014-03-25 1395745987 28 7120
+1 Sender:xavier@cafedecogroup.com 2014-03-25 1395723727 7 5723
+3 Sender:vicky@cafedecogroup.com 2014-03-25 1395744983 13 3479
+5 Sender:katchan@cafedecogroup.com 2014-03-25 1395720453 2 166
+3 Sender:lawrence@cafedecogroup.com 2014-03-25 1395739463 10 8901
+3 Sender:kellieng@cafedecogroup.com 2014-03-25 1395724934 5 1666
+3 Sender:cafedeco@cafedecogroup.com 2014-03-25 1395733837 2 225
+3 Sender:cindy@cafedecogroup.com 2014-03-25 1395714420 1 203
+3 Sender:racy@cafedecogroup.com 2014-04-14 1397474126 2 6
+3 Sender:virginia@cafedecogroup.com 2014-04-14 1397475928 12 1632
+3 Sender:kids@cafedecogroup.com 2014-04-14 1397479216 1 3
+3 Sender:samuel@cafedecogroup.com 2014-04-14 1397479619 2 1710
+5 Sender:cheriewong@cafedecogroup.com 2014-04-14 1397480629 1 59
+3 Sender:berlineroc3@cafedecogroup.com 2014-04-15 1397491404 1 454
+3 Sender:stormieselements@cafedecogroup.com 2014-04-15 1397495931 1 892
+3 Sender:sohoeast@cafedecogroup.com 2014-04-15 1397495983 1 1562
+3 Sender:6degrees@cafedecogroup.com 2014-04-15 1397497445 1 804
+2 Sender:backupop@udomain.com.hk 2014-04-15 1397504110 2 5 
++++++++++
+policyd - amavis_rules:(1)
+ID,PolicyID,Name,bypass_virus_checks,bypass_virus_checks_m,bypass_banned_checks,bypass_banned_checks_m,bypass_spam_checks,bypass_spam_checks_m,bypass_header_checks,bypass_header_checks_m,spam_tag_level,spam_tag_level_m,spam_tag2_level,spam_tag2_level_m,spam_tag3_level,spam_tag3_level_m,spam_kill_level,spam_kill_level_m,spam_dsn_cutoff_level,spam_dsn_cutoff_level_m,spam_quarantine_cutoff_level,spam_quarantine_cutoff_level_m,spam_modifies_subject,spam_modifies_subject_m,spam_tag_subject,spam_tag_subject_m,spam_tag2_subject,spam_tag2_subject_m,spam_tag3_subject,spam_tag3_subject_m,max_message_size,max_message_size_m,banned_files,banned_files_m,sender_whitelist,sender_whitelist_m,sender_blacklist,sender_blacklist_m,notify_admin_newvirus,notify_admin_newvirus_m,notify_admin_virus,notify_admin_virus_m,notify_admin_spam,notify_admin_spam_m,notify_admin_banned_file,notify_admin_banned_file_m,notify_admin_bad_header,notify_admin_bad_header_m,quarantine_virus,quarantine_virus_m,quarantine_banned_file,quarantine_banned_file_m,quarantine_bad_header,quarantine_bad_header_m,quarantine_spam,quarantine_spam_m,bcc_to,bcc_to_m,Comment,Disabled
+1 1 Default system amavis policy 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 100000 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
++++++++++
+policyd - checkhelo:(0)
+ID,PolicyID,Name,UseBlacklist,BlacklistPeriod,UseHRP,HRPPeriod,HRPLimit,RejectInvalid,RejectIP,RejectUnresolvable,Comment,Disabled
+
++++++++++
+policyd - checkhelo_blacklist:(4)
+ID,Helo,Comment,Disabled
+1 127.0.0.1 Blacklist hosts claiming to be 127.0.0.1 0
+2 [127.0.0.1] Blacklist hosts claiming to be [127.0.0.1] 0
+3 localhost Blacklist hosts claiming to be localhost 0
+4 localhost.localdomain Blacklist hosts claiming to be localhost.localdomain 0
+
++++++++++
+policyd - checkhelo_tracking:(0)
+Address,Helo,LastUpdate
+
++++++++++
+policyd - checkhelo_whitelist:(0)
+ID,Source,Comment,Disabled
+
++++++++++
+policyd - checkspf:(0)
+ID,PolicyID,Name,UseSPF,RejectFailedSPF,AddSPFHeader,Comment,Disabled
+
++++++++++
+policyd - greylisting:(0)
+ID,PolicyID,Name,UseGreylisting,GreylistPeriod,Track,GreylistAuthValidity,GreylistUnAuthValidity,UseAutoWhitelist,AutoWhitelistPeriod,AutoWhitelistCount,AutoWhitelistPercentage,UseAutoBlacklist,AutoBlacklistPeriod,AutoBlacklistCount,AutoBlacklistPercentage,Comment,Disabled
+
++++++++++
+policyd - greylisting_autoblacklist:(0)
+ID,TrackKey,Added,Comment
+
++++++++++
+policyd - greylisting_autowhitelist:(0)
+ID,TrackKey,Added,LastSeen,Comment
+
++++++++++
+policyd - greylisting_tracking:(0)
+TrackKey,Sender,Recipient,FirstSeen,LastUpdate,Tries,Count
+
++++++++++
+policyd - greylisting_whitelist:(0)
+ID,Source,Comment,Disabled
+
++++++++++
+policyd - policies:(9)
+ID,Name,Priority,Description,Disabled
+1 Default 0 Default System Policy 1
+2 Default Outbound 100 Default Outbound System Policy 0
+7 10MAIL 90 10 outbound mail per day 0
+8 1000MAIL 20 1000 mails per day 0
+9 2000MAIL 10 2000 mails per day 0
+10 300MAIL 70 300 mails per day 0
+11 500MAIL 60 500 mails per day 0
+12 100MAIL 80 100 mails per day 0
+13 1500MAIL 15 1500 mails per day 0
+
++++++++++
+policyd - policy_group_members:(638)
+ID,PolicyGroupID,Member,Disabled,Comment
+6 3 cammy@cafedecogroup.com 0
+7 3 zzdyndns@cafedecogroup.com 0
+8 3 zzdyndns1@cafedecogroup.com 0
+9 3 zzdyndns2@cafedecogroup.com 0
+10 3 zzdyndns3@cafedecogroup.com 0
+11 3 zzdyndns4@cafedecogroup.com 0
+12 3 zzdyndns5@cafedecogroup.com 0
+13 3 zzdyndns6@cafedecogroup.com 0
+14 3 zzdyndns7@cafedecogroup.com 0
+15 3 postmaster@foodsquare.com.hk 0
+98 5 cashiermacao@cafedecogroup.com 0
+99 5 cdkit@cafedecogroup.com 0
+100 5 cdmacao@cafedecogroup.com 0
+101 5 cdmanager@cafedecogroup.com 0
+102 5 cdmreception@cafedecogroup.com 0
+103 5 cdpastry@cafedecogroup.com 0
+104 5 cdpizzeria@cafedecogroup.com 0
+105 5 charmaine@cafedecogroup.com 0
+106 5 chef.chi@cafedecogroup.com 0
+107 5 chef.chik@cafedecogroup.com 0
+537 5 catering@cafedecogroup.com 0
+538 5 twiny@cafedecogroup.com 0
+539 5 boathousekit@cafedecogroup.com 0
+540 5 heiby@cafedecogroup.com 0
+541 5 dennis@cafedecogroup.com 0
+542 5 lubomir@cafedecogroup.com 0
+543 5 mpkitchen@cafedecogroup.com 0
+544 11 yammy@cafedecogroup.com 0
+545 11 sebestien@cafedecogroup.com 0
+546 5 oc3-kitchen@cafedecogroup.com 0
+
++++++++++
+policyd - policy_groups:(7)
+ID,Name,Disabled,Comment
+3 Q10 0
+4 Q100 0
+5 Q300 0
+6 Q500 0
+7 Q1000 0
+8 Q2000 0
+11 Q1500 0
+
++++++++++
+policyd - policy_members:(11)
+ID,PolicyID,Source,Destination,Comment,Disabled
+7 7 %Q10 any 0
+8 8 %Q1000 any 0
+9 9 %Q2000 any 0
+10 10 %Q300 any 0
+11 11 %Q500 any 0
+12 12 %Q100 any 0
+15 2 !%Q10,!%Q100,!%Q300,!%Q500,!%Q1000,!%Q1500,!%Q2000 any 0
+16 1 !@cafedecogroup.com,!@foodsquare.com.hk any 0
+17 13 %Q1500 any 0
+18 12 allies@cafedecogroup.com spam@udomain.com.hk 1
+
++++++++++
+policyd - quotas:(6)
+ID,PolicyID,Name,Track,Period,Verdict,Data,LastQuota,Comment,Disabled
+3 7 Q10 Sender:user@domain 86400 REJECT Allow 10 outbound mails per day ONLY 0 0
+4 12 Q100 Sender:user@domain 86400 REJECT Allow 100 outbound mails per day ONLY 0 0
+5 8 Q1000 Sender:user@domain 86400 REJECT Allow 1000 outbound mails per day ONLY 0 0
+6 9 Q2000 Sender:user@domain 86400 REJECT Allow 2000 outbound mails per day ONLY 0 0
+7 10 Q300 Sender:user@domain 86400 REJECT Allow 300 outbound mails per day ONLY 0 0
+8 11 Q500 Sender:user@domain 86400 REJECT Allow 500 Outbound mails per day ONLY 0 0
+
++++++++++
+policyd - quotas_limits:(6)
+ID,QuotasID,Type,CounterLimit,Comment,Disabled
+4 5 MessageCount 1000 0
+5 4 MessageCount 100 0
+6 3 MessageCount 10 0
+7 6 MessageCount 2000 0
+8 7 MessageCount 300 0
+9 8 MessageCount 500 0
+
++++++++++
+policyd - quotas_tracking:(13)
+QuotasLimitsID,TrackKey,LastUpdate,Counter
+8 Sender:cdmreception@cafedecogroup.com 1557582061 6.3637
+8 Sender:klaus@foodsquare.com.hk 1557546980 1.9987
+6 Sender:backupop@udomain.com.hk 1557517706 2.1085
+8 Sender:accounting@foodsquare.com.hk 1557555617 2.5715
+8 Sender:vanfung@cafedecogroup.com 1557566300 2.9807
+8 Sender:salesmacao@cafedecogroup.com 1557582790 21.5277
+8 Sender:sherman@cafedecogroup.com 1557567327 1.9275
+8 Sender:stormieselements@cafedecogroup.com 1557512949 1.0000
+4 Sender:terryc@foodsquare.com.hk 1557544832 1.0000
+8 Sender:joycechan@cafedecogroup.com 1557540394 -11.2739
+
++++++++++
+policyd - session_tracking:(279)
+Instance,QueueID,UnixTimestamp,ClientAddress,ClientName,ClientReverseName,Protocol,EncryptionProtocol,EncryptionCipher,EncryptionKeySize,SASLMethod,SASLSender,SASLUsername,Helo,Sender,Size,RecipientData
+700d.5cd5a765.e401.0 20033BAE81C6 1557505893 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com leasesgomt@lpmachine.net 2 /<ngwallace77@yahoo.com>#
+6d0.5cd5c2f5.5179a.0 62C09BAE81C6 1557512949 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com stormieselements@cafedecogroup.com 499 /<joey@igors.com>#70=10;
+e33.5cd5cb8c.81c1f.0 90E52BAE81C6 1557515148 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com 1 /<jobmarketmail@jobmarket.com.hk>#
+15d8.5cd5d58a.dd7ab.0 E98B1BAE8512 1557517706 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com backupop@udomain.com.hk 2 /<backupop@udomain.com.hk>#90=7;
+15dc.5cd5d58a.e07d7.0 EA519BAE8527 1557517706 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com backupop@udomain.com.hk 3 /<backupop@udomain.com.hk>#90=7;
+15d8.5cd5d5c2.4d3d5.0 5A0FABAE8512 1557517762 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com 1 /<0100016aa34add85-506049ef-21fb-4b78-9a86-dd0f392fa7d6-000000@amazonses.com>#
+1882.5cd5d851.6e1f0.0 7D172BAE8512 1557518417 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com 1 /<or-biz@openrice.com>#
+2ec1.5cd5f462.b4775.0 C88E8BAE8512 1557525602 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com no-reply@securemail.hk 5 /<michelleharris4242@gmail.com>#
+2ec1.5cd5f463.25a79.0 317DFBAE8527 1557525603 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com 1 /<no-reply@securemail.hk>#
+2ec1.5cd5f464.5a32e.0 69988BAE8528 1557525604 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com 1 /<no-reply@securemail.hk>#
+7544.5cd62e2a.9bda4.0 AB609BAE8527 1557540394 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com joycechan@cafedecogroup.com 80 /<kelly.yip@continentaltravel.com.hk>#70=10;
+7546.5cd62e2a.9be97.0 AA3DDBAE8512 1557540394 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com joycechan@cafedecogroup.com 80 /<lovely.sy@continentaltravel.com.hk>#70=10;
+75c3.5cd62eb1.81233.0 8F714BAE8512 1557540529 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com 69 /<noreply@ia-mailing.info>#
+78f5.5cd6322d.3cca0.0 4E473BAE8512 1557541421 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com bookingbg@chongouexpress.com 55 /<michelleharris4242@gmail.com>#
+78f5.5cd6322d.c2887.0 D12ADBAE8527 1557541421 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com bookingbg@chongouexpress.com 55 /<michelleharris4242@gmail.com>#
+7f78.5cd63903.c4a41.0 D6A20BAE8512 1557543171 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com sales1@travel-tricks.com 401 /<michelleharris4242@gmail.com>#
+7f78.5cd6392b.5ae2.0 14D02BAE8512 1557543211 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com eunice.wong@disney.com 213 /<jojo00wilson@yahoo.com.hk>#
+205.5cd63aac.1e381.0 3156CBAE8512 1557543596 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com info@foodsquare.com.hk 83 /<jacqueline@chefsgarden.net>#70=10;
+204.5cd63aac.1e426.0 34306BAE8529 1557543596 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com info@foodsquare.com.hk 83 /<cyber@chefsgarden.net>#70=10;
+207.5cd63aac.1f35d.0 34FE4BAE852A 1557543596 127.0.0.1 mc04.youdomain.com mc04.youdomain.com ESMTP 0 mc04.youdomain.com info@foodsquare.com.hk 83 /<flora@chefsgarden.net>#70=10;
+
++++++++++
+
+ 
+scheduler - SMSDomain:(0)
+SMSDomainID,createDate,domainName,quota,assignedQuota,status
+
++++++++++
+scheduler - SMSDomainQuotaLog:(1)
+domainQuotaLogID,domainName,adminUser,quota,createDate,IPaddr
+199 tkdywc.hk 14 2014-04-29 15:51:01 203.90.225.25
+
++++++++++
+scheduler - SMSDomainUser:(0)
+SMSUserID,SMSDomainID,Username,quota,status,createDate
+
++++++++++
+scheduler - SMSScheduler:(0)
+SMSScheduleID,UserName,FromName,Recipient,RecipNum,MessageQuota,Message,CreateTime,StartDate,EndDate,JobDate,JobTime,ItvlType,MonthItvl,WeekItvl,WeekdayItvl,DayItvl,Status,LastRunDate,Notify,IsNotified,OldSMSScheduleID,ReturnQuota,ScheduleQuota
+
++++++++++
+scheduler - SMSSchedulerJob:(0)
+SMSJobID,MessageID,Recipient,JobDate,JobStatus,StartProcessTime,EndProcessTime,RequestStatus,ReqStatChkTime,DeliveryStatus,DlryStatChkTime,SMSScheduleID,ReturnQuota
+
++++++++++
+scheduler - SMSUserQuotaLog:(0)
+userQuotaLogID,userName,updateBy,quota,createDate,IPaddr,SMSScheduleID
+
++++++++++
+scheduler - SchUsr:(328)
+SchUsrID,SchDomainID,Username,quota,status
+606 85 postmaster@mc04.youdomain.com 0 1
+607 86 alan@cafedecogroup.com 0 1
+1527 86 madeinhklp@cafedecogroup.com 0 1
+1093 86 sandy@cafedecogroup.com 0 1
+1151 86 venus@cafedecogroup.com 0 1
+614 86 cafedeco@cafedecogroup.com 0 0
+615 86 cafedecogroup@cafedecogroup.com 0 1
+616 86 cashiermacao@cafedecogroup.com 0 1
+617 86 cdmacao@cafedecogroup.com 0 1
+860 86 simonchung@cafedecogroup.com 0 1
+1510 86 beetschiu@cafedecogroup.com 0 1
+1572 86 wistyleung@cafedecogroup.com 0 1
+1443 86 cdkit@cafedecogroup.com 0 1
+1524 86 chef.stormiesele@cafedecogroup.com 0 1
+830 86 dimsumbarhc@cafedecogroup.com 0 1
+833 86 arshing@cafedecogroup.com 0 1
+1047 86 jessicachau@cafedecogroup.com 0 0
+1419 86 adobe7@cafedecogroup.com 0 1
+1479 86 udtest@cafedecogroup.com 0 1
+1480 86 patrickwong@cafedecogroup.com 0 0
+
++++++++++
+scheduler - Scheduler:(0)
+ScheduleID,Email,CreateTime,Path,Message,Recipient,Mailhost,StartDate,EndDate,Status,ScheduleType,LastModifyDate,JobDate,JobTime,ItvlType,MonthItvl,WeekItvl,WeekdayItvl,DayItvl,LastRunDate
+
++++++++++
+scheduler - SchedulerJob:(0)
+JobID,ScheduleID,JobDate,StartProcessTime,EndProcessTime,JobStatus
+
++++++++++
+scheduler - qlaSchDomain:(5)
+domainName,status,quota,SchDomainID,assignedQuota
+mc04.youdomain.com 1 0 85 0
+cafedecogroup.com 1 0 86 0
+foodsquare.com.hk 1 0 87 0
+blutrading.com.hk 1 0 90 0
+foodgrouphk.com 1 0 91 0
+
++++++++++
+
+ 
+umailcms - Log_login:(432)
+id,loginID,log_time,ipaddr,type
+840 14 2011-03-22 17:38:05 192.168.1.123 0
+841 14 2011-03-23 18:14:48 118.142.56.118 0
+842 14 2011-03-23 18:49:47 118.142.56.118 0
+843 14 2011-03-24 09:29:30 118.142.56.118 0
+844 14 2011-03-25 11:06:43 118.142.56.118 0
+845 14 2011-03-27 12:57:07 118.142.56.118 0
+846 14 2011-03-27 14:46:00 118.142.56.118 0
+847 14 2011-03-27 22:07:07 118.142.56.118 0
+848 14 2011-03-28 09:21:31 118.142.56.118 0
+849 14 2011-06-01 11:15:01 118.142.56.118 0
+930 14 2013-04-29 16:47:38 203.90.225.25 0
+931 14 2013-04-30 11:08:04 203.90.225.25 0
+932 14 2013-04-30 11:10:58 203.90.225.25 0
+933 14 2013-07-23 13:29:05 203.90.225.25 0
+934 14 2013-07-23 15:10:39 203.90.225.25 0
+935 14 2013-07-23 16:19:40 203.90.225.25 0
+936 14 2013-07-29 15:13:36 203.90.225.25 0
+937 14 2013-10-11 14:32:37 203.90.225.25 0
+938 14 2013-10-11 14:35:26 203.90.225.25 0
+939 14 2013-11-08 09:57:16 203.90.225.25 0
+
++++++++++
+umailcms - actionLogContent:(0)
+id,loginID,log_time,contentType,modifyvalue,ipaddr
+
++++++++++
+umailcms - actionLogDomain:(67)
+id,loginID,log_time,domainName,modifyvalue,ipaddr
+961 14 2011-03-22 17:39:49 mc04.youdomain.com Domain Add 192.168.1.123
+962 14 2011-03-22 17:40:16 mc04.youdomain.com Domain Add 192.168.1.123
+963 14 2011-03-25 11:14:28 cafedecogroup.com Domain Dele 118.142.56.118
+964 14 2011-03-27 13:05:00 cafedecogroup.com Domain Dele 118.142.56.118
+965 14 2011-03-27 14:17:41 cafedecogroup.com Domain Modify 118.142.56.118
+966 14 2011-06-01 11:58:55 cafedecogroup.com Domain Modify 118.142.56.118
+967 14 2011-10-20 17:14:45 cafedecogroup.com Domain Modify 118.142.56.118
+968 14 2011-11-25 10:33:44 cafedecogroup.com Export EMail List 118.142.56.118
+969 14 2011-11-25 10:37:15 cafedecogroup.com Export EMail List 118.142.56.118
+970 14 2012-10-09 11:29:49 cafedecogroup.com Export EMail List 118.142.56.118
+
++++++++++
+umailcms - actionLogServer:(2)
+id,loginID,log_time,serverName,modifyvalue,ipaddr
+91 14 2011-03-22 17:39:12 mc04.youdomain.com : 127.0.0.1 Server Modify 192.168.1.123
+92 14 2011-03-22 17:40:05 Server Config Udpate 192.168.1.123
+
++++++++++
+umailcms - actionLogUser:(718)
+id,loginID,log_time,userName,modifyvalue,ipaddr
+1581 14 2011-03-22 17:46:05 postmaster@mc04.youdomain.com Login as User 192.168.1.123
+1582 14 2011-03-22 17:46:13 postmaster@mc04.youdomain.com Login as User 192.168.1.123
+1583 14 2011-03-23 18:20:30 postmaster@mc04.youdomain.com Login as User 118.142.56.118
+1584 14 2011-03-23 18:22:13 postmaster@mc04.youdomain.com Login as User 118.142.56.118
+1585 14 2011-03-23 19:02:01 alan@cafedecogroup.com Login as User 118.142.56.118
+1586 14 2011-03-23 19:02:25 alanwong@cafedecogroup.com Login as User 118.142.56.118
+1587 14 2011-03-23 19:02:35 brendaignacio@cafedecogroup.com Login as User 118.142.56.118
+1588 14 2011-03-23 19:02:45 christyng@cafedecogroup.com Login as User 118.142.56.118
+1589 14 2011-03-23 19:02:53 franchise@cafedecogroup.com Login as User 118.142.56.118
+1590 14 2011-03-23 19:03:00 hrhongkong@cafedecogroup.com Login as User 118.142.56.118
+1671 14 2012-10-09 11:29:27 postmaster@cafedecogroup.com Login as User 118.142.56.118
+1672 14 2012-10-09 11:56:34 alan@cafedecogroup.com Login as User 118.142.56.118
+1673 14 2012-10-09 11:59:32 postmaster@cafedecogroup.com Login as User 118.142.56.118
+1674 14 2012-10-09 11:59:48 alan@cafedecogroup.com Login as User 118.142.56.118
+1675 14 2012-10-30 09:31:20 alan@cafedecogroup.com Login as User 118.142.56.118
+1676 14 2012-10-30 09:32:43 alan@cafedecogroup.com Login as User 118.142.56.118
+1677 14 2012-12-24 21:35:54 postmaster@cafedecogroup.com Login as User 203.90.225.25
+1678 14 2012-12-24 21:36:14 postmaster@cafedecogroup.com Login as User 203.90.225.25
+1679 14 2013-02-27 15:19:02 info@cafedecogroup.com Login as User 203.90.225.25
+1680 14 2013-02-27 15:19:25 info@cafedecogroup.com Login as User 203.90.225.25
+2071 14 2017-08-02 14:01:27 iris@cafedecogroup.com Login as User 203.90.225.25
+2072 14 2017-08-03 18:08:04 vip@cafedecogroup.com Login as User 203.90.225.25
+2073 14 2017-08-03 18:08:12 vip@cafedecogroup.com Login as User 203.90.225.25
+2074 14 2017-08-03 18:36:14 vip@cafedecogroup.com Login as User 203.90.225.25
+2075 14 2017-08-04 13:41:49 vip@cafedecogroup.com Login as User 203.90.225.25
+2076 14 2017-08-04 19:45:30 annvu@cafedecogroup.com Login as User 203.90.225.25
+2077 14 2017-08-04 19:46:21 annvu@cafedecogroup.com Login as User 203.90.225.25
+2078 14 2017-08-04 19:51:20 konghouin@cafedecogroup.com Login as User 203.90.225.25
+2079 14 2017-08-10 18:50:30 vip@cafedecogroup.com Login as User 203.90.225.25
+2080 14 2017-08-10 18:54:19 postmaster@cafedecogroup.com Login as User 203.90.225.25
+
++++++++++
+umailcms - admin:(1)
+id,login,passwd,firstName,lastName,rights,last_login,last_logout,status
+14 Admin bWMwNFVNYWls Admin Admin 3 2019-01-04 12:47:27 0
+
++++++++++
+
+ 

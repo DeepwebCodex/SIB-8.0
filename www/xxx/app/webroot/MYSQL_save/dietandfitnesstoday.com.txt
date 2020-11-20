@@ -1,0 +1,587 @@
+www.dietandfitnesstoday.com/calories-nutrition-facts.php?id=14003
+ 
+dietand_nutri - active_guests:(1)
+ip,timestamp
+46.185.215.176 1557514829
+
++++++++++
+dietand_nutri - active_users:(0)
+username,timestamp
+
++++++++++
+dietand_nutri - banned_users:(0)
+username,timestamp
+
++++++++++
+dietand_nutri - dri:(22)
+id,sex,lower,upper,vitaminA,vitaminC,vitaminD,vitaminE,vitaminK,thiamin,riboflavin,niacin,vitaminB6,folate,vitaminB12,pantothenic,biotin,choline,calcium,chromium,copper,fluoride,iodine,iron,magnesium,manganese,molybdenum,phosphorus,selenium,zinc,potassium,sodium,chloride,tmp
+1 male 1 3 300 15 5* 6 30* 0.5 0.5 6 0.5 150 0.9 2* 8* 200* 500* 11* 340 0.7* 90 7 80 1.2* 17 460 20 3 3.0* 1.0* 1.5*
+2 male 4 8 400 25 5* 7 55* 0.6 0.6 8 0.6 200 1.2 3* 12* 250* 800* 15* 440 1* 90 10 130 1.5* 22 500 30 5 3.8* 1.2* 1.9*
+3 female 1 3 300 15 5* 6 30* 0.5 0.5 6 0.5 150 0.9 2* 8* 200* 500* 11* 340 0.7* 90 7 80 1.2* 17 460 20 3 3.0* 1.0* 1.5*
+4 female 4 8 400 25 5* 7 55* 0.6 0.6 8 0.6 200 1.2 3* 12* 250* 800* 15* 440 1* 90 10 130 1.5* 22 500 30 5 3.8* 1.2* 1.9*
+5 male 9 13 600 45 5* 11 60* 0.9 0.9 12 1.0 300 1.8 4* 20* 375* 1,300* 25* 700 2* 120 8 240 1.9* 34 1,250 40 8 4.5* 1.5* 2.3*
+6 male 14 18 900 75 5* 15 75* 1.2 1.3 16 1.3 400 2.4 5* 25* 550* 1,300* 35* 890 3* 150 11 410 2.2* 43 1,250 55 11 4.7* 1.5* 2.3*
+7 male 19 30 900 90 5* 15 120* 1.2 1.3 16 1.3 400 2.4 5* 30* 550* 1,000* 35* 900 4* 150 8 400 2.3* 45 700 55 11 4.7* 1.5* 2.3*
+8 male 31 50 900 90 5* 15 120* 1.2 1.3 16 1.3 400 2.4 5* 30* 550* 1,000* 35* 900 4* 150 8 420 2.3* 45 700 55 11 4.7* 1.5* 2.3*
+9 male 51 70 900 90 10* 15 120* 1.2 1.3 16 1.7 400 2.4i 5* 30* 550* 1,200* 30* 900 4* 150 8 420 2.3* 45 700 55 11 4.7* 1.3* 2.0*
+10 male 70 1000 900 90 15* 15 120* 1.2 1.3 16 1.7 400 2.4i 5* 30* 550* 1,200* 30* 900 4* 150 8 420 2.3* 45 700 55 11 4.7* 1.2* 1.8*
+
++++++++++
+dietand_nutri - fastfood:(1210)
+id,company,category,url,name,serving,unit,weight,calories,carbs,fiber,protein,fat,fatcalories,saturated,cholesterol,sodium,exchanges
+1 Arby's Breakfast Items www.arbys.com Biscuit With Butter 1 each 82 280 27 0.5 5 17 54 4 0 780 2c-1m-1f
+2 Arby's Breakfast Items www.arbys.com Biscuit With Ham 1 each 125 330 28 1 12 20 55 5 30 830 2c-2m-1f
+3 Arby's Breakfast Items www.arbys.com Biscuit With Sausage 1 each 122 460 28 1 12 33 65 9 25 300 2c-2m-3f
+4 Arby's Breakfast Items www.arbys.com Biscuit With Bacon 1 each 96 360 27 1 9 24 61 7 10 220 2c-1m-3f
+5 Arby's Breakfast Items www.arbys.com Croissant With Ham 1 each 105 310 29 0 13 19 55 11 50 1130 2c-2m
+6 Arby's Breakfast Items www.arbys.com Croissant With Sausage 1 each 102 440 29 0 13 32 66 15 45 600 2c-2m-3f
+7 Arby's Breakfast Items www.arbys.com Croissant With Bacon 1 each 76 340 28 1 10 23 62 13 30 520 2c-1m-3f
+8 Arby's Breakfast Items www.arbys.com Sourdough With Ham 1 each 173 390 67 2 19 6 12 1 30 1570 4c-2 lm
+9 Arby's Breakfast Items www.arbys.com Sourdough With Sausage 1 each 170 520 67 2 19 19 33 5 25 1040 4c-2m-1f
+10 Arby's Breakfast Items www.arbys.com Sourdough With Bacon 1 each 144 420 66 3 16 10 21 2.5 10 960 4c-2m
+91 Baskin Robbins Hard Scooped Premium Ice Cream www.baskinrobbins.com Chocolate 1 Reg. Scoop NA 270 31 NA 2 16 53 10 55 105 3c-3f
+92 Baskin Robbins Hard Scooped Premium Ice Cream www.baskinrobbins.com Vanilla 1 Reg. Scoop NA 250 24 NA 2 16 58 10 80 60 2c-2f
+93 Baskin Robbins Hard Scooped Premium Ice Cream www.baskinrobbins.com Chocolate Chip 1 Reg. Scoop NA 270 26 NA 2 17 57 11 60 80 2c-3f
+94 Baskin Robbins Hard Scooped Premium Ice Cream www.baskinrobbins.com Pralines 'n Cream 1 Reg. Scoop NA 280 33 NA 2 15 48 8 50 160 2c-3f
+95 Baskin Robbins Hard Scooped Premium Ice Cream www.baskinrobbins.com Jamoca Almond Fudge 1 Reg. Scoop NA 280 30 NA 2 16 51 8 45 70 2c-3f
+96 Baskin Robbins Hard Scooped Sherbets, Ices & Sorbets www.baskinrobbins.com Rainbow Sherbet 1 Reg. Scoop NA 160 34 NA 2 2 11 1.5 10 35 2c
+97 Baskin Robbins Hard Scooped Sherbets, Ices & Sorbets www.baskinrobbins.com Daiquiri Ice 1 Reg. Scoop NA 130 33 NA 0 0 0 0 0 10 2c
+98 Baskin Robbins Hard Scooped Sherbets, Ices & Sorbets www.baskinrobbins.com Peachy Keen Sorbet 1 Reg. Scoop NA 110 29 NA 0 0 0 0 0 10 2c
+99 Baskin Robbins Hard Scooped Lowfat Yogurt www.baskinrobbins.com Maui Brownie Madness 1 Reg. Scoop NA 250 38 NA 4 9 32 3.5 20 130 2c-2f
+100 Baskin Robbins Hard Scooped No Sugar Added Ice Cream (NutraSweet) www.baskinrobbins.com Thin Mint 1 Reg. Scoop NA 160 27 NA 4 4 22 3 10 110 2c
+491 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Hi C Light Pink Lemonade 8 oz. 240 ml 4 0 0 0 0 0 0 0 1
+492 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Hi C Orange 8 oz. 240 ml 110 30 0 0 0 0 0 0 0
+493 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Hi C Pink Lemonade 8 oz. 240 ml 96 25 0 0 0 0 0 0 41
+494 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Lowfat 2% Milk 8 oz. 240 ml 120 12 0 8 5 38 3 20 125
+495 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Minute Maid Country Style OJ 8 oz. 240 ml 100 27 0 0 0 0 0 0 25
+496 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Minute Maid Orange 8 oz. 240 ml 106 29 0 0 0 0 0 0 0
+497 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Minute Maid Orig. Style Lemonade 8 oz. 240 ml 96 26 0 0 0 0 0 0 48
+498 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Minute Maid Premium OJ 8 oz. 240 ml 110 27 0 0 0 0 0 0 25
+499 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Mr. Pibb 8 oz. 240 ml 97 26 0 0 0 0 0 0 14
+500 Einstein Bros. Bagels? Cold Beverages www.einsteinbros.com Nestea Peach Iced Tea 8 oz. 240 ml 78 21 0 0 0 0 0 0 9
+991 Starbucks Beverages www.starbucks.com White Chocolate Mocha, Soymilk 16 oz. NA 430 65 2 11 13 28 NA 35 280 4c-2 lm
+992 Starbucks Beverages www.starbucks.com White Chocolate Mocha, Breve 16 oz. NA 690 56 0 15 40 52 NA 185 280 4c-2m-5f
+993 Starbucks Beverages www.starbucks.com White Hot Chocolate 16 oz. NA 530 63 0 17 23 40 NA 90 320 4c-2m-2f
+994 Starbucks Beverages www.starbucks.com TazoBerry 16 oz. NA 210 53 0 <1 0 0 NA 0 45 4c
+995 Starbucks Beverages www.starbucks.com TazoBerry & Cream 16 oz. NA 500 63 0 3 23 42 NA 105 90 4c-4f
+996 Starbucks Beverage Additions www.starbucks.com Vanilla Syrup 4 pumps NA 80 21 0 0 0 0 NA 0 0 1c
+997 Starbucks Beverage Additions www.starbucks.com Hazelnut Syrup 4 pumps NA 80 21 0 0 0 0 NA 0 0 1c
+998 Starbucks Beverage Additions www.starbucks.com Mocha Syrup 4 pumps NA 100 24 2 2 2 20 NA 0 0 1c
+999 Starbucks Beverage Additions www.starbucks.com Caramel Sauce 1 Drizzle NA 10 2 0 1 0 0 NA 0 0 free
+1000 Starbucks Beverage Additions www.starbucks.com Sweetened Whipped Cream Topping 1 serving NA 100 2 0 1 10 90 NA 40 10 2f
+
++++++++++
+dietand_nutri - gi:(1429)
+id,section,name,notes,GI,GIBread,subjects,foodandtime,references,serving,carbs,glycemicload
+
++++++++++
+dietand_nutri - ingredients:(4021)
+id,recipe_id,name,amount,measure
+1 1 $$$milk, nonfat$$milk$; skimmed 1 c
+2 1 $$$$amount=1&units=6&id=09040$$banana$; ripe 1 none
+3 1 $$$cocoa mix$$cocoa mix$; Swiss Miss Diet 1 pk
+4 2 $$$$amount=1&units=3&id=01130$$eggs$ 2 none
+5 2 $$$$id=02047&amount=1&units=4$$salt$ none ds
+6 2 $$$margarine, regular$$margarine$, regular; melted (30 mL) 2 tb
+7 2 $$$wheat flour,$$flour$ (310 mL) 1 1/4 c
+8 2 $$$$id=18371&amount=1&units=2$$baking powder$ (5 mL) 1 ts
+9 2 $$$$amount=1&units=2&id=14429$$water$ (440 mL) 1 3/4 c
+10 3 $$$$amount=6&units=1&id=14292$$lemonade$ concentrate; unsweetened 6 oz
+91 10 $$$oil, vegetable$$vegetable oil$ 1 tb
+92 10 Unsweetened $$$apple juice$$apple juice$ 1 c
+93 10 $$$raisins, seed$$raisins$ 1/2 c
+94 10 Chopped $$$walnuts,$$walnuts$ or pecans 1/4 c
+95 11 $$$$amount=1&units=3&id=01130$$eggs$ 5 none
+96 11 $$$sugars$$sugar$ 1/2 c
+97 11 Sugar substitute * 3 pk
+98 11 $$$$amount=1&units=3&id=02050$$vanilla$ extract 1 ts
+99 11 $$$wheat flour,$$flour$ 3/4 c
+100 11 $$$$amount=1&units=2&id=20027$$cornstach$ 2 tb
+491 50 $$$$id=02047&amount=1&units=4$$salt$ none none
+492 50 and $$$$id=02030&amount=1&units=3$$pepper$ to taste none none
+493 51 Frozen $$$peas, green$$peas$; cooked or microwaved 1/4 c
+494 51 Cooked $$$$amount=1&units=2&id=11008$$artichoke heart$ 1 none
+495 51 or 1 canned $$$$amount=1&units=2&id=11008$$artichoke heart$ none none
+496 51 Green $$$onions$$onion$; (scallion) 1 none
+497 51 Canned $$$$amount=1&units=3&id=11979$$jalapeno$ washed and seeded; (optional) 1 none
+498 51 Cilantro 1/8 c
+499 51 Ripe avocado 1 none
+500 51 Lemon juice 1 none
+991 110 Grated $$$parmesan$$parmesan cheese$ 1/4 c
+992 111 Oil 2 tb
+993 111 Bunch $$$$amount=1&units=2&id=11247$$leeks$; white part only, thinly sliced 1 none
+994 111 $$$chicken broth$$chicken broth$ 4 c
+995 111 $$$potatoes, B$$potatoes$; peeled and thinly sliced 2 lg
+996 111 Low-fat $$$cheese, cottage$$cottage cheese$ or $$$ricotta$$ricotta cheese$ 2 c
+997 111 Skim $$$milk, nonfat$$milk$ 1 c
+998 111 Chopped $$$$amount=1&units=3&id=11156$$chives$ or chopped $$$onions$$onions$ (for garnish) none none
+999 112 (4 oz.) diced green chili peppers; drained 2 cn
+1000 112 Low-fat $$$$id=01168&amount=1&units=2$$cheddar cheese$; shredded (2 c.) 8 oz
+1991 208 Ground $$$$amount=1&units=3&id=02014$$cumin$ 1 tb
+1992 208 Turmeric 1/2 ts
+1993 208 $$$$amount=1&units=2&id=06172$$chicken stock$ 5 c
+1994 208 Lime rind, grated 1/2 ts
+1995 208 $$$lemon juice,$$lemon juice$ 2 tb
+1996 208 $$$$amount=1&units=2&id=11216$$Ginger root$, chopped 2 ts
+1997 208 Granulated $$$sugars$$sugar$ 2 ts
+1998 208 Chili paste 1 ts
+1999 208 Bean sprouts 1 c
+2000 208 Romaine lettuce, coarse chop 1 c 
++++++++++
+dietand_nutri - mets:(623)
+id,mets_id,value,category,description,score,rank,percentrank,higherthan,percenthigherthan
+1 1009 8.5 bicycling bicycling bmx or mountain 0 0 0 0 0
+2 1010 4 bicycling bicycling <10 mph,  leisure,  to work or for pleasure 0 0 0 0 0
+3 1015 8 bicycling bicycling general 0 0 0 0 0
+4 1020 6 bicycling bicycling 10- 11.9 mph,  leisure,  slow,  light effort 0 0 0 0 0
+5 1030 8 bicycling bicycling 12- 13.9 mph,  leisure,  moderate effort 0 0 0 0 0
+6 1040 10 bicycling bicycling 14- 15.9 mph,  racing or leisure,  fast,  vigorous effort 0 0 0 0 0
+7 1050 12 bicycling bicycling 16- 19 mph,  racing/ not drafting or >19 mph drafting,  very fast,  racing general 0 0 0 0 0
+8 1060 16 bicycling bicycling >20 mph,  racing,  not drafting 0 0 0 0 0
+9 1070 5 bicycling unicycling 0 0 0 0 0
+10 2010 7 conditioning exercise cycling, stationary,  general 0 0 0 0 0
+90 5140 4 home activities sweeping garage,  sidewalk or outside of house 0 0 0 0 0
+91 5145 7 home activities moving household items,  carrying boxes 0 0 0 0 0
+92 5146 3.5 home activities standing - packing/ unpacking boxes,  occasional lifting of household items light - moderate effort 0 0 0 0 0
+93 5147 3 home activities implied walking - putting away household items - moderate effort 0 0 0 0 0
+94 5148 2.5 home activities watering plants 0 0 0 0 0
+95 5149 2.5 home activities building a fire inside 0 0 0 0 0
+96 5150 9 home activities moving household items upstairs,  carrying boxes or furniture 0 0 0 0 0
+97 5160 2 home activities standing - light (pump gas,  change light bulb,  etc.) 0 0 0 0 0
+98 5165 3 home activities walking - light,  non- cleaning (readying to leave,  shut/ lock doors,  close windows,  etc. 0 0 0 0 0
+99 5170 2.5 home activities sitting - playing with child( ren) ? light,  only active periods 0 0 0 0 0
+490 17130 8 walking walking, upstairs or climbing up a ladder 0 0 0 0 0
+491 17140 5 walking using crutches 0 0 0 0 0
+492 17150 2 walking walking, around the house or home 0 0 0 0 0
+493 17151 2 walking walking, at less than 2.0 mph, very slow pace, on  level and firm ground 0 0 0 0 0
+494 17152 2.5 walking walking, at 2.0 mph, slow pace, on level and firm ground 0 0 0 0 0
+495 17160 3.5 walking walking for pleasure 0 0 0 0 0
+496 17161 2.5 walking walking from house to car or bus,  from car or bus to go places,  from car or bus to and from the worksite 0 0 0 0 0
+497 17162 2.5 walking walking to neighbor?s house or family?s house for social reasons 0 0 0 0 0
+498 17165 3 walking walking, general walking the dog 0 0 0 0 0
+499 17170 3 walking walking, at 2.5 mph, slow pace, on a level and firm surface 0 0 0 0 0
+
++++++++++
+dietand_nutri - mets2:(832)
+id,mets_id,value,category,description,score,rank,percentrank,higherthan,percenthigherthan,originaldescription
+1 12135 23 running running at a speed of 14 mph or 4:17 pace (minutes/mile) 100 1 2 0 0 running, 14 mph (4.3 min/mile)
+2 12134 19.8 running running at a speed of 13 mph or 4:36 pace (minutes/mile) 85.6 2 3 1 0.1 running, 13 mph (4.6 min/mile)
+3 12132 19 running running at a speed of 12 mph or 5:00 pace (minutes/mile) 82 3 5 2 0.2 running, 12 mph (5 min/mile)
+4 11250 17.5 occupation forestry, ax chopping, very fast, 1.25 kg axe, 51 blows/min, extremely vigorous effort 75.3 4 6 3 0.4 forestry, ax chopping, very fast, 1.25 kg axe, 51 blows/min, extremely vigorous effort
+5 1004 16 bicycling competitive mountain bike racing 68.6 5 8 4 0.5 bicycling, mountain, competitive, racing
+6 12130 16 running running at a speed of 11 mph or 5:27 pace (minutes/mile) 68.6 5 8 4 0.5 running, 11 mph (5.5 min/mile)
+7 1060 15.8 bicycling bicycling, > 20 mph, racing, not drafting 67.7 6 9 6 0.7 bicycling, > 20 mph, racing, not drafting
+8 18180 15.8 water activities skindiving, fast 67.7 6 9 6 0.7 skindiving, fast
+9 19130 15.5 winter activities cross country skiing on hard snow, uphill at maximum effort or snow mountaineering 66.3 7 11 8 1 skiing, cross country, hard snow, uphill, maximum, snow mountaineering
+10 12170 15 running running up stairs 64.1 8 12 9 1.1 running, stairs, up
+91 5150 9 home activities moving household items upstairs, carrying boxes or furniture 37.1 28 43 85 10.2 moving household items upstairs, carrying boxes or furniture
+92 15480 9 sports orienteering 37.1 28 43 85 10.2 orienteering
+93 12040 9 running running or jogging at a speed of 5.2 mph or 11:30 pace (minutes/mile) 37.1 28 43 85 10.2 running, 5.2 mph (11.5 min/mile)
+94 12140 9 running running, cross country 37.1 28 43 85 10.2 running, cross country
+95 19040 9 winter activities skating, ice, rapidly, more than 9 mph, not competitive 37.1 28 43 85 10.2 skating, ice, rapidly, more than 9 mph, not competitive
+96 19090 9 winter activities cross country skiing at a moderate speed and effort of 4.0-4.9 mph 37.1 28 43 85 10.2 skiing, cross country, 4.0-4.9 mph, moderate speed and effort, general
+97 2065 9 conditioning exercise stair-treadmill ergometer, general 37.1 28 43 85 10.2 stair-treadmill ergometer, general
+98 2013 8.8 conditioning exercise bicycling, stationary, 101-160 watts, vigorous effort 36.2 29 45 97 11.7 bicycling, stationary, 101-160 watts, vigorous effort
+99 15552 8.8 sports rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce 36.2 29 45 97 11.7 rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce
+100 11550 8.8 occupation shoveling, more than 16 lbs/minute, deep digging, vigorous effort 36.2 29 45 97 11.7 shoveling, more than 16 lbs/minute, deep digging, vigorous effort
+491 3060 3.5 dancing Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin's, Caribbean Quadrills, Dinki Mini, Gere, Gumbay, Ibo, Jonkonnu, Kumina, Oreisha, Jambu) 12.4 52 80 486 58.5 Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin's, Caribbean Quadrills, Dinki Mini, Gere, Gumbay, Ibo, Jonkonnu, Kumina, Oreisha, Jambu)
+492 5020 3.5 home activities cleaning, heavy or major (e.g. wash car, wash windows, clean garage), moderate effort 12.4 52 80 486 58.5 cleaning, heavy or major (e.g. wash car, wash windows, clean garage), moderate effort
+493 5021 3.5 home activities cleaning, mopping, standing, moderate effort 12.4 52 80 486 58.5 cleaning, mopping, standing, moderate effort
+494 8025 3.5 lawn and garden clearing light brush, thinning garden, moderate effort 12.4 52 80 486 58.5 clearing light brush, thinning garden, moderate effort
+495 5049 3.5 home activities cooking or food preparation, moderate effort 12.4 52 80 486 58.5 cooking or food preparation, moderate effort
+496 2045 3.5 conditioning exercise CurvesTM exercise routines in women 12.4 52 80 486 58.5 CurvesTM exercise routines in women
+497 17070 3.5 walking descending stairs 12.4 52 80 486 58.5 descending stairs
+498 8045 3.5 lawn and garden digging, spading, filling garden, composting, light-to-moderate effort 12.4 52 80 486 58.5 digging, spading, filling garden, composting, light-to-moderate effort
+499 11180 3.5 occupation farming, feeding small animals 12.4 52 80 486 58.5 farming, feeding small animals
+500 11210 3.5 occupation farming, milking by hand, cleaning pails, moderate effort 12.4 52 80 486 58.5 farming, milking by hand, cleaning pails, moderate effort
+
++++++++++
+dietand_nutri - recipes:(402)
+id,name,cat_id,category,yield,measure,preparation
+1 Banana shake 0 drinks low-fat 1 Servings 1. Mix ingredients.<br>2. Blend ingredients in blender.<br>Preparation time: 5 mins<br>
+2 Crepes 0 desserts diabetic low calorie 36 Servings 1. Place eggs in blender add salt, melted margarine, flour,<br>baking powder and water and blend thoroughly. <br>2. Should batter become too thick, add more water.<br>3. Cook in crepe pan.<br>Preparation Time: 5 mins<br>Cooking Time: 3 mins<br>
+3 Lemon sherbet 0 desserts diabetic low calorie 16 1/2 c serv 1. Combine all ingredients in a large bowl and beat well. <br>2. Recipe can be frozen in an ice cream maker or by dividing into 2 <br>freezer trays and freeze until mushy. <br>3. Pour into a large bowl and beat well. <br>4. Repack into a container and freze until firm.<br>Preparation Time: 5 mins<br>
+4 Fig cake 0 cakes desserts low fat 1 Servings PUREED FIGS:<br>1. Puree figs, water and vanilla in blender or food processor. <br>(Makes 1 1/2 cups.)<br>  CAKE:<br>1. Lightly beat together eggs and egg whites in bowl.<br>2. Sift together flour, sugar, baking powder, baking soda, salt and cinnamon<br>into mixing bowl. <br>3. Stir to blend. <br>4. Add pureed figs, beaten eggs, carrots, pineapple, raisins and nuts.  <br>5. Stir until blended.<br>6. Turn into 13 X 9-inch baking pan sprayed with non-stick vegetable spray.<br>7. Bake at 350 deg. 35 to 40 minutes or until cake tests done in center. <br>8. While cake cools, blend together powdered sugar and 2 tablespoons reserved<br>pineapple juice until smooth and of spreading consistency. <br>9. Drizzle over cake.  <br>Preparation Time: 10 mins<br>Cooking Time: 40 mins<br>
+5 Cheesecake 0 cakes desserts low fat 1 Servings 1. Lightly spray (PAM) 8" round pan. <br>2. Blend crumbs w/1/4 c. apple juice. <br>3. Pat into bottom and on sides of pan. <br>4. Combine cake ingredients (no need to beat whites sep); pour into shell. <br>5. Bake for 30 mins in preheated 350o oven.<br>6. Chill well - hardens as cools. (Keeps for several days, freezes well)<br>Preparation Time: 5 mins<br>Cooking Time: 30 mins<br>
+6 Chicken and dumplings 0 chicken low fat low calorie 1 Servings 1. In a large Dutch oven, combine water, chicken, 2 quartered carrots, 1<br>stalk celery quartered, 1 onion peeled and quartered. <br>2. Add seasonings, bring to boil. <br>3. Reduce heat and simmer 45 minutes. <br>4. Remove vegetables and puree in food processor. <br>5. Add this to Dutch oven along with remaining vegetables, sliced thinly. <br>Bring to boil. <br>6. Combine ingredients for dumplings. <br>7. Drop tablespoons of batter into boiling broth. <br>8. Reduce heat to simmer. <br>9. Cover for 20 minutes and then remove bay leaf.<br>Preparation Time: 10 mins<br>Cooking Time: 70 mins<br>
+7 Lobster (or any seafood) thermidor 0 seafood low fat 4 Servings To make the sauce, melt the tablespoon of margarine in a heavy saucepan <br>over low heat. Add the flour and cook for 3 minutes, stirring constantly. <br>Do not brown. Remove from the heat and add the simmering milk all at once,<br>stirring constantly with a wire whisk. Put the sauce back on low heat. <br>Stir in the mustard and cook over low heat for 20 minutes, stirring <br>occasionally. If you wish a thicker sauce, cook it a little longer. <br>Set aside.<br>Melt the teaspoon of margarine in a skillet. <br>Add the sliced mushrooms and cook over medium heat, stirring frequently, <br>until tender. Set aside. Steam the lobster tails just until the shells <br>turn bright red and the meat turns from translucent to opaque. <br>Remove from the steamer and split each tail in half.<br>Remove the meat from the shells, reserving the shells to use later for<br>presentation. Cut the cooked meat into cubes; you will have about 2 cups.<br>Add the cubed lobster and the mushrooms to the sauce and mix well.<br>Preheat the broiler. Arrange the reserved shells on a baking sheet and fill<br>each shell with the lobster mixture. Sprinkle 1 tablespoon of the shredded<br>Parmesan cheese over the top of each serving. Place under the preheated<br>broiler for about 3 minutes, or until lightly browned.<br>NOTES : For a more economical dish, try this recipe with other seafood,<br>such as scallops, and serve it in au gratin dishes.<br>
+8 Lobster and angel hair 0 healthy and italian pasta seafood 4 Servings Crack lobster into pieces. Remove claw andtail meat; set aside. Boil the<br>rest of the lobster (shells and all) in water with Old Bay spice fora few<br>hours (till the flavors come out of the shell). Strain liquid leaving any<br>pieces of meat. Reduce liquid till about 1/4 or 1/2 cup is left. Dice the<br>lobster meat into very small pieces. To liquid add, sauce mix, milk, and<br>oil. Cook slowly (while stirring) for about 10 mintues. (This is a good<br>time to boil the water and cook the pasta.) When sauce starts to thicken,<br>add lobster meat. Cook for a few more minutes. Remove sauce from heat and<br>allow sauce to cool slightly and thicken. Toss sauce with pasta. Serve<br>immediately. <br>Serving Ideas : Salad, crusty bread, fruit for dessert<br>
+9 Lobster fricassee 0 seafood diabetic 4 Servings Melt the margarine in a saucepan; add the mushrooms and onion powder. <br>Whisk the milk and flour in a small bowl, whisking quickly to<br>eliminate any lumps. Pour the milk mixture into mushroom mixture; mix<br>thoroughly, and continue cooking 3-4 minutes. Add the lobster, paprika, and<br>salt and pepper to taste; continue cooking 5-10 minutes until lobster is<br>heated through. Spread rice or pasta onto a serving platter, spoon lobster<br>and sauce over the top and garnish with parsley to serve.<br>Preparation Time: 15 mins<br>Cooking Time: 15 mins<br>
+10 Loshen kugel (noodle pudding) 0 diabetic desserts pasta 6 Servings Beat the eggs and sugar until fluffy.  Add the remaining other<br>ingredients, except the nuts.  Pour into a well oiled 2 qt casserole<br>dish or an 8 inch baking pan. sprinkle on the nuts.  Bake in a 350 F<br>oven for 40 to 50 minutes or until browned. <br>Cooking Time: 50 mins<br>
+89 Dip for artichokes 0 dip low calorie 3 Servings Mix all ingredients except paprika. Sprinkle mixture with paprika. Chill.<br>Serve with hot or cold cooked artichokes.  <br>
+90 Eggnog 0 diabetic beverages low-calorie 8 Servings Combine the egg yolks and milk in a saucepan.  Cook over medium heat<br>until the mixture coats a metal spoon.  Cool.<br>Beat the egg whites until soft peaks form.  Add to the egg custard<br>mixture with the vanilla, sweetener, and flavoring.  Mix lightly.<br>Cover and chill. Pour into serving cups and sprinkle with nutmeg.<br>
+91 French fries 0 snacks low calorie 4 Servings Cut potatoes in half lengthwise. Slice each half into lengthwise<br>wedges with some peel on each piece. Soak in cold water.<br>Arrange potatoes in single layer on cooking sheet. Bake in preheated<br>450-degree oven for about 20 minutes, stirring occasionally. To season,<br>sprinkle with salt, pepper and your choice of paprika or celery salt.<br>Reduce salt if using celery salt.<br>Also good sprinkled with chili powder just before end of cooking time.<br>
+92 Ice cream 0 desserts low calorie 8 Servings Soften gelatin in 1/2 c water.<br>Mix 1/4 c dry milk with freshmilk; scald.  Dissolve gelatin in milk; stir<br>in 2 tb sugar, liquid sweetener, and vanilla. Chill until slightly<br>thickened.<br>Beat 1/2 c dry milk with 1/2 c very cold water until it begins to thicken.<br>Add lemon juice; beat until thick.  Beat in 1 tb sugar until mixture is<br>consistency of whipped cream.  Fold in chilled gelatin mixure.  Pour into<br>ice trays; freeze.<br>
+93 Irish colcannon 0 side dishes low calorie 4 Servings 1. In a medium saucepan, combine water, margarine, and salt. Bring<br>to boil. Stir in cabbage; return to a boil. Reduce heat, cover and<br>simmer 4-6 minutes, or until cabbage is tender.<br>2. Remove from heat; stir in milk and potato flakes with fork. Stir<br>in onion. Cover and let stand 3 minutes.<br>
+94 Irish trifle cups 0 desserts low calorie 4 Servings 1. In a small bowl, combine milk and pudding; beat until well blended.<br>Let stand 5 minutes.<br>2. Meanwhile, divide cake cubes evenly among 4 8 oz dessert cups.<br>3. Divide half of raspberries evenly among dessert cups. Spoon<br>pudding over raspberries. Top with remaining berries.<br>4. Spoon 2 Tablespoons cool whip over each trifle cup. Refrigerate.<br>
+95 Lemon bavarian 0 desserts low-calorie 4 Servings 1. In a bowl combine apple juice and gelatin. Let stand in a container<br>of hot water until dissolved.<br>2. Stir in lemon juice, rind, and pineapple juice, and chill until<br>partially set.<br>3. Meanwhile, pour the evaporated skim milk into a bowl, and place in<br>the freezer until crystals form. Once the gelatin mixture is set,<br>beat the evaporated milk until thick and fluffy. Beat the gelatin<br>mixture until light and frothy. Combine the two mixture together, and<br>pour into a mold. Chill until set.<br>
+96 Lemonade 0 beverages low calorie 4 Servings *    Sugar substitute is either 4 to 8 envelopes or 1 1/2 t or to taste.<br>Combine ingredients; mix well.  Serve over ice.  Garnish as desired.<br>
+97 Chocolate chip cookies 0 cookies desserts low calorie low fat 2 1/2 dozen Heat oven to 375 degrees.  Mix sugars, margarine, vanilla, and egg white in<br>large bowl.  Stir in flour, baking soda, and salt. Stir in chocolate chips.<br>Drop dough by rounded teaspoonfuls about 2 inches apart onto ungreased<br>cookie sheet.  Bake 8 to 10 minutes or until golden brown. Cool slightly;<br>remove from cookie sheet. Cool on wire rack.<br>
+98 Chocolate brownies 0 cakes desserts low calorie 16 Brownies In bowl, stir together flour, sweetener, baking powder and salt; set aside.<br>In mixing bowl, beat butter, eggs and vanilla for 1 minute. Add apple<br>sauce, beat just until blended. Fold in flour mixture just until moistened.<br>Using 1/3 cup of the batter, drop by spoonfuls into greased 8-inch square<br>cake pan. Fold cocoa powder into remaining batter just until combined.<br>Gently spoon batter into pan covering white batter and smoothing surface.<br>bake in 350F 180C oven for 15 minutes or until tester inserted in centre<br>comes out clean. Transfer to rack; let cool. <br>
+
++++++++++
+dietand_nutri - registry:(6662)
+id,desc,water,energy_kcal,protein,lipid_tot,ash,carbohydrt,fiber_td,sugar_tot,calcium,iron,magnesium,phosporus,potassium,sodium,zinc,copper,manganese,selenium,vit_c,thiamin,riboflavin,niacin,panto_acid,vit_b6,folate_tot,folic_acid,food_folate,folate_dfe,vit_b12,vit_a_iu,vit_a_rae,retinol,vit_e,vit_k,alpha_carot,beta_carot,beta_crypt,lycopene,lut_zea,fa_sat,fa_mono,fa_poly,cholestrl,gmwt_1,gmwt_desc1,gmwt_2,gmwt_desc2,refuse_pct
+
++++++++++
+dietand_nutri - shortdescription:(48)
+id,nutrient,description,file
+1 Vitamin A (Retinol) Vitamin A is a fat-soluble vitamin. A fat-soluble vitamin dissolves and remains in the fatty tissues of the body, reducing the need to ingest large qu vitaminA.php
+2 Vitamin B1 (Thiamin) Vitamin B1, also called thiamine, is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed throughout th vitaminB1.php
+3 Vitamin B2 (Riboflavin) Vitamin B2, also called riboflavin, is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed throughout vitaminB2.php
+4 Vitamin B3 (Niacin) Vitamin B3, also called niacin, is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed throughout the niacin.php
+5 Vitamin B5 (Pantothenic acid) Pantothenic acid is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed throughout the body dissolved pantothenicacid.php
+6 Vitamin B6 (Pyridoxine) Vitamin B6, also called pyridoxine, is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed throughout vitaminB6.php
+7 Vitamin B7/Vitamin H (Biotin) Vitamin H, more commonly known as biotin, is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed throu biotin.php
+8 Vitamin B9 (Folic acid) Vitamin B9, also called folic acid or folate, is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed t folicacid.php
+9 Vitamin B12 (Cobalamin) Vitamin B12, also called cobalamin, is one of eight water-soluble B vitamins. Since these vitamins are soluble in water they are dispersed throughout vitaminB12.php
+10 Vitamin B13 (Orotic Acid) Vitamin B13 is not really recognized as a vitamin, since it is manufactured by the body by intestinal flora. It is primarily used for metabolization vitaminB13.php
+
++++++++++
+dietand_nutri - sr18_data_src:(366)
+index,DataSrc_ID,Authors,Title,Year,Journal,Vol_City,Issue_State,Start_Page,End_Page
+
++++++++++
+dietand_nutri - sr18_datsrcln:(95250)
+index,NDB_No,Nutr_No,DataSrc_ID
+
++++++++++
+dietand_nutri - sr18_deriv_cd:(54)
+index,Deriv_Cd,Deriv_Desc
+
++++++++++
+dietand_nutri - sr18_fd_group:(24)
+index,FdGrp_Cd,FdGrp_Desc
+
++++++++++
+dietand_nutri - sr18_food_des:(7146)
+index,NDB_No,FdGrp_Cd,Long_Desc,Shrt_Desc,ComName,ManufacName,Survey,Ref_desc,Refuse,SciName,N_Factor,Pro_Factor,Fat_Factor,CHO_Factor
+
++++++++++
+dietand_nutri - sr18_footnote:(205)
+index,NDB_No,Footnt_No,Footnt_Typ,Nutr_No,Footnt_Txt
+
++++++++++
+dietand_nutri - sr18_nut_data:(488241)
+index,NDB_No,Nutr_No,Nutr_Val,Num_Data_Pts,Std_Error,Src_Cd,Deriv_Cd,Ref_NDB_No,Add_Nutr_Mark,Num_Studies,Min,Max,DF,Low_EB,Up_EB,Stat_cmt,CC
+
++++++++++
+dietand_nutri - sr18_nutr_def:(136)
+index,Nutr_No,Units,Tagname,NutrDesc,Num_Dec,SR_Order
+
++++++++++
+dietand_nutri - sr18_nutr_no:(0)
+Nutr_No,Units,Tagname,NutrDesc,Num_Dec,SR_Order
+
++++++++++
+dietand_nutri - sr18_src_cd:(10)
+index,Src_Cd,SrcCd_Desc
+
++++++++++
+dietand_nutri - sr18_weight:(13008)
+index,NDB_No,Seq,Amount,Msre_Desc,Gm_Wgt,Num_Data_Pts,Std_Dev
+
++++++++++
+dietand_nutri - sr25_data_src:(610)
+index,DataSrc_ID,Authors,Title,Year,Journal,Vol_City,Issue_State,Start_Page,End_Page
+
++++++++++
+dietand_nutri - sr25_datsrcln:(187720)
+index,NDB_No,Nutr_No,DataSrc_ID
+
++++++++++
+dietand_nutri - sr25_deriv_cd:(54)
+index,Deriv_Cd,Deriv_Desc
+
++++++++++
+dietand_nutri - sr25_fd_group:(25)
+index,FdGrp_Cd,FdGrp_Desc
+
++++++++++
+dietand_nutri - sr25_food_des:(8194)
+index,NDB_No,FdGrp_Cd,Long_Desc,Shrt_Desc,ComName,ManufacName,Survey,Ref_desc,Refuse,SciName,N_Factor,Pro_Factor,Fat_Factor,CHO_Factor
+
++++++++++
+dietand_nutri - sr25_footnote:(524)
+index,NDB_No,Footnt_No,Footnt_Typ,Nutr_No,Footnt_Txt
+
++++++++++
+dietand_nutri - sr25_nut_data:(603552)
+index,NDB_No,Nutr_No,Nutr_Val,Num_Data_Pts,Std_Error,Src_Cd,Deriv_Cd,Ref_NDB_No,Add_Nutr_Mark,Num_Studies,Min,Max,DF,Low_EB,Up_EB,Stat_cmt,CC
+
++++++++++
+dietand_nutri - sr25_nutr_def:(147)
+index,Nutr_No,Units,Tagname,NutrDesc,Num_Dec,SR_Order
+
++++++++++
+dietand_nutri - sr25_src_cd:(10)
+index,Src_Cd,SrcCd_Desc
+
++++++++++
+dietand_nutri - sr25_weight:(14162)
+index,NDB_No,Seq,Amount,Msre_Desc,Gm_Wgt,Num_Data_Pts,Std_Dev
+
++++++++++
+dietand_nutri - us_body_constants:(1)
+username,dob,height,sex
+admin 2007-12-12 1.6 0
+
++++++++++
+dietand_nutri - users:(8)
+username,password,userid,userlevel,email,timestamp,domain
+test33 9cb45d54b2ccdc1c486e2f3eb87fbe9f 257d64951718bdc9878c7557505997c8 1 rdtx@hotmail.com 1172693492
+admin 21232f297a57a5a743894a0e4a801fc3 98098cba537ac1662c5e1ff62a6c9af1 9 test@test.com 1174176333 172.159.254.175
+test6 4cfad7076129962ee70c36839a1e3e15 0 1 test@test.com 1172706444 172.213.219.32
+tester f5d1278e8109edd94e1e4197e04873b9 0731eb96bd93a09453949cb512080afd 1 test@hotmail.com 1172739071 194.217.191.12
+tester1 f5d1278e8109edd94e1e4197e04873b9 6c9132c0546ef6244e921ad7d1ffa2cf 1 rdtx@hotmail.com 1173465252 172.215.198.108
+test22 4d42bf9c18cb04139f918ff0ae68f8a0 02356248bf110db3f5afa37405f25c3a 1 test@test.com 1173467232 172.215.198.108
+test3 8ad8757baa8564dc136c1e07507f4a98 b7fa3023e861ae84e3c52f910389fa51 1 test3@hotmail.com 1174175008 172.143.193.23
+test1 5a105e8b9d40e1329780d62ea2265d8a 8354f0058ded227fd5c1f86114a045e3 1 test@test.com 1182673738 172.141.88.5
+
++++++++++
+
+ 
+dietand_recipes - categories:(44)
+id,name
+0 afganistan
+1 appetizers
+2 american
+3 australian
+4 barbeque
+5 blender
+6 bread
+7 breakfast
+8 beef
+9 cakes
+
++++++++++
+dietand_recipes - ingredients:(209020)
+id,recipe_id,name,amount,measure
+1 1 Eggplants 3 md
+2 1 Pepper 1/4 ts
+3 1 Coarse (kosher salt) 2 1/2 ts
+4 1 Hot red chili flakes, or 1 ts
+5 1 Minced fresh chiles none none
+6 1 Corn oil 1/4 c
+7 1 Ground cinnamon 2 ts
+8 1 Tomato sauce 1 1/2 c
+9 1 Crushed dried mint 1 tb
+10 2 Stephen Ceideburg none none
+91 9 Dried chick-peas, covered w/hot water & soaked over- night, or at least 8-10 hrs 1 c
+92 9 Ground beef 1 1/2 lb
+93 9 Onion, grated 1 lg
+94 9 Pepper 1/4 ts
+95 9 Salt, or to taste 1 ts
+96 9 Ground cinnamon 1/4 ts
+97 9 Dried mint, crushed 1 tb
+98 9 Bread crumbs, matzoh meal, or plain flour 1 tb
+99 9 Water, boiling 4 c
+100 10 Corn oil 1/4 c
+491 49 Fresh sage leaves 4 none
+492 50 Bacon slices none none
+493 50 Oysters, fresh, raw none none
+494 50 Salt and pepper none none
+495 50 Paprika none none
+496 50 Toothpicks none none
+497 51 Green Peppers 2 none
+498 51 Medium Onion 1 none
+499 51 Stalks Of Celery 2 none
+500 51 Carrots 3 none
+991 124 Vegetable Oil 1 tb
+992 124 Garlic Clove 1 none
+993 124 Onion, Chopped 1/2 none
+994 124 Mushrooms, Chopped 1/4 lb
+995 124 Cottage Cheese, Low Fat 3/4 c
+996 124 Yogurt, Low Fat Plain 1/4 c
+997 124 Salt And Pepper To Taste 1 pn
+998 125 Garlic Cloves Mashed 4 none
+999 125 Dijon Mustard 1 tb
+1000 125 Dry Mustard 1/2 ts
+1991 246 Mayonnaise 2 tb
+1992 246 Season salt 1/2 ts
+1993 246 English Muffins 6 none
+1994 247 Frozen won-ton skins 1 pk
+1995 247 Cream cheese, softened 8 oz
+1996 247 Or small package frozen crabmeat, or fresh! 1 cn
+1997 247 Sour cream none none
+1998 247 White garlic powder to taste none none
+1999 248 (8oz) cream cheese 1 pk
+2000 248 (6oz) crab meat, drained and flaked 2 green onions 1 cn 
++++++++++
+dietand_recipes - recipes:(20746)
+id,name,cat_id,category,yield,measure,preparation
+1 spicy eggplant salad (bonjan) from afghanistan 0 indian afghan salads 8 servings Slice the eggplants crosswise into 1,5 inch thick pieces. Sprinkle<br>them with 2 tsp. coarse salt and let stand for 15 minutes. rinse<br>eggplants under cold water, which removes the bitter taste, rinse,<br>and dry well on a towel.<br>Heat the oil in a skillet and lightly brown eggplant slices over<br>moderate heat for 3 minutes. Remove and put into a serving bowl. Cool.<br>Put the tomato sauce, pepper, chile, cinnamon, mint and 1/2 tsp.<br>salt, if wanted, in a pan. Simmer over low heat for 10 minutes, which<br>is long enough to integrate the flavors. Pour this over the eggplant;<br>refrigerate until ready to use. The salad can remain in the<br>refrigerator for several days. Serve cold or at room temperature.<br>Yield: 8 servings.<br>Recipe by Nancy Berry<br>
+2 afghan chicken 0 middle east chicken ceideburg bbq afghan 6 servings Long, slow marinating in garlicky yogurt tenderizes, moistens and<br>adds deep flavor, so you end up with skinless grilled chicken that's<br>as delicious as it is nutritionally correct. Serve with soft pita or<br>Arab flatbread and fresh yogurt.<br>Put the salt in a wide, shallow non-reactive bowl with the garlic and<br>mash them together until you have paste. Add yogurt, lemon and pepper.<br>Skin the chicken breasts, remove all visible fat and separate the<br>halves. Bend each backward to break the bones so the pieces win lie<br>flat. Add to the yogurt and turn so all surfaces are well-coated.<br>Cover the bowl tightly and refrigerate. Allow to marinate at least<br>overnight, up to a day and a half. Turn when you think of it.<br>To cook, remove breasts from marinade and wipe off all but a thin<br>film. Broil or grill about 6 inches from the heat for 6 to 8 minutes<br>a side, or until thoroughly cooked. Meat will brown somewhat but<br>should not char. Serve at once.<br>From the San Francisco Examiner, 6/2/93.<br>
+3 abraysham kabaub ( silk kebab) 0 afghan desserts 30 servings SYRUP<br>OMELET<br>TO FINISH<br>*Note: Instead of pistachio nuts, walnuts may be used if desired.<br>Dissolve sugar in water in heavy pan over medium heat.  Bring to the<br>boil, add lemon juice and saffron and boil for 10 minutes.  Cool and<br>strain into a 25 cm (10 inch) pie plate.  Keep aside. Break eggs into<br>a casserole dish about 20 cm (8 inches) in diameter.  The size and<br>flat base are important. Add salt and mix eggs with fork until yolks<br>and whites are thoroughly combined - do not beat as eggs must not be<br>foamy. Heat oil in an electric frypan to 190 C (375 F) or in a 25 cm<br>(10 inch) frypan placed on a thermostatically controlled hot plate or<br>burner. Have ready nearby a long skewer, the plate of syrup, a baking<br>sheet and the nuts mixed with the cardamom. A bowl of water and a<br>cloth for drying hands are also necessary. Hold dish with eggs in one<br>hand next to the pan of oil and slightly above it. Put hand into egg,<br>palm down, so that egg covers back of hand. Lift out hand, curling<br>fingers slightly inwards, then open out over hot oil, fingers<br>pointing down.  Move hand across surface of oil so that egg falls in<br>streams from fingertips.  Dip hand in egg again and make more strands<br>across those already in pan.  Repeat 3 to 4 times until about an<br>eighth of the egg is used.  There should be a closely meshed layer of<br>egg strands about 20 cm (8 inches) across.  Work quickly so that the<br>last lot of egg is added not long after the first lot. Rinse hands<br>quickly and dry. Take skewer and slide under bubbling omelet, lift up<br>and turn over to lightly brown other side. The first side will be<br>bubbly, the underside somewhat smoother. When golden brown lift out<br>with skewer and drain over pan. Place omelet flat in the syrup, spoon<br>syrup over the top and lift out with skewer onto baking sheet. Roll<br>up with bubbly side inwards. Finish roll should be about 3 cm (1 1/4<br>inches) in diameter.  Put to one side and sprinkle with nuts. Repeat<br>with remaining egg, making 7 to 8 rolls in all. Though depth of egg<br>diminishes, you will become so adept that somehow you will get it in<br>the pan in fine strands. When cool, cut kabaubs into 4-5 cm (1 1/2 to<br>2 inch pieces and serve. These keep well in a sealed container in a<br>cool place.<br>
+4 bichak (stuffed baked tricorners) 0 appetizers info jewish afghan 1 servings DOUGH<br>STUFFINGS<br>SQUASH, CALABASA, OR PUMPKIN<br>MEAT<br>CHEESE<br>JAM<br>Bichak are popular appetizers for tea or coffee hour. The pumpkin &<br>jam stuffings are on the sweet side while meat & cheese are savory &<br>could be eaten for lunches w/salad & dish of yoghurt. An added<br>attraction is that they may be prepared in large quantities, cooled &<br>frozen for the future.<br>Heat oil in a pan, add onions, & saute over moderate heat until<br>onions turn golden.  Add water, salt, sugar, & squash or calabasa or<br>pumpkin & bring to a boil.  Cover pan & cook over low heat for abt 20<br>mins as squash/calabasa/pumpkin becomes soft & disintegrates. Stir<br>now & then, which in effect mashes contents. Continue last mins of<br>cooking, uncovered, to evaporate all liquid & create & thick jam. The<br>mash is still moist.<br>MEAT: Heat oil in a skillet & brown onions lightly over moderate<br>heat. Add meat, salt, & pepper & stir-fry for 5 mins, making certain<br>liquid has evaporated & mixture is dry.  Cool.<br>CHEESE: Mix everything together.  Set aside.<br>JAM: Mix jam & crumbs together.  Set aside.<br>TO PREPARE TRICORNERS: 1. Mix 1/2 c warm water, sugar, & yeast<br>together & proof in a warm place until mixture foams, abt 10 mins.<br>2. Make a well in flour, add yeast mixture, oil, & 1 egg white, &<br>stir them into flour.  Add balance of water, or enough water to<br>prepare a soft dough. Knead for several mins & roll into a ball. Oil<br>top lightly & leave dough in mixing bowl. Cover bowl w/foil or a<br>towel & let rise for 45 mins to 1 hour.<br>3.  Punch down dough ball.  Pull off abt 1/2 cup of dough & roll into<br>a slightly flattened ball.  Prepare 6 balls.<br>4. On well-floured board roll out each ball, 1 at a time, to 12-"<br>pancake. Using empty can or a cookie cutter, 3-" in diameter, cut out<br>circles in pancake. Put 1 tb of whichever stuffing you are using, or<br>variety of stuffings, in center of each circle. Fold over right &<br>left side of circle to meet in the center & bring up bottom to cover<br>stuffing. Pinch ends together to form tricorner pastry. Seal in<br>contents. Paint tops of bichak w/egg yolk.<br>5. Line baking pan or cookie sheet w/lightly oiled aluminum foil.<br>Place tricorners on foil & bake in a preheated 350F. oven for abt 40<br>mins, or until brown. Serve warm.  Makes 48 to 50 bichak.<br>NOTE: Cool bichak, store in plastic bags, & freeze. To serve, thaw out<br>frozen bichak for 1/2 hour & heat in preheated 350F. oven for 5-10<br>mins.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. David Pileggi<br>
+5 chelo nachodo (chicken and chick-pea stew with rice) 0 stews jewish afghan chicken 6 servings STEW<br>RICE<br>CHELO NACHODO (Chicken & Chick-Pea Stew w/Rice)<br>Here is a family-style dish to be served any time of year.  It is a<br>substantial soup stew, well seasoned in Afghan style & combined w/a<br>crispy-bottomed rice provides contrasting texture to stew.  The stew<br>& rice are served separately.<br>1.  To prepare stew:  Bring water to a boil, add chicken pieces, &<br>remove foam as it cooks.  Add chick-peas, onions, celery, carrots,<br>zucchini, salt, pepper, & cuminseed.  Cover pan & cook over moderate<br>heat for 45 mins. Add coriander, dill, & lemon juice & simmer over<br>low heat for 15 mins more. This is sufficient to tenderized chicken &<br>ingrate all seasonings.<br>2. To prepare rice: Bring 4 c water & salt to a boil in pan. Add rice<br>& cook over moderate heat for 5 mins.  Drain rice in colander & rinse<br>w/cold water.  Return rice to pan and pour oil over all. Cover pan &<br>cook over low heat for 1/2 hr. No other water is added & rice cooks<br>only moisture clings to it after rinsing. The rice will develop a<br>crisp bottom layer.<br>Serve rice & stew separately.  Each diner takes their own portion of<br>rice & covers it w/as much stew as they wish. Serve warm.<br>VARIATION: 2 lb of boneless beef chuck cut into 6 equal pieces may be<br>used in place of chicken, but cooking will take longer.  Cook beef<br>stew over moderate heat for 1 hour.  Add coriander, dill, & lemon<br>juice, reduce heat to low, & simmer, covered, 1/2 hour more, or until<br>beef is tender.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+6 haroseth (haroseth afghani style) 0 spreads jewish afghan nuts fruits 1 servings This recipe is enough for 10 persons, who will use it at Seders &<br>lather it on homemade matzoh. 1. Mix everything together & serve at<br>Seders.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+7 kartoff mumulay (stuffed potato fritters) 0 groundmeat vegetables jewish afghan 1 servings STUFFING<br>POTATO FRITTERS<br>Passover is a time when the Afghan Jews must be inventive & thrifty in<br>their cooking.  In Afghanistan matzoh matzoh meal was prepared at<br>home by pounding sheets of home-made matzoh, using a heavy brass<br>mortar & pestle. In the United States, it is purchased in well-sealed<br>cartons -- but my Afghan cook assured me that nothing was lost in the<br>transfer.<br>1.  Heat oil in a skillet & stir-fry onions over moderate heat until<br>golden.  Add beef, salt, & pepper, & stir-fry until mixture is dry &<br>all liquid has evaporated.  Cool.<br>2.  Peel potatoes & mash them well.  Mix together all fritter ingreds<br>to prepare dough.<br>3.  Shape 1/2 cup of potato dough into a circle in palm of hand.<br>Place 1 generous tb stuffing in center & fold the dough over into a<br>slightly flattened sausage shape 3-inches long, 1-inch wide, & 1-inch<br>thick. Pan-fry in oil over moderate heat until brown on both sides.<br>Drain on paper towels & serve warm. Makes abt 25 fritters.<br>NOTE:  Afghan Jews believe that if an egg has a strong aroma, beating<br>it removes odor.  Was this aroma due to lack of refrigeration?<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. David Pileggi<br>
+8 kebab marinovat (marinated lamb kebab) 0 lamb bbq jewish afghan 6 servings 1. Mix everything together & marinate for 1 to 1-1/2 hrs. This<br>distributes flavors & tenderizes meat. 2. Put 4 pieces of lamb<br>alternating w/onion quarters on each metal skewers. Broil over<br>charcoal, traditional method, for 10 mins, or to taste: rare, medium,<br>or well-done. In modern homes gas or electric broiler will do very<br>well. Serve warm w/other Afghan foods.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+9 kofta nakhod (meatballs and chick-pea) 0 jewish afghan groundmeat 8 servings Chick-peas provide bulk in well-seasoned kofta, name for various<br>types of meatballs in Afghanistan, Pakistan, & India.  Unlike custom<br>in other countries, they are boiled in soup or water & served<br>separately from soup. Chick-peas are one of forbidden foods for<br>Passover in Afghanistan, so Nofta Nakhod must wait for another time.<br>1.  Drain chick-peas in a colander, then grind them rather fine in a<br>processor.  Mix everything together except water.<br>2. To prepare meatballs:  Moisten hands w/cold water and prepare meat<br>& chick-peas balls 1-1/2 inches in diameter.  Put the meatballs into<br>boiling water, one at a time, & simmer over moderate heat for 45<br>mins. Remember that chick-peas are ground but not cooked. The<br>meatballs may also be cooked in a light chicken broth. Serve<br>meatballs & soup separately w/bread, rice, & pickles. Serve 8. Makes<br>abt 18 meatballs.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+10 matzo joshawk (passover soup) 0 soups meats jewish afghan 6 servings Here is an everything meat soup to be served w/inevitable homemade<br>matzoh during days of Passover.<br>1.  Heat oil in a soup pan, add onions, & stir-fry over moderate heat<br>for 1 min, just long enough to change color.  Add water & bring to a<br>boil. Add beef or lamb or chicken pieces, potato, salt, & pepper.<br>Cover pan & cook for 1 hour, or until tender. 2. Just before serving,<br>dribble beaten egg in a circle into simmering soup. Serve hot<br>w/matzoh.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+91 basic fish mousse 1 seafood appetizers 6 serving PREHEAT OVEN TO 350F. Combine whitefish, lobster, onion, salt, brandy and<br>tomato paste in a food processor and blend until smooth. Add the egg whites<br>and blend until incorporated. Transfer the mixture to a bowl, cover and<br>chill for 30 minutes. Stir in the cream until incorporated. Divide the<br>mousse between buttered ramekins. Place the ramekins in a water bath, cover<br>and place in oven for 20 minutes. To serve, turn the contents of each<br>ramekin out onto a warm plate, spoon some Hollandaise-based sauce over each<br>mousse and serve immediately.<br>MICHAEL ROBERTS - PRODIGY GUEST CHEFS COOKBOOK<br>
+92 basic fondue (fondue neuchateloise) 1 appetizers cheese 1 serving (Note:  the above measurements are for *each* person.<br>Multiply by your number of guests.)<br>* Grated and mixed half and half.  ** This is Swiss cherry firewater:<br>clear, dry-tasting -- *not* "cherry brandy", which is dark and sweet.<br>Most good liquor stores should carry it, at least one of the US brands like<br>Hiram Walker, or else maybe Bols.  The best Kirsch is "Etter" brand from<br>Switzerland, but the odds of your finding it are minuscule.  -- In<br>Switzerland, fondue is usually perpared in a "caquelon", an earthenware<br>dish with a handle, glazed inside;  but any enamelled saucepan can be used,<br>or a not too shallow fireproof dish.  Rub the inside of the pan with half a<br>cut clove of garlic, and let it dry until the rubbed places feel tacky. Put<br>the wine in the dish and bring it to a boil.  Slowly start adding cheese to<br>the boiling wine, and stir constantly until each bit is dissolved, then add<br>more.  When all the cheese is in, stir the kirsch into the cornstarch well,<br>then add the mixture to the cheese and keep stirring over the heat until<br>the mixture comes to a boil again.  Add freshly ground pepper and nutmeg to<br>taste.  -- Remove the dish to on top of a small live flame (Sterno or<br>alcohol burner) and keep it bubbling slowly. Bread should have been cubed<br>~- about 1-inch cubes -- for spearing with fondue forks and stirring around<br>in the cheese.  The old custom is that if you accidentally lose the bread<br>into the cheese from the end of your fork, if you're male, you have to buy<br>a round of drinks for the table: if you're female, you have to kiss<br>everybody.  (Hmm.) .<br>Other fondue info:  Do not drink water with fondue -- it reacts unkindly in<br>your stomach with the cheese and bread.  Dry white wine or tea are the<br>usual accompaniments.  Another tradition:  the "coupe d'midi", or "shot in<br>the middle", for when you get full:  a thimbleful of Kirsch, knocked<br>straight back in the middle of the meal, usually magically produces more<br>room if you're feeling too full.  Don't ask me how this works...it just<br>does.  -- The crusty bit that forms at the bottom of the pot as the cheese<br>keeps cooking is called the "crouton", and is very nice peeled off and<br>divvied up among the guests as a sort of farewell to dinner.<br>
+93 basic salsa 1 dips condiments 2 serving Keep this savory sauce on hand as a dip for taco chips, a topping for<br>scrambled eggs, or an accompaniment for Tex Mex dishes<br>Prep time:  15 minutes Cook time: 2 minutes.<br>Drop the garlic into a small saucepan of boiling water.  Let<br>boil,uncovered, over moderate heat for 2 minutes.  Drain well, then mince.<br>Place the minced garlic in a medium sized bowl and mix in the<br>tomatoes,onion, coriander, lim juice, and salt.  Cover with plastic food<br>wrap and let stand at room temperature for 1 hour.  Transfer the mixture to<br>a 1 quart preserving jar. Keeps in the refrigerator for 10 days. Makes<br>2-1/3 cups.<br>RED HOT SALSA<br>Increase the garlic to 2 cloves, the lime juice to 1-1/2 tbsp, and add 1<br>tbsp chopped jalapeno pepper and 1/4 tsp red pepper sauce.  Proceed as<br>directed.<br>Makes 2-1/3 cups. **Wash hands after handling the pepper**<br>///oo/\ From the hearth in Sandee's Kitchen...<br>
+94 bay scallop seviche 1 appetizers seafood 6 serving *Note: Hot red chili pepper should be finely chopped. ** Plum tomatoes<br>should be seeded and chopped.<br>Stir the cumin into the lime and orange juices and pour over the scallops.<br>Stir in the chopped chili pepper and red onion.  Cover and refrigerate for<br>at least 2 hours.<br>Just before serving, drain the scallops and mix with the chopped tomatoes,<br>sweet pepper, scallions and cilantro.  Garnish with the slices of lime.<br>From: American Bistro - by Irena Chalmers ISBN: 0-8092-5047-0<br>
+95 beacon hill clam dip 1 appetizers seafood 6 serving Mix horseradish, lemon juice with cream cheese.  Add 1 tsp. of clam juice<br>from the can, blend into cream cheese mixture.  Add drained clams.  Add<br>additional clam juice if necessary to reach the desired consistency.  Serve<br>with chips.<br>Shared By: Pat Stockett<br>
+96 bean dip a la dr. pepper 1 dips beans 2 serving Combine all ingredients except the last 2 in saucepan; heat to boiling.<br>Pour into blender or electric mixer; add cheese. Blend on high speed until<br>well mixed. Pour into warmer dish; cover with bacon. Serve with chips,<br>crackers. Source: Cookin' with Dr. Pepper.<br>
+97 bean dip 1 dips beans 6 serving Mix and bake at 350 degrees for 30 minutes.  Good as dip with tortilla<br>chips or veggies.  Would make a great burrito.<br>
+98 beaver tails 1 appetizers 1 serving This tid-bit of the old time trappers will be tasted by few of the younger<br>generation. Broil the beaver tail over hot coals for a few minutes (or in<br>one of those new electric ovens). The rough scaly hide will blister and<br>come off, leaving the tail clean, white and solid. Then roast or boil until<br>tender. This is considered very strengthening food (use only young beaver).<br>For a special treat, cool, souse in vinegar, add raw onion rings, salt and<br>pepper to taste.<br>
+99 beef cheese ball 1 beef cheese appetizers 6 serving BEEF CHEESE BALL<br>Shred 2 jars chipped beef, saute in 2 Tbls. butter.  Combine half of this<br>with tsp. prepared mustard. Roll into ball, then roll in remaining chipped<br>beef.<br>
+100 beef jerkey 1 beef appetizers 30 serving Select a 1/2 inch thick flank or top round steak. trim away all fat then<br>partially freeze until firm. Slice across the grain in a 1/4 to 1/2 inch<br>wide strips. Place meat strips in a shallow dish or heavy plastic bag. Add<br>soy or terriyaki sauce to cover meat. If desired onion or garlic powder or<br>Worcestershire sauce may be added. Toss to coat each piece. Cover and<br>refrigerate several hours or over night.  Lift meat from marinade, drain<br>will then air dry for a couple of hours. Arrange meat strips in single<br>layer on fine wire screen or cake cooling rack. Place in low oven (175? to<br>200?F) or slowly smoke-cook in smoker until meat is completely dried. Store<br>in air-tight container.  Serve as a snack or appetizer.<br>
+491 marinated beef roll 1 appetizers beef 8 serving MARINADE<br>In food processor bowl fitted with steel knife, place pimento, olives,<br>eggplant, green onion and parsley.  Process until minced.  Add eggs; pulse<br>10 or 12 times to combine, scraping down sides once.  Season with salt and<br>pepper.  Spread approximately 1/4 cup egg mixture evenly over each slice of<br>roast beef, leaving 1/2-inch border around edges.  Roll tightly and secure<br>with toothpicks.  Place seam side down in a shallow baking dish.<br>MARINADE:  Whisk together oil, parsley, lemon juice, capers, garlic, basil,<br>thyme, bay leaf, salt and pepper in bowl; pour over beef rolls. marinate 1<br>hour in refrigerator, turning occasionally.  To serve, cut each beef roll<br>crosswise into 1 1/2-inch pieces, spooning marinade over beef rolls.<br>
+492 marinated broccoli chunks 1 appetizers 8 serving Combine Vinegar, Olive Oil, Dillweed & Garlic in A Medium Bowl, Stirring<br>Well With A Wire Whisk.  Set Aside. Trim Large Leaves From Broccoli. Remove<br>Flowerets & Reserve For Another Use. Remove Tough Ends Of Lower Stalks &<br>Discard.  Wash Remaining Stalks & Cut Diagonally Into 1/2 Inch Slices. Add<br>2 C. Broccoli Slices To Vinegar Mixture.  Toss Gently To Coat. Reserve Any<br>Remaining Slices For Another Use.  Cover Coated Broccoli Slices & Chill 3<br>Hours. To Serve, Place Broccoli On A Cabbage-Lined Serving Plate. Garnish<br>With Dill & Pimiento. (Fat 1.8. Chol. 0.)<br>
+493 marinated mushrooms #2 1 appetizers 6 serving Mix all ingredients but the mushrooms in a saucepan and bring to a boil.<br>Pour over mushrooms that have been cleaned and halved or quartered<br>depending on size.  Marinate and chill fo 24 hours before serving. Small<br>button mushrooms can be used whole.<br>
+494 marinated shrimp kabobs 1 appetizers 1 serving Cook peeled and deveined shrimp in boiling water just 'til they turn pink<br>(watch closely - overcooking makes shrimp tough characters). Drain and<br>place in a bowl. Pour Pace and Italian dressing over hot shrimp, mixing<br>well. Cover and chill at least 2 or up to 24 hours, stirring occasionally.<br>In another bowl, chill crisp-tender cooked broccoli florets and uncooked<br>cherry tomatoes in equal parts of Pace Picante Sauce and Italian dressing,<br>stirring occasionally. Just before serving, drain and arrange shrimp,<br>broccoli florets and tomatoes on short, thin skewers or long cocktail<br>picks. Arrange on a lettuce-lined platter to serve.<br>
+495 marmaliga 1 appetizers 6 serving Cottage Cheese (Optional) Sour Cream (Optional) Grated Parmesan Cheese<br>(Optional)<br>In a saucepan combine first 5 ingredients.  Bring to a boil, stirring<br>constantly and cook until butter is melted and mixture is thick, about<br>15--20 minutes.  Serve topped with a spoonful of cottage cheese and sour<br>cream. (Marmaliga can also be served plain or sprinkled with grated<br>Parmesan Cheese.)   Serves 6.<br>
+496 martha's rye spread (bon appetit/july 1983) 1 appetizers entertain 1 serving Combine first seven ingredients in large bowl and mix thoroughly. Cover and<br>refrigerate overnight.  Spoon dip into hollowed loaf and serve with<br>cocktail rye slices.<br>
+497 maryland crab cakes 1 appetizers 6 serving Maryland Crab Cakes<br>Trim crusts from bread and lay slices on a shallow platter. Pour oil over<br>them and let stand until bread is thoroughly saturated.  Use forks to break<br>into small pieces. Combine egg yolks with mustard, salt and Worcestershire<br>sauce. Beat lightly.  Stir in bread and crab meat, gently fold in stiffly<br>beaten egg whites, and shape mixture into patties. Sprinkle with paprika<br>and saute in heated butter until golden on both sides.<br>
+498 maryland style crab cakes 1 seafood appetizers 6 serving GENTLY BLEND ALL INGREDIENTS, except the butter. Shape into 8-10 crab cakes<br>and refrigerate 30 minutes. Melt butter in a large skillet and saute crab<br>cakes until golden brown on all sides, 5-7 minutes. Serve with lemon wedges<br>or an appropriate sauce.<br>PETER KUMP - PRODIGY GUEST CHEFS COOKBOOK<br>
+499 maui onion rings 1 appetizers 4 serving Combine flour, cornstarch and salt and pepper to taste in large bowl.<br>Whisk in ale until smooth. Cut onions into 1/4- to 1/3-inch-thick slices.<br>Heat oil in deep fryer to 400F. Coat onion rings with batter.<br>Gently add to hot oil without crowding pan and cook until golden brown.<br>Remove with slotted spoon and drain on paper towels.<br>Makes 4 to 6 servings<br>Created by: Michael's, Santa Monica<br>(C) 1992 The Los Angeles Times<br>
+500 mexi-cali layered dip 1 dips cheese 1 serving Combine avocado, 2 tablespoons Pace Picante Sauce, lemon juice and salt;<br>mix well.  Stir in tomato.  Spoon evenly onto bottom of shallow 1-quart<br>clear glass bowl (straight sides preferred).  Top with olives; cover and<br>chill.  To serve, top olives evenly with sour cream..  Spoon remaining Pace<br>Picante Sauce over sour cream, sprinkle with cheese.  Serve with tortilla<br>chips or corn chips.  Makes about 3-1/2 cups dip.<br>From: Pace booklet.<br>
+991 barley/corn bread 2 breads quick 1 recipe Preheat oven to 350 F.  Mix the cornmeal, Bits-O-Barley, baking soda and<br>sea salt.  Add the egg, oil, buttermilk, honey, onion and corn and mix<br>only until the dry ingredients are moistened.  Turn into a well-oiled and<br>heated large iron skillet.  Bake 30-35 minutes or until well browned.  Cut<br>in wedges and serve hot.<br>Source: Arrowhead Mills "Bits-O-Barley" tri-fold<br>Reprinted by permission of Arrowhead Mills, Inc.<br>Electronic format courtesy of: Karen Mintzias<br>
+992 sunny apricot marbles 2 candies desserts 1 recipe Put apricots, pecans, coconut and precooked Bits-O-Barley through blender.<br>Remove from blender container and pour into a mixing bowl.  Add lemon<br>juice and honey.  Shape into balls and roll in extra chopped nuts.<br>Refrigerate.<br>Source: Arrowhead Mills "Bits-O-Barley" tri-fold<br>Reprinted by permission of Arrowhead Mills, Inc.<br>Electronic format courtesy of: Karen Mintzias<br>
+993 mexican beans and barley 2 main dish side dish 1 recipe Preheat oven to 400 F.  Put the water, onion, oil, chilis, chili powder,<br>cumin and sea salt in a large saucepan.  Bring to a boil and add the<br>Bits-O-Barley.  Cover and let stand away from heat until all the liquid is<br>absorbed into the barley.  Chop the tomatoes and add to the barley with<br>their juice.  Stir in cooked beans.  Turn the mixture into a 1-1/2 quart<br>casserole dish.  Spread the yogurt over the top and sprinkle with the<br>cheese.  Bake 15 minutes or until heated through and cheese has melted.<br>Garnish with olives.<br>Source: Arrowhead Mills "Bits-O-Barley" tri-fold<br>Reprinted by permission of Arrowhead Mills, Inc.<br>Electronic format courtesy of: Karen Mintzias<br>
+994 baked barley and bean casserole 2 main dish vegetarian 1 casserole Preheat oven to 350 F.  Mix all ingredients together.  Let stand for 30<br>minutes.  Turn into an oiled casserole dish and bake for 40 minutes.<br>Source: Arrowhead Mills "Bits-O-Barley" tri-fold<br>Reprinted by permission of Arrowhead Mills, Inc.<br>Electronic format courtesy of: Karen Mintzias<br>
+995 date rice pudding 2 desserts 1 recipe Cook rice in water and salt (if used) for 12 minutes.  Blend remaining<br>ingredients together in a blender, pour into a sauce pan and stir over<br>medium-low heat until thick.  Stir in rice, and let set 5 minutes before<br>serving.  Sprinkle with cinnamon if desired.<br>Source: Arrowhead Mills "Quick Brown Rice" tri-fold<br>Copyright 1987 Arrowhead Mills, Inc.  (Reprinted with permission)<br>Electronic format courtesy of: Karen Mintzias<br>
+996 nori rice balls 2 snacks vegan 1 recipe Cook rice in water over medium-high heat until tender and water is<br>absorbed; cool to room temperature.  Cut carrot in 1/2-inch match sticks<br>and steam lightly.  Place several spoonfuls of rice in the center of each<br>nori sheet; follow with several carrot sticks and a dab of umeboshi; and<br>roll up into a ball.  Serve with a sauce made of soy sauce and grated<br>ginger.<br>*Found in health food or oriental food stores.<br>Source: Arrowhead Mills "Quick Brown Rice" tri-fold<br>Copyright 1987 Arrowhead Mills, Inc.  (Reprinted with permission)<br>Electronic format courtesy of: Karen Mintzias<br>
+997 vegetable and herb curry 2 main dish side dish 1 recipe Cook contents of box according to package directions.  While rice is<br>cooking, saute vegetables until barely tender (3 to 5 minutes).  Stir in<br>the apples, raisins and water.  Cover and steam for a few minutes until<br>the raisins are softened.  When the rice is done, add it and the curry<br>powder to the vegetables.  Stir gently until well mixed.  Let sit a few<br>minutes for the flavors to mingle.  Add salt or tamari soy sauce to taste.<br>Source: Arrowhead Mills "Quick Brown Rice" tri-fold<br>Copyright 1987 Arrowhead Mills, Inc.  (Reprinted with permission)<br>Electronic format courtesy of: Karen Mintzias<br>
+998 rice-vegetable oriental salad 2 salads grains 4 servings Cut the vegetables into 1/2-inch cubes.  Place the vegetables in a heavy<br>saucepan with the soy sauce.  Cover and simmer over low heat for 5 to 7<br>minutes until the vegetables are barely tender.  Cool and add the<br>remaining ingredients.  Chill before serving.  Makes 4 servings.<br>Variations -- Add 1/2 cup of the following:  Sliced water chestnuts,<br>chopped mushrooms, bean sprouts, pineapple chunks.<br>Source: Arrowhead Mills "Quick Brown Rice" tri-fold<br>Copyright 1987 Arrowhead Mills, Inc.  (Reprinted with permission)<br>Electronic format courtesy of: Karen Mintzias<br>
+999 green bean casserole 2 vegetables side dish 1 recipe Cook rice in water until tender (about 10 minutes).  In a double boiler,<br>combine remaining ingredients (except beans and almonds), and cook until<br>mixture starts to thicken.  Combine all ingredients in a casserole,<br>sprinkle with almonds, and bake for 35 minutes at 400 F.<br>Source: Arrowhead Mills "Quick Brown Rice" tri-fold<br>Copyright 1987 Arrowhead Mills, Inc.  (Reprinted with permission)<br>Electronic format courtesy of: Karen Mintzias<br>
+1000 pizza rice 2 main dish 1 recipe Saute' vegetables and seasonings in olive oil.  Stir rice and vegetables<br>into a rectangular casserole dish, and pour water on top.  Bake at 400 F.<br>for 45 minutes; remove and sprinkle with cheese and olives; cover and<br>return to oven for an additional 10 minutes.<br>Source: Arrowhead Mills "Quick Brown Rice" tri-fold<br>Copyright 1987 Arrowhead Mills, Inc.  (Reprinted with permission)<br>Electronic format courtesy of: Karen Mintzias<br>
+1991 manchet bread                       england, 14th century 6 ethnic medieval breads 1 + loaf Dissolve the yeast in half the warm water. Put the two types of<br>flour and the salt into a bowl; make a well in the flour and add all<br>the water and butter. Mix well. Add more flour if the mixture is too<br>sticky to knead. Knead for 10 minutes until smooth and elastic and<br>then put into a greased bowl, covered with a cloth. Let the dough<br>rise for 1 to 1-1/2 hours, or until it has doubled in bulk.<br>Punch it down and shape it into rather flat, round loaves. Put these<br>onto a greased baking sheet, cover with a cloth, and leave to rise<br>for 45 minutes (or until twice the size). The loaves can be brushed<br>with egg wash, to 'endore' them, before baking, and the tops can be<br>slashed and pricked with a fork. Bake at 375f for 35 to 40 minutes.<br>Source not given. in _Seven Centuries of English Cooking_ by Maxime<br>de la Falaise Grove Press, 1992 ISBN 0-8021-3296-0 Typos by Jeff<br>Pruett.<br>
+1992 saffron bread                       england, 15th century 6 ethnic medieval breads 1 Loaf Scald the milk with the saffron. Let it cool. Dissolve the yeast<br>in the lukewarm water. Sift together 3 cups of the flour and the<br>salt. Make a well in the center of the flour, spoon in the eggs,<br>milk, and yeast mixture and blend. Add enough flour to prevent it<br>becoming sticky. Knead, adding more flour as needed, until the dough<br>is smooth and elastic. Put in a greased bowl in a warmish place and<br>leave to rise until it is double in bulk (about 45 minutes). Punch<br>down and shape into a round loaf. Place this on a greased baking<br>sheet and leave to rise until it has again doubled in size.<br>Bake at 375f for 25 to 30 minutes, then cool on a rack.<br>If you decide to use raisins, knead them in after punching the<br>dough down the first time. The sugar should be mixed in with the<br>flour at the beginning.<br>Good for tea; keeps a long time; good for breading fish or veal.<br>"Stale slices baked very slowly in the oven can be turned into<br>excellent rusks. Rub those with garlic and use them as a garnish for<br>fish soup."<br>Source not given. In _Seven Centuries of English Cooking_ by Maxime<br>de la Falaise Grove Press, 1992 Typos by Jeff Pruett.<br>
+1993 tortilla dough/corn tortillas 6 mexican breads 1 Servings HOW TO MAKE CORN TORTILLAS: To make tortillas, you need a clay or<br>metal griddle or, failing that, a frying pan. If the dough has been<br>resting for some time, you will have to knead it again to make it<br>smooth and pliable. Form small balls of dough that fit into the palm<br>of your hand, pat each one between your palms, moving it from one to<br>the other until it forms a very thin pancake. If the dough tears,<br>patch the break and stick it down with moistened fingers. Cook on the<br>griddle turning once. When ready, the tortillas should puff up,<br>although this is not always so. To check if done, lift gently; if the<br>tortilla sticks to the griddle, it is not completely cooked.  To keep<br>warm, wrap in a napkin and place in a chiquihuite, jicara or other<br>container. As the tortillas tend to sweat, after a few minutes unwrap<br>the napking and separate them to avoid sticking, then wrap up again.<br>If freshly made tortillas are not eaten the same day, wrap them in a<br>napkin, then a plastic bag and place in the refrigerator.  In this<br>way, they can be successfully reheated. Tortillas need never go to<br>waste. If you wish, place them in the sun immediately to dry and put<br>in a paper bag. They can then be used later for making tortilla<br>crumbs, chilaquiles, tostadas or other dishes. Tortillas vary<br>considerably in size but are generally preferred small and very thin<br>for making tacos. In Oaxaca, tortillas are much bigger -- as much as<br>6, 12 or 15 inches in diameter -- and are, incredibly, made by and in<br>the same way. Tortillas can be soft or crisp; the dough used is the<br>same but the method of cooking is different. To make crisp tortillas,<br>instead of a griddle, a deep bottomless (??) pot with sloping sides<br>is used to receive the heat directly. The tortillas are slapped on<br>the outside of the pot and turned once. [I read this as you cook the<br>tortillas on the bottom of an iron pot turned upside down.]<br>Recipe from "Traditional Mexican Cooking" (sub: and its best recipes)<br>By Adela Fernandez  (Cookbook purchased in San Miguel de Allende,<br>Mexico)<br>
+1994 sweetened biscuits 6 breads southern 112 Servings Combine flour, salt, baking powder, and sugar; cut in shortening until<br>mixture resembles coarse meal.  Add milk, stirring until well<br>blended. Turn dough out onto floured surface, and knead lighlty about<br>3 to 4 times.<br>Roll dough to 1/2" thickness, and cut into rounds with a 2-1/2"<br>cutter. Place on an ungreased baking sheet; bake at 450 degrees for<br>15    mintues or until golden.<br>SOURCE: Southern Living Magazine, March 1980. Typos by Nancy Coleman.<br>
+1995 spoonbread 6 breads southern 6 Servings Combine cornmeal and salt in a medium saucepan; stir in water.<br>Gradually add milk, stirring unitl smooth.  Place over low heat;<br>cook, stirring constantly, until thickened.<br>Spoon a small amount of hot mixture into eggs, and mix well.  Add egg<br>mixture to remaining hot mixture, stirring constantly.  Add<br>shortening, stirring well.  Pour into a well-greased 1-1/2 quart<br>baking dish, and bake at 375 degrees for 40 to 50 minutes. Garnish<br>with parsley, if desired.<br>SOURCE: Southern Living Magazine, March 1980. Typos by Nancy Coleman.<br>
+1996 blueberry streusel muffins 6 breakfst breads southern 18 Servings Combine 1/3 cup sugar and 1/4 cup butter in a small mixing bowl,<br>creaming until light and fluffy.  Add egg, beating well.<br>Combine 2-1/3 cups flour, baking powder, and salt; add to creamed<br>mixture alternately with milk, stirring well after each addition.<br>Stir in vanilla extract, and fold in blueberries<br>Spoon batter into greased muffin cups, filling 2/3 full.  Combine 1/2<br>cup sugar, 1/3 cup flour, and cinnamon; cut in 1/4 cup butter until<br>mixture resembles crumbs.  Sprinkle on top of muffin batter.  Bake at<br>375 degrees for 25 to 30 minutes or until golden brown.<br>NOTE: If using frozen blueberries, rinse and drain thawed berries;<br>pat dry with paper towels.  This will prevent discoloration of batter.<br>SOURCE: Southern Living Magazine, March 1980. Typos by Nancy Coleman.<br>
+1997 four-grain muffins 6 breakfst breads southern 10 Servings Combine first 4 ingredients in a medium bowl; stir in sugar, baking<br>powder, and salt.  Add buttermilk, oil, and egg, stirring just until<br>moistened (batter will be lumpy).<br>Fill well-greased muffin cups 2/3 full.  Bake at 375 degrees for 20<br>to 25 minutes.<br>SOURCE: Southern Living Magazine, March 1980. Typos by Nancy Coleman.<br>
+1998 jalapeno cornbread 6 breads southern 9 Servings Combine all ingredients, except shredded cheese, in a bowl.  Mix well<br>and pour half the batter into a hot, greased 9" baking pan.  Sprinkle<br>cheese on top, and cover with remaining batter.  Bake at 375 degrees<br>for 30 to 40 minutes.<br>SOURCE: Southern Living Magazine, sometime in the 1970s. Typos by<br>Nancy Coleman.<br>
+1999 coffee cake muffins 6 breakfst breads southern 1 Servings Combine brown sugar, walnuts, 2 tablespoons flour, cinnamon, and<br>butter; set aside.<br>Sift dry ingredients into bowl; cut into shortening until mixture<br>resembles coarse crumbs.  Combine egg and milk; add to flour mixture,<br>and stir just unitl moistened.<br>Grease muffin pans; spoon in a small amount of batter, and top with a<br>layer of nut mixture.  Repeat layers, filling each muffin cup 2/3<br>full. Bake at 375 degrees for 20 minutes or until done.<br>SOURCE: Southern Living Magazine, May 1974. Typos by Nancy Coleman.<br>
+2000 spiced apple loaf 6 breakfst breads southern 1 Servings Remove peel from apple rings; thoroughly mash rings with a fork.<br>Combine apple, brown sugar, ginger, 1/4 teaspoon cinnamon, and<br>nutmeg; stir well. Set aside.<br>Combine butter and sugar; cream well.  Add eggs, one at a time,<br>beating well after each addition.  Stir in vanilla.<br>Combine flour, baking powder, salt, and 1 teaspoon cinnamon. Stir 1/3<br>flour mixture into creamed mixture until blended.  Add half of milk<br>to creamed mixture; stir until blended.  Repeat procedure, ending<br>with dry ingredients.  Stir in nuts.<br>Pour a third of batter into a greased and floured 9x5x3inch loafpan;<br>spread 1/3 apple mixture over batter. Repeat procedure twice, ending<br>with apple mixture.  Bake at 350 degrees for 60 minutes.  Cool in pan<br>10 minutes; turn out on wire rack.<br>SOURCE: Southern Living Magazine, sometime in 1979. Typos by Nancy<br>Coleman.<br> 
++++++++++
+dietand_recipes - recipes_old:(43)
+id,name,category_id,category,yield,preparation
+1 Spicy Eggplant Salad (Bonjan) From Afghanistan 0 Indian Afghan Salads 1 servings Slice the eggplants crosswise into 1,5 inch thick pieces. Sprinkle<br>them with 2 tsp. coarse salt and let stand for 15 minutes. rinse<br>eggplants under cold water, which removes the bitter taste, rinse,<br>and dry well on a towel.<br>Heat the oil in a skillet and lightly brown eggplant slices over<br>moderate heat for 3 minutes. Remove and put into a serving bowl. Cool.<br>Put the tomato sauce, pepper, chile, cinnamon, mint and 1/2 tsp.<br>salt, if wanted, in a pan. Simmer over low heat for 10 minutes, which<br>is long enough to integrate the flavors. Pour this over the eggplant;<br>refrigerate until ready to use. The salad can remain in the<br>refrigerator for several days. Serve cold or at room temperature.<br>Yield: 8 servings.<br>Recipe by Nancy Berry<br>
+2 Afghan Chicken 0 Middle east Chicken Ceideburg Bbq Afghan 6 servings Long, slow marinating in garlicky yogurt tenderizes, moistens and<br>adds deep flavor, so you end up with skinless grilled chicken that's<br>as delicious as it is nutritionally correct. Serve with soft pita or<br>Arab flatbread and fresh yogurt.<br>Put the salt in a wide, shallow non-reactive bowl with the garlic and<br>mash them together until you have paste. Add yogurt, lemon and pepper.<br>Skin the chicken breasts, remove all visible fat and separate the<br>halves. Bend each backward to break the bones so the pieces win lie<br>flat. Add to the yogurt and turn so all surfaces are well-coated.<br>Cover the bowl tightly and refrigerate. Allow to marinate at least<br>overnight, up to a day and a half. Turn when you think of it.<br>To cook, remove breasts from marinade and wipe off all but a thin<br>film. Broil or grill about 6 inches from the heat for 6 to 8 minutes<br>a side, or until thoroughly cooked. Meat will brown somewhat but<br>should not char. Serve at once.<br>From the San Francisco Examiner, 6/2/93.<br>
+3 Abraysham Kabaub ( Silk Kebab) 0 Afghan Desserts 30 servings SYRUP<br>OMELET<br>TO FINISH<br>*Note: Instead of pistachio nuts, walnuts may be used if desired.<br>Dissolve sugar in water in heavy pan over medium heat.  Bring to the<br>boil, add lemon juice and saffron and boil for 10 minutes.  Cool and<br>strain into a 25 cm (10 inch) pie plate.  Keep aside. Break eggs into<br>a casserole dish about 20 cm (8 inches) in diameter.  The size and<br>flat base are important. Add salt and mix eggs with fork until yolks<br>and whites are thoroughly combined - do not beat as eggs must not be<br>foamy. Heat oil in an electric frypan to 190 C (375 F) or in a 25 cm<br>(10 inch) frypan placed on a thermostatically controlled hot plate or<br>burner. Have ready nearby a long skewer, the plate of syrup, a baking<br>sheet and the nuts mixed with the cardamom. A bowl of water and a<br>cloth for drying hands are also necessary. Hold dish with eggs in one<br>hand next to the pan of oil and slightly above it. Put hand into egg,<br>palm down, so that egg covers back of hand. Lift out hand, curling<br>fingers slightly inwards, then open out over hot oil, fingers<br>pointing down.  Move hand across surface of oil so that egg falls in<br>streams from fingertips.  Dip hand in egg again and make more strands<br>across those already in pan.  Repeat 3 to 4 times until about an<br>eighth of the egg is used.  There should be a closely meshed layer of<br>egg strands about 20 cm (8 inches) across.  Work quickly so that the<br>last lot of egg is added not long after the first lot. Rinse hands<br>quickly and dry. Take skewer and slide under bubbling omelet, lift up<br>and turn over to lightly brown other side. The first side will be<br>bubbly, the underside somewhat smoother. When golden brown lift out<br>with skewer and drain over pan. Place omelet flat in the syrup, spoon<br>syrup over the top and lift out with skewer onto baking sheet. Roll<br>up with bubbly side inwards. Finish roll should be about 3 cm (1 1/4<br>inches) in diameter.  Put to one side and sprinkle with nuts. Repeat<br>with remaining egg, making 7 to 8 rolls in all. Though depth of egg<br>diminishes, you will become so adept that somehow you will get it in<br>the pan in fine strands. When cool, cut kabaubs into 4-5 cm (1 1/2 to<br>2 inch pieces and serve. These keep well in a sealed container in a<br>cool place.<br>
+4 Bichak (Stuffed Baked Tricorners) 0 Appetizers Info Jewish Afghan 1 servings DOUGH<br>STUFFINGS<br>SQUASH, CALABASA, OR PUMPKIN<br>MEAT<br>CHEESE<br>JAM<br>Bichak are popular appetizers for tea or coffee hour. The pumpkin &<br>jam stuffings are on the sweet side while meat & cheese are savory &<br>could be eaten for lunches w/salad & dish of yoghurt. An added<br>attraction is that they may be prepared in large quantities, cooled &<br>frozen for the future.<br>Heat oil in a pan, add onions, & saute over moderate heat until<br>onions turn golden.  Add water, salt, sugar, & squash or calabasa or<br>pumpkin & bring to a boil.  Cover pan & cook over low heat for abt 20<br>mins as squash/calabasa/pumpkin becomes soft & disintegrates. Stir<br>now & then, which in effect mashes contents. Continue last mins of<br>cooking, uncovered, to evaporate all liquid & create & thick jam. The<br>mash is still moist.<br>MEAT: Heat oil in a skillet & brown onions lightly over moderate<br>heat. Add meat, salt, & pepper & stir-fry for 5 mins, making certain<br>liquid has evaporated & mixture is dry.  Cool.<br>CHEESE: Mix everything together.  Set aside.<br>JAM: Mix jam & crumbs together.  Set aside.<br>TO PREPARE TRICORNERS: 1. Mix 1/2 c warm water, sugar, & yeast<br>together & proof in a warm place until mixture foams, abt 10 mins.<br>2. Make a well in flour, add yeast mixture, oil, & 1 egg white, &<br>stir them into flour.  Add balance of water, or enough water to<br>prepare a soft dough. Knead for several mins & roll into a ball. Oil<br>top lightly & leave dough in mixing bowl. Cover bowl w/foil or a<br>towel & let rise for 45 mins to 1 hour.<br>3.  Punch down dough ball.  Pull off abt 1/2 cup of dough & roll into<br>a slightly flattened ball.  Prepare 6 balls.<br>4. On well-floured board roll out each ball, 1 at a time, to 12-"<br>pancake. Using empty can or a cookie cutter, 3-" in diameter, cut out<br>circles in pancake. Put 1 tb of whichever stuffing you are using, or<br>variety of stuffings, in center of each circle. Fold over right &<br>left side of circle to meet in the center & bring up bottom to cover<br>stuffing. Pinch ends together to form tricorner pastry. Seal in<br>contents. Paint tops of bichak w/egg yolk.<br>5. Line baking pan or cookie sheet w/lightly oiled aluminum foil.<br>Place tricorners on foil & bake in a preheated 350F. oven for abt 40<br>mins, or until brown. Serve warm.  Makes 48 to 50 bichak.<br>NOTE: Cool bichak, store in plastic bags, & freeze. To serve, thaw out<br>frozen bichak for 1/2 hour & heat in preheated 350F. oven for 5-10<br>mins.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. David Pileggi<br>
+5 Chelo Nachodo (Chicken and Chick-Pea Stew with Rice) 0 Stews Jewish Afghan Chicken 6 servings STEW<br>RICE<br>CHELO NACHODO (Chicken & Chick-Pea Stew w/Rice)<br>Here is a family-style dish to be served any time of year.  It is a<br>substantial soup stew, well seasoned in Afghan style & combined w/a<br>crispy-bottomed rice provides contrasting texture to stew.  The stew<br>& rice are served separately.<br>1.  To prepare stew:  Bring water to a boil, add chicken pieces, &<br>remove foam as it cooks.  Add chick-peas, onions, celery, carrots,<br>zucchini, salt, pepper, & cuminseed.  Cover pan & cook over moderate<br>heat for 45 mins. Add coriander, dill, & lemon juice & simmer over<br>low heat for 15 mins more. This is sufficient to tenderized chicken &<br>ingrate all seasonings.<br>2. To prepare rice: Bring 4 c water & salt to a boil in pan. Add rice<br>& cook over moderate heat for 5 mins.  Drain rice in colander & rinse<br>w/cold water.  Return rice to pan and pour oil over all. Cover pan &<br>cook over low heat for 1/2 hr. No other water is added & rice cooks<br>only moisture clings to it after rinsing. The rice will develop a<br>crisp bottom layer.<br>Serve rice & stew separately.  Each diner takes their own portion of<br>rice & covers it w/as much stew as they wish. Serve warm.<br>VARIATION: 2 lb of boneless beef chuck cut into 6 equal pieces may be<br>used in place of chicken, but cooking will take longer.  Cook beef<br>stew over moderate heat for 1 hour.  Add coriander, dill, & lemon<br>juice, reduce heat to low, & simmer, covered, 1/2 hour more, or until<br>beef is tender.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+6 Haroseth (Haroseth Afghani Style) 0 Spreads Jewish Afghan Nuts Fruits 1 servings This recipe is enough for 10 persons, who will use it at Seders &<br>lather it on homemade matzoh. 1. Mix everything together & serve at<br>Seders.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+7 Kartoff Mumulay (Stuffed Potato Fritters) 0 Groundmeat Vegetables Jewish Afghan 1 servings STUFFING<br>POTATO FRITTERS<br>Passover is a time when the Afghan Jews must be inventive & thrifty in<br>their cooking.  In Afghanistan matzoh matzoh meal was prepared at<br>home by pounding sheets of home-made matzoh, using a heavy brass<br>mortar & pestle. In the United States, it is purchased in well-sealed<br>cartons -- but my Afghan cook assured me that nothing was lost in the<br>transfer.<br>1.  Heat oil in a skillet & stir-fry onions over moderate heat until<br>golden.  Add beef, salt, & pepper, & stir-fry until mixture is dry &<br>all liquid has evaporated.  Cool.<br>2.  Peel potatoes & mash them well.  Mix together all fritter ingreds<br>to prepare dough.<br>3.  Shape 1/2 cup of potato dough into a circle in palm of hand.<br>Place 1 generous tb stuffing in center & fold the dough over into a<br>slightly flattened sausage shape 3-inches long, 1-inch wide, & 1-inch<br>thick. Pan-fry in oil over moderate heat until brown on both sides.<br>Drain on paper towels & serve warm. Makes abt 25 fritters.<br>NOTE:  Afghan Jews believe that if an egg has a strong aroma, beating<br>it removes odor.  Was this aroma due to lack of refrigeration?<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. David Pileggi<br>
+8 Kebab Marinovat (Marinated Lamb Kebab) 0 Lamb Bbq Jewish Afghan 6 servings 1. Mix everything together & marinate for 1 to 1-1/2 hrs. This<br>distributes flavors & tenderizes meat. 2. Put 4 pieces of lamb<br>alternating w/onion quarters on each metal skewers. Broil over<br>charcoal, traditional method, for 10 mins, or to taste: rare, medium,<br>or well-done. In modern homes gas or electric broiler will do very<br>well. Serve warm w/other Afghan foods.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+9 Kofta Nakhod (Meatballs and Chick-Pea) 0 Jewish Afghan Groundmeat 8 servings Chick-peas provide bulk in well-seasoned kofta, name for various<br>types of meatballs in Afghanistan, Pakistan, & India.  Unlike custom<br>in other countries, they are boiled in soup or water & served<br>separately from soup. Chick-peas are one of forbidden foods for<br>Passover in Afghanistan, so Nofta Nakhod must wait for another time.<br>1.  Drain chick-peas in a colander, then grind them rather fine in a<br>processor.  Mix everything together except water.<br>2. To prepare meatballs:  Moisten hands w/cold water and prepare meat<br>& chick-peas balls 1-1/2 inches in diameter.  Put the meatballs into<br>boiling water, one at a time, & simmer over moderate heat for 45<br>mins. Remember that chick-peas are ground but not cooked. The<br>meatballs may also be cooked in a light chicken broth. Serve<br>meatballs & soup separately w/bread, rice, & pickles. Serve 8. Makes<br>abt 18 meatballs.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+10 Matzo Joshawk (Passover Soup) 0 Soups Meats Jewish Afghan 6 servings Here is an everything meat soup to be served w/inevitable homemade<br>matzoh during days of Passover.<br>1.  Heat oil in a soup pan, add onions, & stir-fry over moderate heat<br>for 1 min, just long enough to change color.  Add water & bring to a<br>boil. Add beef or lamb or chicken pieces, potato, salt, & pepper.<br>Cover pan & cook for 1 hour, or until tender. 2. Just before serving,<br>dribble beaten egg in a circle into simmering soup. Serve hot<br>w/matzoh.<br>Recipe:  "Sephardic Cooking" by Copeland Mark -- 600 Recipes Created<br>in Exotic Sephardic Kitchens from Morocco to India -- Copyright 1992<br>Published by Donald I. Fine, Inc., New York, N.Y. D. Pileggi<br>
+
++++++++++
+
+ 
+dietand_sudoku - basic_board:(9000)
+row1,row2,row3,row4,row5,row6,row7,row8,row9,tableid,rowid,id
+1 7 0 0 0 0 0 0 0 1 1 1
+0 5 0 0 0 0 6 0 3 1 2 2
+4 0 6 2 0 0 0 0 0 1 3 3
+0 9 0 0 0 0 0 5 0 1 4 4
+0 0 7 5 0 2 1 0 4 1 5 5
+0 0 8 1 0 0 0 0 9 1 6 6
+0 2 9 0 1 0 0 0 7 1 7 7
+0 6 0 0 0 0 0 0 0 1 8 8
+8 0 0 4 0 7 3 0 0 1 9 9
+0 7 0 0 8 0 0 6 0 2 1 10
+0 4 0 6 0 0 2 3 0 11 1 91
+0 0 0 5 0 9 8 7 1 11 2 92
+7 5 0 0 0 1 6 0 9 11 3 93
+9 7 0 0 0 3 0 0 8 11 4 94
+4 2 0 8 0 0 0 0 0 11 5 95
+0 0 3 0 0 4 0 0 0 11 6 96
+0 0 0 0 0 0 3 0 4 11 7 97
+2 0 1 0 6 0 0 0 0 11 8 98
+5 0 0 0 3 7 0 6 0 11 9 99
+0 4 8 0 0 3 5 0 0 12 1 100
+0 0 0 0 0 0 0 7 6 55 5 491
+5 3 0 2 0 0 0 1 0 55 6 492
+1 0 6 0 7 9 0 0 4 55 7 493
+7 0 0 1 0 0 6 0 5 55 8 494
+0 9 0 5 6 8 0 0 0 55 9 495
+0 0 3 4 9 0 6 0 8 56 1 496
+9 0 0 0 0 0 7 0 5 56 2 497
+0 2 0 6 5 0 0 0 0 56 3 498
+1 0 9 0 4 5 0 0 0 56 4 499
+5 0 0 3 7 0 0 0 0 56 5 500
+1 0 4 0 0 0 5 0 0 111 1 991
+5 8 0 7 9 0 0 0 0 111 2 992
+0 0 0 0 0 0 0 3 0 111 3 993
+0 3 0 0 0 0 0 0 0 111 4 994
+0 0 0 8 2 0 0 0 0 111 5 995
+0 9 0 4 3 0 0 6 1 111 6 996
+0 6 0 3 0 0 2 9 0 111 7 997
+3 4 8 9 1 0 7 0 0 111 8 998
+0 0 0 0 4 0 0 1 0 111 9 999
+0 3 1 0 0 9 0 0 7 112 1 1000
+0 0 0 0 0 0 8 0 0 222 2 1991
+0 8 1 3 0 2 0 0 0 222 3 1992
+0 0 8 9 0 0 0 0 7 222 4 1993
+9 2 0 1 0 7 0 0 0 222 5 1994
+1 6 0 0 8 0 4 3 9 222 6 1995
+0 0 0 5 4 0 0 1 0 222 7 1996
+0 0 0 0 0 0 6 0 0 222 8 1997
+7 3 6 0 9 0 0 4 0 222 9 1998
+0 0 0 3 0 0 0 0 1 223 1 1999
+0 6 0 0 0 8 9 0 0 223 2 2000 
++++++++++
+dietand_sudoku - basic_solution:(9000)
+row1,row2,row3,row4,row5,row6,row7,row8,row9,tableid,rowid,id
+1 7 3 6 5 4 9 2 8 1 1 1
+9 5 2 7 8 1 6 4 3 1 2 2
+4 8 6 2 3 9 5 7 1 1 3 3
+2 9 1 3 4 8 7 5 6 1 4 4
+6 3 7 5 9 2 1 8 4 1 5 5
+5 4 8 1 7 6 2 3 9 1 6 6
+3 2 9 8 1 5 4 6 7 1 7 7
+7 6 4 9 2 3 8 1 5 1 8 8
+8 1 5 4 6 7 3 9 2 1 9 9
+5 7 1 2 8 3 9 6 4 2 1 10
+1 4 9 6 7 8 2 3 5 11 1 91
+3 6 2 5 4 9 8 7 1 11 2 92
+7 5 8 3 2 1 6 4 9 11 3 93
+9 7 6 2 5 3 4 1 8 11 4 94
+4 2 5 8 1 6 7 9 3 11 5 95
+8 1 3 7 9 4 5 2 6 11 6 96
+6 9 7 1 8 2 3 5 4 11 7 97
+2 3 1 4 6 5 9 8 7 11 8 98
+5 8 4 9 3 7 1 6 2 11 9 99
+2 4 8 9 7 3 5 6 1 12 1 100
+2 4 8 9 1 5 3 7 6 55 5 491
+5 3 7 2 8 6 4 1 9 55 6 492
+1 5 6 3 7 9 8 2 4 55 7 493
+7 8 3 1 2 4 6 9 5 55 8 494
+4 9 2 5 6 8 7 3 1 55 9 495
+7 5 3 4 9 1 6 2 8 56 1 496
+9 1 6 2 8 3 7 4 5 56 2 497
+4 2 8 6 5 7 3 9 1 56 3 498
+1 3 9 8 4 5 2 6 7 56 4 499
+5 6 4 3 7 2 1 8 9 56 5 500
+1 7 4 2 6 3 5 8 9 111 1 991
+5 8 3 7 9 1 6 4 2 111 2 992
+6 2 9 5 8 4 1 3 7 111 3 993
+8 3 6 1 7 9 4 2 5 111 4 994
+4 1 5 8 2 6 9 7 3 111 5 995
+2 9 7 4 3 5 8 6 1 111 6 996
+7 6 1 3 5 8 2 9 4 111 7 997
+3 4 8 9 1 2 7 5 6 111 8 998
+9 5 2 6 4 7 3 1 8 111 9 999
+6 3 1 4 8 9 5 2 7 112 1 1000
+5 4 3 6 1 9 8 7 2 222 2 1991
+6 8 1 3 7 2 9 5 4 222 3 1992
+3 5 8 9 6 4 1 2 7 222 4 1993
+9 2 4 1 3 7 5 8 6 222 5 1994
+1 6 7 2 8 5 4 3 9 222 6 1995
+8 9 2 5 4 6 7 1 3 222 7 1996
+4 1 5 7 2 3 6 9 8 222 8 1997
+7 3 6 8 9 1 2 4 5 222 9 1998
+2 7 4 3 9 6 5 8 1 223 1 1999
+5 6 3 4 1 8 9 2 7 223 2 2000 
++++++++++
+
+ 

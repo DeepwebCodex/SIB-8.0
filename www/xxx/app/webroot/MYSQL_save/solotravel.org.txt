@@ -1,0 +1,42 @@
+www.solotravel.org/countrybudget.php?country=Vietnam
+ 
+medicalc_country - travel_country:(47)
+id,name,currency,us,euro,gbp,details
+
++++++++++
+medicalc_country - travel_price:(614)
+id,cid,type,name,price
+480 1 DRINKING 1 Beer(s) equiv 2
+481 1 DRINKING 2 Beer(s) equiv 4
+482 1 DRINKING 3 Beer(s) equiv 6
+483 1 DRINKING 4 Beer(s) equiv 8
+484 2 DRINKING 1 Beer(s) equiv 5
+485 2 DRINKING 2 Beer(s) equiv 10
+486 2 DRINKING 3 Beer(s) equiv 15
+487 2 DRINKING 4 Beer(s) equiv 20
+488 2 DRINKING 5 Beer(s) equiv 25
+489 3 DRINKING 1 Beer(s) equiv 12000
+570 21 DRINKING 2 Beer(s) equiv 14
+571 21 DRINKING 3 Beer(s) equiv 21
+572 21 DRINKING 4 Beer(s) equiv 28
+573 21 DRINKING 5 Beer(s) equiv 35
+574 22 DRINKING 1 Beer(s) equiv 2
+575 22 DRINKING 2 Beer(s) equiv 4
+576 22 DRINKING 3 Beer(s) equiv 6
+577 22 DRINKING 4 Beer(s) equiv 8
+578 23 DRINKING 1 Beer(s) equiv 16
+579 23 DRINKING 2 Beer(s) equiv 32
+1001 38 DRINKING 2 beers / wine 2
+1002 38 DRINKING 3 beers / wine 3
+1003 38 DRINKING 4 beers / wine 4
+1004 38 EATING Traveler cafe 2
+1005 38 EATING Mid priced cafe 5
+1006 38 EATING Tourist standard restaurant 9
+1007 38 EATING Top end restaurant 20
+1008 38 SLEEPING Cheap Guesthouse 10
+1009 38 SLEEPING Backpacker hostel 15
+1010 38 SLEEPING Tourist Hotel 30
+
++++++++++
+
+ 
