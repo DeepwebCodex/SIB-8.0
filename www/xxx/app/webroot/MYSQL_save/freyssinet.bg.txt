@@ -1,0 +1,54 @@
+www.freyssinet.bg/pageA.php?url_page3_id=18&url_lang=A
+ 
+freyssib_freyssinetbg_db - files:(25)
+file_id,file_name,file_details,file_link
+1 38755.pdf S&amp;P Post Tensioning - Beam http://freyssinet.bg/assets/uploads/files/38755.pdf
+2 21137.pdf S&amp;P Post Tensioning - Bridge http://freyssinet.bg/assets/uploads/files/21137.pdf
+3 86948.pdf S&amp;P Post Tensioning - Slab http://freyssinet.bg/assets/uploads/files/86948.pdf
+4 23040.pdf S&amp;P Post Tensioning - Silo http://freyssinet.bg/assets/uploads/files/23040.pdf
+5 43113.pdf S&amp;P Post Tensioning - Silo http://freyssinet.bg/assets/uploads/files/43113.pdf
+8 63574.pdf S&amp;P Antiseismic Devices - Transpecs http://freyssinet.bg/assets/uploads/files/63574.pdf
+9 70434.pdf S&amp;P Antiseismic Devices - Transpecs http://freyssinet.bg/assets/uploads/files/70434.pdf
+10 53307.pdf S&amp;P Bridge Equipment - Bearings http://freyssinet.bg/assets/uploads/files/53307.pdf
+12 81908.pdf S&amp;P Antiseismic Devices - Elastomeric bearings http://freyssinet.bg/assets/uploads/files/81908.pdf
+13 25733.pdf S&amp;P Bridge Equipment - Bearings http://freyssinet.bg/assets/uploads/files/25733.pdf
+
++++++++++
+freyssib_freyssinetbg_db - pages1:(6)
+page1_id,page1_position,page1_nameA,page1_nameB,page1_nameC,page1_titleA,page1_titleB,page1_titleC,page1_descriptionA,page1_descriptionB,page1_descriptionC,page1_keywordsA,page1_keywordsB,page1_keywordsC,page1_contentA,page1_contentB,page1_contentC,page1_lock
+
++++++++++
+freyssib_freyssinetbg_db - pages2:(23)
+page2_id,page1_id,page2_position,page2_nameA,page2_nameB,page2_nameC,page2_titleA,page2_titleB,page2_titleC,page2_descriptionA,page2_descriptionB,page2_descriptionC,page2_keywordsA,page2_keywordsB,page2_keywordsC,page2_contentA,page2_contentB,page2_contentC,page2_lock
+
++++++++++
+freyssib_freyssinetbg_db - pages3:(72)
+page3_id,page2_id,page3_position,page3_nameA,page3_nameB,page3_nameC,page3_titleA,page3_titleB,page3_titleC,page3_descriptionA,page3_descriptionB,page3_descriptionC,page3_keywordsA,page3_keywordsB,page3_keywordsC,page3_contentA,page3_contentB,page3_contentC,page3_lock
+
++++++++++
+freyssib_freyssinetbg_db - pictures:(198)
+picture_id,picture_name,picture_details,picture_link
+5 94142.jpg S&amp;P Post Tensioning - Beam http://freyssinet.bg/assets/uploads/images/94142.jpg
+6 21962.jpg S&amp;P Post Tensioning - Beam http://freyssinet.bg/assets/uploads/images/21962.jpg
+7 49250.jpg S&amp;P Post Tensioning http://freyssinet.bg/assets/uploads/images/49250.jpg
+8 50923.jpg S&amp;P Post Tensioning http://freyssinet.bg/assets/uploads/images/50923.jpg
+9 74388.jpg S&amp;P Post Tensioning - Bridge http://freyssinet.bg/assets/uploads/images/74388.jpg
+10 15340.jpg S&amp;P Post Tensioning - Bridge http://freyssinet.bg/assets/uploads/images/15340.jpg
+11 36943.jpg S&amp;P Post Tensioning - Slab http://freyssinet.bg/assets/uploads/images/36943.jpg
+12 90553.jpg S&amp;P Post Tensioning - Slab http://freyssinet.bg/assets/uploads/images/90553.jpg
+13 82071.jpg S&amp;P Post Tensioning - Slab http://freyssinet.bg/assets/uploads/images/82071.jpg
+14 92267.jpg S&amp;P Post Tensioning - Silo http://freyssinet.bg/assets/uploads/images/92267.jpg
+95 67516.jpg ABOUT US Certificates http://freyssinet.bg/assets/uploads/images/67516.jpg
+96 67719.jpg ABOUT US Certificates http://freyssinet.bg/assets/uploads/images/67719.jpg
+97 72549.jpg ABOUT US Certificates http://freyssinet.bg/assets/uploads/images/72549.jpg
+98 31799.jpg ABOUT US Certificates http://freyssinet.bg/assets/uploads/images/31799.jpg
+99 58941.jpg ABOUT US Certificates http://freyssinet.bg/assets/uploads/images/58941.jpg
+100 49524.jpg ABOUT US News - 1 http://freyssinet.bg/assets/uploads/images/49524.jpg
+101 81688.jpg ABOUT US News - 1 http://freyssinet.bg/assets/uploads/images/81688.jpg
+102 27461.jpg ABOUT US News - 1 http://freyssinet.bg/assets/uploads/images/27461.jpg
+103 79150.jpg ABOUT US News - 1 http://freyssinet.bg/assets/uploads/images/79150.jpg
+104 39882.jpg ABOUT US News - 1 http://freyssinet.bg/assets/uploads/images/39882.jpg
+
++++++++++
+
+ 

@@ -1,0 +1,161 @@
+www.castlesontheweb.com/photoarchive/index.php?action=one&photoid=927
+ 
+www_cotwpa - albumcategories:(51)
+id,parentid,name
+1 1 Abbeys
+2 1 Austrian Castles
+3 1 Belgian Castles
+4 1 Castle Recreations
+5 1 Castle Clip Art
+6 1 Croatian Castles
+7 1 Czech Castles
+8 1 English Castles
+9 1 Estonian Castles
+11 1 French Castles
+
++++++++++
+www_cotwpa - albumpictures:(10682)
+id,albumid,hits,title,comment,photochangetime,approved
+5 5 20342 Blaise Castle This picture shows Blaise Castle (folly) in its surroundings in the Blaise Castle Estate, Lawrence Weston in Bristol. 1030327325 1
+4 5 21248 Nunney Castle Nunney Castle, between Frome and Shepton Malley off the A361 road. Built in the 13th century. The castle is sited in the pituresque village of in Nunney. Besieged by Cromwells forces during the civil war. 1030327325 1
+1 2 11838 Maqueda Castle This is a castle from the XV century built in the center of Spain. Its based in one much older fortification, which supported succesfully an violent siege and attack from the almohad calipha Yacub-Al Mansur troops in the XII century. The actual building i 1030325788 1
+3 4 10413 Helmsley Castle The 12th Century keep of Helmsley Castle, Yorkshire.  It was ruined by Paliamentary forces during the Civil War. 1030326480 1
+2 3 9817 Citadel in Bitch This is one small section of the Citadel that looms over Bitche, France. It was built in the 1600s, that's all I could figure out being that I can't read French or German. 1030326183 1
+6 5 38392 Blaise Castle Blaise Castle built on castle Hill in the grounds of Blaise Castle Estate. It's a folly castle built about 1776? 1030327325 1
+7 5 37629 Thornbury Castle A castle with some history behind it. Now serves as a hotel. 1030327325 1
+8 5 37851 Banwell Castle A folly castle built in Victorian times. Open during the day for cream teas etc and serves as a hotel. Banwell is in the south west of England. 1030327325 1
+9 5 27714 Farliegh Hungerford Castle Steeped in history, intrigue and plot. Location is near Bath off the A36. 1030329393 1
+10 21 14151 Donan Castle Photo taken on 2002-06-10 on our short vacation in the Highlands. 1030329610 1
+100 34 8603 Loch Leven Castle Built around 1550 by the Douglases,&lt;P&gt;&lt;P&gt;LochLeven Castle was visited in by 1563 Mary Queen of Scots,she then spend her honeymoon there in 1565. 1030650107 1
+101 34 14115 Caerlaverock Castle This great red sandstone castle stands surrounded by a protective moat. 1030650107 1
+102 35 3524 Kasteel Rivieren Castle in the south of province Limburg (The Netherlands). Is still private property. 1030650649 1
+103 36 18915 Caerphilly Castle A late 13th century castle in South Wales surrounded by a moat, lakes and  3 little islands.  A stunning castle standing right in the middle of the beautiful town of Caerphilly. 1030651071 1
+104 35 3362 Havezathe Werkeren This pictures gives a indication of the excavation site of the remains of the dutch havezathe Werkeren near Zwolle. This place has been recently discovered. They will build a residential area at this spot. 1030653914 1
+105 37 3723 Doune The most complete 14th century castle in scotland... almost unaltered for 600 yrs... and great to explore! 1030677418 1
+106 37 6428 Doune The site of Monty Python and the Holy Grail! 1030677419 1
+107 38 2685 Bismarck Tower Photo of celling of Bismarck Tower in Szczecin (Poland). 1030677960 1
+108 38 3262 Pomeranian Prince Castle Pomeranian Castle was built in 1346 by prince Barnim III.In 1616-1619 it was rebuilt.On the photo you can see the castle by night in winter scenery. 1030677960 1
+109 39 12684 Château de Montespieu Castle, built in 12th century, in former times property of the Dukes of Toulouse-Lautrec with many towers and a park of 16 ha. 1030678415 1
+525 146 2473 Ujazd. Inside the Courtyard 1035322643 1
+526 146 2170 Ujazd - walls. 1035322644 1
+527 146 1914 Ujazd. The detail from the wall. 1035322644 1
+528 146 2041 Ujazd. The detail from the wall. 1035322645 1
+531 147 5772 Ksi¹¿. One of the biggest castles in Poland. Lower Silesia (Wa³brzych). XIII/XIX century. Main viev. 1035354966 1
+532 147 3690 Ksi¹¿ - viev from entrance gate. 1035354967 1
+533 147 3532 Ksi¹¿ - main entrance. 1035354968 1
+534 147 3235 Ksi¹¿. The Garden (1). 1035354968 1
+535 147 3479 Ksi¹¿. The Garden (2). 1035354969 1
+536 147 3894 Ksi¹¿ - viev from the garden. 1035355268 1
+1093 277 1821 Castle Heysterum 1050776047 1
+1094 278 4973 Burg Wassenberg The Burg is sited on a motte. The tower on the right is the Belvedere. 1050779253 1
+1095 278 4307 Burg Wassenberg View from the innercourt. Nowadays the castle is used as a restaurant. 1050779255 1
+1096 278 3124 Burg Wassenberg View inside the Belvedere tower, the highest point of the castle. 1050779257 1
+1099 280 2258 Castle Horn The main entrance and the donjon. 1050785788 1
+1100 280 1931 Castle Horn 1050785791 1
+1101 280 1988 Castle Horn Two donjons connected with the ring-wall. 1050785793 1
+1102 280 1815 Castle Horn 1050785795 1
+1103 280 1778 Castle Horn 1050785796 1
+1104 281 6013 Castle Elsum 1050786788 1
+2264 591 5069 frontal view 1068574153 1
+2263 591 2512 gate 1068574094 1
+2268 592 17882 Dover Castle The Keep and inner bailey dating from 1180 with access through the Palace gateway 1069084930 1
+2266 592 18609 Deal Castle Entrance to the castle over the dry moat 1069084627 1
+2267 592 20243 Walmer Castle Entrance to the castle 1069084628 1
+2269 592 14751 Tonbridge Castle The powerful Gatehouse, the main entrance to the castle. The wall rises from the Gatehouse up the side of the old motte. 1069084930 1
+2270 592 13809 St Leonard's Tower All that remains of West Malling Castle is the tall tower. 1069085191 1
+2271 592 12691 Eynsford Castle Eynsford was built about 1100, and has not been used for the last 500 years. 1069085191 1
+2272 592 22120 Leeds castle This is the 19th century Gatehouse leading to the living quarters which are furnished. 1069085450 1
+2273 592 14753 Canterbury Castle The lower half of the 1100 Keep next to the City Walls which run halfway round the city. 1069085450 1 
++++++++++
+www_cotwpa - albums:(1585)
+id,category,owner,ownertype,timeadded,ip,title,textabove,textbelow,password
+3 11 4 1 1030326125 24.138.16.43 Citadel in Bitche
+5 8 6 1 1030327112 24.138.16.43 British Castles
+2 41 3 1 1030325719 24.138.16.43 Maqueda Castle
+4 8 5 1 1030326421 24.138.16.43 Helmsley Castle
+1734 49 12017 1 1346358044 85.166.160.247 BÃ¥hus Castle BÃ¥hus Castle BÃ¥hus Castle was built i 1308 by the norwegian king HÃ¥kon V Magnusson.
+21 38 7 1 1030329555 24.138.16.43 Donan Castle
+22 29 8 1 1030330771 24.138.16.43 12th century Castle
+23 35 9 1 1030331403 24.138.16.43 Transylvanian Castles
+27 16 13 1 1030568058 24.138.16.43 Craigdun Castle This is Craigdun. It is a Scottish 
+Baronial style Victorian Castle in 
+Co Antrim. For further details 
+including information on using 
+Craigdun for your wedding see 
+www.craigduncastle.com.
+25 18 10 1 1030491161 24.138.16.43 Sketch of a Castle
+106 35 85 1 1032552771 194.102.254.222 Pelisor
+107 18 77 1 1032721822 195.92.194.16 Castello della Pietra The reonvated castello of Vobbia, Genoa. This fantastically sited castle, renovated in 1990's, and situated north of Genoa. Is not one for anyone with weak legs or a fear of heights. Worth a visit for the views alone.
+109 11 77 1 1033208797 195.92.194.18 Coucy le Chateau Fortified town & castle of Coucy This lovely little town lies on a high bluff, situated west of the city of Laon, within the plains of Picardy.
+110 13 87 1 1033328075 62.131.128.236 Frangokastello Castel Franco on Island Crete This ruined "Castel Franco" is sited on the south coast of Crete. Built by Venetians in 1371 as a defence against pirates and Cretan rebels.
+Damaged in 1828 (War of Independence Greek against the Turks), 1890(Turkish army against rebels) and during WWII
+127 30 87 1 1034547293 62.131.128.236 Castle "de Torentjes" Castles in the Netherlands Limburg Located in St-Pieter near to Maastricht, built on the ruines of a former house (1294) named Bevors or Beaufort. In the 16th century it was named "Beisselstoren" and in 1684 "'t Spreeuwarts Thoorenthien". The House never had a chivalrous status.
+128 18 77 1 1035020810 195.92.168.168 Cefalu-Sicily. 3,000 years of fortifications ? These few  pictures encompass a town that has defended itself for at least 3,000 years. The huge crag that towers over the town retains its castle and a maze of walls. An explorers dream.
+114 35 85 1 1033917260 193.231.255.102 Iulia Hasdeu`s Castle Bogdan Petriceicu Hasdeu following the premature death of his daughter, has built a castle to immortalise Iulia Hasdeu's name.He used the castle for spiritims sessions while he was spoking with his daughter.
+112 35 85 1 1033826931 193.231.255.102 Fagaras Citadel
+113 35 85 1 1033827063 193.231.255.102 Huniazi Citadel
+115 1 85 1 1034010993 193.231.255.102 Curtea de Arges-Romania This is one of the greates Romanian Abbeys.Her story is amazing,and it seems it couldn`t been built until Manole(one of the builders)hasn`t built his own pregnant wife inside of the walls.This way,the walls could be made.
+548 49 355 1 1058132343 213.114.171.168 Royal castle Stockholm Anno 1690 This crapy site just allows 100k the rest of the pictures of the royal castle cant loaded...!
+
+//Fredrik
+551 12 378 1 1058727553 62.158.160.43 Burg Baldenau
+552 30 87 1 1058734723 62.131.128.236 Castle Ruins Schaesberg Castles in the Netherlands Limburg Moated castle, built ~1570 on the place of a former castle, mentioned as a manors seat in 1239. The castle and bailey got ruinous throughout the 20th C caused by mine-damage, bad maintenance and a fire in 1965. In 1974 the last remained keep collapsed.
+550 30 87 1 1058648250 62.131.128.236 Castle Doenrade Castles in the Netherlands Limburg Former name was "Doonderhuuske", located in the village with the same name. First mentioned in the 13th.C. Most parts of the castle are from the 18th.C, the present shape of the castle is from 1921. In the 20thC. The castle was a nunnery for many years.
+553 21 397 1 1059381481 80.232.216.233 Latvian castles Turaidas pils cietoksnis The Turaida Museum Reserve is located  on a site where the Livs of the Gauja valley lived 1.000 years ago. They had a wooden castle and port here. The reserve is the only specially protected cultural monument in Latvia, and it is 45 hectares in size. In 1
+554 34 396 1 1059421284 212.113.164.98 Almourol Castle Castelo de Almourol Built in 1171, it stands in the middle of the Tagus river.
+555 34 396 1 1059421935 212.113.164.98 Penedono Castle Castelo de Penedono
+556 34 396 1 1059422414 212.113.164.98 Porto de Mos Castle Castelo de Porto de Mos
+557 34 396 1 1059422764 212.113.164.98 Leiria Castle Castelo de Leiria
+558 34 396 1 1059423214 212.113.164.98 Estremoz Castle Castelo de Estremoz
+1138 29 969 1 1122256490 69.137.123.86 Small American Castle American Homes
+1143 1 849 1 1123931890 213.91.197.251 Rojen Monastery The Rozhen monastery is the biggest sanctuary and one of the few Bulgarian monasteries of the Middle Ages, which has survived relatively intact up to present days. According to annals kept in Atone, Greece, the monastery dates back at least to 890 AC
+1142 54 849 1 1123830317 213.91.197.251 Pernik The first record of settlement life in the Pernik region dates back to the year of 6000 BC The town of Pernik bacame part of the Bulgarian kingdom in 809 AD during Khan Krum's reignIn the 10th and 11th cent. AD the town of Pernik acted as an importand economic and military centre of the southeastern part of the country. Tenth and 11th century history of Pernik is associated with the legendary name of Krakra, a chieftain who twice, in 1004 and 1016, repelled the attacks of the army of Emperor Basil II.
+1144 28 981 1 1124282721 84.43.143.73 bulgarian castle cherven stone cannon-ball
+1145 54 782 1 1124392890 195.138.145.160 Hisarya fortress Lovech town
+1146 54 849 1 1124696121 213.16.58.183 Vukelon / Vukeli castle By a legend after a great bulgarian victory in Adrianopol battle in 14 04 1205 A.C. the captured latin crusaders imperror Boduen of Flanders was taken prisonier in the tower , before to be killed in the capital Veliko Turnovo
+1147 38 897 1 1124733608 69.21.24.97 Crathes Castle
+1151 28 849 1 1124804382 213.16.58.183 The sword of Khan Kubrat Khan Kubrat united and ruled Bulgarian tribes in period 632 - 651 A.C. he created millitary political and tribal medieval state named from bizantium hroniclers Great Bulgaria.The Khan was awarded the title of patrician by Emperor Heraclius.
+1149 38 897 1 1124736298 69.21.25.93 Drum Castle Another National Trust for Scotland Property in Aberdeenshire
+1150 38 897 1 1124737351 69.21.25.93 Castle Fraser Another National Trust for Scotland Castle in Aberdeenshire - You can lease the East Wing Flat by the week - perfect location in the center fo the Grampian Castle District
+
++++++++++
+www_cotwpa - captchas:(84)
+id,site,timeadded,value,ip
+1798782 cotw-g 1557196643 687461 112.111.163.47
+1798781 cotw-g 1557196643 386555 112.111.163.47
+1798864 cotw-g 1557591379 421261 36.248.169.206
+1798863 cotw-g 1557591378 415136 36.248.169.206
+1798862 cotw-pa 1557583055 234165 217.182.32.67
+1798861 cotw-g 1557583051 393567 217.182.32.67
+1798860 cotw-g 1557581680 270965 17.58.102.252
+1798859 cotw-pa 1557573588 698239 104.37.187.74
+1798858 cotw-g 1557573584 381603 104.37.187.74
+1798857 cotw-g 1557571973 131821 175.44.34.113
+
++++++++++
+www_cotwpa - people:(331)
+id,sessionid,lastaccess,timeadded,ip,sex,firstname,lastname,email,showemail,password,country,web,comment,timesloggedin
+1 1545310661 1030324482 24.138.16.43 a Castles on the Web support@castlesontheweb.com y j0emarg0 Canada http://www.castlesontheweb.com Alas, all the castles I have are built with air. - Jonson 443
+3 1512773587 1030325500 24.138.16.43 n Alfonso Romero beromar@yahoo.es y qysoqyko Unknown 1
+4 1512773587 1030325951 24.138.16.43 n Thomas Maceluch tmaceluch@hotmail.com y kocifaza 1
+5 1512773587 1030326282 24.138.16.43 n Lucy Gatehouse lfgatehouse@tiscali.co.uk y moropepa 1
+6 1512773587 1030326610 24.138.16.43 n Mike mike@workspace.fsnet.co.uk y fuzaciry 1
+7 1512773587 1030329480 24.138.16.43 n C M Kools cees@kools-online.com y mopenisu 1
+8 1512773587 1030330689 24.138.16.43 n Sally Brown jsbrown@uniserve.com y guzucevy 1
+9 1512773587 1030330934 24.138.16.43 n Michael B mbmailbox@mail.com y cafevopu 1
+10 1512773587 1030491089 24.138.16.43 n Nick Pelling incoming@pterodactyl.co.uk y sikyludi 1
+11 1512773587 1030491567 24.138.16.43 n Caroline Raat carolineraat@zonnet.nl y zahuquga 1
+186 1512773587 1042484380 66.119.34.39 n lana fares haileygirl01@aol.com y nivumopy usa http:// 1
+187 1512773587 1042486826 24.222.248.152 n Cara DiPersio caradipersio@mail.com y xyxymyxu canada http:// 1
+225 1512773587 1045388856 195.93.73.8 n Dolf-D. Damberg DDDamberg@AOL.com y tucixavu Germany http:// 1
+192 1512773587 1042662929 62.194.76.202 n Freek Kramer vfalconv_nl@yahoo.com y wijocaqa Netherlands http:// 1
+195 1512773587 1043067927 136.217.0.194 n Lawrence Lunsford Lunchbox02@msn.com n naqiwihi Bosnia http:// 1
+455 1512773587 1342264371 142.134.43.145 n Bruno Van de Velde vlad1452@gmail.com y savatage Belgium http://www.belgiancastles.be 1
+276 1512773587 1048412113 81.131.178.235 n Ken Grassham thegreenpig@hotmail.com y kukabino England http:// 1
+454 1512773587 1067455247 193.226.240.237 n Olikir Olikir olikir@freemail.hu y pagevyxy Hungary 1
+277 1512773587 1048451362 62.104.206.64 n Daniel Schmitzek dcs@tiscali.de y pesuciva Germany 1
+450 1512773587 1067121090 24.103.156.156 n Jeff Stott biff0@rogers.com n rifimuxa Canada http:// Purchased small castle 1
+
++++++++++
+
+ 

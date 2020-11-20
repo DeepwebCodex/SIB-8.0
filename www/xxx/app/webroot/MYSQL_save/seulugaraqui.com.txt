@@ -1,0 +1,1232 @@
+seulugaraqui.com/index.php?id=14
+ 
+seulugar_bd - banners:(6)
+id,banner,sessao,link
+1 banner_01.gif banner_01
+2 banner_02.jpg banner_02 https://play.google.com/store/apps/details?id=com.yoom.seulugaraqui
+3 banner_cabecalho.gif banner_cabecalho http://www.seulugaraqui.com/
+4 fundo_pagina.jpg fundo_pagina
+5 banner_04.png banner_04
+6 banner_05.png banner_05
+
++++++++++
+seulugar_bd - caracteristicas_imovel:(0)
+id,caracteristica
+
++++++++++
+seulugar_bd - categorias:(11)
+id,nome,cor,cor2,quantos,ordem
+12 APARTAMENTOS #B50000 #FF1212 900 1
+2 SALAS COMERCIAIS #096EE0 #009BE6 800 5
+3 TERRENOS #42A046 #5CDE61 800 6
+4 PRAIA #BE9F2F #FCD33E 800 8
+5 RURAL #2E3192 #5056FF 800 7
+13 CASAS #29CCC1 #57FFF4 800 3
+14 DESTAQUES #EB6F10 #FFAA17 40 0
+15 SOBRADOS #29233D #242F99 800 4
+16 COBERTURAS #8507BA #8507BA 800 2
+17 QUITINETE / JK #3B3B3B #858585 800 9
+
++++++++++
+seulugar_bd - codigo:(1)
+id,codigo
+1 002036
+
++++++++++
+seulugar_bd - emails:(3)
+id,email,apresentacao
+2 ache@seulugaraqui.com ache@seulugaraqui.com
+3 esequiel@seulugaraqui.com
+7 ese.andreazza@gmail.com Esequiel
+
++++++++++
+seulugar_bd - imagens:(24475)
+id,id_imovel,imagem,capa
+4926 546 13-09-02_07:43:51.jpg 1
+34186 2458 17-09-11_13:36:25.jpg 1
+34184 2458 17-09-11_13:35:53.jpg 0
+34183 2458 17-09-11_13:35:52.jpg 0
+34273 2462 17-09-11_18:06:00.jpg 0
+34181 2458 17-09-11_13:35:50.jpg 0
+34180 2458 17-09-11_13:33:32.jpg 0
+4386 472 13-08-03_09:35:23.jpg 0
+4385 472 13-08-03_09:35:19.jpg 0
+4920 544 13-09-09_12:59:53.jpg 0
+128 14 p16m6jv2gqgmtdch901fu18egb.png 0
+129 14 p16m6jv2gq15u21usv1dn018i611tbc.png 0
+130 14 p16m6jv2gqj4315usdccjki10s0d.png 0
+131 15 p16m6l0t6166i1eackuf189h18al1.png 1
+132 15 p16m6l0t616e7rvj1g8v97l1t172.png 0
+133 15 p16m6l0t613ql1k16krl933cgo3.png 0
+134 15 p16m6l0t61l061bd411aolr11h214.png 0
+135 15 p16m6l0t611per5hb15157m6l85.png 0
+136 15 p16m6l0t6119da1ki0dum11pf1uq06.png 0
+137 15 p16m6l0t6110md38d19dp1kq6h947.png 0
+8105 870 14-05-14_15:13:10.jpg 0
+8084 869 14-05-14_10:14:28.jpg 1
+25342 1941 15-11-17_16:32:29.jpg 0
+25341 1941 15-11-17_16:32:27.jpg 0
+8077 866 14-05-11_15:45:24.jpg 1
+633 68 p175ng92t3176d1dmp10ipba1ei81.jpg 1
+6339 71 13-12-19_19:52:19.jpg 1
+34142 2456 17-09-11_13:01:28.jpg 1
+6354 695 14-01-09_11:09:30.jpg 0
+6355 695 14-01-09_11:09:38.jpg 0
+6782 747 13-04-23_15:54:21.jpg 0
+6781 747 13-04-23_15:54:21.jpg 0
+1352 139 12-12-05_15:51:03.jpg 1
+1353 139 12-12-05_15:51:04.jpg 0
+1354 139 12-12-05_15:51:05.jpg 0
+1355 139 12-12-05_15:51:06.jpg 0
+1356 139 12-12-05_15:51:08.jpg 0
+11810 12 15-03-12_15:54:28.jpg 0
+11802 824 15-03-12_00:04:01.jpg 1
+13975 5 15-07-02_17:57:09.jpg 0
+5160 311 13-09-14_12:16:24.jpg 0
+25881 1974 17-02-24_10:28:22.jpg 0
+52163 3663 19-05-10_20:49:54.jpg 1
+25880 1974 17-02-24_10:28:20.jpg 0
+26836 2027 17-03-31_12:40:53.jpg 1
+26835 2027 17-03-31_12:40:46.jpg 0
+26834 2027 17-03-31_12:40:45.jpg 0
+26837 2028 17-04-01_13:32:34.jpg 1
+26833 2027 17-03-31_12:40:44.jpg 0
+26818 1961 17-03-30_19:09:26.jpg 1 
++++++++++
+seulugar_bd - imoveis:(2571)
+id,codigo,id_corretor,id_categoria,estado,cidade,nome_imovel,titulo,num_dormitorios,vagas_garagem,destaque,valor,area,bairro,descricao,tags,obs_oculta,status,nada
+4 000004 21 12 RS Caxias do Sul Residencial San Carlo APARTAMENTO 2 2 nao 340000.00 90 Pio X SEU LUGAR AQUI vende apartamentos localizados no Bairro Pio X, estes imÃ³veis possuem:
+
+GÃ¡s Central;
+2 dormitÃ³rios com 1 suÃ­te;
+HidrÃ´metros individuais;
+Espera para Ã¡gua quente;
+Pisos em madeira laminada;
+Churrasqueira;
+Esquadrias em alumÃ­nio;
+Ã“tima posiÃ§Ã£o solar;
+Facilidade de acesso ao centro;
+Aproveitamento da Ã¡gua da chuva;
+Espera para split;
+SalÃ£o de Festas decorado.
+ 
+***Com cozinha semi mobiliada**** Ãšltima unidade, aproveite! Pronto para morar!
+
+*Os valores poderÃ£o sofrer reajustes mensais.
+
+Imagens meramente ilustrativas.
+
+Consulte disponibilidades saint construtora
+
+		ÃREA DE	ÃREA DE	ÃREA DE	ÃREA DE	PREÃ‡OS	
+	ENTREGA	CONSTRUÃ‡ÃƒO (mÂ²)	CONSTRUÃ‡ÃƒO (mÂ²)	CONSTRUÃ‡ÃƒO (mÂ²)	CONSTRUÃ‡ÃƒO (mÂ²)	REAIS	
+	set/12	PRIVATIVO BOX	PRIVATIVO APART.	USO COMUM	TOTAL		
+							
+ AP 301  box 10 		 24,250 	90,92	42,5662	133,4862	320.000,00	
+							
+							
+							
+							
+							
+CONDIÃ‡ÃƒO DE PAGTO: 30% de Entrada e restante financiamento bancÃ¡rio. aceita propostas.
+
+pronto para morar! Vendido
+5 000005 21 12 RS Caxias do Sul Residencial Up Line APARTAMENTO 2 2 nao 368000.00 84 Villaggio Iguatemi SEU LUGAR AQUI vende apartamento localizado no Bairro Villaggio Iguatemi:
+
+Cozinha integrada;
+Estar e lavanderia com sacada;
+Sacada Gourmet com churrasqueira;
+2 dormitÃ³rios sendo 1 suÃ­te;
+Espera para ar condicionado;
+Espera para HidrÃ´metro individual;
+2 vagas de garagem;
+
+
+Arquitetura contemporÃ¢nea;
+4 apartamentos por andar;
+Nobre localizaÃ§Ã£o;
+Excelente posiÃ§Ã£o solar;
+Paisagismo;
+SalÃ£o de Festas mobiliado e decorado;
+Fitness mobiliado e decorado;
+Brinquedoteca mobiliada e decorada;
+Hall de acesso mobiliado e decorado;
+Fachada Oeste - Sul.
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 5
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+ÃšLTIMA UNIDADE!!! bwb Vendido
+9 000009 21 12 RS Caxias do Sul RESIDENCIAL ALTINO (3A INCORPORADORA LTDA) APARTAMENTO 2 1 nao 261594.93 72 PetrÃ³polis SEU LUGAR AQUI vende apartamentos localizados no bairro PetrÃ³polis, reunindo praticidade e bom gosto, o empreendimento contarÃ¡ com: 
+
+- living de dois ambientes com sacada;
+- excelente vista panorÃ¢mica e posiÃ§Ã£o solar;
+- piso cerÃ¢mico e laminado;
+- apartamentos de dois dormitÃ³rios com e sem suÃ­te;
+- churrasqueira;
+- amplo salÃ£o de festas mobiliado, com espaÃ§o gourmet; 
+- churrasqueira e Ã¡rea para sala de jogos;
+- hidrÃ´metros individuais;
+- espera para split;
+- jardim cercado e paisagismo;
+- garagem com opÃ§Ã£o para dois carros;
+- esquadrias em alumÃ­nio;
+
+Empreendimento contarÃ¡ com 36 apartamentos de dois dormitÃ³rios, com seis opÃ§Ãµes de plantas diferenciadas. 
+
+O Residencial traduz a necessidade da vida moderna, com a facilidade de acesso ao centro cidade aliado a uma arquitetura diferenciada e uma das mais belas vistas da cidade. 
+
+ContarÃ¡ com cinquenta e oito (58) boxes de garagem com opÃ§Ã£o para vaga simples ou dupla.
+
+***Os valores dos imÃ³veis sÃ£o atualizados mensalmente e variam conforme andar e tamanho do imÃ³vel.
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 9
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. 3A INCORPORADORA LTDA.
+
+Apto : 204
+P. Sol : Sul / Oeste
+atualizado :08/05/19 Disponivel
+12 000012 21 12 RS Caxias do Sul Rezidenziale Luna Blu APARTAMENTO 3 2 nao 630109.00 212 Rio Branco SEU LUGAR AQUI vende belÃ­ssimos apartamentos localizados no Bairro Rio Branco, apartamentos realmente diferenciados, estes imÃ³veis possuem:
+
+Sala de Estar;
+Cozinha;
+Banheiro;
+Ãrea de serviÃ§o;
+GÃ¡s central;
+Banheiro Social;
+Lavabo;
+
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 12
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+********Ãšltimas Unidades!!!!*********
+Atrativos do empreendimento:*Elevador;*Porcelanato em Ã¡reas frias e salas;*Paredes duplas (externa) de tijolo maciÃ§o, com divisÃ³rias entre ambientes detijolos maciÃ§os;*Ãreas externas impermeabilizadas e revestidas com isopor, para confortotÃ©rmico;*Medidores de Ãgua, GÃ¡s e Luz individualizados;*Esquadrias de alumÃ­nio com esp. para vidro duplo;*Garagens amplas, de fÃ¡cil estacionamento;*PosiÃ§Ã£o, frente Norte;*1 apto. por andar;*Ã“tima vista;*LocalizaÃ§Ã£o privilegiada, proximidades de escolas, bancos, comÃ©rcios, paradade Ã´nibus. construarte Disponivel
+13 000013 21 12 RS Caxias do Sul Cefeu APARTAMENTO 3 2 nao 481400.00 117 Pio X SEU LUGAR AQUI vende lindos apartamentos localizados no Bairro Pio X, estes imÃ³veis possuem:
+
+Apartamentos com mais de 115mÂ²;
+2 apartamentos por andar;
+3 dormintÃ³rios;
+1 suÃ­te;
+Lavabo;
+2 vagas de garagem;
+Espera para split;
+Excelente localizaÃ§Ã£o;
+Paisagismo nos jardins;
+SalÃ£o de festas decorado;
+Esquadrias de PVC;
+Fachada nobre.
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 13
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. trentin Vendido
+14 000014 21 12 RS Caxias do Sul CassiopÃ©ia APARTAMENTO 3 2 nao 911800.00 160 SÃ£o Leopoldo SEU LUGAR AQUI vende apartamentos diferenciados localizados no Bairro SÃ£o Leopoldo, o empreendimento possui:
+
+*1 apartamento por andar;
+Acabamentos diferenciados;
+Granito na fachada;
+Esquadrias em PVC com vidro duplo;
+Espera para split;
+Ãgua quente;
+3 vagas de garagem;
+PosiÃ§Ã£o solar privilegiada;
+SalÃ£o de Festas decorado;
+Paisagismo diferenciado;
+1 dormitÃ³rio com suÃ­te;
+2 dormitÃ³rios com banheiro conjugado;
+Lavabo;
+Sala de Estar;
+Sala de Jantar;
+Cozinha;
+Lavanderia;
+2 sacadas;
+3 vagas de garagem;
+SalÃ£o de festas decorado;
+Sala de estar com mais de 40m2.
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 14
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. Disponivel
+15 000015 21 12 RS Caxias do Sul Argos APARTAMENTO 3 2 nao 462200.00 100 Panazzolo SEU LUGAR AQUI vende apartamentos localizados no Bairro Panazzolo, o empreendimento possui:
+
+Apartamentos de 97 m2 privativos;
+2 apartamentos por andar;
+3 quartos;
+1 suÃ­te;
+Lavabo;
+2 vagas de garagem;
+Espera para calefaÃ§Ã£o;
+Vista privilegiada;
+Paisagismo nos jardins;
+SalÃ£o de festas decorado;
+Esquadrias em PVC;
+Fachada atraente;
+Qualidade nos acabamentos.
+
+*Os valores dos apartamentos variam , assim como as Ã¡reas de 97m2 a 172m2 de Ã¡rea privativa.
+
+*Os valores poderÃ£o sofrer reajustes mensais.
+
+Imagens meramente ilustrativas. Consulte mais informaÃ§Ãµes. trentin Vendido
+16 000016 21 12 RS Caxias do Sul Monte Franco APARTAMENTO 2 1 nao 275000.00 73 Rio Branco SEU LUGAR AQUI vende apartamentos localizados no Bairro Rio Branco, o empreendimento possui:
+
+Ã“tima localizaÃ§Ã£o;
+Excelente posiÃ§Ã£o solar;
+Alto padrÃ£o de acabamento;
+Sacada com vista panorÃ¢mica;
+2 dormitÃ³rios, sendo 1 suÃ­te;
+1 vaga de garagem;
+Churrasqueira;
+Living com dois ambientes;
+SalÃ£o de festas decorado;
+Brinquedoteca mobiliada;
+Espera para Ã¡gua quente;
+Espera para Split;
+GÃ¡s Central;
+Esquadrias em alumÃ­nio;
+Porcelanato.
+
+Local PrÃ³ximo ao Centro, Shopping, Super Mercados
+
+*Apartamentos de 73 a 76 m2
+*Os valores poderÃ£o sofrer reajustes mensais.
+
+Imagens meramente ilustrativas Cristale construtora
+Prazo de entrega Inicio de 2015
+
+VALORES COM UM BOX INCLUSO
+20% de entrada + saldo de 15% em parcelas  atÃ© as chaves + saldo na entrega do imÃ³vel
+Ã vista 15% do preÃ§o de tabela ( consultar unidades disponÃ­veis )
+Box extra  acrescentar R$ 15.000,00 na tabela de preÃ§os e consultar vaga disponÃ­vel. Vendido
+20 000020 21 15 RS Flores da Cunha Residencial SÃ£o Gotardo - CESAR 81339307 (DONO) SOBRADO 2 1 nao 127700.00 70 SÃ£o Gotardo SEU LUGAR AQUI vende sobrados localizados no Bairro SÃ£o Gotardo de Flores da Cunha.
+
+Ã“timo lugar em meio a natureza;
+Bairro tranquilo com escola, super mercado e infra-estrutura;
+Sobrados de 70 m2;
+2 quartos;
+2 banheiros;
+Sala e cozinha;
+Churrasqueira;
+Garagem para 1 carro;
+2 andares;
+Acabamentos com massa corrida;
+IluminaÃ§Ã£o instalada;
+GÃ¡s encanado;
+Espera para Ã¡gua quente;
+Esquadrias de alumÃ­nio;
+Forro de PVC;
+Madeiras nobres nas portas internas;
+15 min de Caxias do Sul e 10 min de Flores da Cunha;
+Tranquilidade e seguranÃ§a do interior com infra-estrutura.
+
+Entre em contato conosco e conheÃ§a! Cesar sobrado sao gotardo - 81339307 Vendido
+25 000025 21 5 RS Caxias do Sul ChÃ¡cara linha 40 CHÃCARA 0 0 nao 424000.00 1916 Linha 40 SEU LUGAR AQUI vende belÃ­ssimas chÃ¡caras em condomÃ­nio fechado e seguro localizado na Linha 40.
+
+Elas possuem:
+
+Ãgua e energia;
+CalÃ§amento;
+PortÃ£o eletrÃ´nico;
+Local muito bonito com toda Infraestrutura;
+Viva em meio a natureza e a 15 minutos do centro.
+
+***ChÃ¡caras a partir de R$ 424.000,00
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 25
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. Linha 40
+Sr. Isalino - 91276332
+Jaime 91141483 R$ 400.000,00 + comissÃ£o 
+Dirceu cunhado Isalino 2 chacaras 91612005 R$ 450.000,00
+
+ver na pasta na estante tem o mapa das chÃ¡caras. Vendido
+195 000195 26 16 RS Caxias do Sul R. Rivieira Maya (pezzi e paris) COBERTURA 2 2 nao 378166.00 104 Salgado Filho SEU LUGAR AQUI vende coberturas localizadas no Bairro Salgado Filho, estes imÃ³veis possuem:
+
+TODOS APARTAMENTOS COM FRENTE PARA RUA;
+2 DormitÃ³rios sendo uma suite;
+1 Banheiro social;
+Sala de Estar e Jantar;
+Cozinha;
+Ãrea de ServiÃ§o;
+Sacada com churrasqueira;
+Ã“tima LocalizaÃ§Ã£o;
+Excelente posiÃ§Ã£o solar;
+Piso cerÃ¢mico e laminado;
+Medidor de Ã¡gua individual;
+Espera para Ã¡gua quente;
+Esquadrias de alumÃ­nio;
+Medidores de gÃ¡s individual;
+2 Vagas de garagem.
+Frente: Noroeste/Sudeste.
+
+Os valores poderÃ£o sofrer ajustes mensais. pezzi e paris
+Eduardo - 9111-7711 / 9182-8887
+comissao 5%
+Entrega atÃ© Dezembro de 2013
+Agenciando: Edevan
+prÃ³ximo ao recreio guarany Vendido
+205 000205 21 12 RS Caxias do Sul R. Seibel BWB incorporadora APARTAMENTO 3 2 nao 622403.89 106 Panazzolo A imobiliÃ¡ria SEU LUGAR AQUI vende Ã³timos apartamentos localizados no Bairro Panazzolo, estes imÃ³veis possuem:
+
+3 DormitÃ³rios sendo 1 suite;
+1 Banheiro social;
+Sacada gourmet com churrasqueira;
+Cozinha e living integrados;
+Sala de jantar e estar;
+Lavanderia;
+Alto padrÃ£o de acabamento;
+Porcelanato nas Ã¡reas sociais e banho;
+Espera para ar condicionado;
+Esquadrias em PVC;
+HidrÃ´metros individuais;
+2 Vagas de garagem individual;
+Excelente localizaÃ§Ã£o;
+Ã“tima posiÃ§Ã£o solar Leste e oeste;
+SalÃ£o de festas com lareira;
+Sala de jogos;
+Brinquedoteca;
+Fitness;
+Portaria com guarita.
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 205
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. Ap.203 BWB, R. seibel
+3204-1220
+6% comissÃ£o
+PrÃ³ximo a rua luiz antunes.
+Atualizado : 06/05/19 Disponivel
+206 000206 26 12 RS Caxias do Sul R. Malbec (efficace ) APARTAMENTO 3 2 nao 400000.00 169 Parque Dos Vinhedos SEU LUGAR AQUI vende apartamentos localizados no Bairro Parque dos vinhedos, estes imÃ³veis possuem:
+
+Ãšltima unidade!!!
+
+3 dormitÃ³rios sendo 1 suite;
+1 banheiro social;
+Sacada com churrasqueira;
+Cozinha;
+Ãrea de serviÃ§o com sacada;
+Sala de Estar e Jantar;
+Espera para split;
+Espera para Ã¡gua quente;
+GÃ¡s central;
+HidrÃ´metros individuais;
+Piso cerÃ¢mico e laminado;
+Teto com rebaixe em gesso;
+Massa corrida;
+2 Vaga de Garagem.
+
+Os valores podem sofrer ajustes mensais. Efficace luana 3028-1005
+comissao 5%
+Agenciando Edevan Andreazza e Carol
+
+PrÃ³ximo a praÃ§a recreativa do parque dos vinhedos. Disponivel
+207 000207 26 12 RS Caxias do Sul R. ville de france APARTAMENTO 2 1 nao 170000.00 69 Bela Vista SEU LUGAR AQUI vende apartamentos localizados no Bairro Bela vista, estes imÃ³veis possuem:
+
+2 DormitÃ³rios;
+1 Vaga de garagem;
+Sacada;
+1 Banheiro;
+Ampla sala de estar e jantar;
+Cozinha;
+Espera para Ã¡gua quente;
+Gas central;
+Esquadrias em alumÃ­nio.
+Frente: Sudoeste.
+PrevisÃ£o de entrega Agosto de 2013.
+
+1 OpÃ§Ã£o de apartamento com terraÃ§o com 69 m2 R$ 170.000,00.
+
+Os valores poderÃ£o sofrer ajustes mensais. Lunardi - 3212-2900
+comissao 5 %
+Agenciando: Edevan
+
+perto da avenida franÃ§a. Vendido
+209 000209 26 13 RS Caxias do Sul casa da zenaide proximo ao castelinho CASA 4 2 nao 550000.00 199 Panazzolo SEU LUGAR AQUI vende Ã³tima casa no Bairro Panazzolo,este imÃ³vel possui:
+
+Parte Superior:
+- 3 quartos;
+- 1 banheiro;
+- 1 suite com espera para hidromassagem;
+
+Parte TÃ©rrea:
+- Ãrea de ServiÃ§o;
+- 1 banheiro;
+- Ãrea de ServiÃ§o;
+- cozinha conjugada e sala de jantar;
+- Sala ampla com lareira;
+
+*O terreno tem 330 mÂ².
+** Vagas de estacionamento para 2 carros.
+*** Sem mobiliÃ¡rio.
+
+****Estuda-se proposta. contato Cristiano(filho da Zenaide) -99380281 cristiano@tedesco.ind.br
+32132483- 91532824
+
+aceitam negociar e apartamentos tambÃ©m
+Frente oeste
+**Rafael Vendido
+210 000210 21 12 RS Caxias do Sul R. Jardim iracema APARTAMENTO 2 0 nao 130000.00 45 Jardim Iracema A imobiliÃ¡ria SEU LUGAR AQUI vende apartamentos localizados no Bairro Jardim Iracema, estes imÃ³veis possuem:
+
+2 DormitÃ³rios;
+1 Banheiro;
+Sala de estar e jantar;
+Cozinha;
+1 Vaga de estacionamento;
+SalÃ£o de festas integrado ao condomÃ­nio.
+Frente: Leste.
+
+Os valores poderÃ£o sofrer ajustes mensais. lunardi - 3212-2900
+comissao 5%
+jair lunardi
+Agenciando Edevan
+previsao de entrega fev de 2014 Vendido
+212 000212 21 2 RS Caxias do Sul Sala comercial bwb seibel SALA COMERCIAL TÃ‰RREA 0 1 nao 1376331.41 118 Panazzolo SEU LUGAR AQUI vende sala comercial localizado no Bairro Panazzolo, estes imÃ³veis possuem:
+
+Salas comerciais tÃ©rreas com pÃ© direito duplo e estacionamento;
+com Vagas de garagem a definir
+
+Consulte outros tamanhos de salas!
+
+De 156 a 377 mÂ²
+
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 212
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+
+
+Os valores poderÃ£o sofrer ajustes mensais. Consulte disponibilidades. salas bwb - 3204-1220
+comissao 6%
+previsao de entrega comeco de 2015
+prÃ³ximo a luiz antunes
+Sala :03
+Box : 03
+Atualizado : 06/05/19
+Ag : Julio Disponivel
+213 000213 21 2 RS Caxias do Sul sala comercial bwb infinity SALA COMERCIAL 0 0 nao 403425.94 70 Jardim do Shopping SEU LUGAR AQUI vende sala comercial localizado no Bairro Jardim do shopping, este imÃ³vel possui:
+
+Sala terrea
+Frente leste.
+
+O valor poderÃ¡ sofrer ajuste mensal. Consulte disponibilidade. sala bwb
+comissao 6%
+prÃ³ximo ao shopping iguatemi; Vendido
+217 000217 26 3 RS Caxias do Sul terreno jose investidor TERRENO 0 0 nao 600000.00 780 Parque dos Vinhedos SEU LUGAR AQUI vende terrenos no Bairro Parque dos Vinhedos.
+
+Terrenos planos na parte alta do bairro com;
+Medidas 30m de frente por 26 de fundos. investidor jose - 3222-6869
+comissao 5 %
+Agenciamento: Edevan Disponivel
+218 000218 26 3 RS Caxias do Sul Terreno jose investidor TERRENO DE ESQUINA 0 0 nao 230000.00 360 Parque Dos Vinhedos SEU LUGAR AQUI vende terrenos no Bairro Parque dos Vinhedos:
+
+Frente "Oeste" com testada maior com 30m e menor "Oeste" com 12m. investidos jose - 3222-6869
+comissao 5%
+agenciador: Edevan Vendido
+834 000834 21 4 RS CapÃ£o da Canoa CASA CURUMIM CASA CURUMIM 3 1 nao 225000.00 0 Seu Lugar Aqui vende casa na praia de Curumim com as seguintes descriÃ§Ãµes:
+
+03 DormitÃ³rios
+01 SuÃ­te
+02 Banheiros
+01 Vaga
+
+
+Agende uma visita! Consulte disponibilidade. Imagens meramente ilustrativas. Valor sujeito a alteraÃ§Ã£o. IZA - 051.03622.2191 - IMOBILIARIAMINHACASA.NET
+
+Valor aumentado em 5 mil para nÃ³s! mas a negociaÃ§Ã£o vai ocorrer com a imob..... Disponivel
+836 000836 26 12 RS Caxias do Sul APTO PERTO JU APARTAMENTO 2 1 nao 254500.00 64 Interlagos SEU LUGAR AQUI vende excelente apartamento localizado no bairro Interlagos com as seguintes caracterÃ­sticas:
+
+2 dormitÃ³rios;
+Banheiro;
+Sala de estar e jantar;
+Cozinha com porcelanato ;
+TabuÃ£o no restante;
+OpÃ§Ã£o com terraÃ§o.
+Elevador e salÃ£o de festas.
+
+EXCELENTE OPORTUNIDADE E LOCALIZAÃ‡ÃƒO! opcao pra duas - da pra bota dois carros 
+
+9984-4176 Dalnei
+
+
+6 unidades com 2 dormitÃ³rios  de fundos
+2 de 3 dormitÃ³rios  de frente Disponivel
+837 000837 26 12 RS Caxias do Sul APTO PERTOJU APARTAMENTO 3 1 nao 360000.00 72 Interlagos SEU LUGAR AQUI vende excelente apartamento localizado no bairro Interlagos com as seguintes caracterÃ­sticas:
+
+3 dormitÃ³rios sendo um suÃ­te;
+Banheiro;
+Sala de estar e jantar;
+Cozinha com porcelanato ;
+TabuÃ£o no restante;
+Elevador e salÃ£o de festas.
+
+Ligue e agende uma visita! cabe dois carros 
+
+9984-4176 Disponivel
+838 000838 26 4 SC BalneÃ¡rio Arroio do Silva casa na praia Pai CASA - BALNEÃRIO ARROIO DO SILVA - SC 4 2 nao 255000.00 116 SEU LUGAR AQUI vende Ã³tima casa na praia de BalneÃ¡rio Arroio do Silva, com as seguintes caracterÃ­sticas:
+
+4 DormitÃ³rios;
+1 Banheiro;
+Sala e cozinha;
+Churrasqueira;
+Garagem para 2 carros;
+Amplo terreno atrÃ¡s;
+Terreno com medidas de 13 x 25 = 325 mÂ²;
+Excelente localizaÃ§Ã£o.
+
+Valores poderÃ£o sofrer ajustes mensais. Pai =D Disponivel
+839 000839 26 12 RS Caxias do Sul Apartamento classi atena APARTAMENTO 3 3 nao 912000.00 205 Colina Sorriso SEU LUGAR AQUI vende lindos apartamentos localizado no Bairro Colina Sorriso, este imÃ³vel possui:
+
+3 DormitÃ³rios sendo 3 suÃ­tes com sacada;
+1 Lavabo;
+Ampla Cozinha;
+Sala estar e Jantar com sacada;
+EspaÃ§o gourmet com churrasqueira;
+Ãrea de serviÃ§o;
+1 Box duplo e outro simples;
+Esta opÃ§Ã£o Ã© de 8Âº andar;
+Frente: Norte.
+Pronto para morar!!!
+O condomÃ­nio conta com SalÃ£o de festas mobiliado e playground.
+
+*Os valores poderÃ£o sofrer ajustes mensais. Classi atena
+Agenciador: Edevan
+ComissÃ£o 6% Vendido
+840 000840 26 2 RS Caxias do Sul sala comercial R. lisboa PRS SALA COMERCIAL TÃ‰RREA 0 4 nao 1700000.00 450 Rio Branco SEU LUGAR AQUI vende sala comercial tÃ©rrea localizada no Bairro Rio Branco, reunindo praticidade e bom gosto, o empreendimento contarÃ¡ com:
+
+Excelente localizaÃ§Ã£o!!!
+1 Box de garagem e 3 vagas;
+Frente: Norte, Leste.
+
+Os valores poderÃ£o sofrer ajustes mensais. Prs construtora - Adriano - 9956-7970
+comissao 6%
+prÃ³ximo ao reno,
+Agenciando: Edevan
+Frente: Norte, Leste. Disponivel
+842 000842 29 15 RS Caxias do Sul RESIDENCIAL ALTOS DO MONTE BELLO III (MORESCO) SOBRADO 2 1 nao 175000.00 90 SÃ£o Luiz SEU LUGAR AQUI vende sobrado no bairro SÃ£o Luiz, o sobrado possui:
+
+- dividido em trÃªs pavimentos, sendo o 1Âº pavimento sobre pilares;
+- entrada individual;
+- 2 dormitÃ³rios;
+- dividido em trÃªs pavimentos;
+- 1 banheiro;
+- sala;
+- cozinha;
+- 1 sacada;
+- 1 vaga de garagem;
+- espera para Ã¡gua quente;
+- gÃ¡s encanado;
+- porcelanato no chÃ£o da cozinha e sala;
+- piso laminado nos dormitÃ³rios;
+- aberturas em alumÃ­nio;
+- churrasqueira;
+- Ã¡rea de serviÃ§o;
+- chapa de concreto no telhado;
+- previsÃ£o de entrega para outubro de 2017.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 000842
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! ***RENATO.
+
+tem 4 unidades ainda
+RESIDENCIAL ALTOS DO MONTE BELLO III
+INCORPORADORA MORESCO.
+SR. ADILSON - CEL: 9931.9898 (VIVO) e 99160.4090 (C)
+E-mail: moresco.moresco@hotmail.com
+
+COMISSÃƒO DE 5% Disponivel
+843 000843 29 15 RS Caxias do Sul RESIDENCIAL ALTOS DO MONTE BELLO (MORESCO) SOBRADO 3 2 nao 240000.00 130 SÃ£o Luiz SEU LUGAR AQUI vende sobrado no bairro SÃ£o Luiz, o sobrado possui:
+
+- entrada individual;
+- 3 dormitÃ³rios;
+- dividido em trÃªs pavimentos;
+- 2 banheiros;
+- sala;
+- cozinha;
+- 2 sacadas;
+- 2 vagas de garagem;
+- espera para Ã¡gua quente;
+- gÃ¡s encanado;
+- porcelanato no chÃ£o da cozinha e sala;
+- piso laminado nos dormitÃ³rios;
+- aberturas em alumÃ­nio;
+- churrasqueira;
+- Ã¡rea de serviÃ§o;
+- chapa de concreto no telhado;
+- previsÃ£o de entrega para dezembro de 2016.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 000843
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! ***RENATO.
+
+RESIDENCIAL ALTOS DO MONTE BELLO
+INCORPORADORA MORESCO.
+SR. ADILSON - CEL: 9931.9898 (VIVO)
+moresco.moresco@hotmail.com
+
+COMISSÃƒO DE 5% Vendido
+844 000844 26 12 RS Caxias do Sul Apartamentos Lorena LTF Ede e RAFAel APARTAMENTOS 2 1 nao 129900.00 0 Cidade Industrial SEU LUGAR AQUI vende apartamento no bairro cidade industrial com as seguintes caracterÃ­sticas:
+
+2 DormitÃ³rios;
+Sacada;
+Piso laminado e porcelanato;
+Rebaixe em gesso;
+HidrÃ´metros individuais;
+Somente 15 apartamentos;
+1 Vaga de garagem.
+
+Valores a partir de R$ 129.900,00.
+
+Valores poderÃ£o sofrer ajustes mensais.
+Imagens meramente ilustrativas. LTF - Lorena
+
+Ede e Rafael Aguardando
+847 000847 29 3 RS Caxias do Sul TERRENO SALGADO FILHO TERRENO 0 0 nao 950000.00 903 Salgado Filho SEU LUGAR AQUI vende terreno de no bairro Salgado Filho, com as seguintes descriÃ§Ãµes:
+
+Terreno com 903m2, sendo:
+- 52m (norte);
+- 4m (nordeste);
+- 30m (sudoeste).
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 000847
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! ***RENATO.
+
+TERRENO SR. LUIZ - TEL: 8133.1782 (TIM).
+E-mail: luiz@geraleletro.com.br
+
+COMISSÃƒO DE 6%. Disponivel
+1481 001481 26 12 RS Caxias do Sul Res. altos da serra Dm incorporadora APARTAMENTOS 2 1 nao 135000.00 51 SÃ£o Luiz Seu Lugar Aqui vende apartamentos localizados no bairro SÃ£o Luiz, com as seguintes caracterÃ­sticas:
+
+- 2 dormitÃ³rios;
+- garagem coberta;
+- sala de estar e jantar com sacada;
+- cozinha e Ã¡rea de serviÃ§o;
+- elevador;
+- churrasqueira;
+- gÃ¡s central e espera para Ã¡gua quente;
+- piso laminado;
+- hidrÃ´metros individuais;
+- paisagismo.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 001481
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Rua Gomercindo Andrade Camargo, 
+Edevan
+Dm incorporadora Vendido
+1482 001482 26 17 RS Caxias do Sul Res. altos da serra Dm incorporadora QUITINETES 1 1 nao 90000.00 36 SÃ£o Luiz Seu Lugar Aqui vende apartamentos localizados no bairro SÃ£o Luiz, com as seguintes caracterÃ­sticas:
+
+- 1 dormitÃ³rio;
+- garagem coberta;
+- cozinha e sala conjugadas;
+- elevador;
+- gÃ¡s central e espera para Ã¡gua quente;
+- piso laminado;
+- hidrÃ´metros individuais;
+- paisagismo.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 001482
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Rua Gomercindo Andrade Camargo, 
+Edevan
+Dm incorporadora Vendido
+1483 001483 26 12 RS Caxias do Sul Res. altos da serra Dm incorporadora APARTAMENTOS 3 1 nao 205000.00 76 SÃ£o Luiz Seu Lugar Aqui vende apartamentos localizados no bairro SÃ£o Luiz, com as seguintes caracterÃ­sticas:
+
+- 3 dormitÃ³rios;
+- garagem coberta;
+- sala de estar e jantar com sacada;
+- cozinha e Ã¡rea de serviÃ§o;
+- elevador;
+- churrasqueira;
+- gÃ¡s central e espera para Ã¡gua quente;
+- piso laminado;
+- hidrÃ´metros individuais;
+- paisagismo.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 001483
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Rua Gomercindo Andrade Camargo, 
+Edevan
+Dm incorporadora Vendido
+1484 001484 26 12 RS Caxias do Sul Res. Pascifik Dm incorporadora APARTAMENTOS 2 1 nao 220000.00 65 Salgado Filho Seu Lugar Aqui vende apartamento no bairro Salgado Filho com as seguintes caracterÃ­sticas:
+
+- 2 dormitÃ³rios;
+- sala de estar e jantar;
+- cozinha e Ã¡rea de serviÃ§o;
+- garagem;
+- elevador;
+- sacada com churrasqueira;
+- esquadrias de alumÃ­nio;
+- espera para Ã¡gua quente;
+- piso cerÃ¢mico e laminado.
+- opÃ§Ã£o de apartamentos com terraÃ§o!
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 001484
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Rua Hervino Kuver, Quadra 1002 Lote 15 â€“ Bairro Salgado Filho,
+Dm incorporadora
+Edevan Vendido
+1485 001485 26 12 RS Caxias do Sul Res. Pascifik Dm incorporadora APARTAMENTOS 3 1 nao 270000.00 87 Salgado Filho Seu Lugar Aqui vende apartamento no bairro Salgado Filho com as seguintes caracterÃ­sticas:
+
+- 3 dormitÃ³rios;
+- sala de estar e jantar;
+- cozinha e Ã¡rea de serviÃ§o;
+- garagem;
+- elevador;
+- sacada com churrasqueira;
+- esquadrias de alumÃ­nio;
+- espera para Ã¡gua quente;
+- piso cerÃ¢mico e laminado.
+- opÃ§Ã£o de apartamentos com terraÃ§o!
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 001485
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Rua Hervino Kuver, Quadra 1002 Lote 15 â€“ Bairro Salgado Filho,
+Dm incorporadora
+Edevan Disponivel
+1486 001486 26 3 RS Caxias do Sul terreno ao lado da pizzaria don romano santa catarina TERRENO 0 0 nao 0.00 3600 Santa Catarina Seu Lugar Aqui vende terreno localizado no bairro Santa Catarina, com as seguintes caracterÃ­sticas:
+
+- excelente terreno em localizaÃ§Ã£o comercial do bairro;
+- Ã³timo para empreendimentos comerciais e industriais;
+- localizaÃ§Ã£o privilegiada de frente para rua de grande movimento.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 001486
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Ivone e Gilson - 3211-3350
+comissÃ£o 6%
+Valor R$ 7.200.000,00
+Terreno ao lado da pizzaria Don romano
+prÃ³ximo dos pavilhÃµes Disponivel
+1488 001488 21 12 RS Bento GonÃ§alves Residencial CINQUE TERRE Apartamento 2 2 nao 827009.45 375 Cidade Alta Seu Lugar Aqui vende excelente apartamento em Bento GonÃ§alves com Ã³tima localizaÃ§Ã£o e as seguintes caracterÃ­sticas:
+
+Dois dormitÃ³rios sendo 01 suÃ­te com sacada, 
+TerraÃ§o, 
+Ampla Ã¡rea social com sacada fechada, 
+PosiÃ§Ã£o solar Sul - Oeste, 
+Cozinha, 
+Ãrea de serviÃ§o com sacada
+Banho,
+Churrasqueira, 
+Espera para ar condicionado tipo split na Ã¡rea social e suÃ­te, 
+Medidores de Ã¡gua, gÃ¡s e luz individuais,
+Gesso em toda Ã¡rea interna do apartamento, 
+SalÃ£o de festas,
+Brinquedoteca,
+Sala de ginÃ¡stica,
+Sala de jogos,
+Piscina, 
+Pergolado,
+Playground, 
+Aproveitamento da Ã¡gua da chuva, 
+Dois elevadores, 
+Vagas de garagem cobertas com disponibilidade de mais uma unidade.   
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 1488
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. CINQUE TERRE â€“ EM CONSTRUÃ‡ÃƒO RUA VITÃ“RIA, 135 â€“ BAIRRO CIDADE ALTA - BENTO GONÃ‡ALVES
+
+PANAZZOLO CONSTRUÃ‡Ã•ES E INCORPORAÃ‡Ã•ES LTDA. Rua VitÃ³ria, 88  -  CEP 95700-364  -  Bento GonÃ§alves â€“ RS          Fone/Fax: (54) 3451.3777 CNPJ: 87.546.651/0001-60 ICMS: 010/0106552  E-mail: contato@panazzoloconstrucoes.com.br  
+
+comissÃ£o de 6% inclusa
+
+APTO 201 Disponivel
+1489 001489 21 12 RS Bento GonÃ§alves Residencial CINQUE TERRE Apartamento 2 2 nao 494002.97 114 Cidade Alta Seu Lugar Aqui vende excelente apartamento em Bento GonÃ§alves com Ã³tima localizaÃ§Ã£o e as seguintes caracterÃ­sticas:
+
+Dois dormitÃ³rios sendo 01 suÃ­te,
+PosiÃ§Ã£o solar  Leste, Sul e Oeste,
+Ampla Ã¡rea social com sacada fechada, 
+Cozinha, 
+Ãrea de serviÃ§o com sacada
+Banho,
+Churrasqueira, 
+Espera para ar condicionado tipo split na Ã¡rea social e suÃ­te, 
+Medidores de Ã¡gua, gÃ¡s e luz individuais,
+Gesso em toda Ã¡rea interna do apartamento, 
+SalÃ£o de festas,
+Brinquedoteca,
+Sala de ginÃ¡stica,
+Sala de jogos,
+Piscina, 
+Pergolado,
+Playground, 
+Aproveitamento da Ã¡gua da chuva, 
+Dois elevadores, 
+Duas vagas de garagem com disponibilidade de aquisiÃ§Ã£o de mais uma. 
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 1489
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. CINQUE TERRE â€“ EM CONSTRUÃ‡ÃƒO RUA VITÃ“RIA, 135 â€“ BAIRRO CIDADE ALTA - BENTO GONÃ‡ALVES
+
+APTO 403
+PANAZZOLO CONSTRUÃ‡Ã•ES E INCORPORAÃ‡Ã•ES LTDA. Rua VitÃ³ria, 88  -  CEP 95700-364  -  Bento GonÃ§alves â€“ RS          Fone/Fax: (54) 3451.3777 CNPJ: 87.546.651/0001-60 ICMS: 010/0106552  E-mail: contato@panazzoloconstrucoes.com.br  
+
+comissÃ£o de 6% inclusa
+Atualizado: 06/05/19 Disponivel
+1490 001490 21 12 RS Bento GonÃ§alves Residencial CINQUE TERRE Apartamento 3 2 nao 1056537.60 327 Cidade Alta ImobiliÃ¡ria Seu Lugar Aqui vende excelente apartamento com Ã³tima localizaÃ§Ã£o na cidade de Bento GonÃ§alves com as seguintes descriÃ§Ãµes: 
+TrÃªs dormitÃ³rios sendo 01 suÃ­te com sacada,
+Ampla Ã¡rea social com sacada fechada, 
+Cozinha, 
+PosiÃ§Ã£o solar  Leste â€“ Norte - Oeste,
+Ãrea de serviÃ§o com sacada, 
+Banho,
+Churrasqueira.  
+Espera para ar condicionado tipo split na Ã¡rea social e suÃ­te, 
+Medidores de Ã¡gua, gÃ¡s e luz individuais,
+Gesso em toda Ã¡rea interna do apartamento,
+Duas vagas de garagem com disponibilidade para adquirir mais uma, 
+SalÃ£o de festas,
+Brinquedoteca,
+Sala de ginÃ¡stica, 
+Sala de jogos, 
+Piscina,
+Pergolado e playground,
+Aproveitamento da Ã¡gua da chuva, 
+Dois elevadores.
+
+PrevisÃ£o de entrega: DEZ/2019 
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 1490
+
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. PANAZZOLO CONSTRUÃ‡Ã•ES E INCORPORAÃ‡Ã•ES LTDA. Rua VitÃ³ria, 88  -  CEP 95700-364  -  Bento GonÃ§alves â€“ RS          Fone/Fax: (54) 3451.3777 CNPJ: 87.546.651/0001-60 ICMS: 010/0106552  E-mail: contato@panazzoloconstrucoes.com.br  
+
+ComissÃ£o de 6% jÃ¡ incluÃ­da na tabela
+APTO 202 1.360 c/ terraÃ§o 
+
+CINQUE TERRE â€“ EM CONSTRUÃ‡ÃƒO RUA VITÃ“RIA, 135 â€“ BAIRRO CIDADE ALTA PrevisÃ£o de entrega: DEZ/2019 Disponivel
+1492 001492 21 12 RS Bento GonÃ§alves RESIDENCIAL DRUMMOND Apartamento 2 2 nao 482689.92 89 HumaitÃ¡ SEU LUGAR AQUI VENDE excelente apartamento localizado em Bento GonÃ§alves com as seguintes descriÃ§Ãµes:
+
+Dois dormitÃ³rios sendo 01 suÃ­te com sacada, 
+Ampla Ã¡rea social com sacada, 
+PosiÃ§Ã£o solar Norte - Oeste,
+Cozinha, 
+Ãrea de serviÃ§o, 
+Banho, 
+Churrasqueira,
+Espera para lareira. 
+Espera para ar condicionado tipo split na Ã¡rea social e suÃ­te, 
+Medidores de Ã¡gua, gÃ¡s e luz individuais,
+Gesso em toda Ã¡rea interna do apartamento,
+Amplo salÃ£o de festas mobiliado com terraÃ§o, 
+Guarita, 
+Playground, 
+Pergolado, 
+Aproveitamento da Ã¡gua da chuva, 
+Dois elevadores, 
+Possibilidade de atÃ© 3 vagas de garagem,
+
+***Os valores dos imÃ³veis sÃ£o atualizados mensalmente e variam conforme andar e tamanho do imÃ³vel.
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 1492 RESIDENCIAL DRUMMOND â€“ EM CONSTRUÃ‡ÃƒO RUA ALAGOAS, 45 â€“ BAIRRO HUMAITÃ ENTREGA: FEV/2016 
+
+Apartamento 1102
+P.Sol : Norte / Oeste
+PANAZZOLO CONSTRUÃ‡Ã•ES E INCORPORAÃ‡Ã•ES LTDA. Rua VitÃ³ria, 88  -  CEP 95700-364  -  Bento GonÃ§alves â€“ RS          Fone/Fax: (54) 3451.3777 CNPJ: 87.546.651/0001-60 ICMS: 010/0106552  E-mail: contato@panazzoloconstrucoes.com.br 
+Atualizado : 06/05/19 Disponivel
+2935 002935 26 3 RS Caxias do Sul loteamento praÃ§a do sol melnick even urbanizadora e arcadia TERRENOS 0 0 nao 144540.00 300 PraÃ§a do Sol Seu Lugar Aqui vende terrenos no Loteamento PraÃ§a do Sol, em Caxias do sul, com as seguintes caracterÃ­sticas:
+
+- Um empreendimento Ãºnico e diferenciado;
+- Ã¡reas de lazer, bem-estar e convivÃªncia;
+- localizado nas proximidades da Rota do Sol, um dos principais eixos de desenvolvimento urbano da cidade;
+
+CondiÃ§Ãµes de Pagamento InÃ©ditas e super facilitadas!
+Possibilidades de financiamento direto em atÃ© 150 Meses!!!
+
+- Totalmente planejado para proporcionar o que realmente importa: uma vida do seu jeito e com tudo o que vocÃª precisa para viver bem!
+- Empreendimento 100% aprovado com matrÃ­culas individualizadas de cada lote prontas!
+
+- 267 lotes com Ã¡reas a partir de 300 mÂ²;
+- Infraestrutura completa:
+* PraÃ§a equipada;
+* Academia Outdoor;
+* Quadra Poliesportiva;
+* Playground;
+* Recanto do chimarrÃ£o;
+- Rede de abastecimento de Ã¡gua;
+- rede de drenagem pluvial;
+- rede cloacal e elÃ©trica.
+
+Site: www.seulugaraqui.com
+email: ache@seulugaraqui.com
+CÃ³d: 2935
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste. Mlnick Even e Arcado urbanismo
+Projeto Ambiterra
+Edevan
+Jhonny - 54  9 9142-4163 Disponivel
+2936 002936 21 12 RS Caxias do Sul pegoraro - vinhedos - catania APARTAMENTO 2 1 nao 162900.00 53 Parque Dos Vinhedos Seu Lugar Aqui vende apartamento no Bairro Parque dos Vinhedos com as seguintes consideraÃ§Ãµes:
+
+2 dormitÃ³rios;
+Jantar e estar integrados;
+Piso laminado;
+Porcelanato nas Ã¡reas Ãºmidas;
+OpÃ§Ã£o durante a obra de churrasqueira privativa (negociaÃ§Ã£o a parte)
+Sacada;
+SalÃ£o de festas mobiliado e com terraÃ§o;
+HidrÃ´metros individuais;
+Esquadrias em alumÃ­nio;
+Espera para Ã¡gua quente;
+GÃ¡s Central;
+Elevador;
+Garagem coberta com opÃ§Ã£o de vaga estendida; (consultar)
+
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2936
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! apto 305
+
+pegoraro residencial catania
+Atualizado : 11/04/19 Disponivel
+2938 002938 21 12 RS Caxias do Sul res triches 2 bwb classificados APARTAMENTO 2 1 nao 260000.00 94 Universitario Seu Lugar Aqui vende apartamento no bairro universitÃ¡rio, com as seguintes caracterÃ­sticas:
+
+- 2 dormitÃ³rios, sendo 01 com suÃ­te;
+- PosiÃ§Ã£o Solar: Leste;
+- 1 vaga de garagem;
+- Ãrea de ServiÃ§o com churrasqueira e terraÃ§o;
+- cozinha;
+- estar e jantar.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2938
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Rua Botafogo, 1736 - Bairro UniversitÃ¡rio
+apto 202 classificados bwb
+Falar com Mario
+Atualizado : 06/05/19 Disponivel
+2939 002939 21 12 RS Caxias do Sul res mythos classificados bwb APARTAMENTO 2 2 nao 259000.00 81 Parque Dos Vinhedos Seu Lugar Aqui vende apartamento no bairro Parque dos Vinhedos, com as seguintes caracterÃ­sticas:
+
+- 2 DormitÃ³rios;
+- PosiÃ§Ã£o Solar: Norte;
+- 2 Boxes de Garagem;
+- Elevador;
+- sala e cozinha;
+- Ã¡rea de serviÃ§o;
+- sacada.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2939
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! classificados bwb com MArio
+Rua Padre Pedro F. Piccoli, nÂº 460 Vinhedos  
+apto 401 Disponivel
+2941 002941 21 2 RS Caxias do Sul sala comercial panazzolo classificados bwb SALA COMERCIAL AÃ‰REA 0 1 nao 295000.00 55 Panazzolo Seu Lugar Aqui vende sala comercial aÃ©rea no bairro Panazzolo, com as seguintes caracterÃ­sticas:
+
+- sala comercial de frente norte/leste;
+- Ã³tima localizaÃ§Ã£o no bairro;
+- 1 vaga de garagem;
+- Pronta para utilizaÃ§Ã£o, entrega imediata.
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! Ed. Excelence P Office.
+Sala 304
+Box 28
+Rua Luiz Antunes 717.
+Classi bwb com Mario
+Atualizado : 06/05/19 Disponivel
+2942 002942 21 3 RS Caxias do Sul terreno monte rissieri - C2 TERRENO 0 0 nao 190000.00 487 Monte BÃ©rico Lot. Monte Risieri Seu Lugar Aqui vende terreno em Monte BÃ©rico, no loteamento Monte Rissieri:
+
+
+487mÂ²;
+
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2942
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! C2 - rodrigo 
+
+30277021
+991723021 Disponivel
+2943 002943 21 3 RS Caxias do Sul terreno monte rissieri - C2 TERRENO 0 0 nao 200000.00 485 Monte BÃ©rico Lot. Monte Risieri Seu Lugar Aqui vende terreno em Monte BÃ©rico, no loteamento Monte Rissieri:
+
+
+485mÂ²;
+terreno de esquina
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2943
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! C2 - rodrigo 
+
+30277021
+991723021 Disponivel
+2944 002944 21 3 RS Caxias do Sul terreno novo horizonte - C2 TERRENO 0 0 nao 125000.00 300 Novo Horizonte Seu Lugar Aqui vende terreno no Loteamento Novo Horizonte:
+
+
+300mÂ²;
+
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2944
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! C2 - rodrigo 
+
+30277021
+991723021 Disponivel
+2945 002945 21 3 RS Caxias do Sul terreno novo horizonte- C2 TERRENO 0 0 nao 99000.00 300 Novo Horizonte Seu Lugar Aqui vende terreno no Loteamento Novo Horizonte:
+
+
+300mÂ²;
+
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2945
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! C2 - rodrigo 
+
+30277021
+991723021 Disponivel
+2946 002946 21 3 RS Caxias do Sul terreno antonela club- C2 TERRENO 0 0 nao 439000.00 637 Nossa Sra da SaÃºde Seu Lugar Aqui vende terreno no Antonella Club, condomÃ­nio fechado com as seguintes descriÃ§Ãµes:
+
+
+
+Site: www.seulugaraqui.com
+E-mail: ache@seulugaraqui.com
+CÃ³d: 2946
+
+Agende uma visita. Consulte disponibilidade. Imagens meramente ilustrativas. Valor poderÃ¡ sofrer ajuste.
+
+* INSCREVA-SE EM NOSSO CANAL NO YOUTUBE ! C2 - rodrigo 
+
+30277021
+991723021
+lote 16 quadra E
+
+antonela club Disponivel 
++++++++++
+seulugar_bd - paginas:(1)
+id,titulo,conteudo,mostrar
+3 QUEM SOMOS <p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+	<br />
+	A Imobili&aacute;ria Seu Lugar Aqui est&aacute; localizada em Caxias do Sul, RS -&nbsp;Cidade ber&ccedil;o da coloniza&ccedil;&atilde;o italiana, e muito conhecida pela tradicional Festa da Uva.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+	Atuamos na intermedia&ccedil;&atilde;o de im&oacute;veis.&nbsp;Contamos com&nbsp;excelentes parcerias&nbsp;no mercado imobili&aacute;rio,&nbsp;construtoras&nbsp;e incorporadoras com&nbsp;<em style="box-sizing: border-box;">know-how.</em></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+	Priorizamos a seguran&ccedil;a e privacidade de nossos clientes. Estamos sempre comprometidos com as exig&ecirc;ncias&nbsp;do mercado e &nbsp;temos&nbsp;como objetivo disponibilizar as melhores&nbsp;solu&ccedil;&otilde;es em im&oacute;veis; atrav&eacute;s de um atendimento personalizado, viabilizamos da melhor maneira&nbsp;a negocia&ccedil;&atilde;o,&nbsp;tendo como&nbsp;foco a satisfa&ccedil;&atilde;o e confian&ccedil;a.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+	No nosso leque destacam-se apartamentos, coberturas, quitinetes, salas comerciais, pontos comerciais, casas, sobrados, terrenos, ch&aacute;caras e &aacute;reas rurais...</p>
+<p style="margin: 0cm 0cm 7.5pt; line-height: 15pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	<span helvetica="" style="font-size:10.5pt;font-family:
+">&nbsp;</span></p>
+<p style="margin: 0cm 0cm 7.5pt; line-height: 15pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	<span helvetica="" style="font-size:10.5pt;font-family:
+">Estamos &agrave; disposi&ccedil;&atilde;o para atend&ecirc;-lo!<o:p></o:p></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+	Imobili&aacute;ria Seu Lugar Aqui</p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+	&quot;Todos somos livres para tomar decis&otilde;es, mas todos somos prisioneiros das consequ&ecirc;ncias.&quot;</p> sim
+
++++++++++
+seulugar_bd - relacao:(0)
+id_caracteristica,id_imovel
+
++++++++++
+seulugar_bd - usuarios:(7)
+id,nome,email,senha,nivel_acesso,foto,cidade,creci,telefone,tipo,msn
+24 Ederson dos Santos ederson.cxs@gmail.com YmF0YXRhZnJpdEAu 1 Caxias do Sul 5432235515 1
+29 Esequiel Andreazza* esequiel@seulugaraqui.com cG9wZml4QC4= 3 RXNlcXVpZWwgQW5kcmVhenphKmVzZXF1aWVsQHNldWx1Z2FyYXF1aS5jb20=.png Caxias do Sul 41682 F 9 84233504 2
+21 Esequiel Andreazza esequiel@seulugaraqui.com ZXBzb24xMzUjLg== 1 RXNlcXVpZWwgQW5kcmVhenphZXNlcXVpZWxAc2V1bHVnYXJhcXVpLmNvbQ==.jpg Caxias do Sul 41682 5484233504 2
+26 Edevan Andreazza edevan@seulugaraqui.com ZWR5MDU0 1 RWRldmFuIEFuZHJlYXp6YWVkZXZhbkBzZXVsdWdhcmFxdWkuY29t.jpg Caxias do Sul 54.127 5492136068 2
+37 Elizama lyly_kk@hotmail.com aXNhYmVsbGExMTEy 1 CAXIAS DO SUL 1
+33 Mauri mbolfe@gmail.com ZXNlbWV1YW1vcjEyQC4= 1 Caxias do Sul 23157j 99710393 1
+38 Julio julio@seulugaraqui.com MDIxMTE5ODU= 1 1
+
++++++++++
+
+ 

@@ -1,0 +1,395 @@
+ntn.co.th/page_a.php?cname=Corporate%20Information&cid=11
+ 
+ntn_2016 - apply:(0)
+id_apply,position,file1,ip,time
+
++++++++++
+ntn_2016 - category:(0)
+cid,cname,catlive,ctime,pic,pic1,cdescr,eng_cname,eng_cdescr,pr_cid,sort_cid,sort_cat,cat_status,show_cat,file1,file1_width,file1_height,pic2,pic2_width,pic2_height
+
++++++++++
+ntn_2016 - comment:(0)
+id_comment,id_member,comment_name,comment_text,comment_time,comment_ip
+
++++++++++
+ntn_2016 - dealer:(0)
+id,no,user,b1,b2,name,name_en,initials,initials_en,ceo,ceo_en,ceo2,ceo2_en,ceo3,ceo3_en,position,position_en,position2,position2_en,position3,position3_en,address,address_en,province_en,province,zone,zip,mobile,mobile2,mobile3,phone,phone2,phone3,fax,website,google
+
++++++++++
+ntn_2016 - detail:(385)
+dno,cno,cid,catid,cats,products_id,descrip,pic,pic_width,pic_height,dtime,dby,dfile,des_eng,vdata,sort,pic480,pic2,pic3,pic4,pic5,pic2_th,pic2_en,pic3_th,pic3_en,pic4_th,pic4_en,pic5_th,pic5_en,pic_th,pic_en,pic_zoom,pic2_zoom,pic3_zoom,scrollA,direcA,heightA,pic1_size,pic2_size,pic3_size,pic1_width,pic1_height,pic2_width,pic2_height,pic3_width,pic3_height,page_mix,page_cid,idcard1,idcard2,idcard3
+1 0 10 0 <br> 2016-08-04 0 <br><br> 0 0 3 0 200 0 0
+2 0 10 0 <br> 160804124631_0company_pro1_re.jpg 2016-08-04 0 <br> 0 0 3 0 200 0 0
+3 0 10 0 <table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="background:url(images/home/botton.jpg) no-repeat top;" height="62"><table width="750" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td style="border-right: 2px #006699 dotted; color:#069;" class="main10t" width="148">ชื่อบริษัท</td><td style=" color:#333;" class="main10t" width="602">&nbsp; บริษัท เอ็นทีเอ็น แบริ่ง - ประเทศไทย จำกัด</td></tr></tbody></table></td></tr></tbody></table> 2016-08-04 0 <table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="background:url(images/home/botton.jpg) no-repeat top;" height="62"><table width="750" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td style="border-right: 2px #006699 dotted; color:#069;" class="main10t" width="148">Corporate Name</td><td style=" color:#333;" class="main10t" width="602">&nbsp; NTN Bearing – Thailand Co., Ltd.</td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+4 0 10 0 <font color="#333333"><b><font size="3">ความเป็นมา<br></font></b></font><img src="images/home/line_01.jpg" width="784" height="9"><br><br>ด้วยโรงงานผลิตที่ตั้งอยู่ทั่วโลก ทำให้ NTN เป็นผู้ผลิตและจัดจำหน่ายตลับลูกปืนชั้นนำสำหรับธุรกิจ OEM และ Aftermarket ในอุตสาหกรรมยานยนต์ และอุตสาหกรรมอื่นๆ อีกทั้ง NTN ยังพร้อมด้วยการให้บริการทางวิศวกรรม ข้อมูลเกี่ยวกับการผลิต และเครือข่ายการให้บริการทั้งในประเทศญี่ปุ่น ทวีปอเมริกา ทวีปยุโรป และทวีปเอเชีย นอกจากตลับลูกปืนแล้ว NTN ยังจัดจำหน่ายเพลาขับ ตลับลูกปืนตุ๊กตา และอุปกรณ์ความแม่นยำสูง ซึ่งสามารถตอบสนองการใช้งานของแต่ละอุตสาหกรรมได้เป็นอย่างดี<br><br>บริษัท เอ็นทีเอ็น แบริ่ง – ประเทศไทย จำกัด เป็นบริษัทในเครือเอ็นทีเอ็น คอร์เปอร์เรชั่น ประเทศญี่ปุ่น จดทะเบียนจัดตั้งบริษัทขึ้นเมื่อวันที่ 27 กุมภาพันธ์ 2517 ณ กรุงเทพมหานคร โดยมีวัตถุประสงค์ในการจัดจำหน่ายผลิตภัณฑ์ของ NTN รวมทั้งทำการตลาด ให้บริการทางเทคนิค และสนับสนุนกิจกรรมด้านวิศวกรรมให้แก่ลูกค้าในประเทศไทย<br><br>กว่า 40 ปี บริษัท เอ็นทีเอ็น แบริ่ง – ประเทศไทย จำกัด ได้ขยายฐานการประกอบธุรกิจไปยังอุตสาหกรรมต่างๆ ทั้งที่เป็นบริษัทไทยและบริษัทต่างชาติในประเทศไทย โดยมีสำนักงานขายในเมืองหลัก เช่น กรุงเทพมหานคร ขอนแก่น หาดใหญ่ และเชียงใหม่ 2016-08-04 0 <font color="#333333"><b><font size="3">Corporate 
+Profile<br></font></b></font><img src="images/home/line_01.jpg" width="784" height="9"><br><br>NTN is 
+one of the world’s largest bearing producers. With manufacturing plants 
+throughout the world, NTN is a leading bearing supplier to both 
+OEM&nbsp; and Aftermarket for automotive and industrial markets with
+ 
+sales, engineering, production and service networks throughout Japan, 
+the Americas, Europe and Asia. NTN also supply driveshaft, bearing unit,
+ and other precision industrial and automotive 
+equipment to meet a variety of applications, across a variety 
+of industries.<br><br><br>NTN Bearing – Thailand Co., 
+Ltd. is a 
+subsidiary of NTN Corporation Japan established on February 27, 1974 in 
+Bangkok to supply genuine NTN products, provide marketing, 
+services, technical support and trainings to NTN customers in 
+Thailand.<br><br><br>Over 40 years of operation, NTN 
+Bearing – 
+Thailand Co., Ltd. have been expanding business in various segments with
+ international and domestic customers. Our sales
+ offices are located in major cities - Bangkok, Khon Kaen, Hat Yai and 
+Chiang Mai close to our customers. 0 0 3 0 200 0 0
+5 0 11 0 <br><table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="223" valign="top"><img src="images/home/head_pic.jpg" width="223" height="202"></td><td valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td colspan="2"><img src="images/home/dot.jpg" width="565" height="5"></td></tr><tr><td width="80%" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="33%" height="30"><strong>ชื่อบริษัท</strong></td><td width="57%">บริษัท เอ็นทีเอ็น แบริ่ง - ประเทศไทย จำกัด</td></tr></tbody></table></td><td valign="top" align="right"><img src="images/home/head_pic5.jpg" alt="" width="149" height="80"></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="50"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top"><strong>ก่อตั้ง</strong></td><td width="76%" valign="top"><p>27 กุมภาพันธ์ 2517 (สำนักงานในประเทศไทย)</p></td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="50"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top"><strong>ทุนจดทะเบียน</strong></td><td width="76%" valign="top">780 ล้านบาท</td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="50"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top"><strong>สำนักงานใหญ่</strong></td><td width="76%" valign="top">ชั้น 29 ปัญจธานีทาวเวอร์ 127/34&nbsp; ถนนนนทรี ช่องนนทรี ยานนาวา กรุงเทพมหานคร 10120</td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="40"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top" height="71"><strong>ธุรกิจโดยสังเขป</strong></td><td width="76%" valign="top">จัดหน่ายอุปกรณ์ชิ้นส่วนอุตสาหกรรม เช่น ตลับลูกปืน เพลาขับ ตลับลูกปืนตุ๊กตา และอุปกรณ์ความแม่นยำสูงที่ใช้ในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไป และรวมถึงการให้บริการทางวิศวกรรม</td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr></tbody></table></td></tr></tbody></table> 2016-08-04 0 <br><table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="223" valign="top"><img src="images/home/head_pic.jpg" width="223" height="202"></td><td valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td colspan="2"><img src="images/home/dot.jpg" width="565" height="5"></td></tr><tr><td width="80%" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="33%" height="30"><strong>Corporate 
+name</strong></td><td width="57%">NTN Bearing - 
+Thailand 
+Co.,Ltd.</td></tr></tbody></table></td><td valign="top" align="right"><img src="images/home/head_pic5.jpg" alt="" width="149" height="80"></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="50"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top"><strong>Date 
+founded</strong></td><td width="76%" valign="top">February 27, 
+1974</td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="50"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top"><strong>Capital</strong></td><td width="76%" valign="top">780 million 
+baht</td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="50"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top"><strong>Head 
+Office</strong></td><td width="76%" valign="top">29th 
+Floor Panjathani Tower, 127/34 Nonsee Road, Chongnonsee, Yannawa, 
+BANGKOK 10120 
+</td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr><tr><td colspan="2" height="40"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="24%" valign="top" height="71"><strong>Description of 
+<br>Business</strong></td><td width="76%" valign="top">Sales and engineering service of mechanical parts and 
+equipment, such as bearings, driveshafts, bearing units, and other 
+precision industrial and automotive 
+equipment.</td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="images/home/dot.jpg" alt="" width="565" height="5"></td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+488 0 11 0 <b>บริษัท เอ็นทีเอ็น แบริ่ง - ประเทศไทย จำกัด</b> ก่อตั้งขึ้น ณ กรุงเทพมหานคร ในเดือนสิงหาคม 2516 (ปรากฎในหนังสือจดทะเบียนบริษัท เดือนกุมภาพันธ์ 2517) โดยเป็นบริษัทในเครือเอ็นทีเอ็น คอร์เปอร์เรชั่น ประเทศญี่ปุ่น รับผิดชอบการจัดจำหน่ายผลิตภัณฑ์ ทำการตลาด ให้บริการ และสนับสนุนกิจกรรมของลูกค้าที่เกี่ยวกับผลิตภัณฑ์ NTN ในประเทศไทย<br><br>จากทุนจดทะเบียน 6 ล้านบาท ได้เพิ่มขึ้นเป็น 780 ล้านบาทในปัจจุบัน <b>บริษัท เอ็นทีเอ็น แบริ่ง - ประเทศไทย จำกัด</b> ได้สั่งสมชื่อเสียงในฐานะที่เป็นผู้จัดจำหน่ายตลับลูกปืนสัญชาติญี่ปุ่นที่ประสบความสำเร็จทางด้านคุณภาพของผลิตภัณฑ์ การให้บริการขนส่งที่รวดเร็ว และการริเริ่มนวัตกรรมให้แต่ละรายอุตสาหกรรม – ยานยนต์ อุตสาหกรรมการผลิต เครื่องจักรกลการเกษตร และอื่นๆ<br><br> 2016-09-09 0 <b>NTN Bearing - Thailand Co., Ltd.</b> has established in August 1973 (shown on Company's registration in February 1974) as a subsidiary of <b>NTN</b> Corporation, Japan to supply genuine products, provide marketing, services and technical support to <b>NTN</b> customers in Thailand.<br><br>From 6-million baht registration capital and presently increased to 780 million baht; <b>NTN Bearing - Thailand Co., Ltd.</b>
+ has built up a reputation as one of the most successful Japanese 
+Bearing for product quality, fast logistics service, and begin the 
+technical innovations for various industries - Automotive, Manufacturing
+ Industry, Agricultural Machinery and more.<br><br> 0 0 3 0 200 0 0
+6 0 11 0 <table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="background:url(images/home/botton.jpg) no-repeat top;" height="62"><table width="750" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td style="border-right: 2px #006699 dotted; color:#069;" class="main10t" width="121">ประวัติ</td><td style=" color:#333;" class="main10t" width="629">&nbsp;</td></tr></tbody></table></td></tr></tbody></table> 2016-08-04 0 <table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="background:url(images/home/botton.jpg) no-repeat top;" height="62"><table width="750" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td style="border-right: 2px #006699 dotted; color:#069;" class="main10t" width="121">History</td><td style=" color:#333;" class="main10t" width="629">&nbsp;</td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+7 0 12 0 <br><table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="background:url(images/home/botton2.jpg) no-repeat top;" height="62"><table width="750" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td class="main10t" style=" color:#333333;" width="162" valign="top" height="31">ปรัชญาองค์กร</td><td style=" color:#333;" class="main10t" width="588"></td></tr></tbody></table></td></tr></tbody></table> 2016-08-04 0 <br><table width="792" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="background:url(images/home/botton2.jpg) no-repeat top;" height="62"><table width="750" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td class="main10t" style=" color:#333333;" width="162" valign="top" height="31">Corporate Philosophy</td><td style=" 
+color:#333;" class="main10t" width="588"></td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+8 0 12 0 <b>เราจะมีส่วนร่วมในประชาคมโลกผ่านการสร้างเทคโนโลยีใหม่และการพัฒนาผลิตภัณฑ์ใหม่<br>(เชื่อมโลกด้วยเทคโนโลยีใหม่)<br><img src="images/home/line_01.jpg" width="784" height="9"><br><br></b>1. การสร้างสรรค์เทคโนโลยีจากนวัตกรรมของ NTN<br>2. การนำเสนอเทคโนโลยีเพื่อเพิ่มมูลค่าผลิตภัณฑ์และการบริการให้เหมาะสมกับลูกค้าและผู้ใช้งานแต่ละราย<br>3. การพัฒนามาตรฐานความเป็นอยู่ของพนักงาน การจัดสรรผลตอบแทนให้แก่ผู้ถือหุ้นอย่างเป็นธรรม และการมีส่วนร่วมต่อสังคมบนพื้นฐานของการเจริญเติบโตทางธุรกิจของบริษัท<br>4. การสนับสนุนโลกาภิวัตน์และการพัฒนาระบบการบริหาร / การจัดการองค์กรที่จำเป็นสำหรับ NTN ในการเป็นบริษัทชั้นนำในระดับนานาชาติ<br> 2016-08-04 0 <b>We
+shall contribute to international society through creating new 
+technologies 
+
+and
+developing new products.
+
+
+<br>(For New Technology Network)<br><img src="images/home/line_01.jpg" width="784" height="9"><br><br></b>1. Creation of original 
+technologies.<br>2. Offering the technologies for additional 
+values and service that are suitable for each customer and end 
+user.<br>3. Improvement of employees' standard of living, 
+distribution of fair returns to stockholders, and contribution to 
+<br>&nbsp;&nbsp; society based on the steady growth of our
+ business.<br>4. Promotion of globalization, and formation of 
+management systems / corporate organization which are essential 
+<br>&nbsp;&nbsp;&nbsp; for NTN, as an international 
+leading company.<br> 0 0 3 0 200 0 0
+9 0 13 0 <br><table border="0" cellpadding="0" cellspacing="0" width="792"><tbody><tr><td style="background:url(images/home/botton2.jpg) no-repeat top;" height="62"><table align="center" border="0" cellpadding="0" cellspacing="0" width="750"><tbody><tr><td class="main10t" style=" color:#333333;" height="31" valign="top" width="437">A Leading Supplier in the Global Bearing Market</td><td style=" color:#333;" class="main10t" width="313">&nbsp;</td></tr></tbody></table></td></tr></tbody></table> 2016-08-04 0 <br><table border="0" cellpadding="0" cellspacing="0" width="792"><tbody><tr><td style="background:url(images/home/botton2.jpg) no-repeat top;" height="62"><table align="center" border="0" cellpadding="0" cellspacing="0" width="750"><tbody><tr><td class="main10t" style=" color:#333333;" height="31" valign="top" width="437">A Leading Supplier in the Global Bearing Market</td><td style=" color:#333;" class="main10t" width="313">&nbsp;</td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+116 23 34 0 <table border="0" width="790"><tbody><tr><td><table border="0" width="100%"><tbody><tr><td bgcolor="#eff9ff">Company nameTotal number of shares issued(excluding treasury stock)</td><td bgcolor="#eff9ff">531,748,398 shares</td></tr><tr><td>Treasury stock</td><td>715,129 shares</td></tr></tbody></table></td></tr></tbody></table> 2016-08-30 0 <table border="0" width="790"><tbody><tr><td><table border="0" width="100%"><tbody><tr><td bgcolor="#eff9ff">Company nameTotal number of shares issued(excluding treasury stock)</td><td bgcolor="#eff9ff">531,748,398 shares</td></tr><tr><td>Treasury stock</td><td>715,129 shares</td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+117 23 34 0 <table border="0" width="790"><tbody><tr><td><table border="0" width="100%"><tbody><tr><td><span class="main10t" style=" color:#333333;">Inquiries about this release</span></td><td></td></tr><tr><td colspan="2"><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr><tr><td width="200"><a href="https://www.ntnglobal.com/cgi-bin/inquiry/common/e_index.cgi" target="_blank" onmouseover="MM_swapImage('Image123','','images/webpage/bot2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/webpage/bot1.jpg" alt="" id="Image123" width="194" height="46"></a></td><td width="590"></td></tr></tbody></table></td></tr></tbody></table> 2016-08-30 0 <table border="0" width="790"><tbody><tr><td><table border="0" width="100%"><tbody><tr><td><span class="main10t" style=" color:#333333;">Inquiries about this release</span></td><td></td></tr><tr><td colspan="2"><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr><tr><td width="200"><a href="https://www.ntnglobal.com/cgi-bin/inquiry/common/e_index.cgi" target="_blank" onmouseover="MM_swapImage('Image123','','images/webpage/bot2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="images/webpage/bot1.jpg" alt="" id="Image123" width="194" height="46"></a></td><td width="590"></td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+118 24 34 0 <table border="0" cellpadding="0" cellspacing="0" width="792"><tbody><tr><td style="background:url(images/home/botton2.jpg) no-repeat top;" height="62"><table align="center" border="0" cellpadding="0" cellspacing="0" width="750"><tbody><tr><td class="main10t" style=" color:#333333;" valign="top" width="650" height="31">Announcement of Construction of New Plant at NTN Noto Corp.</td><td style=" color:#333;" class="main10t" width="100"></td></tr></tbody></table></td></tr></tbody></table> 2016-08-30 0 <table border="0" cellpadding="0" cellspacing="0" width="792"><tbody><tr><td style="background:url(images/home/botton2.jpg) no-repeat top;" height="62"><table align="center" border="0" cellpadding="0" cellspacing="0" width="750"><tbody><tr><td class="main10t" style=" color:#333333;" valign="top" width="650" height="31">Announcement of Construction of New Plant at NTN Noto Corp.</td><td style=" color:#333;" class="main10t" width="100"></td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+119 24 34 0 NTN Corporation (hereafter, NTN) has decided to establish a heat treatment plant in NTN Noto Corporation in order to construct an industrial machinery bearings integrated production system in the Noto region.<br><br><table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" color:#333333;">1.Aim of constructing the new plant</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr></tbody></table></td></tr></tbody></table><br>In its 3-year medium-term management plan “NTN 100” which started in April 2015, NTN announced that it will expand aftermarket business within its initiative to “Manage Growth” and is endeavoring to shorten the lead-time and enhance lineup of bearing products that will become vital when expanding business.<br><br>NTN has been producing industrial machinery bearings in Kuwana City, Mie Prefecture since starting its business. However, due to increased risk diversification and large bearing production, NTN established NTN Hakui Corp., NTN Houdatsushimizu Corp., NTN Shika Corp., and NTN Noto Corp., in the Noto region after 2007. In the Noto region, as the second industrial machinery bearings production site, NTN produces a wide variety of bearings such as those for use in the industrial machinery aftermarket, as well as large bearings used in wind turbines.<br><br>When bearings are manufactured, the manufacturing process is carried out in the order of forging, turning, heat treatment, grinding, and assembly. Heat treatment equipment were not installed in the Noto region until now, and in the past heat treatment processing was conducted by transporting items to the production plant in Kuwana City, Mie Prefecture. On this occasion, an integrated production system will be established in the Noto region through the heat treatment plant that will be newly established on the premises of NTN Noto Corp.<br><br>In the future, the realization of even faster production and a more stable supply system will accelerate increased sales within the aftermarket business.<br><br><table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" color:#333333;">2.Future plans</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr></tbody></table></td></tr></tbody></table><br>The construction of the heat treatment plant is scheduled to begin in July 2016, and will start operating in the summer of 2017. At first the plant will be run by around 20 employees, however this number will increase as the business expands.<br><br> 2016-08-30 0 NTN Corporation (hereafter, NTN) has decided to establish a heat 
+treatment plant in NTN Noto Corporation in order to construct an 
+industrial machinery bearings integrated production system in the Noto 
+region.<br><br><table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" color:#333333;">1.Aim of constructing the new
+ plant</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr></tbody></table></td></tr></tbody></table><br>In
+ its 3-year medium-term management plan “NTN 100” which started in April
+ 2015, NTN announced that it will expand aftermarket business within its
+ initiative to “Manage Growth” and is endeavoring to shorten the 
+lead-time and enhance lineup of bearing products that will become vital 
+when expanding business.<br><br>NTN has been producing 
+industrial machinery bearings in Kuwana City, Mie Prefecture since 
+starting its business. However, due to increased risk diversification 
+and large bearing production, NTN established NTN Hakui Corp., NTN 
+Houdatsushimizu Corp., NTN Shika Corp., and NTN Noto Corp., in the Noto 
+region after 2007. In the Noto region, as the second industrial 
+machinery bearings production site, NTN produces a wide variety of 
+bearings such as those for use in the industrial machinery aftermarket, 
+as well as large bearings used in wind turbines.<br><br>When
+ bearings are manufactured, the manufacturing process is carried out in 
+the order of forging, turning, heat treatment, grinding, and assembly. 
+Heat treatment equipment were not installed in the Noto region until 
+now, and in the past heat treatment processing was conducted by 
+transporting items to the production plant in Kuwana City, Mie 
+Prefecture. On this occasion, an integrated production system will be 
+established in the Noto region through the heat treatment plant that 
+will be newly established on the premises of NTN Noto 
+Corp.<br><br>In the future, the realization of even faster 
+production and a more stable supply system will accelerate increased 
+sales within the aftermarket business.<br><br><table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" color:#333333;">2.Future 
+plans</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr></tbody></table></td></tr></tbody></table><br>The
+ construction of the heat treatment plant is scheduled to begin in July 
+2016, and will start operating in the summer of 2017. At first the plant
+ will be run by around 20 employees, however this number will increase 
+as the business expands.<br><br> 0 0 3 0 200 0 0
+120 24 34 0 <table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" color:#333333;">3.Overview of NTN Noto Corporation</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr></tbody></table></td></tr></tbody></table> 2016-08-30 0 <table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" color:#333333;">3.Overview of NTN Noto Corporation</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+121 24 34 0 <br><table border="0" width="790"><tbody><tr><td><table border="0" width="100%"><tbody><tr><td bgcolor="#eff9ff" width="30%">(1) Company Name</td><td bgcolor="#eff9ff">NTN Noto Corporation</td></tr><tr><td>(2) Line of Business</td><td>Production and sale of industrial machinery bearings and machine parts</td></tr><tr><td bgcolor="#eff9ff">(3) Location</td><td bgcolor="#eff9ff">38 Wakabadai, Shika-machi, Hakui-gun, Ishikawa Prefecture, Japan</td></tr><tr><td>(4) Representative</td><td>Takashi Yamasaki, President</td></tr><tr><td bgcolor="#eff9ff">(5) Capital</td><td bgcolor="#eff9ff">1 billion yen (NTN: 100%)</td></tr><tr><td>(6) Establishmed</td><td>December 2010</td></tr><tr><td bgcolor="#eff9ff">(7) Site Area</td><td bgcolor="#eff9ff">Approximately 106,500m2</td></tr><tr><td>(8) Total Floor Area</td><td>Approximately 15,000m2 (existing plant)</td></tr><tr><td>&nbsp;</td><td>Approximately 6,600m2 (heat treatment plant)</td></tr></tbody></table></td></tr></tbody></table> 2016-08-30 0 <br><table border="0" width="790"><tbody><tr><td><table border="0" width="100%"><tbody><tr><td bgcolor="#eff9ff" width="30%">(1) Company Name</td><td bgcolor="#eff9ff">NTN Noto 
+Corporation</td></tr><tr><td>(2) Line of 
+Business</td><td>Production and sale of industrial machinery
+ bearings and machine parts</td></tr><tr><td bgcolor="#eff9ff">(3) Location</td><td bgcolor="#eff9ff">38 Wakabadai, Shika-machi, Hakui-gun, Ishikawa 
+Prefecture, Japan</td></tr><tr><td>(4) 
+Representative</td><td>Takashi Yamasaki, 
+President</td></tr><tr><td bgcolor="#eff9ff">(5)
+ Capital</td><td bgcolor="#eff9ff">1 billion yen (NTN: 
+100%)</td></tr><tr><td>(6) 
+Establishmed</td><td>December 
+2010</td></tr><tr><td bgcolor="#eff9ff">(7) Site
+ Area</td><td bgcolor="#eff9ff">Approximately 
+106,500m2</td></tr><tr><td>(8) Total Floor 
+Area</td><td>Approximately 15,000m2 (existing 
+plant)</td></tr><tr><td>&nbsp;</td><td>Approximately
+ 6,600m2 (heat treatment 
+plant)</td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+122 24 34 0 160830162114_0news17.jpg 2016-08-30 2 0 0 Image of NTN Noto Corporation's heat treatment plant (left) Image of NTN Noto Corporation's heat treatment plant (left) 3 0 200 0 0
+123 24 34 0 <br><table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" color:#333333;">Reference</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr><tr><td height="25"><span class="main" style=" color:#333333;"><strong>NTN's production plants in Noto region, Ishikawa Prefecture</strong></span></td></tr></tbody></table></td></tr></tbody></table> 2016-08-30 0 <br><table border="0" width="790"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25"><span class="main10t" style=" 
+color:#333333;">Reference</span></td></tr><tr><td><img src="images/home/line_3.jpg" alt="" width="780" height="9"></td></tr><tr><td height="25"><span class="main" style=" 
+color:#333333;"><strong>NTN's production plants in Noto region,
+ Ishikawa 
+Prefecture</strong></span></td></tr></tbody></table></td></tr></tbody></table> 0 0 3 0 200 0 0
+124 24 34 0 160830162223_0news18.jpg 2016-08-30 2 0 0 3 0 200 0 0
+125 24 34 0 <b><br>Bearing Manufacturing Process</b> 2016-08-30 0 <b><br>Bearing Manufacturing Process</b> 0 0 3 0 200 0 0
+
++++++++++
+ntn_2016 - detail_pic:(0)
+dno,cno,cid,catid,cats,products_id,descrip,pic,pic_width,pic_height,dtime,dby,dfile,des_eng,vdata,sort,pic2,pic3,pic4,pic5,pic2_th,pic2_en,pic3_th,pic3_en,pic4_th,pic4_en,pic5_th,pic5_en,pic_th,pic_en,pic_zoom,pic2_zoom,pic3_zoom,scrollA,direcA,heightA,pic1_size,pic2_size,pic3_size,pic1_width,pic1_height,pic2_width,pic2_height,pic3_width,pic3_height,page_mix
+
++++++++++
+ntn_2016 - download:(0)
+id_download,cid,sort,total,topic1,text1,file_type,file_size,file_name,time,ctime,ip,pic_type,pic_size,pic_name
+
++++++++++
+ntn_2016 - enews_profile:(0)
+id_enews_profile,profile_name,profile_email,profile_time,profile_ip
+
++++++++++
+ntn_2016 - form_contact:(136)
+id,title_s,name_s,company,email,phone_s,fax,address,comment,contact_file,a_date
+1 22 22 222 kusjunior@gmail.com 222 222 22 222 2016-09-22
+2 Mr Testing Test - liat name testing company 0860112960 Hello 2016-10-05
+3 Test Wanlaya wanlaya@ntn.co.th 026810401 test 15f81a45.jpg 2016-10-12
+4 Great nop ntn th noppakat@gmail.com 0860112960 Hello 2016-10-12
+5 111 111 11 11 11 111 111 11 2016-10-12
+6 Testing -  nop san nop thip ntn th - it dept noppakat@gmail.com 060112960 Hello, amm san
+many thanks for your asst and support 2016-10-12
+7 Testing -  nop san x nop thip ntn th it noppakat@gmail.com hi 2016-10-12
+8 Testing -  nop san  xxx nop xxx ntnth itxx hi 2016-10-12
+9 ทดสอบ ทดสอบ ทดสอบ muay@siam2design.com ทดสอบ ทดสอบ ทดสอบ ทดสอบ 2016-10-12
+10 ADFAsdf asdf ASDf muay@siam2design.com asdf asdf asdf asdf 2016-10-12
+91 จะขอราคาสินค้า หรือตัวแทนขายสินค้า สกุลศักดิ์ สุมาลุ อันนา ซัพพลาย แอนด์ เซอร์วิส จำกัด annasupply@gmail.com 0920576556 021306775 104/74 ซ.เฉลิมพระเกียรติ ร. 9  28 แยก 3  แขวงดอกไม้ เขตประเวศ กทม ขอราคาสินค้า  4T-32006X  = 50 PCS 2018-05-12
+92 Request Quotation Bearing Kittiwat Chat-anankit FEMCO (THAILAND) LIMITED kittiwat.c@femcothailand.com 0941658568 Bangkok. Request Quotation for Bearing spec. BST30*62-1BP4/2A 2018-05-14
+93 Quotation request Watcharapol Rossuk Planet T&S CO.,LTD watcharapol@planet.co.th 0819098525 I would like to request price, delivery time for
+
+NTN Bearing
+T209       4              PCS
+UC308   4             PCS 2018-05-23
+94 ขอราคา อนันต์      ชื่นจิตรชม AW Tools and Automation co.,Ltd. awtac@hotmail.com 081-923-0035 419  ม.4  ต.ปลวกแดง อ.ปลวกแดง จ.ระยอง 21140 ขอราคา Tri Ball Joint  Model : NTN-TBJ-VU  ครับ   ต้องการใช้ 5  ชุด ถ้ารุ่นนี้ไม่มี รบกวนช่วยหาตัว Compare ให้ด้วย ครับ 2018-05-30
+95 fkd.sales5@ok-bearing.com 18730559134 Hexi Town Industrial Park, Linxi Country, Hebei, China 2018-07-03
+96 ลูกปืน narathip oumchey T.O.P. เอ็นจิเนียร์ริ่ง narathip.mos17@gmail.com 096-839-1320 ลูกปืนตามรูปที่แนบไฟล์ไป เบออะรัยหรอคะ ถ้าเห็นรูปไม่ชัด @Line ID:oilnaratib นะคะ 2018-07-04
+97 ลูกปืน Prachyacoopt   Kenkrue kprachyacoopt@hitt.hitachi-asia.com 0861114781 ต้องการทราบราคาลูกปืน 7016 และมีของหรือเปล่าครับ 2018-07-06
+98 ขอใบเสนอราคาค่ะ จุฑามาส  ทองสุข ห้างหุ้นส่วนจำกัด ไอ ทูลส์ ซัพพลาย itoolssupply@outlook.co.th 089-6104864 , 086-6183339 036-391162 49/4  หมู่6  ตำบลท่าช้าง อำเภอเสาไห้ จังหวัดสระบุรี 18160 ขอราคาแบริ่งพร้อมฝาปิด 
+1. Bearing UCFC 210 D1+ End Cover ยี่ห้อ NTN = 26 Pcs
+2.  Bearing UCFL 210 D1+ End Cover ยี่ห้อ NTN = 6 Pcs
+ 3. Bearing UCP 210 D1+ End Cover ยี่ห้อ NTN = 2 Pcs
+ 4. Bearing UCT 210 D1+ End Cover ยี่ห้อ NTN = 2 Pcs c85a1fb0.jpg 2018-07-19
+99 Mr Sangkla Kreuawan บริษัท เรียล บีพีเอ็ม จำกัด sk@realbpm.co.th 0818189676 เรียนฝ่ายขาย
+
+ขอสอบถามราคาลูกปืน FAG size 6303 (17/47) และ 6205 (25/52) จำนวนเบอร์ละ 5 ตลับ โดยจะนำไปใช้งานในมอเตอร์ความเร็วรอบประมาณ 9000 rpm ลูกปืนต้องกันน้ำกันฝุ่น ไม่แน่ใจว่ามีตัวไหนเทียบกับ SKF รุ่น 2RSL ได้หรือเปล่าครับ ต้องการเปรียบเทียบรุ่นที่เป็น seal ยางธรรมดา และแบบ low friction ครับ พอจะแนะนำรุ่นไหนได้บ้างครับ
+
+ถ้าต้องการข้อมูลเพิ่มเติมกรุณาติดต่อกลับอีเมล sk@realbpm.co.th หรือโทร 081-8189676 ครับ หรือถ้าทางบริษัทไม่ขายจำนวนน้อย ผมขอสอบถามข้อมูลเท่านั้นครับ และกรุณาแนะนำ distributor ให้ด้วยครับ ขอบคุณครับ
+
+ด้วยความนับถือ
+แสงกล้า เครือวัลย์ 2018-07-28
+100 Kusuma Hattabodee Zommick & Paul Company Limited dew@zap.co.th 29546446 29546446 425/22 Soi Ngamwongwan 47, Alley  39-1, Thongsonghong Laksi Bangkok Thailand 12110 We are looking for NTN spin dry bearing # 6207Z SUS 
+Could you please provide me a formal quote for my consideration ? 
+Do you have them in stock ? or what is best lead-time? 
+How about warranty policy?
+
+Here is our company name and address:
+
+Zommick & Paul Company Limited
+425/22 Soi Ngamwongwan 47, Alley  39-1, 
+Thungsonghong, Laksi, Bangkok Thailand 10210  
+Tel: 02-9546446 2018-07-31
+
++++++++++
+ntn_2016 - form_contact_setting:(1)
+id,subject,fname,fmail,bcc,detail,ctime,mtype,host,acc_email,acc_password,companyname,logo,address
+1 Contact Form : NTN Contact webmaster@ntn.co.th webmaster@ntn.co.th <br> 2017-07-07 00:05:51 1 mail.ntn.co.th contact@ntn.co.th p3uC!5WqT NTN Bearing - Thailand Co., Ltd. 2 29th Floor Panjathani Tower, 127/34 Nonsee Road, Chongnonsee, Yannawa, BANGKOK 10120
+
++++++++++
+ntn_2016 - form_icon:(6)
+id,icon_detail,filepic,a_date
+8 49f2bac4.gif 0000-00-00
+7 9014340d.gif 0000-00-00
+6 35e44f95.gif 0000-00-00
+5 14581d5e.gif 0000-00-00
+9 1967c170.gif 0000-00-00
+10 29d48cc5.gif 0000-00-00
+
++++++++++
+ntn_2016 - form_job:(6)
+id,date_regis,Frist_Position,Salary1,Second_Position,Salary2,Name_Eng,Name_Thai,Sex,Place_of_Birth,Date_of_Birth,Age,Weight,Height,ID_Card_No,Nationality,Religion,Mobile_Phone,Home_Phone,email,Address,Status,Spouses_Name,Occupation,Firm_Address,Nember_Children,Age_Child1,Second_Child2,Third_Child3,Name_Father,Age_Father,Life_Father,Career_Father,Name_Mother,Age_Mother,Life_Mother,Career_Mother,Military,Wil_be_Enlisted,Name_Institute_Secondary,Year_Attended_From_Secondary,Year_Attended_To_Secondary,Degree_Conferred_Secondary,Major_Subject_Secondary,GPA_Secondary,Name_Institute_Vocational,Year_Attended_From_Vocational,Year_Attended_To_Vocational,Degree_Conferred_Vocational,Major_Subject_Vocational,GPA_Vocational,Name_Institute_HigherVocational,Year_Attended_From_HigherVocational,Year_Attended_To_HigherVocational,Degree_Conferred_HigherVocational,Major_Subject_HigherVocational,GPA_HigherVocational,Name_Institute_BachelorDegree,Year_Attended_From_BachelorDegree,Year_Attended_To_BachelorDegree,Degree_Conferred_BachelorDegree,Major_Subject_BachelorDegree,GPA_BachelorDegree,Name_Institute_MasterDegree,Year_Attended_From_MasterDegree,Year_Attended_To_MasterDegree,Degree_Conferred_MasterDegree,Major_Subject_MasterDegree,GPA_MasterDegree,Name_Institute_Other,Year_Attended_From_Other,Year_Attended_To_Other,Degree_Conferred_Other,Major_Subject_Other,GPA_Other,List_Employers1,EmployersFrom1,EmployersTo1,Position1,TotalSalary_Month1,ReasonToLeaveFrom1,List_Employers2,EmployersFrom2,EmployersTo2,Position2,TotalSalary_Month2,ReasonToLeaveFrom2,List_Employers3,EmployersFrom3,EmployersTo3,Position3,TotalSalary_Month3,ReasonToLeaveFrom3,List_Employers4,EmployersFrom4,EmployersTo4,Position4,TotalSalary_Month4,ReasonToLeaveFrom4,List_Employers5,EmployersFrom5,EmployersTo5,Position5,TotalSalary_Month5,ReasonToLeaveFrom5,PeriodStart1,PeriodEnd1,Course_Training1,PeriodStart2,PeriodEnd2,Course_Training2,PeriodStart3,PeriodEnd3,Course_Training3,Thai_Speaking,Thai_Writing,Thai_Reading,Thai_Listen,Eng_Speaking,Eng_Writing,Eng_Reading,Eng_Listen,Language_Other1,Other1_Speaking,Other1_Writing,Other1_Reading,Other1_Listen,Language_Other2,Other2_Speaking,Other2_Writing,Other2_Reading,Other2_Listen,car,Number_Driver_license,ComputerSkill,JobOpeningFrom,Internet,JobOpeningFromOther,We_are_ready_to_start_work,Other,captcha_code,a_date,Photo,resume1,resume2,resume3
+
++++++++++
+ntn_2016 - form_job2:(2)
+id,Frist_Position,Salary1,Second_Position,Salary2,Name_Eng,Name_Thai,Sex,Place_of_Birth,Date_of_Birth,Age,Weight,Height,ID_Card_No,Nationality,Religion,Mobile_Phone,Home_Phone,email,Address,Status,Spouses_Name,Occupation,Firm_Address,Nember_Children,Age_Child1,Second_Child2,Third_Child3,Name_Father,Age_Father,Career_Father,Life_Father,Name_Mother,Age_Mother,Career_Mother,Life_Mother,Military,Wil_be_Enlisted,Name_Institute_Secondary,Year_Attended_From_Secondary,Year_Attended_To_Secondary,Degree_Conferred_Secondary,Major_Subject_Secondary,GPA_Secondary,Name_Institute_Vocational,Year_Attended_From_Vocational,Year_Attended_To_Vocational,Degree_Conferred_Vocational,Major_Subject_Vocational,GPA_Vocational,Name_Institute_HigherVocational,Year_Attended_From_HigherVocational,Year_Attended_To_HigherVocational,Degree_Conferred_HigherVocational,Major_Subject_HigherVocational,GPA_HigherVocational,Name_Institute_BachelorDegree,Year_Attended_From_BachelorDegree,Year_Attended_To_BachelorDegree,Degree_Conferred_BachelorDegree,Major_Subject_BachelorDegree,GPA_BachelorDegree,Name_Institute_MasterDegree,Year_Attended_From_MasterDegree,Year_Attended_To_MasterDegree,Degree_Conferred_MasterDegree,Major_Subject_MasterDegree,GPA_MasterDegree,Name_Institute_Other,Year_Attended_From_Other,Year_Attended_To_Other,Degree_Conferred_Other,Major_Subject_Other,GPA_Other,List_Employers1,EmployersFrom1,EmployersTo1,Position1,TotalSalary_Month1,ReasonToLeaveFrom1,List_Employers2,EmployersFrom2,EmployersTo2,Position2,TotalSalary_Month2,ReasonToLeaveFrom2,List_Employers3,EmployersFrom3,EmployersTo3,Position3,TotalSalary_Month3,ReasonToLeaveFrom3,List_Employers4,EmployersFrom4,EmployersTo4,Position4,TotalSalary_Month4,ReasonToLeaveFrom4,List_Employers5,EmployersFrom5,EmployersTo5,Position5,TotalSalary_Month5,ReasonToLeaveFrom5,PeriodStart1,PeriodEnd1,Course_Training1,PeriodStart2,PeriodEnd2,Course_Training2,PeriodStart3,PeriodEnd3,Course_Training3,car,Number_Driver_license,ComputerSkill,PleaseNameHondanonthaburi,PositionHondanonthaburi,JobOpeningFrom,Internet,JobOpeningFromOther,We_are_ready_to_start_work,Other,a_date,resume1,resume2,resume3,date_regis,Photo,captcha_code
+1 Sales Engineer 2 NTN Thailand will be one of exhibitor in World Sugar Expo 2016, Bangkok. 222 2 2222222222222222 Male 222222222 2 22 2 2 2222222222 2222222222222222 2222222 22222222222 2222222222 222222222 222222222222222 Married Alive Alive Military Studied No Banner/Board/Poster 2222 2016-09-15 2016-09-15 Y37S
+2 333333 333333333333333 0 333333 3333333333 333333333333 Male 3333333333333 33333333 3333333333333 33333333333333 3333333333333333 333333333 3333333333333333 333333333 33333333333 333333333333333 3 33333333333 Married Alive Alive Military Studied No Banner/Board/Poster 08-09-2559 2016-09-15 2016-09-15 KKST
+
++++++++++
+ntn_2016 - form_job_setting:(1)
+id,subject,fname,fmail,bcc,detail,ctime,mtype,host,acc_email,acc_password,companyname,logo,address
+1 88 8 jirah@siam2design.com jirah@nata@windowslive.com <br> 2016-09-16 14:39:01 0 admin 11111 8888 888
+
++++++++++
+ntn_2016 - icon_new:(5)
+id,icon_detail,filepic,a_date
+8 new_1.jpg 0000-00-00
+7 new_2.jpg 0000-00-00
+6 new_3.jpg 0000-00-00
+5 new_4.jpg 0000-00-00
+9 new_5.jpg 0000-00-00
+
++++++++++
+ntn_2016 - login:(1)
+id,id_styles,id_level,name,lastname,uid,pw,status,title,keyword,description,domain,company,address,zip,city,country,tel,mobile,fax,email,lang,exchange,txtcolor,bgcolor,bgpic,bgalign,bgvalign,bgrepeat,bgtab,category_columns,category_show,product_columns,product_show,visitor,visitorpic,fb,rss,pr,yt,emailcontact,emailjob
+1 0 admin ntn@2018** NTN Bearing - Thailand Co., Ltd. NTN Bearing - Thailand Co., Ltd. NTN Bearing - Thailand Co., Ltd. 0 500 500 Thailand eng #ffffff 3 12 4 16 4184 6 fb rss rt yt
+
++++++++++
+ntn_2016 - menu:(56)
+cid,dic,status,show,sort,popup,click,name1,name2,text,page,image1,image2,image3,image4,image5,image6,mem_lock,pic_fram,read_more,show_topic,show_detail,show_pic,show_readmore,show_view,show_by,show_time,open_window,open_popup,show_nextpage,nextpage_count,style_message,style_preview,style_line,readmore_pic,nextpage_count_show,css_style,css_border,css_color,p_width,p_height,p_sort,page_s,title_s,descrition_s,key_s,h_box,text_a
+
++++++++++
+ntn_2016 - menu_style:(0)
+cid,cno,pic_fram,read_more,show_topic,show_detail,show_pic,show_readmore,show_view,show_by,show_time,open_window,open_popup,show_nextpage,nextpage_count,style_message,style_preview,style_line,readmore_pic,nextpage_count_show,css_style,css_border,css_color,id_icon,id_row,p_width,p_height,h_box
+
++++++++++
+ntn_2016 - others:(0)
+id,SN,Title_of_Certificate,Certificate_No,Valid_Date,Expired_Date,url1
+
++++++++++
+ntn_2016 - page:(17)
+id,page,name
+1 page_a Page a
+2 page_b Page b
+3 page_g Page g
+9 link Link External
+6 category Product
+7 index Index
+10 vdo Vdo
+11 download Download
+4 page_d Page d
+5 page_h New Download
+
++++++++++
+ntn_2016 - products:(0)
+products_id,products_quantity,products_model,pic,pic1,pic2,pic3,pic4,pic5,pic6,pic7,pic8,pic_zoom,pic1_zoom,pic2_zoom,pic3_zoom,pic4_zoom,pic5_zoom,pic6_zoom,pic7_zoom,pic8_zoom,machinery,no_machinery,the_current_hour,year_production,source_machine,warranty,service,specification,products_price,products_price1,products_size,products_date_added,products_last_modified,products_date_available,products_weight,products_status,products_tax_class_id,manufacturers_id,products_ordered,dfile,dfile2,dfile3,dfile4,dfile5,dfile6,dfile7,products_name_thai,products_name_eng,products_descrip_thai,products_descrip_eng,products_keyword,cid,pid,pro_new,pro_new_num,file1,file1_width,file1_height,pic2_width,pic2_height,part_no,model_no,year,stroke,length,type,spring
+
++++++++++
+ntn_2016 - province:(77)
+PROVINCE_ID,PROVINCE_CODE,PROVINCE_NAME,PROVINCE_NAME_ENG,GEO_ID
+1 10 กรุงเทพมหานคร Bangkok 2
+2 11 สมุทรปราการ Samut Prakan 2
+3 12 นนทบุรี Nonthaburi 2
+4 13 ปทุมธานี Pathum Thani 2
+5 14 พระนครศรีอยุธยา Phra Nakhon Si Ayutthaya 2
+6 15 อ่างทอง Ang Thong 2
+7 16 ลพบุรี Loburi 2
+8 17 สิงห์บุรี Sing Buri 2
+9 18 ชัยนาท Chai Nat 2
+10 19 สระบุรี Saraburi 2
+
++++++++++
+ntn_2016 - styles_product:(0)
+id_styles,styles_name,styles_pic
+
++++++++++
+ntn_2016 - tblprovince:(77)
+sprovcode,sprovname
+10 กรุงเทพมหานคร
+12 พระนครศรีอยุธยา
+13 ลพบุรี
+14 ชัยนาท
+15 สิงห์บุรี
+16 อ่างทอง
+17 สระบุรี
+18 ปทุมธานี
+19 นนทบุรี
+20 ชลบุรี
+
++++++++++
+ntn_2016 - tbluser:(1)
+suserid,suserfname,suserlname,stel,smobile,semail,susername,spassword,sauthor,scomment,dusedlast,cmenulast,cnotdel,cusertype,spicture,ccontactrep,csmsrep,cpointrep
+1 sss sss hr 11111 2016-04-19 18:21:16 1
+
++++++++++
+ntn_2016 - tbluser_group:(1)
+id,ngroup,nname,ndate,npic,ncomment,ss1,ss2,ss3,ss4,ss5,ss6,ss7,ss8,ss9,ss10,ss11,ss12,ss13,ss14,ss15,ss16,ss17,ss18,ss19,ss20,ss21,ss22,ss23,ss24,ss25,ss26
+1 All Admin 2016-04-19 award_star_silver_3.png 1 1 1 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
++++++++++
+ntn_2016 - tbluser_group_rw:(598)
+id,cid,gid,g_r,g_w,g_rw
+1 1 1 1 1 1
+2 5 1 1 1 1
+3 16 1 1 1 1
+4 17 1 1 1 1
+5 41 1 0 0 0
+6 42 1 0 0 0
+7 43 1 0 0 0
+8 44 1 0 0 0
+9 45 1 0 0 0
+10 46 1 0 0 0
+91 127 1 0 0 0
+92 128 1 0 0 0
+93 129 1 0 0 0
+94 130 1 0 0 0
+95 131 1 0 0 0
+96 132 1 0 0 0
+97 133 1 0 0 0
+98 134 1 0 0 0
+99 135 1 0 0 0
+100 136 1 0 0 0
+491 249 2 0 0 0
+492 250 2 0 0 0
+493 251 2 0 0 0
+494 252 2 0 0 0
+495 253 2 0 0 0
+496 254 2 0 0 0
+497 255 2 0 0 0
+498 256 2 0 0 0
+499 257 2 0 0 0
+500 258 2 0 0 0
+
++++++++++
+ntn_2016 - text:(0)
+no,promotion,newproducts,comment,detail,code,name,company,description,specification,feature,more,eng_promotion,eng_newproducts,eng_comment,eng_detail,eng_code,eng_name,eng_company,eng_description,eng_spec,eng_feature,eng_more
+
++++++++++
+ntn_2016 - topic:(85)
+cno,cid,topic,detail,pic,pic1,dfile,time,ctime,cby,showdata,des_eng,top_eng,vdata,pd_date,sort,add_name,add_name2,addview,insure1,insure2,insure3,cno2,id_icon,qu_date1,qu_date2,qu_time1,qu_time2,qu_num,css_color,linkurl,l_detail,l_des_eng,s_page,pic2,googlemap,idcard1,idcard2,idcard3,showbook,pic_n,press
+1 8 0 160907120025_flashhome7.jpg 2016-08-03 0 0 0000-00-00 5 0 0 0 0 10 0 0
+2 8 0 160907115947_flashhome6.jpg 2016-08-03 0 0 0000-00-00 1 0 0 0 0 10 0 0
+3 16 NTN Thailand will be one of exhibitor in World Sugar Expo 2016, Bangkok. WORLD SUGAR EXPO 2016<br>International Exhibition of Sugar Companies Sugar Technology &amp; Its Supporting Industries <br>7 – 8 September 2016 BITEC, BANGKOK, THAILAND 2016-08-03 0 WORLD SUGAR EXPO 2016<br>International Exhibition of Sugar Companies Sugar Technology &amp; Its Supporting Industries <br>7 – 8 September 2016 BITEC, BANGKOK, THAILAND NTN Thailand will be one of exhibitor in World Sugar Expo 2016, Bangkok. 0 0000-00-00 0 0 0 0 0 10 0 0
+27 34 Support for the people and areas affected by the Kumamoto earthquake news31.jpg 2016-04-25 0 Support for the people and areas affected by the Kumamoto earthquake 0 0000-00-00 0 0 0 0 0 10 http://www.ntnglobal.com/en/news/press/news201600036.html 0 0
+7 9 Development of “ULTAGE Spherical Roller Bearing with Compact Seal” for Mining Transport Conveyors〈Product〉 <br> n_2.jpg 2016-08-08 0 <br> Development of “ULTAGE Spherical Roller Bearing with Compact Seal” for Mining Transport Conveyors〈Product〉 0 0000-00-00 0 0 0 0 7 10 http://www.ntnglobal.com/en/news/new_products/news201600057.html 0 1 0
+8 9 Financial Report for the 1st Quarter of Fiscal Year 2016 Ended June 30, 2016 (Consolidated) <br> n_1.jpg 2016-08-03 0 <br> Financial Report for the 1st Quarter of Fiscal Year 2016 Ended June 30, 2016 (Consolidated) 0 0000-00-00 0 0 0 0 6 10 http://www.ntnglobal.com/en/investors/fin.html 0 0
+21 34 NTN Advanced Technology R&D Center Selected for “Junior Summit” Tour Venue news13.jpg 2016-03-01 0 NTN Advanced Technology R&D Center Selected for “Junior Summit” Tour Venue 0 0000-00-00 0 0 0 0 0 10 0 0
+22 34 Notification of Judgment for the appeal for the Antimonopoly Act on Bearings 2016-03-22 0 Notification of Judgment for the appeal for the Antimonopoly Act on Bearings 0 0000-00-00 0 0 0 0 0 10 http://www.ntnglobal.com/en/news/press/news201600015.html 0 0
+20 34 NTN's Microcompact Mobility Equipped with In-wheel Motor to be Used at Welfare Facilities in Shizuoka Prefecture news7.jpg 2016-02-15 0 NTN's Microcompact Mobility Equipped with In-wheel Motor to be Used at Welfare Facilities in Shizuoka Prefecture 0 0000-00-00 0 0 0 0 0 10 0 0
+19 34 NTN Supports Junior Summit and Provides EVs to Kuwana City in Mie Prefecture news3.jpg 2016-02-15 0 NTN Supports Junior Summit and Provides EVs to Kuwana City in Mie Prefecture 0 0000-00-00 0 0 0 0 0 10 0 0
+
++++++++++
+ntn_2016 - upload:(0)
+id_upload,id_member,upload_subject,upload_comment,upload_file,upload_size,upload_time,upload_ip
+
++++++++++
+ntn_2016 - vdo:(0)
+id_vdo,id_menu,vdo_sort,vdo_topic,vdo_text,vdo_text1,vdo_name,vdo_image,time,date
+
++++++++++
+ntn_2016 - year:(0)
+id_year,name_th,name_en
+
++++++++++
+
+ 

@@ -1,0 +1,76 @@
+rod.roddenberry.com/photo/image.php?id=19
+ 
+rod - spark_adminips:(0)
+id,strip,blnactive
+
++++++++++
+rod - spark_adminsection:(6)
+id,strsection,intparent,intorder,blnactive,blnView,strcircuit,strfuse,strimage
+58 Management 0 10 yes yes c_mgmt welcome management.jpg
+59 Users 58 11 yes yes c_user welcome user.jpg
+60 Restrictions 58 12 yes yes c_ips welcome restriction.png
+61 Photo Gallery 0 20 yes yes c_photo welcome photo.png
+62 Categories 61 21 yes yes c_photo_cat welcome cms.png
+63 Images 61 22 yes no c_photo_img welcome coupon.png
+
++++++++++
+rod - spark_adminuser:(2)
+id,strusername,strpassword,strfirstname,strlastname,stremail,dtcreated,intcreatedby,blnactive,blnip,blndeleted
+2 admin rp1! Admin Global info@ignitewebsolutions.com 2007-06-26 10:18:06 0 yes no no
+3 rod 2744474 Eugene Roddenberry ewr@roddenberry.com 2007-08-17 07:50:05 2 yes no no
+
++++++++++
+rod - spark_adminuserlogin:(32)
+id,intuser,dtcreated,strip,strAction
+1 2 2007-07-10 11:33:02 127.0.0.1 Login
+2 2 2007-07-10 13:14:32 127.0.0.1 Logout
+3 2 2007-07-10 13:28:11 127.0.0.1 Login
+4 2 2007-07-10 13:42:10 127.0.0.1 Logout
+5 2 2007-07-10 14:02:21 127.0.0.1 Login
+6 2 2007-07-10 14:03:01 127.0.0.1 Logout
+7 2 2007-07-10 14:03:06 127.0.0.1 Login
+8 2 2007-07-10 15:35:46 127.0.0.1 Logout
+9 2 2007-08-07 07:51:24 64.26.148.56 Login
+10 2 2007-08-07 07:54:59 64.26.148.56 Logout
+
++++++++++
+rod - spark_adminusertosection:(8)
+fkAdmin,fkSection,blnAccess
+2 59 yes
+2 60 yes
+2 62 yes
+2 63 yes
+3 59 yes
+3 60 yes
+3 62 yes
+3 63 yes
+
++++++++++
+rod - spark_photo_category:(4)
+pkCategory,strName,strImage,strSummary,enumActive,dtCreated
+4 Nightscapes 118908691920856.jpg After the dusk has settled. yes 2007-09-06 06:50:03
+5 Portraits 118910759946053.jpg From fountains to beaches. no 2007-09-06 12:39:59
+6 Seascapes 118910771339466.jpg Where land meets water. yes 2007-09-06 12:41:53
+7 Under da Sea 118910784152334.jpg Mysteries hidden in the depths. yes 2007-09-06 12:43:03
+
++++++++++
+rod - spark_photo_feedback:()
+pkFeedback,fkImage,dblRating,dtAdded,strSummary,strName
+
++++++++++
+rod - spark_photo_image:(29)
+pkImage,fkCategory,dtAdded,strImage,strThumbnail,strTitle,strSummary,enumActive
+5 4 2007-10-19 05:53:17 11891715015920.jpg thumb_11891715015920.jpg Car &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+6 4 2007-10-19 05:53:17 11891716539232.jpg thumb_11891716539232.jpg Shore 1 &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+7 4 2007-10-19 05:53:17 11891716295096.jpg thumb_11891716295096.jpg Shore 2 &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+8 4 2007-10-19 05:53:17 11891716111339.jpg thumb_11891716111339.jpg Tree &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+9 4 2007-10-19 05:53:17 11891715888280.jpg thumb_11891715888280.jpg Turn &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; no
+10 5 2007-10-19 05:53:17 11891718132813.jpg thumb_11891718132813.jpg Bird Chase &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+11 5 2007-10-19 05:53:17 11891717945018.jpg thumb_11891717945018.jpg Heidi Silhouette &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+12 5 2007-10-19 05:53:17 11891717724756.jpg thumb_11891717724756.jpg Heidi &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+13 5 2007-10-19 05:53:17 11891717489272.jpg thumb_11891717489272.jpg Fountain &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+14 5 2007-10-19 05:53:17 11891717257782.jpg thumb_11891717257782.jpg Surfer &lt;p&gt;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;This is sample text to represent a summary or description of the photo seen here.&amp;nbsp;&lt;/p&gt; yes
+
++++++++++
+
+ 

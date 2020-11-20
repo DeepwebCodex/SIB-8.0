@@ -1,0 +1,14 @@
+AuthType Basic
+AuthName "sib service"
+AuthUserFile /var/www/ku/data/www/.htpasswd2
+require valid-user
+<Files *.php>
+allow from all 
+satisfy any
+</Files>
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+</IfModule>
+AddDefaultCharset UTF-8

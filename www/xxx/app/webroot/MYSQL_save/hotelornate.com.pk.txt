@@ -1,0 +1,670 @@
+www.hotelornate.com.pk/leftmenubody.php?id=56
+ 
+ornate_ornate - gallery:(3)
+id,file_name,alt_txt
+120 120.jpg
+119 119.jpg
+122 122.jpg
+
++++++++++
+ornate_ornate - lito_about:(1)
+Id,About,Date
+1 <p style="text-align: justify;">
+	&nbsp;&nbsp; Welcome to HOTEL ORNATE- where luxury meets affordability. Located in the heart of Islamabad, this 3 Star hotel is well known for its unique ambience where ethnicity and modernism unite to give you world-class staying experience.Brimming with all the facilities which make your stay perfect in every sense, our vision, values and services ensure your time with us turns into the most memorable experience of your life.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp; From its prime location to its superior services, mouthwatering cuisines to the aesthetic interiors, everything about ORNATE&nbsp; is unique. At Ornate every guest is given personal attention by our staffs and looked after in a way beyond his expectation. Exceeding guest expectations is our vision and this is what turns your experience at Ornate a memory to cherish forever. With as many as 23 deluxe rooms equipped with all up-to-the-minute facilities,</p>
+<p style="text-align: justify;">
+	<em>we make sure there is nothing that our prestigious guests remain deprived of during their stay with us.</em></p> 2010-06-21
+
++++++++++
+ornate_ornate - lito_editor:(1)
+Id,Editor,Date
+1 <p>
+	<strong>Keep Inn Touch</strong></p>
+<p>
+	We are hotel ornate Islamabad are ready to serve you 24/7. In case of any queries, complaints or feedback, please feel free to contact us. We would love to serve you with information and in case of complaints, we will look after your concern on urgent basis.<br />
+	<br />
+	<strong>HOTELORNATE</strong><br />
+	5 CIVIC CENTER MELODY MARKET ISLAMABAD &nbsp;Pakistan<br />
+	Tel&nbsp;&nbsp; : +92-51-2820702-2827355-2827336<br />
+	Fax&nbsp;&nbsp;: +92-51-2820327<br />
+	Mob :&nbsp; +92-302-8541340<br />
+	E-mail : hotel_ornate@yahoo.com</p>
+
++++++++++
+ornate_ornate - lito_page:(18)
+Id,Title,Subtitle,Type,Imgpath,Detail,Fontpage,Date
+1 Guest Room 0 default.gif <p>
+	Tastefully decorated 23 rooms including Family rooms, Single deluxe and double deluxe welcomes you for a memorable stay. You might be flying by, but slow it down and see what a difference a cozy stay makes!</p>
+<p>
+	You can enjoy the following Facilities including in the standard package.</p>
+<ul>
+	<li>
+		Lavishly decorated rooms equipped with air-conditioning and central heating system.</li>
+	<li>
+		Mini Bar in each room.</li>
+	<li>
+		Satellite TV with more than 100 channels in almost all languages available.</li>
+	<li>
+		Same Day Dry Cleaning.</li>
+	<li>
+		A wide area of car parking.</li>
+	<li>
+		BusinessCenter(Fax, Scanner, Printer, Copier).</li>
+	<li>
+		Various other amenities such as hot and cold water, cleaned bed sheets, towels, sleepers and everything which are necessary to make your stay comfortable.</li>
+	<li>
+		A secure place, where armed security guards equipped with metal detectors. Night vision cameras are also installed so that our Hotel can remain secured and peaceful.</li>
+	<li>
+		Friendly staff passionate to serve you 24 hours. For your queries and guidance, maps and for other general information is given on request.</li>
+</ul>
+2 Dinning 0 default.gif <p>
+	The dinning experience at ORNATE is one of its own kinds with its endless array of scrumptious cuisines from the worl d renowned cooking traditions. The experienced chefs at ORNATE quench your appetite with their unrivaled cookery offering a blend of local and international delights on your table.<br />
+	<br />
+	Be it the local cuisines or family-style, continental, Italian or classical, Chinese or Thai, at HOTEL you will get simply what is most satisfying for your taste buds and health.</p>
+<p>
+	One of the finest dinning opportunities in ISLAMABAD,CAMP FIVE RESTURENT brings to you all day dinning in an ambience which is perfect for eating and rejuvenating. It offers a vibrant setting and varied international cuisine experience in the best of environs. Under the direction and supervision of our renowned Executive Chef, you will get a chance to realize all the dreams of your taste buds in RESTURENT</p>
+<p>
+	The in-room dining experience at ORNATE is also full of delights for our valued guest. Those who wish to enjoy great flavors in the privacy of their own rooms can order from our extensive menu which is luscious as well as wholesome. You can order for in-room dining 24/7 at our room service who will look after the needs of your appetite with utmost courtesy.</p> /admin/ckfinder/userfiles/images/2/0.jpg
+3 Meeting 0 default.gif <p>
+	We are considered to be a corporate venue idea for meetings, trainings, seminars, exhibitions etc. Ornate offers just the right environs to hold all corporate events. From seating arrangement to menu creation, food catering to customized facilities for particular events, everything about the Ornate meetings and events service makes it the ideal venue to hold your business affairs. Providing you with an environment conducive to the corporate events.</p> /admin/ckfinder/userfiles/images/3/0.jpg
+4 Out Door Catering 0 default.gif <p>
+	Hotel ORNATE Catering Service takes pleasure in serving you consistently reliable quality food. Choose from our exclusively designed menus or work with our Managers to create your very own. Allow us make your occasion special at your own location with our trademark service.</p>
+<p>
+	Dinner parties for friends and families, corporate events, lavish weddings, BBQs, whatever, the accent is always on great food, affordable prices and the personal touch. Our ingredients are sourced from all over Pakistan and we aim to use local produce whenever possible.</p>
+<p>
+	Our hot and cold buffets &amp; Lunch Boxes are generous in all aspects, portions quality and price. They are planned and prepared with the same attention to detail as all our services. Again, we cater buffets for any occasion from luxurious weddings to business lunches.</p>
+<p>
+	We are always updating our menus to ensure the highest quality and varied selection for our customers, so please check back regularly. We are happy to suit our buffets to your needs and invite you to add or remove items which do not suit your requirement. Some sample menu attached</p>
+55 Rent A Car 0 default.gif <p>
+	Keeping in view the traveling and privacy needs of our valued guests, we offer Private Rent a Car facility. There is also hotel transport which is entirely for airport pick and drop on prior information on chargeing basis.&nbsp;Parking is no issue at <strong>Ornate</strong>. There a huge parking area which allows you to park your vehicle at your own convenience without any security issue.</p>
+56 Tariff & Policies 0 default.gif <p>
+	&nbsp;</p>
+<p>
+	<strong><strong>Prices of all the Room can be viewed below:</strong></strong></p>
+<p>
+	&nbsp;</p>
+<table align="left" border="1" cellpadding="0" cellspacing="0" style="width: 544px" width="680">
+	<tbody>
+		<tr>
+			<td style="width: 329px; height: 44px">
+				<p>
+					<strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rooms Details</strong></strong></p>
+			</td>
+			<td style="width: 215px; height: 44px">
+				<p align="center">
+					<strong>Room Rate</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 329px; height: 46px">
+				<p>
+					<strong><strong>&nbsp;&nbsp;&nbsp;&nbsp; Single Deluxe Rooms</strong></strong></p>
+			</td>
+			<td style="width: 215px; height: 46px">
+				<p align="center">
+					<strong>4000 + Tax</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 329px; height: 46px">
+				<p>
+					<strong><strong>&nbsp;&nbsp;&nbsp;&nbsp; Double Deluxe Rooms</strong></strong></p>
+			</td>
+			<td style="width: 215px; height: 46px">
+				<p align="center">
+					<strong>5500 + Tax</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong>&nbsp;</strong></p>
+<p>
+	<strong>&nbsp;</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Policies</strong></p>
+<p>
+	<strong>Check-in Time</strong><br />
+	1500 hrs<br />
+	<br />
+	<strong>Check-out Time</strong><br />
+	1200 hrs<br />
+	<br />
+	<strong><strong>Early Arrivals and Late Departures</strong></strong><br />
+	If your arrival is early in the day and you prefer immediate access to your room, we recommend reserving for the prior night to guarantee immediate access. Similarly, for late departures, reserving an additional night will guarantee access until you leave the hotel.<br />
+	<br />
+	<strong><strong>At the Time of Booking</strong></strong><br />
+	At Ornate Islamabad, a guaranteed reservation assures you of a room even if you check in late (after 1800 hrs). All reservations must be guaranteed by a major credit card or company letter (for corporate accounts only). Any direct reservation by guests or travel agents shall not be entitled to these special rates.<br />
+	Please check for full deposit requirements at time of booking.<br />
+	<br />
+	<strong>Cancellation Policy</strong><br />
+	Cancellations for a hotel room reservation must be received 24 hours prior to the expected day of arrival and may differ by arrival date and room type. If cancellation of a guaranteed reservation is not received by the required date, the hotel will charge for one night&#39;s accommodation.<br />
+	<br />
+	<strong>Tax</strong><br />
+	All rates are subject to applicable government taxes which is 16 %<br />
+	<br />
+	<strong>Security</strong><br />
+	We take great care to ensure that your credit card details and other personal information are secure at all times.<br />
+	<br />
+	<strong>No Show Charges </strong><br />
+	In case of no-show, a charge of first night with taxes will be levied.<br />
+	<br />
+	<strong>Child Policy </strong><br />
+	A child under 12 years of age can stay in the parents&rsquo;&iuml;&iquest;&frac12;room without being charged. For child/children, please make a special request while making reservations.<br />
+	<br />
+	<strong>Credit Cards</strong><br />
+	All major cards are accepted: American Express, Bank Card, Master Card and Visa.</p>
+61 Lunch & dinner 4 default.gif <p>
+	&nbsp;</p>
+<p>
+	<strong><em><u>Menu No.1@600+Tax</u></em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	1. Ch Qorma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	2. Palak Goshat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	3. Dall Mash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	4. Vegetable Biryani&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	5. Salad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	6. Raita</p>
+<p>
+	7. Nan/Roti&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	8. Fruit Trifle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Menu No.2 @ 650+Tax</u></strong></p>
+<p>
+	1. Ch Karahi</p>
+<p>
+	2. Ch Vegetable</p>
+<p>
+	3. Dall Mong</p>
+<p>
+	4. Egg Fried Rice</p>
+<p>
+	5. Salad</p>
+<p>
+	6. Raita</p>
+<p>
+	7. Nan/Roti</p>
+<p>
+	8. Fruit Jelly</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;<strong><u>Menu No.3 @ 700+Tax</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	1.Mutton Qorma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	2. Kabab Masala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	3. Channay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	4. Brown Rice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	5. Salad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	6. Raita&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	7. Nan/Roti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	8. Kheer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;<strong><u>Menu No.4 @750+Tax</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	1.Chicken Stem Roast</p>
+<p>
+	2. Kofta Curry</p>
+<p>
+	3.Dall Mong Masoor</p>
+<p>
+	4.Ch Biryani</p>
+<p>
+	5.Salad</p>
+<p>
+	6.Raita</p>
+<p>
+	7.Roti/Nan</p>
+<p>
+	8. Firni</p>
+58 Menu 2 default.gif <p>
+	<strong><u>Break Fast (American)</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Orange Juice</p>
+<p>
+	Two Eggs(any style)</p>
+<p>
+	Bread Basket with Jam,Butter</p>
+<p>
+	Tea/Coffee/Milk</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Break Fast (Continental)</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Two Eggs(any style)</p>
+<p>
+	Paratha/Bread Basket</p>
+<p>
+	Achar/Jam,Butter</p>
+<p>
+	Channey/Alo Ki Bujia</p>
+<p>
+	Tea/Coffee/Milk</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Soup Kettle</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Chicken Corn Soup</p>
+<p>
+	Chicken Cream Soup</p>
+<p>
+	Hot&amp;Sour Soup</p>
+<p>
+	Thi Soup</p>
+<p>
+	Mashroom Soup</p>
+<p>
+	Chicken Vegetable Soup</p>
+<p>
+	Chicken Garlic Soup</p>
+<p>
+	French Onion Soup</p>
+<p>
+	Chicken Clear Soup</p>
+<p>
+	Lantil Soup</p>
+<p>
+	Monstronic Soup</p>
+<p>
+	Mulgatani Soup</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Eat &amp; Enjoy</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Chicken Burger</p>
+<p>
+	Chicken Chees Burger</p>
+<p>
+	Chicken Sandwich</p>
+<p>
+	Club Sandwich</p>
+<p>
+	Beef Burger</p>
+<p>
+	Beef chees Burger</p>
+<p>
+	Fillet Chicken Burger</p>
+<p>
+	French Frise</p>
+<p>
+	Shami kabab</p>
+<p>
+	Chicken Cutlet</p>
+<p>
+	Drum Sticks</p>
+<p>
+	Chicken Shashlic</p>
+<p>
+	Chicken Chops</p>
+<p>
+	Finger Fish</p>
+<p>
+	Finger Fried Chicken</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Salad Bar</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Green Salad</p>
+<p>
+	Russian salad</p>
+<p>
+	Cole Slaw</p>
+<p>
+	Chicken Pineapple Salad</p>
+<p>
+	Beans Salad</p>
+<p>
+	Egg Potato Salad</p>
+<p>
+	American Salad</p>
+<p>
+	Egg Macroni</p>
+<p>
+	Italian Salad</p>
+<p>
+	French Salad</p>
+<p>
+	Apple Cabbage</p>
+<p>
+	Snow man Salad</p>
+<p>
+	Fruit Salad</p>
+<p>
+	Raita</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Bar Be Que</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Chickem Tikka</p>
+<p>
+	Chickem Boti</p>
+<p>
+	Mutton Tikka</p>
+<p>
+	Seekh Kabab</p>
+<p>
+	Chicken Seekh Kabab</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Asian Delights</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Mutton Karahi</p>
+<p>
+	Mutton Masala</p>
+<p>
+	Mutton Qorma</p>
+<p>
+	Mutton Do Piaza</p>
+<p>
+	Mutton Roghan Josh</p>
+<p>
+	Mutton Mumbai Stew</p>
+<p>
+	Mix Vegetable</p>
+<p>
+	Dall Mash</p>
+<p>
+	Shahi Dall</p>
+<p>
+	Fried Channey</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Poultry</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Chicken Karahi</p>
+<p>
+	Chicken Handi (Boneless)</p>
+<p>
+	Chicken Ginger</p>
+<p>
+	Chicken Jalfrazi</p>
+<p>
+	Chicken Masala</p>
+<p>
+	Chicken Qorma</p>
+<p>
+	Chicken Steam Roast</p>
+<p>
+	Chicken Green Masala</p>
+<p>
+	Chicken Harieesa</p>
+<p>
+	Murgh Cholley</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Steak House</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	American Steak</p>
+<p>
+	Pepper Steak</p>
+<p>
+	Chicken Steak</p>
+<p>
+	Onion Steak</p>
+<p>
+	Garlic Steak</p>
+<p>
+	Chicken Fried Steak</p>
+<p>
+	Mashroom Steak</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Chinese Delights</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Chicken Pineapple With Rice</p>
+<p>
+	Chicken&nbsp; Black Peper With Rice</p>
+<p>
+	Chicken Chilli Dry</p>
+<p>
+	Chicken Chowmein</p>
+<p>
+	Chicken Manchurien With Rice</p>
+<p>
+	Chicken Vegetable With Rice</p>
+<p>
+	Sweet&amp; Sau Chicken &nbsp;With Rice</p>
+<p>
+	Chicken Ginger&nbsp; With Rice</p>
+<p>
+	Beef Chilli Dry</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Rice</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Chicken Biryani</p>
+<p>
+	Mutton Biryani</p>
+<p>
+	Chicken Shashlic</p>
+<p>
+	Egg Fried Rice</p>
+<p>
+	Vegetable Pullao</p>
+<p>
+	Chicken Fried Rice</p>
+<p>
+	Muragh Pullao</p>
+<p>
+	Muragh Pullao</p>
+<p>
+	Arabic Rice</p>
+<p>
+	Beef Shashlic</p>
+<p>
+	Plain Rice</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	<strong><u>Dessert</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Choice of Ice Cream</p>
+<p>
+	Ornate Special</p>
+<p>
+	Shahi Tukra</p>
+<p>
+	Ffruit Triffle</p>
+<p>
+	Kheer</p>
+<p>
+	Fresh Cream Soffle</p>
+<p>
+	Fruit Jelly</p>
+<p>
+	Mix Pudding</p>
+<p>
+	Apple pie</p>
+<p>
+	Cake basket</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Tandoori</u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Nan</p>
+<p>
+	Roghani Nan</p>
+<p>
+	Roti</p>
+<p>
+	Paratha</p>
+<p>
+	Garlic Nan</p>
+<p>
+	Chicken Nan</p>
+<p>
+	Qeema Nan</p>
+<p>
+	Alo Nan</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><u>Baverages </u></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Soft Drink</p>
+<p>
+	Fresh Lime With 7up</p>
+<p>
+	Fresh Lime With Water</p>
+<p>
+	Cold Coffi With Ice Cream</p>
+<p>
+	Tea</p>
+<p>
+	Green TeaCoffee</p>
+<p>
+	Mineral Water</p>
+<p>
+	Milk shake</p>
+<p>
+	Ice cream Shake</p>
+<p>
+	Fresh Juice</p>
+0 Main Menu default.gif default.gif
+60 Special Offer 2 default.gif
+
++++++++++
+ornate_ornate - lito_user:(1)
+Id,Username,Password,FullName,Email
+1 admin admin Administrator fakhiir@hotmail.com
+
++++++++++
+
+ 

@@ -1,0 +1,792 @@
+ultimatenutritionindia.com/index.php?action=listProduct&catId=4
+ 
+paradisen_ultimate - pn_admin:(3)
+admin_id,admin_username,admin_password,admin_email,admin_dateCreated,admin_dateUpdated,admin_isActive
+1 admin 1d52873c660999c7ba80ebd3f99e8cc6 pni@ultimatenutritionindia.com 2014-10-06 13:38:56 2011-06-02 17:18:46 1
+2 advise 0192023a7bbd73250516f069df18b500 pni@ultimatenutritionindia.com 2011-11-01 22:05:29 2011-10-12 12:48:51 1
+3 test 369652594b16e7dabb987aadc4967b82 pni@ultimatenutritionindia.com 2011-10-13 23:41:57 2011-10-13 17:14:34 1
+
++++++++++
+paradisen_ultimate - pn_advise:(452)
+advise_id,advise_userId,advise_question,advise_suggestion,advice_name,advice_add,advice_tel,advice_mobile,advice_email,advice_height,advice_weight,advice_sex,advice_foodhabits,advice_lifestyle,advice_age,advice_workout,advice_monthlybudget,advice_anydisease,advise_dateCreated,advise_dateUpdated,advise_isActive
+46 1 dfsgdfgs sgdfg dfgsdgsdfgsdfgd 2011-07-28 00:00:00 2011-07-28 00:00:00 0
+2 1 how to increase weight by 10 kg in 1 months This is a reply from an experts 2011-06-21 19:30:38 2011-07-29 13:50:52 0
+60 1 marus ruhl no com 2011-08-25 12:00:59 2011-08-25 12:02:11 0
+45 1 gjsdghkdfhghskghdf vcvbxcvb xfv xdfgsdrg dfsgs d 2011-07-28 00:00:00 2011-07-28 00:00:00 0
+44 1 this is a add? yes this is 2011-07-28 00:00:00 2011-07-28 00:00:00 0
+5 1 qu4 reply4 2011-06-23 18:49:40 2011-06-23 18:52:50 0
+6 1 fdfdk5 reply45 2011-06-23 18:50:00 2011-06-23 18:52:57 0
+7 1 gfsdgfg6 reply46 2011-06-23 18:50:08 2011-06-23 18:53:03 0
+8 1 hghgfhg7 reply47 2011-06-23 18:50:14 2011-06-23 18:53:09 0
+9 1 hgfhgfhg8 reply48 2011-06-23 18:50:27 2011-06-23 18:53:17 0
+119 1 bbbbbb 2011-10-01 02:50:47 0
+120 1 Type your question here.You will get response through mail.12121 2011-10-01 02:54:09 0
+121 1 Type your question here.You will get response through mail.777 2011-10-01 03:02:04 0
+122 1 Type your question here.You will get response through mail.454545 2011-10-01 03:06:28 0
+123 1 Type your question here.You will get response through mail.kml khkj hk khklj 2011-10-01 03:41:19 0
+124 83 Type your question here.You will get response through mail.2323 2011-10-01 05:09:38 0
+125 61 abc 2011-10-01 05:12:03 0
+127 1 hi sdsd 2011-10-02 06:53:04 2011-10-02 06:53:22 0
+128 1 ABC ASFFSSF 2011-10-02 23:06:29 2011-10-02 23:07:06 0
+129 6 dfsdfsdfsdfsdf jignesh test reply 2011-10-03 00:42:17 2011-10-03 00:43:17 0
+
++++++++++
+paradisen_ultimate - pn_banner:(87)
+banner_id,banner_page,product_category_id,banner_position,banner_type,banner_image_flash,banner_url,banner_dateCreated,banner_dateUpdated,banner_isActive
+111 Home Page 1 Left Side Top Image 1389767510BFYBANNERWEB.jpg https://paradisenutrition.in/brand/myprotein.html 2018-02-16 16:53:40 2018-02-16 16:53:40 1
+104 Home Page 1 Left Side Middle Image 1448357547236px x 330px.jpg https://paradisenutrition.in/brand/biofit.html 2018-02-16 16:54:24 2018-02-16 16:54:24 1
+3 Home Page 0 Left Side Bottom Image 1313480205bottom.jpg https://paradisenutrition.in/brand/gonutrition.html 2018-02-16 16:53:49 2018-02-16 16:53:49 1
+113 Home Page 1 Center page Image 1383803119New Year Web Banner 2013.jpg http://ultimatenutritionindia.com/index.php?action=promo 2013-11-07 11:15:19 2013-11-07 11:15:19 1
+5 List Product Page 0 Left Side Top Image 1360999413UNCalendar2013.jpg # 2013-02-16 12:53:33 2013-02-16 12:53:33 1
+6 List Product Page 0 Left Side Middle Image 1363432922b.jpg # 2013-03-16 16:52:02 2013-03-16 16:52:02 1
+7 List Product Page 0 Left Side Bottom Image 1308568568img3.jpg http://www.ultimatenutritionindia.com/upload/Markus-Ruhl-January-Musclemag-2010.pdf 2011-09-29 03:04:34 2011-09-29 03:04:34 1
+8 About us 0 Left Side Top Image 1360999196UNCalendar2013.jpg http://paradisenutrition.in/brand/myprotein.html 2016-07-13 13:55:42 2016-07-13 13:55:42 1
+9 About us 0 Left Side Middle Image 1363432598b.jpg # 2013-03-16 16:46:38 2013-03-16 16:46:38 1
+10 About us 0 Left Side Bottom Image 1313494036bottom.jpg https://paradisenutrition.in/brand/gonutrition.html 2016-07-13 14:08:28 2016-07-13 14:08:28 1
+
++++++++++
+paradisen_ultimate - pn_category:(21)
+category_id,category_parentId,category_name,category_desc,category_dateCreated,category_dateUpdated,category_isActive
+1 0 Amino Acids Amino Acids 2011-06-03 15:48:55 2011-06-07 00:00:00 1
+2 0 General Nutrition General Nutrition 2011-08-04 18:31:05 2011-06-07 00:00:00 1
+3 0 Gainers Gainers 2011-06-03 15:49:23 0000-00-00 00:00:00 0
+4 0 Proteins Proteins 2011-06-03 15:49:44 2011-06-07 00:00:00 1
+6 0 Sports Nutrition Sports Nutrition 2011-08-04 14:41:54 2011-06-07 00:00:00 1
+7 0 Weight Management Weight Management 2011-06-03 15:50:27 2011-06-07 00:00:00 0
+8 0 Bar and Energy Drinks Bar and Energy Drinks 2011-06-03 15:51:01 2011-06-08 00:00:00 0
+9 0 Promotional Promotional 2011-06-03 15:51:12 2011-06-08 00:00:00 0
+10 0 Full Combat Full Combat 2011-06-15 15:50:27 0000-00-00 00:00:00 1
+11 7 Weigh Gainer 2011-07-07 18:06:20 0000-00-00 00:00:00 0
+
++++++++++
+paradisen_ultimate - pn_cms:(3)
+cms_id,cms_name,cms_desc,cms_isActive
+1 About Us <html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<p>
+			<strong style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; color: rgb(255, 0, 0);">Paradise Nutrition Inc</span></strong><span style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;">. is an import &amp; distribution company established in 2002. Our Goal is to provide world&rsquo;s best manufactured Nutritional Supplements, sports Fitness accessories to Indian market. We don&rsquo;t Compromise on the Quality of the Products, We distribute the World best brands which meets high Quality Standards directly from the manufacturers and do not deal with any third party manufactured brand. One thing that has remained constant in our journey is our love for what we do and our focus on delivering products of quality at extremely competitive prices.</span></p>
+		<div id="cke_pastebin">
+			<div class="std" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">
+				<p style="margin: 0px 0px 1em; padding: 0px;">
+					<strong style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; color: rgb(255, 0, 0);">Paradise Nutrition Inc</span></strong>.&nbsp;Is the pioneer in the Indian market in providing world class dietary supplement &amp; fitness accessories.<br style="margin: 0px; padding: 0px;" />
+					<br style="margin: 0px; padding: 0px;" />
+					<strong style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; color: rgb(255, 0, 0);">Paradise Nutrition Inc</span></strong>. Here by introduces its own line of fitness product. Biofit an innovative line of Fitness Gloves, Belts &amp; Training Accessories. Biofit products are made from the best integrated composite of world class Fabrics like Lykra, Nylon, Cotton, Polyster, Leather, Velcro, Metals, etc each &amp; every products are designed as per the need of athletes &amp; fitness enthusiastic.<br style="margin: 0px; padding: 0px;" />
+					<br style="margin: 0px; padding: 0px;" />
+					Biofit series of gloves delivers superior grip and protection to ensure that our customers get the most out of their exercise routine. Biofit&nbsp; products are committed to make Workout better, Weightlifting, Core Strengthening, Endurance Building, High Intensity Interval Training. Biofit&nbsp; line of products are made as per the need that our customer really wants.<br style="margin: 0px; padding: 0px;" />
+					<br style="margin: 0px; padding: 0px;" />
+					We don&rsquo;t compromise on the Quality of the products. Entire range of Biofit meets High Quality Standards at extremely affodable prices.<br style="margin: 0px; padding: 0px;" />
+					<br style="margin: 0px; padding: 0px;" />
+					We Are Clear With Our Principle - &ldquo;Do It Right Or Don&rsquo;t Do It&rdquo;</p>
+				<p style="margin: 0px 0px 1em; padding: 0px;">
+					<strong style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; color: rgb(255, 0, 0);">&nbsp;Paradise Nutrition Inc.</span></strong>&nbsp;makes possible to you the same commitment and enterprise that is promised by brand owners. Enjoy yourself in browsing through the website and feel free to contact us for any further Enquiries. For more detail visit <a href="https://paradisenutrition.in">www.paradisenutrition.in</a></p>
+				<p style="margin: 0px 0px 1em; padding: 0px;">
+					&nbsp;</p>
+				<p style="margin: 0px 0px 1em; padding: 0px;">
+					<strong>Disclaime</strong>r : <strong><span style="color:#f00;">Paradise Nutrition Inc</span></strong> no more distributes Ultimate Nutrition in India. Since 2015 after Ultimate Nutrition bankruptcy we have stop working with Ultimate Nutrition as a exclusive distributor in India, We have completely stopped importing Ultimate Nutrition in India due to various quality issue we were facing with the brand. <span style="color:#f00;"><strong>Paradise Nutrition Inc</strong></span> only works with companies having High Quality standard product and does not compromise in quality of the products. Ultimate Nutrition is now unapproved brand of <span style="color:#f00;"><strong>Paradise Nutrition Inc</strong></span> and the stock on sale is the last stock for clearance.&nbsp;</p>
+			</div>
+		</div>
+	</body>
+</html> 1
+2 Terms and Conditions <html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<p>
+			Terms and Conditions</p>
+		<p>
+			<strong style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">Disclaime</strong><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">r :&nbsp;</span><strong style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);">Paradise Nutrition Inc</span></strong><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">&nbsp;no more distributes Ultimate Nutrition in India. Since 2015 after Ultimate Nutrition bankruptcy we have stop working with Ultimate Nutrition as a exclusive distributor in India, We have completely stopped importing Ultimate Nutrition in India due to various quality issue we were facing with the brand.&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);"><strong>Paradise Nutrition Inc</strong></span><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">&nbsp;only works with companies having High Quality standard product and does not compromise in quality of the products. Ultimate Nutrition is now unapproved brand of&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);"><strong>Paradise Nutrition Inc</strong></span><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">&nbsp;and the stock on sale is the last stock for clearance.&nbsp;</span></p>
+	</body>
+</html> 1
+3 Private Policy <html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<p>
+			<strong>Privacy Policy - Your Privacy Rights</strong></p>
+		<p>
+			<strong>Privacy Policy Effective Date: 01,April 2011</strong></p>
+		<p>
+			At Paradise Nutrition Inc. we are committed to protecting the privacy of our customers, and therefore do not sell or rent our customers&rsquo; Personal Information to any third party. Further, we do not share your Personal Information with any third parties for their direct marketing purposes without first providing you the opportunity to opt-in or opt-out of such sharing. You may request information about how we share information consistent with this Privacy Policy by contacting us at: <a href="mailto:info@ultimatenutritionindia.com">info@ultimatenutritionindia.com</a></p>
+		<p>
+			The <a href="http://www.ultimatenutritionindia.com">www.ultimatenutritionindia.com</a>, are owned by Paradise Nutrition Inc. We refer to Paradise Nutrition Inc. as the &ldquo;<strong>Company</strong>,&rdquo; &ldquo;<strong>we</strong>,&rdquo; &ldquo;<strong>us</strong>&rdquo; or &ldquo;<strong>our</strong>.&rdquo;</p>
+		<p>
+			This page sets forth our policies regarding the use and disclosure of information we collect from or are able to obtain about the Sites&rsquo; users. We refer to these policies as our &ldquo;<strong>Privacy Policy</strong>.&rdquo; In addition to the lower case words &ldquo;we,&rdquo; &ldquo;us&rdquo; and &ldquo;our&rdquo; defined above, you will notice that we capitalize certain words in this Privacy Policy even though the rules of grammar do not require that they be capitalized. We do this because these words have specific meanings in this Privacy Policy. These specific meanings are found where the capitalized words are placed in bold text and inside quotation marks.</p>
+		<p>
+			We hope this Privacy Policy will answer your questions regarding how we treat information gathered from our Sites. If you have questions or concerns regarding this Privacy Policy, other than requests for our information sharing practices as described in the first paragraph above, please feel free to contact us at <a href="mailto:info@ultimatenutritionindia.com">info@ultimatenutritionindia.com</a>; or, if you wish to exclude your Personal Information from our direct marketing programs including e-mail, please refer to the section titled &ldquo;How to Opt-Out,&rdquo; below.</p>
+		<p>
+			This Privacy Policy does not apply to information that you may provide to us, or that we may obtain through means other than the Sites, such as by phone or postal mail, but please note that Personal Information obtained through such means will be treated in accordance with the first paragraph above and our use of such Personal Information will be consistent with this Privacy Policy. By accessing and using the Sites you are agreeing to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you are not authorized to use the Sites. Furthermore, by providing us with Personal Information on the Sites, you fully understand and unambiguously consent to the collection and processing of such information in accordance with this Privacy Policy.</p>
+		<p>
+			As we update and diversify our products and services, this Privacy Policy may change. We reserve the right, at our discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. Please check this page for updates periodically. If we make any material changes to this Privacy Policy, we will notify you here. Unless the law otherwise requires, we do not provide notice of changes to this Privacy Policy and your use of the Sites following any posted changes will indicate your acceptance of such changes.</p>
+		<p>
+			<strong>What Information We Collect and Inactively Gather?</strong></p>
+		<p>
+			<strong>Personal Information</strong></p>
+		<p>
+			In order to process orders efficiently, when you place an order with us or register an account on the Sites we actively collect the following personal information: name, billing address, shipping address, e-mail address and phone number, (&ldquo;<strong>Personal Information</strong>&rdquo;). If you prefer not to disclose your Personal Information online, you can always place your order by visiting one of the many stores where our products are sold.</p>
+		<p>
+			We may periodically conduct surveys of visitors to our Sites for internal research purposes that may include marketing. This helps us better understand what our customers would like to see from us. If you respond to such surveys, we may ask you for some Personal Information and/or may contact you for more information, but only if you have given us permission to do so.</p>
+		<p>
+			We may also receive information about you from other sources.</p>
+		<p>
+			<strong>Usage Information</strong></p>
+		<p>
+			We (including through our third party service providers) may inactively collect from you information that is not in the same category as Personal Information. For example, we might track information about the date and time you access the Sites, the type of web browser you used, and the websites from which you connect to our Sites. We collect and use this and other non-Personal Information (such as demographic data) to analyze and develop our business strategy and to determine how you found out about us, your interests regarding our products and services and how to further improve our Sites. We, or a third party, may also collect information from your activities on the Sites for the purposes of providing advertisements and other content to you at the Sites that are customized to your interests and preferences. To accomplish all this, and also to allow us to offer our customers streamlined ordering and other useful features, we, as do many websites, use the technologies listed below and other similar technologies (the &ldquo;<strong>Tracking Technologies</strong>&rdquo;):</p>
+		<ul>
+			<li>
+				<strong>Cookies and Clear GIFs</strong>- Cookies are pieces of information that are stored by your browser on your computer&rsquo;s hard drive. Cookies make web surfing easier for you by saving your customer identification information (i.e. username, password, shopping cart information, etc.) while you&rsquo;re at our Sites. Cookies also track where you travel on our Sites and what you look at and purchase. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual&rsquo;s viewing or receipt of a web page or message.</li>
+			<li>
+				<strong>IP Address Tracking and Clickstream Data</strong>- In addition to cookies and clear GIFs, our servers automatically collect data about your server&rsquo;s Internet address when you visit our Sites. This information, known as an Internet Protocol Address, or &ldquo;<strong>IP Address</strong>&rdquo;, is a number that is automatically assigned to your computer by your Internet service provider whenever you are on the Internet. When you view pages from our Sites, our servers may record or &ldquo;log&rdquo; your IP Address and sometimes your domain name. Our server also may record the page that linked you to us and related information including any ads you may have clicked on. Such information is known as &ldquo;<strong>Clickstream Data</strong>&rdquo;.</li>
+			<li>
+				<strong>Email Interconnectivity</strong>- If you receive email from us, we may use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.</li>
+		</ul>
+		<p>
+			In some cases, we may link the non-Personal Information collected through the Tracking Technologies with certain of your Personal Information. WE WANT TO BE SURE THAT YOU UNDERSTAND THAT ACCEPTING TRACKING TECHNOLOGIES ONTO YOUR COMPUTER IN NO WAY GIVES US ACCESS TO YOUR COMPUTER OR ANY PERSONAL INFORMATION ABOUT YOU. YOU MAY SET YOUR WEB BROWSER SOFTWARE TO REJECT TRACKING TECHNOLOGIES, BUT, IF YOU DO SO, CERTAIN FUNCTIONALITY OF THE SITES MAY BE AFFECTED. Third parties (including, but not limited to, software vendors, advertisers and fulfillment companies) may also use Tracking Technologies by or through the Sites. WE HAVE NO CONTROL OVER WHAT INFORMATION SUCH THIRD PARTIES TRACK OR COLLECT, AND HAVE NO RESPONSIBILITY OR LIABILITY FOR ANY TRACKING, DATA COLLECTION OR OTHER ACTIVITIES OF SUCH THIRD PARTIES.</p>
+		<p>
+			<strong>Security of the Information You Provide</strong></p>
+		<p>
+			Among our top priorities is keeping your Personal Information secure. The computers that store your Personal Information may be located in a separate facility which employs security technology. We employ these procedures to protect your Personal Information from unauthorized access, destruction, use, modification or disclosure.</p>
+		<p>
+			You may be able to create an account on our Sites with a username and password, including if you set up a customer account. We recommend you exercise extreme care in protecting your password information and do not publicly share any of your passwords. You are responsible for maintaining the strict confidentiality of your account password, and you are responsible for any access to or use of the Sites by you or another person or entity using your password, whether or not such access or use has been authorized by or on behalf of you.</p>
+		<p>
+			Your Personal Information will be stored and processed on our computers in the India. The laws on holding Personal Information in India may vary and be less stringent than laws of your state or country. We will use commercially reasonable efforts to hold and transmit your Personal Information in a safe, confidential and secure environment. If you object to your Personal Information being transferred or used in this manner please do not register with or use the Sites.</p>
+		<p>
+			ALTHOUGH WE WILL TAKE (AND REQUIRE OUR THIRD PARTY PROVIDERS TO TAKE) REASONABLE SECURITY PRECAUTIONS TO PROTECT THE PERSONAL INFORMATION COLLECTED FROM AND STORED ON THE SITES, BECAUSE OF THE OPEN NATURE OF THE INTERNET, WE CANNOT GUARANTEE THAT PERSONAL INFORMATION STORED ON OUR SERVERS, TRANSMITTED TO OR FROM A USER, OR OTHERWISE IN OUR CARE WILL BE ABSOLUTELY SAFE FROM INTRUSION BY OTHERS, SUCH AS HACKERS. ACCORDINGLY, WE DISCLAIM ANY LIABILITY FOR ANY THEFT OR LOSS OF, UNAUTHORIZED ACCESS OR DAMAGE TO, OR INTERCEPTION OF ANY DATA OR COMMUNICATIONS. BY USING THE SITES, YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND AGREE TO ASSUME THESE RISKS.</p>
+		<p>
+			<strong>How Do We Use the Information that You Provide and We Collect?</strong></p>
+		<p>
+			We collect Personal Information for the purposes of fulfilling orders and providing you with the services you have chosen, providing a high level of customer service, providing you with information we believe may be of interest including mailing our newsletter, circulars and special offers, for editorial and feedback purposes, for internal marketing and promotional purposes, for a statistical analysis of your behavior, for product development, for content improvement and to customize the content and layout of the Sites (collectively, &ldquo;<strong>Information Usage Purposes</strong>&rdquo;). In performing the Information Usage Purposes, we may combine information we collect on the Sites with information we receive from other sources. We do not sell Personal Information and we do not disclose Personal Information to any other party, except as set forth in this Privacy Policy. Unless otherwise provided in this Privacy Policy, any non-Personal Information you transmit to the Sites or we collect from the Sites will be treated as non-confidential and non-proprietary and you agree that we may use any such non-Personal Information (together with any ideas, concepts, know-how, or techniques contained therein) in any manner, for any purpose, without credit or compensation to you.</p>
+		<p>
+			<strong>Sharing of Your Information With Our Partners; Transfer of Your Information</strong></p>
+		<p>
+			We may provide your Personal Information to our associates and to companies acting as our authorized agents or partners in providing our service or co-branded services to you and in performing Information Usage Purposes. We screen and reasonably determine to be reputable any third party to whom we disclose such information and we require such third parties to agree to use the Personal Information only for such specified purposes. Each of our partners must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your Personal Information in order to protect your Personal Information from unauthorized access, destruction, use, modification or disclosure.</p>
+		<p>
+			If we merge, or sell or otherwise transfer our assets, Sites or operations, we may disclose or transfer your Personal Information in connection with such transaction.</p>
+		<p>
+			<strong>How to Opt-out</strong></p>
+		<p>
+			We will be sending e-mail for customer service purposes and various offers and/or circulars.</p>
+		<p>
+			If at any time you wish to stop receiving offers and/or circulars e-mail from us, you can always remove your name from our mailing list by sending an e-mail to <a href="mailto:info@ultimatenutritionindia.com">info@ultimatenutritionindia.com</a>&nbsp; stating that you wish to unsubscribe and indicating in the subject line of the e-mail &quot;NO E-MAIL&quot;. Although we will promptly remove your name from our offers and newsletter e-mail list upon receiving your request, it is possible that you may still receive e-mails from us that had been initiated prior to your name being removed from our list.You can also contact us by mail:</p>
+		<table border="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td>
+						<p>
+							Paradise Nutrition Inc.<br />
+							Attention: &nbsp;Customer Service - Privacy<br />
+							Internet Division<br />
+							62 Bajaj Bhawan, 226 Nariman Point,<br />
+							Mumbai 400 021. India<br />
+							<a href="mailto:info@ultimatenutritionindia.com">info@ultimatenutritionindia.com</a></p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			THE OPT-OUT RIGHTS AND PROCEDURES DESCRIBED IN THIS SECTION ARE THE DEFAULT RULES AND PROCEDURES WE USE IN OPERATING THE SITES AND ARE THE STANDARD BY WHICH WE ADHERE TO OUR PRIVACY POLICY.</p>
+		<p>
+			<strong>Release of Information to Protect Our Sites and Others</strong></p>
+		<p>
+			We may release Personal Information when we believe, in good faith, that such release is necessary to comply with law, protect the rights, properties or safety of the Company, our users or others, or enforce or apply the terms of any of our user agreements.</p>
+		<p>
+			<strong>Your Account Access Rights</strong></p>
+		<p>
+			You may review and make changes to the Personal Information that is stored in your user account on the Sites by visiting the &ldquo;My Account&rdquo; area of the Sites.</p>
+		<p>
+			<strong>Intended Users; Use by Children under 13</strong></p>
+		<p>
+			<strong>The Sites is not purposefully directed at children under the age of 13 and</strong><strong>all products available for sale on the Sites are intended to be purchased by adults.</strong> We do not collect or maintain Personal Information, via the Sites or otherwise, from those we actually know are children under 13 years of age. If you notify us that information has been provided by a child under the age of 13, upon verification, we will promptly delete such information.</p>
+		<p>
+			<strong>Third Party Ad Servers; Links to Other Websites</strong></p>
+		<p>
+			We may use third party advertising companies to serve ads when you visit our Sites. The Sites also may contain links to other websites that are not under our control. These links may include the use of so-called &ldquo;share links.&rdquo; A &ldquo;share link&rdquo; is a button and/or text link appearing on our Sites that enables the launch of a sharing mechanism whereby you can post links to, and content from, the Sites onto social networking websites such as Facebook. The privacy policies of other website operators or advertisers may significantly differ from our Privacy Policy. We urge you to read the privacy statements of each and every website you visit and to contact the third party website operators or advertisers directly if you have any questions or concerns about their data collection or privacy policies. WE HAVE NO CONTROL OR INFLUENCE OVER THE PRIVACY PRACTICES OF SUCH OTHER WEBSITES AND ADVERTISERS AND WE DO NOT ASSUME ANY RESPONSIBILITY OR LIABILITY FOR ANY THIRD PARTY WEBSITE OPERATORS&rsquo; OR ADVERTISERS&rsquo; DATA COLLECTION PRACTICES, THEIR FAILURE TO ABIDE BY THEIR PRIVACY POLICIES OR THE CONTENT OF ANY THIRD PARTY WEBSITE.</p></body>
+</html> 1
+
++++++++++
+paradisen_ultimate - pn_events:(32)
+id,event_title,event_description,event_on_date,event_created_date,is_delete
+1 fri <p>
+	vzxcvvcvz</p> 2011-06-28 2011-06-27 1
+2 test <p>
+	djgff fkhfjkaskhf klfjlajflasfjasljf</p> 2011-06-29 2011-06-27 1
+3 Markus Ruhl <p>
+	<strong>Ultimate Nutriton India: </strong>Going to paricipate in events 2011 Markus Ruhl</p> 2011-08-22 2011-07-30 1
+4 thurs <p>
+	mbhjdkshjf testing</p> 2011-06-24 2011-06-15 1
+7 new event12 <p>
+	kghsdjkfghkghhkh</p>
+<p>
+	hdfgksdfhshgdfkhg</p>
+<p>
+	jkdgksdfhgjkhsdfgkshdgldjfg</p>
+<p>
+	hjjkghjksdfgksfhgksdhgjk</p>
+<p>
+	jkksdsghklsgsdklgjsldgjlgjlsdgskldjg</p>
+<p>
+	gkgfksgjklgjflgjsdlgjsdlgjsdlgjsdklgjsdflg</p> 2011-07-30 2011-07-25 1
+8 old events here <p>
+	dfkghsdfkgh khgjklsdfhglj gljl;djgl;sdjgl ldjgkljsdlgj</p>
+<p>
+	uhjksdfgkdgksdkghf</p> 2011-06-19 2011-07-28 1
+9 Olympia 2011 <p>
+	<strong>Ultimate Nutrition India</strong> is going to participate in Exhibtion Olympia 2011 - USA</p> 2011-08-25 2011-07-25 1
+5 123 <p>
+	123</p> 2011-07-21 2011-07-21 1
+6 test event <p>
+	test</p> 2011-07-28 2011-07-25 1
+10 paradise event <p>
+	parqadise event desc</p> 2011-08-08 2011-08-04 1
+
++++++++++
+paradisen_ultimate - pn_flavour:(34)
+flavour_id,flavour_name,flavour_dateCreated,flavour_dateUpdated,flavour_isActive
+1 Chocolate 2011-06-03 00:00:00 2011-06-03 00:00:00 1
+2 Strawberry 2011-06-03 00:00:00 2011-06-03 00:00:00 1
+3 Pineapple 0000-00-00 00:00:00 0000-00-00 00:00:00 1
+4 Rassberry 2011-06-17 13:26:09 2011-06-17 13:26:13 1
+5 Vanilla 2011-06-17 13:26:44 2011-06-17 13:26:48 1
+6 Banana 2011-07-07 00:00:00 2011-07-07 00:00:00 1
+7 Chocolate Mint 2011-07-07 00:00:00 2011-07-07 00:00:00 1
+8 Cocoa Mocha 0000-00-00 00:00:00 0000-00-00 00:00:00 1
+9 Cookies N' Cream 2011-07-07 00:00:00 2011-07-07 00:00:00 1
+10 Raspberry 2011-07-07 00:00:00 2011-07-07 00:00:00 1
+
++++++++++
+paradisen_ultimate - pn_gallery:(14)
+gallery_id,gallery_name,gallery_desc,gallery_status,gallery_dateCreated,gallery_dateUpdated,gallery_isActive
+1 Olympia 2011 commenced on 10Jan 2010 1 2011-06-17 17:59:32 2011-09-23 04:46:14 0
+2 Marcus Ruhi Marcus Ruhi 1 2011-06-17 21:07:50 2011-06-18 16:55:45 0
+4 Gallery desc ererereer 1 2011-08-04 20:18:34 2011-08-06 13:43:25 0
+5 New Gallery teast 1 2011-08-06 16:08:22 2011-08-06 16:08:22 0
+6 marus abc 1 2011-08-25 12:06:28 2011-08-25 12:06:28 0
+7 Bill Wilmore abc 1 2011-08-26 17:28:29 2014-12-12 18:59:59 1
+8 olympia 2011 1 2011-09-23 04:53:57 2011-09-23 04:53:57 1
+9 John Abraham At Trident 1 2011-11-13 22:30:26 2012-06-19 10:37:26 0
+10 John Abraham Photoshoot 1 2012-06-04 12:52:29 2012-06-19 11:27:54 0
+11 jo 1 2012-06-19 11:14:17 2012-06-19 11:14:17 0
+
++++++++++
+paradisen_ultimate - pn_galleryimages:(51)
+galleryImages_id,galleryImages_galleryId,galleryImages_image,galleryImages_isDefault,galleryImages_dateCreated,galleryImages_dateUpdated,galleryImages_isActive
+28 1 DSC00471a.JPG 1 2011-09-23 04:48:10 2011-09-23 04:48:10 1
+27 1 DSC00471a.JPG 0 2011-09-23 04:48:10 2011-09-23 04:48:10 1
+4 2 5.jpg 0 2011-06-18 16:25:58 2011-06-18 16:25:58 1
+5 2 8.jpg 0 2011-06-18 16:25:58 2011-06-18 16:25:58 1
+6 2 81.jpg 0 2011-06-18 16:25:58 2011-06-18 16:25:58 1
+7 2 111.jpg 1 2011-06-18 16:25:58 2011-06-18 16:25:58 1
+17 6 _MG_2436.JPG 0 2011-08-25 12:08:10 2011-08-25 12:08:10 1
+18 6 _MG_2518.JPG 0 2011-08-25 12:08:48 2011-08-25 12:08:48 1
+72 7 UNCalendar2013-9.jpg 0 2013-05-25 11:25:54 2013-05-25 11:25:54 1
+71 7 UNCalendar2013-7.jpg 0 2013-05-25 11:25:46 2013-05-25 11:25:46 1
+
++++++++++
+paradisen_ultimate - pn_galleryvideos:(23)
+id,video_title,video_description,video_url,created_by,uploaded_date,status
+1 video123 <p>
+	123 ksdhfdkshdklhgkdfgh dfgdfklg</p>
+<p>
+	djgksdfhgjkhkh</p>
+<p>
+	jkhkdghdfsgg</p> 1309865028_demo.flv 1 2011-07-05 15:44:16 delete
+2 demo <p>
+	demo Video</p>
+<p>
+	dgfsd gfshfksdg kghdf kghdhg</p> 1309954673_demo.flv 1 2011-07-06 17:47:53 delete
+3 Markus Ruhl <p>
+	<iframe allowfullscreen="" frameborder="0" height="345" src="http://www.youtube.com/embed/BXCTByfxJ9o" width="420"></iframe></p> no.JPG 1 2011-07-16 18:08:42 enable
+4 oly <p>
+	a</p> 1314254833_02586.wmv 1 2011-08-25 12:17:13 delete
+5 j <p>
+	aas</p> 1314255130_02586.wmv 1 2011-08-25 12:22:10 delete
+6 jo <p>
+	a</p> 1314262659_02586.wmv 1 2011-08-25 14:27:39 delete
+7 ma <p>
+	a</p> 1314271083_02586.wmv 1 2011-08-25 16:48:03 delete
+8 test Video <p>
+	<iframe allowfullscreen="" frameborder="0" height="345" src="http://www.youtube.com/embed/GwQMnpUsj8I" width="420"></iframe></p> no.JPG 1 2011-08-25 17:05:53 delete
+9 jh <p>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="276" width="406"><param name="quality" value="high" /><param name="movie" value="C:\Documents and Settings\Administrator\Desktop\pdf/1" /><param name="quality" value="high" /><param name="movie" value="C:\Documents and Settings\Administrator\Desktop\pdf" /><embed height="276" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="C:\Documents and Settings\Administrator\Desktop\pdf/1" type="application/x-shockwave-flash" width="406"></embed></object></p> no.JPG 1 2011-08-26 13:42:58 delete
+10 ab <p>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="268" width="310"><param name="quality" value="high" /><param name="movie" value="C:\Documents and Settings\Administrator\Desktop\pdf/r" /><embed height="268" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="C:\Documents and Settings\Administrator\Desktop\pdf/r" type="application/x-shockwave-flash" width="310"></embed></object></p> no.JPG 1 2011-08-26 13:53:18 delete
+
++++++++++
+paradisen_ultimate - pn_mastercategory:(3)
+masterCategory_id,masterCategory_parentId,masterCategory_name,masterCategory_desc,masterCategory_dateCreated,masterCategory_dateUpdated,masterCategory_isActive
+3 0 general Nutrition 2011-06-02 17:30:37 0000-00-00 00:00:00 0
+4 0 Steroids sdsdsdsfd fdfdfdfd 2011-06-02 18:12:14 0000-00-00 00:00:00 1
+5 0 Albumin dsdsdfs dfd fdf 2011-06-02 18:13:50 0000-00-00 00:00:00 1
+
++++++++++
+paradisen_ultimate - pn_order:(44671)
+order_id,order_userId,order_date,order_payStatus,order_delStatus,promo_code,price_off,order_add1,order_add2,order_add3,order_landmark,order_city,order_state,order_pin,order_country,order_dateCreated,order_dateUpdated,order_bankFlag,order_payType,order_bankName,order_transactionId,order_chequeNumber,order_amountPaid,order_datePaid,order_sreenshot,order_comments,order_isActive,order_emailnote
+1 1 2011-06-13 19:02:20 notdelivered 0 0 Room No.46 Nupur Society panchshil nagar Opp. KGST Mumbai Maharashtra 400090 India 2011-06-13 19:02:20 2011-06-13 19:02:20 0
+2 1 2011-06-13 19:13:07 notpaid notdelivered 0 0 Room No.46 Nupur Society panchshil nagar Opp. KGST Mumbai Maharashtra 400090 India 2011-06-13 19:13:07 2011-06-13 19:13:07 0
+3 1 2011-06-14 14:35:47 notpaid notdelivered 0 0 Room No.47 Nupur Society1 panchshil nagar1 Opp. KGST1 Mumbai1 Maharashtra1 400091 India1 2011-06-14 14:35:47 2011-06-14 14:35:47 0
+4 1 2011-06-14 15:04:19 notpaid notdelivered 0 0 Room No.47 Nupur Society1 panchshil nagar1 Opp. KGST1 Mumbai1 Maharashtra1 400091 India1 2011-06-14 15:04:19 2011-06-14 15:04:19 0
+5 2 2011-06-23 17:08:28 paid notdelivered 0 0 webwerks prabhadevi dadar near siddhivinayak temple mumbai maharashtra 4001020 India 2011-06-23 17:08:28 2011-06-23 17:08:28 0
+6 1 2011-07-01 17:08:50 notpaid notdelivered 0 0 Room No.47 Nupur Society1 panchshil nagar1 Opp. KGST1 Mumbai1 Maharashtra1 400091 India1 2011-07-01 17:08:50 2011-07-01 17:08:50 0
+7 1 2011-07-05 16:09:29 notpaid notdelivered 0 0 Room No.47 Nupur Society1 panchshil nagar1 Opp. KGST1 Mumbai1 Maharashtra1 400091 India1 2011-07-05 16:09:29 2011-07-05 16:09:29 0
+8 1 2011-07-15 20:54:16 notpaid notdelivered 0 0 Room No.47 Nupur Society1 panchshil nagar1 Opp. KGST1 Mumbai1 Maharashtra1 400091 India1 2011-07-15 20:54:16 2011-07-15 20:54:16 0
+9 1 2011-07-22 19:40:40 notpaid notdelivered 0 0 Room No.47 Nupur Society1 panchshil nagar1 Opp. KGST1 Mumbai1 Maharashtra1 400091 India1 2011-07-22 19:40:40 2011-07-22 19:40:40 0
+10 6 2011-07-26 20:37:49 0 0 werwer rewrw werwe werwer dfasdasdas asdasdas 242342 asdasdasd 2011-07-26 20:37:49 2011-07-26 20:37:49 1 netbank test sadasd 13213 2011-07-01 netbank asdasda 0
+91 1 2011-09-28 01:21:15 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2011-09-28 01:21:15 2011-09-28 01:21:15 0 0
+92 1 2011-09-28 01:37:13 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2011-09-28 01:37:13 2011-09-28 01:37:13 0 0
+93 55 2011-09-28 01:59:31 notpaid notdelivered 0 0 paravati niwas vidyavihar(w) hotel mumbai maharastra 400021 india 2011-09-28 01:59:31 2011-09-28 01:59:31 0 0
+94 1 2011-09-28 02:12:04 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2011-09-28 02:12:04 2011-09-28 02:12:04 0 0
+95 56 2011-09-28 02:26:05 notpaid notdelivered 0 0 nariman point vt hotel mumbai maharastra 400021 india 2011-09-28 02:26:05 2011-09-28 02:26:05 0 0
+96 1 2011-09-28 02:38:09 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2011-09-28 02:38:09 2011-09-28 02:38:09 0 0
+97 57 2011-09-28 02:44:59 notpaid notdelivered 0 0 nariman point V.T TRIDENT MUMBAI maharastra 400021 INDIA 2011-09-28 02:44:59 2011-09-28 02:44:59 0 0
+98 58 2011-09-28 03:23:39 notpaid notdelivered 0 0 ASHTVINAYAK GRUH NARIMAN POINT GOKULDHAM MUMBAI MAHARASHTRA 401303 INDIA 2011-09-28 03:23:39 2011-09-28 03:23:39 0 0
+99 58 2011-09-28 03:29:31 notpaid notdelivered 0 0 ASHTVINAYAK GRUH NARIMAN POINT GOKULDHAM MUMBAI MAHARASHTRA 401303 INDIA 2011-09-28 03:29:31 2011-09-28 03:29:31 0 0
+100 59 2011-09-28 03:30:09 notpaid notdelivered 0 0 b-601 priyanka apartments,25/24 jopling road b-601 priyanka apartments,25/24 jopling road dainik jagran chauraha lucknow uttar pradesh 226001 india 2011-09-28 03:30:09 2011-09-28 03:30:09 0 0
+491 1966 2012-03-28 13:51:53 notpaid notdelivered 0 0 H.no.1,Gali no.2,Ward No.1 Near Naveen Public School New Rishi Nagar Balaji Chok Hisar Haryana 125001 India 2012-03-28 13:51:53 2012-03-28 13:51:53 0 1
+492 1969 2012-03-28 22:56:50 notpaid notdelivered 0 0 as as as as bangalore karnataka 555555 india 2012-03-28 22:56:50 2012-03-28 22:56:50 0 1
+493 1970 2012-03-29 02:16:39 notpaid notdelivered 0 0 building 2 neel nagaya naggapa hosp bangalore karnataka 560097 india 2012-03-29 02:16:39 2012-03-29 02:16:39 0 1
+494 1978 2012-03-30 07:27:57 notpaid notdelivered 0 0 327,G.T.Road Salkia Howrah(N) opposite Salkia Head Post Office Salkia Head Post Office Salkia Howrah West BEnga; 711106 India 2012-03-30 07:27:57 2012-03-30 07:27:57 0 1
+495 1 2012-03-31 14:24:10 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2012-03-31 14:24:10 2012-03-31 14:24:10 0 1
+496 1 2012-04-04 16:23:25 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2012-04-04 16:23:25 2012-04-04 16:23:25 0 1
+497 1 2012-04-04 16:27:43 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2012-04-04 16:27:43 2012-04-04 16:27:43 0 1
+498 1 2012-04-04 16:49:30 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2012-04-04 16:49:30 2012-04-04 16:49:30 0 1
+499 1 2012-04-04 16:50:43 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2012-04-04 16:50:43 2012-04-04 16:50:43 0 1
+500 1 2012-04-04 17:00:38 notpaid notdelivered 0 0 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400 India 2012-04-04 17:00:38 2012-04-04 17:00:38 0 1
+991 3000 2012-08-24 07:05:06 paid delivered 0 0 h.no-214, chircond uddi, near belabai h.no-214, chircond uddi, near belabai supreme hotel vasco goa 403802 india 2012-08-24 07:05:06 2012-08-24 07:05:06 0 1 Your material has been despatch by. TRACKON COURIER way bill no.296242928 Date:-28/08/2012 
+TEL:-6641 2000
+992 3005 2012-08-24 15:52:05 notdelivered 0 0 62/b katkar house Worli koliwada Katkar lane Near shankar mandir Mumbai Maharashtra 400030 India 2012-08-24 15:52:05 2012-08-24 15:52:05 0 1
+993 3012 2012-08-25 16:51:50 notdelivered 0 0 test test test test test 321321 test 2012-08-25 16:51:50 2012-08-25 16:51:50 0 1
+994 3022 2012-08-27 15:42:31 notpaid notdelivered 0 0 45 ghfgh gh tyut fght yrtn fgh fg ghfg yg bhpal mp 482001 india 2012-08-27 15:42:31 2012-08-27 15:42:31 0 1
+995 3023 2012-08-27 20:01:26 notpaid notdelivered 0 0 39 patel nagar 39 patel nagar 39 patel nagar matlani garden indore madhyapradesh 452001 india 2012-08-27 20:01:26 2012-08-27 20:01:26 0 1
+996 3023 2012-08-27 20:27:16 notpaid notdelivered 0 0 39 patel nagar 39 patel nagar 39 patel nagar matlani garden indore madhyapradesh 452001 india 2012-08-27 20:27:16 2012-08-27 20:27:16 0 1
+997 3028 2012-08-28 18:19:38 paid delivered 0 0 B4 - Block 5, JAINS GREEN ACRES 91, DHARGHA ROAD, ZAMIN PALLAVARAM PALLAVARAM On the way to Vels College Chennai Tamilnadu 600043 India 2012-08-28 18:19:38 2012-08-28 18:19:38 0 1 Your material has been despatch by. TRACKON COURIER way bill no.300335383  Date.31/08/2012 
+TEL:-6641 2000
+998 3023 2012-08-28 23:10:16 notpaid notdelivered 0 0 39 patel nagar 39 patel nagar 39 patel nagar matlani garden indore madhyapradesh 452001 india 2012-08-28 23:10:16 2012-08-28 23:10:16 0 1
+999 3030 2012-08-29 09:35:57 notdelivered 0 0 L.B.34 pallavpuram phase-2nd meerut Meerut Meerut U.P. 250110 India 2012-08-29 09:35:57 2012-08-29 09:35:57 0 1
+1000 3005 2012-08-30 12:09:50 notdelivered 0 0 62/b katkar house Worli koliwada Katkar lane Near shankar mandir Mumbai Maharashtra 400030 India 2012-08-30 12:09:50 2012-08-30 12:09:50 0 1
+1991 5898 2013-06-02 13:09:27 Process Process 0 0 Sieger Training Consultants (P) Limited No:2 Nagaraja Iyer Street, Velachery Main Road, East Tambaram, Near Christ King Girls Higher Secondary School Chennai Tamil Nadu 600059 India 2013-06-02 13:09:27 2013-06-02 13:09:27 0 0 1
+1992 5899 2013-06-02 14:06:51 Process Process 0 0 dhanupali near gopaljee temple near gopaljee temple sambalpur odisha 768005 india 2013-06-02 14:06:51 2013-06-02 14:06:51 0 0 1
+1993 5900 2013-06-02 14:26:02 Process Process 0 0 301/A, Morya Heights near mumbai-banglore highway Near Canal Road, Warje Pune Maharashtra 411058 India 2013-06-02 14:26:02 2013-06-02 14:26:02 0 0 1
+1994 5901 2013-06-02 14:29:06 Process Process 0 0 610/1990 keshavnagar sitapur road LUCKNOW near ghayasiban school lucknow UTTAR PRADESH 226020 INDIA 2013-06-02 14:29:06 2013-06-02 14:29:06 0 0 1
+1995 5902 2013-06-02 15:31:22 Process Process 0 0 C-2 NITTTR STAFF QUARTERS GANDHI MANDAPAM ROAD NEAR ANNA CENTENARY LIBRARY CHENNAI TAMILNADU 600025 INDIA 2013-06-02 15:31:22 2013-06-02 15:31:22 0 0 1
+1996 5902 2013-06-02 15:31:23 Process Process 0 0 C-2 NITTTR STAFF QUARTERS GANDHI MANDAPAM ROAD NEAR ANNA CENTENARY LIBRARY CHENNAI TAMILNADU 600025 INDIA 2013-06-02 15:31:23 2013-06-02 15:31:23 0 0 1
+1997 5905 2013-06-02 16:25:26 Process Process 0 0 Eden woods coop society taleigao, CE-1, Bldg C, North Goa, India. Eden woods coop society taleigao, CE-1, Bldg C, North Goa, India. Taleigao Church. Panaji Goa 403002 india 2013-06-02 16:25:26 2013-06-02 16:25:26 0 0 1
+1998 5905 2013-06-02 16:26:53 Process Process 0 0 Eden woods coop society taleigao, CE-1, Bldg C, North Goa, India. Eden woods coop society taleigao, CE-1, Bldg C, North Goa, India. Taleigao Church. Panaji Goa 403002 india 2013-06-02 16:26:53 2013-06-02 16:26:53 0 0 1
+1999 5909 2013-06-02 17:49:58 Process Process 0 0 563, anandvan society, behind navyug school, new sama road 563, anandvan society, behind navyug school, new sama road Navyug high school Vadodara Gujarat 390008 India 2013-06-02 17:49:58 2013-06-02 17:49:58 0 0 1
+2000 5910 2013-06-02 19:19:59 Process Process 0 0 281soofi tola old city near amar ujala press bareilly 289soofi tola old city near amar ujala press bareilly asia bareilly uttar pradesh 243005 india 2013-06-02 19:19:59 2013-06-02 19:19:59 0 0 1 
++++++++++
+paradisen_ultimate - pn_orderdetail:(67438)
+orderdetail_id,orderdetail_orderId,orderdetail_prodId,orderdetail_prodRange,orderdetail_prodFlavour,orderdetail_prodQty,orderdetail_prodPrice,total_discount,orderdetail_dateCreated,orderdetail_dateUpdated,orderdetail_isActive
+1 1 5 300 Chocolate 3 300 0 2011-06-13 19:02:20 2011-06-13 19:02:20 1
+2 1 2 200 Chocolate 2 200 0 2011-06-13 19:02:20 2011-06-13 19:02:20 1
+3 2 5 300 Strawberry 1 300 0 2011-06-13 19:13:07 2011-06-13 19:13:07 1
+4 3 5 500 Chocolate 1 400 0 2011-06-14 14:35:47 2011-06-14 14:35:47 1
+5 4 5 300 Chocolate 1 300 0 2011-06-14 15:04:19 2011-06-14 15:04:19 1
+6 5 5 500 Pineapple 2 400 0 2011-06-23 17:08:28 2011-06-23 17:08:28 1
+7 5 8 300 Vanilla 3 300 0 2011-06-23 17:08:28 2011-06-23 17:08:28 1
+8 6 10 500 Pineapple 1 400 0 2011-07-01 17:08:50 2011-07-01 17:08:50 1
+9 7 1 500 undefined 1 400 0 2011-07-05 16:09:29 2011-07-05 16:09:29 1
+10 8 17 100 Chocolate 2 100 0 2011-07-15 20:54:16 2011-07-15 20:54:16 1
+91 80 61 11.10 1 4399 0 2011-09-27 22:52:40 2011-09-27 22:52:40 1
+92 81 60 13.20 3 5099 0 2011-09-27 22:55:05 2011-09-27 22:55:05 1
+93 82 45 10.00 Strawberry 1 8699 0 2011-09-27 23:16:39 2011-09-27 23:16:39 1
+94 84 45 2.00 Cookies N 2 2299 0 2011-09-27 23:20:08 2011-09-27 23:20:08 1
+95 85 51 4.41 2 2399 0 2011-09-27 23:27:05 2011-09-27 23:27:05 1
+96 86 45 1.00 Chocolate 1 1349 0 2011-09-27 23:36:44 2011-09-27 23:36:44 1
+97 88 45 10.00 Chocolate 1 8699 0 2011-09-27 23:43:24 2011-09-27 23:43:24 1
+98 89 45 10.00 Chocolate 1 8699 0 2011-09-28 00:06:36 2011-09-28 00:06:36 1
+99 90 17 330.00 1 1799 0 2011-09-28 01:18:33 2011-09-28 01:18:33 1
+100 91 17 330.00 1 1799 0 2011-09-28 01:21:15 2011-09-28 01:21:15 1
+491 442 38 126.00 N/A 1 2969 0 2012-02-22 09:36:53 2012-02-22 09:36:53 1
+492 442 287 100.00 N/A 1 899 0 2012-02-22 09:36:53 2012-02-22 09:36:53 1
+493 442 28 90.00 N/A 2 674 0 2012-02-22 09:36:53 2012-02-22 09:36:53 1
+494 443 35 300.00 1 539 0 2012-02-24 08:27:24 2012-02-24 08:27:24 1
+495 444 61 4.69 1 1979 0 2012-02-24 20:38:32 2012-02-24 20:38:32 1
+496 444 45 1.00 Chocolate 1 1394 0 2012-02-24 20:38:32 2012-02-24 20:38:32 1
+497 445 45 5.00 1 4949 0 2012-02-25 00:45:24 2012-02-25 00:45:24 1
+498 446 45 1.00 1 1394 0 2012-02-25 03:55:37 2012-02-25 03:55:37 1
+499 447 60 4.69 Vanilla 1 1979 0 2012-02-26 20:30:43 2012-02-26 20:30:43 1
+500 448 45 1.00 3 1394 0 2012-02-27 01:26:18 2012-02-27 01:26:18 1
+991 924 53 90.00 N/A 1 1169 0 2012-07-13 21:58:51 2012-07-13 21:58:51 1
+992 925 49 3.00 Chocolate 1 1799 0 2012-07-14 14:05:41 2012-07-14 14:05:41 1
+993 925 49 3.00 Vanilla 1 1799 0 2012-07-14 14:05:41 2012-07-14 14:05:41 1
+994 926 58 90.00 N/A 1 1079 0 2012-07-16 22:02:26 2012-07-16 22:02:26 1
+995 927 49 3.00 Chocolate 1 1799 0 2012-07-17 21:13:28 2012-07-17 21:13:28 1
+996 0 49 3.00 Chocolate 1 1799 0 2012-07-17 21:15:21 2012-07-17 21:15:21 1
+997 928 60 4.96 Chocolate 1 2069 0 2012-07-21 06:49:49 2012-07-21 06:49:49 1
+998 929 60 4.96 Chocolate 1 2069 0 2012-07-21 06:53:01 2012-07-21 06:53:01 1
+999 930 49 3.00 1 1799 0 2012-07-21 12:14:38 2012-07-21 12:14:38 1
+1000 931 59 457.00 Pinklemonade 1 2159 0 2012-07-21 13:32:16 2012-07-21 13:32:16 1
+1991 1851 35 300.00 N/A 1 499 0 2013-05-19 20:40:17 2013-05-19 20:40:17 1
+1992 1852 59 457.00 Cherry 1 2450 0 2013-05-20 00:39:43 2013-05-20 00:39:43 1
+1993 1853 59 457.00 Cherry 1 2450 0 2013-05-20 01:06:56 2013-05-20 01:06:56 1
+1994 1854 53 90.00 N/A 1 1349 0 2013-05-20 11:22:41 2013-05-20 11:22:41 1
+1995 1855 53 90.00 N/A 1 1349 0 2013-05-20 11:25:52 2013-05-20 11:25:52 1
+1996 1856 35 300.00 2 539 0 2013-05-20 12:28:46 2013-05-20 12:28:46 1
+1997 1857 60 4.96 1 2609 0 2013-05-20 18:06:22 2013-05-20 18:06:22 1
+1998 1858 35 300.00 1 499 0 2013-05-20 18:58:09 2013-05-20 18:58:09 1
+1999 1858 35 300.00 N/A 1 499 0 2013-05-20 18:58:09 2013-05-20 18:58:09 1
+2000 1859 45 10.00 1 8799 0 2013-05-20 19:14:36 2013-05-20 19:14:36 1 
++++++++++
+paradisen_ultimate - pn_prodprice:(1040)
+prodPrice_id,prodPrice_prodId,prodPrice_range,prodPrice_salePrice,prodPrice_regularPrice,prodPrice_flavourId,prodPrice_PDF,prodPrice_nostock
+5 2 100.00 100 100 1,2 0
+6 2 200.00 200 200 2,4 0
+7 2 300.00 0 0 0
+8 2 500.00 0 0 0
+9 3 100.00 434 2343 1,5 0
+10 3 200.00 0 0 0
+11 3 300.00 0 0 0
+12 3 500.00 0 0 0
+13 4 100.00 12 23 2,5 0
+14 4 200.00 0 0 0
+165 42 100.00 100 100 1310045975Full Combat _ Post Combat.pdf 0
+166 42 200.00 0 0 0
+167 42 300.00 0 0 0
+168 42 500.00 0 0 0
+94652 43 10.00 0 0
+94651 43 4.41 0 0
+94650 43 9.40 0 0
+94671 44 4.41 0 0 1314271652some.pdf
+94670 44 9.40 0 0
+94669 44 4.96 0 0
+8189 307 4.54 125 130 1,2 0
+84679 309 20.00 0 0
+94472 23 180.00 0 0
+99246 27 120.00 849 999 37 1313834909405_BCAA_snf.pdf 1
+99245 27 200.00 0 0
+94617 41 2.20 0 0
+94816 85 90.00 0 0
+94815 85 30.00 0 0
+94814 85 100.00 0 0
+94487 25 126.00 0 0
+95587 49 6.40 0 0
+94735 51 6.40 0 0
+94806 66 1.00 0 0
+94807 66 7.00 0 0
+99212 50 2.20 0 0
+99175 45 4.69 0 0 1314275987some.pdf
+99199 326 3.50 0 0
+99197 326 2.00 2519 3599 1,2,5 1,1,1
+99198 326 5.00 6374 7499 1,2,5 1418819804735_ProstarCasein2.27kgChoc_snf.pdf 1,1,1
+99196 326 2.48 0 0
+
++++++++++
+paradisen_ultimate - pn_product:(65)
+product_id,product_catId,product_name,product_newProduct,product_forHomePage,product_image,product_about,product_type,product_weight,product_desc,product_selectedRef,product_askedQue,product_dateCreated,product_dateUpdated,product_isActive,checkme,prod_promot,filePromotImg
+2 1 Branched Chain Amino Acids 0 1 albumin14.jpg Many of our competitors sell only protein (not enzymatically digested) tablets, disguised as aminos. A quick test is to bite into the tablet, if it bland, it is more likely to be just a protein tab. A true enzymatically digested tablet such as Ultimate Nutrition's Super Whey Amino 2000 is bitter to taste 0 120 sdasdsd sadasdasds sdsdasdsd 2011-06-06 20:57:43 0000-00-00 00:00:00 0 0
+3 2 Omega3 0 0 eiweiss-egg-protein2.jpg Many of our competitors sell only protein (not enzymatically digested) tablets, disguised as aminos. A quick test is to bite into the tablet, if it bland, it is more likely to be just a protein tab. A true enzymatically digested tablet such as Ultimate Nutrition's Super Whey Amino 2000 is bitter to taste 0 343 sdfd xcvcv dfdf 2011-06-07 13:14:26 0000-00-00 00:00:00 0 0
+4 2 Vegetables Greens 0 0 iso-mass-xtreme-gain.jpg Many of our competitors sell only protein (not enzymatically digested) tablets, disguised as aminos. A quick test is to bite into the tablet, if it bland, it is more likely to be just a protein tab. A true enzymatically digested tablet such as Ultimate Nutrition's Super Whey Amino 2000 is bitter to taste 0 232 sdsd dsa sds 2011-06-07 13:15:53 2011-07-09 15:15:14 0 0
+5 2 Muscles Juice 0 0 p2.jpg Many of our competitors sell only protein (not enzymatically digested) tablets, disguised as aminos. A quick test is to bite into the tablet, if it bland, it is more likely to be just a protein tab. A true enzymatically digested tablet such as Ultimate Nutrition's Super Whey Amino 2000 is bitter to taste 0 120 All life depends on proteins. Proteins carry out all biological functions in living organisms including humans. Proteins are made of amino acids, which are their basic building blocks. Essentially, amino acids are strung like beads in long chains in proteins. In the body, proteins are made from individual amino acids. Therefore, nutritional supplementation with amino acids ensures that all cells, tissues and organs in the body have a ready supply of amino acids.
+
+Ultimate Nutrition's Super Whey Amino 2000 contains all of the most important amino acids and branched chain amino acids for optimal nutritional support. These amino acids, of course, provide the body with the support to produce proteins. Amino acids, however, carry out other important functions. Nutritional supplementation keeps the amino acid supply in the bloodstream within healthy range. Under some circumstances, such as stress whether it is due to high-intensity exercise or other reasons, amino acids in the blood can be depleted so that important substances in the body cannot be produced in the right amounts at the right time in the right place. For example, if serotonin cannot be synthesized in the brain, ordinary stress may be aggravated to depression. Some amino acids, such as glycine, glutamine and, among others arginine, combine with and neutralize toxins. This is of paramount importance for liver health, since detoxification takes place in the liver. People suffering from abnormal liver function, chronic arthritis, and excessive chemical exposure usually have poor amino acid profile. Branched chain amino acids (BCAA), valine, isoleucine and leucine, greatly aid detoxification and liver function. Hence, supplementation with amino acids is critical for restoration of appropriate amounts of amino acids, which help foster better health. dffdsfsdfds dfsdfdsfd 2011-06-08 18:03:20 2011-07-09 15:16:22 0 0
+8 1 Amino Protein 0 1 albumin111.jpg Many of our competitors sell only protein (not enzymatically digested) tablets, disguised as aminos. A quick test is to bite into the tablet, if it bland, it is more likely to be just a protein tab. A true enzymatically digested tablet such as Ultimate Nutrition's Super Whey Amino 2000 is bitter to taste 0 120 gdfgdfg fgdsfgdfgf gfdgdfgfdg 2011-06-20 17:26:40 0000-00-00 00:00:00 0 0
+15 1 sasa1334512 0 1 p4.jpg sasa1334512 0 0 sasa1334512 sasa1334512 sasa1334512 2011-07-02 16:25:33 2011-07-04 15:07:32 0 0
+16 1 Amino 2000 0 0 100_Amino2K330Tab.jpg <p>
+	Amino 2000 contains all of the most important amino acids for optimal nutritional support. Each tablet contains 2000mg of enzymatically digested whey protein isolate. Enzymatically digested whey protein isolate increases the protein digestibility and improves amino acid absorption for greater assimilation by your body. These amino acids provide the body with the support to produce proteins, and ensures that cells, tissues and organs in the body have a ready supply of amino acids, which helps foster better health. Amino 2000 is a full-spectrum nutritional aid to help maintain optimal levels of amino acids in the bloodstream and promote good health at any stage of life.</p> 0 0 <p>
+	All life depends on proteins. Proteins carry out all biological functions in living organisms including humans. Proteins are made of amino acids, which are their basic building blocks. Essentially, amino acids are strung like beads in long chains in proteins. In the body, proteins are made from individual amino acids. Therefore, nutritional supplementation with amino acids ensures that all cells, tissues and organs in the body have a ready supply of amino acids.</p>
+<p>
+	Amino 2000 contains all of the most important amino acids and branched chain amino acids for optimal nutritional support. These amino acids, of course, provide the body with the support to produce proteins. Amino acids, however, carry out other important functions. Nutritional supplementation keeps the amino acid supply in the bloodstream within healthy range. Under some circumstances, such as stress whether it is due to high-intensity exercise or other reasons, amino acids in the blood can be depleted so that important substances in the body cannot be produced in the right amounts at the right time in the right place. For example, if serotonin cannot be synthesized in the brain, ordinary stress may be aggravated to depression. Some amino acids, such as glycine, glutamine and, among others arginine, combine with and neutralize toxins.</p>
+<p>
+	This is of paramount importance for liver health, since detoxification takes place in the liver. People suffering from abnormal liver function, chronic arthritis, and excessive chemical exposure usually have poor amino acid profile. Branched chain amino acids (BCAA), valine, isoleucine and leucine, greatly aid detoxification and liver function. Hence, supplementation with amino acids is critical for restoration of appropriate amounts of amino acids, which help foster better health. Amino 2000 also contains sulfur-containing amino acids methionine and cysteine. These amino acids have been shown to help prolong life span. Typically, as people age, the amounts of these two amino acids decreases considerably. Since dietary supplementation with cysteine prolonged the life span of guinea pigs, a report in the New England Journal of Medicine suggested that maintaining optimal levels of methionine and cysteine could potentially promote longevity in humans. In summary, Ultimate Nutrition&#39;s Amino 2000 is a full-spectrum amino acid nutritional aid to that help maintain optimal levels of amino acids in the bloodstream and promote good health at any stage of life.</p> <p>
+	1. Do All Amino Acids Need To Be taken in The Same Amounts?<br />
+	<br />
+	No. Different amino acids should be taken in different amounts. This depends upon the relative natural abundance of each amino acid in the body and amount required for incorporation in proteins. Ultimate Nutrition&#39;s Amino 2000 has amino acids in the exact amounts that the body needs for optimal function.</p>
+<p>
+	2. How Well Are Amino Acids Absorbed?<br />
+	<br />
+	Amino acids are efficiently absorbed and transported into the intestines. True, there is intense competition among various amino acids for intestinal uptake, since amino acids use the same transporters to ferry them across the intestinal wall. If sufficient amounts of the necessary amino acids are available for absorption, they are taken up in the correct ratios to serve the metabolic needs of the body.</p>
+<p>
+	3. Do Amino Acids Cross The Blood Brain Barrier?<br />
+	<br />
+	Yes! Amino acids cross the blood brain barrier using transporters similar to those employed in intestinal absorption. The brain cells use the same amino acids as those other tissues of the body. For example, the amino acid tryptophan is converted to the neurotransmitter serotonin, which controls many different functions of the brain.</p>
+<p>
+	4. If the Body Produces Peptides, Why Are Amino Acids Necessary?<br />
+	<br />
+	The body does produce certain peptides, such as di- tri- and tetra-peptides (containing two, three and four amino acids, respectively), but they are a byproduct of the digestive process or the breakdown of food in the body. As such, these peptides are not available for incorporation into the proteins and, therefore, do not serve as building blocks.</p> 2011-07-05 14:49:41 2011-07-26 15:57:29 0 0
+17 1 Amino 2002 0 0 7a865c600e0ad64519490be4d2da7c55.jpg <p>
+	A growing body of literature shows that appropriate use of whey protein can maximize muscle size and strength gains from resistance training in addition to having other health- promoting effects. Amino 2002 delivers these benefits by providing several kinds of amino acid packed wheys in one tablet. The first type of whey in Amino 2002 is whey hydrosolate. Taking your proteins in a hydrolyzed state means that a lot of the work&#39;s already been done for you. As such, these types of proteins are assimilated much more quickly than other, non-hydrolyzed types. The second type is a combination of micro and ultrafiltrated whey protein concentrate and whey protein isolate. Amino 2002&rsquo;s protein combination tastes great and is extremely digestible. Because of its speedy digestion the amino acids aid in rebuilding the body.</p> 0 0 <p>
+	Whey protein is a very high quality protein, which, along with casein, makes up the major proteins in milk. Whey contains all the essential amino acids and therefore scores very high on all methods used to score protein quality. In fact, whey protein is superior to all other sources of protein when you consider how much of the nitrogen (protein is about 16% nitrogen) is retained in the body relative to the amount of nitrogen absorbed. This criterion method of protein quality is referred to as the biological value (BV), and whey protein has the highest score of 104. A growing body of literature shows that appropriate use of whey protein can maximize muscle size and strength gains from resistance training in addition to having other health- promoting effects.</p>
+<p>
+	Amino 2002 delivers these benefits by providing several kinds of amino acid packed wheys in one tablet. The first type of whey in Amino 2002 is whey hydrosolate. A hydrolysate is a protein where long chains of amino acids have been broken up either into little-bitty groups of amino acids or freestanding amino acids. Taking your proteins in a hydrolyzed state means that a lot of the work&#39;s already been done for you. As such, these types of proteins are assimilated much more quickly than other, non-hydrolyzed types. During your post- workout period especially you&#39;ll want a fast-acting, easily digestible protein like a whey hydrosolate. The second type is a combination of micro and ultrafiltrated whey protein concentrate and whey protein isolate. They&#39;re types of whey that have been concentrated from various dairy sources.</p>
+<p>
+	Whey protein isolate contains more protein with less fat and lactose per serving. Whey protein concentrates contain approximately 80% protein and little fat and lactose. Whey protein isolate is the highest yield of protein currently available, and is loaded with amino acids, including branched chain amino acids, which help them bond together better. Amino 2002&rsquo;s protein combination tastes great and is extremely digestible. Because of its speedy digestion the amino acids aid in rebuilding the body. Whey protein contains about 10% immunoglobulin proteins which helps support the body&#39;s immune system. Also it contains the highest concentration (24-25%) of branched-chain amino acids (BCAA&#39;s) of any protein source. Because of its chemical properties, Amino 2002 tablets are easiest to absorb into your muscles. A benefit of whey protein isolate is that it has the ability to enhance endogenous Glutathione production, which is the body&rsquo;s most powerful naturally occurring antioxidant. Whey contains Quadra peptides, which are shown to have pain- relieving effects. It helps decrease the sensation of muscle soreness following an intense workout. It is also used to repair and build muscles. Studies have shown whey protein isolate to have immune boosting properties.</p>
+<p>
+	<strong style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">Disclaime</strong><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">r :&nbsp;</span><strong style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;"><span style="color: rgb(255, 0, 0);">Paradise Nutrition Inc</span></strong><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">&nbsp;no more distributes Ultimate Nutrition in India. Since 2015 after Ultimate Nutrition bankruptcy we have stop working with Ultimate Nutrition as a exclusive distributor in India, We have completely stopped importing Ultimate Nutrition in India due to various quality issue we were facing with the brand.&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: rgb(255, 0, 0);"><strong>Paradise Nutrition Inc</strong></span><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">&nbsp;only works with companies having High Quality standard product and does not compromise in quality of the products. Ultimate Nutrition is now unapproved brand of&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: rgb(255, 0, 0);"><strong>Paradise Nutrition Inc</strong></span><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">&nbsp;and the stock on sale is the last stock for clearance.&nbsp;</span></p> <p>
+	<strong style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">Disclaime</strong><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">r :&nbsp;</span><strong style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;"><span style="color: rgb(255, 0, 0);">Paradise Nutrition Inc</span></strong><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">&nbsp;no more distributes Ultimate Nutrition in India. Since 2015 after Ultimate Nutrition bankruptcy we have stop working with Ultimate Nutrition as a exclusive distributor in India, We have completely stopped importing Ultimate Nutrition in India due to various quality issue we were facing with the brand.&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: rgb(255, 0, 0);"><strong>Paradise Nutrition Inc</strong></span><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">&nbsp;only works with companies having High Quality standard product and does not compromise in quality of the products. Ultimate Nutrition is now unapproved brand of&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; color: rgb(255, 0, 0);"><strong>Paradise Nutrition Inc</strong></span><span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;">&nbsp;and the stock on sale is the last stock for clearance.&nbsp;</span></p> <p>
+	.</p> 2011-07-05 17:13:37 2018-02-16 13:02:23 1 1 <p>
+	<span style="font-size:16px;"><strong><span class="userContent">Buy Amino 2002 100tabs at a Special Price of Rs.1529/-<br />
+	</span></strong></span></p>
+<p>
+	<span style="font-size:16px;"><strong><span class="userContent">Buy Amino 2002 330tabs at a Special Price of Rs.2719/-</span></strong></span></p>
+<p>
+	&nbsp;</p>
+<p>
+	<span style="font-size:16px;"><strong><span class="userContent"><span style="color: rgb(255, 0, 0);">(Free Home Delivery)<br />
+	</span></span></strong></span></p>
+<p>
+	<span class="userContent"><br />
+	</span></p> 6fddde5fb7feec9b61277cb0f41537b8.jpg
+18 1 Amino 2002 0 0 117_Amino20022g330Tab.jpg A growing body of literature shows that appropriate use of whey protein can maximize
+muscle size and strength gains from resistance training in addition to having other health-
+promoting effects. Amino 2002 delivers these benefits by providing several kinds of
+amino acid packed wheys in one tablet. The first type of whey in Amino 2002 is whey
+hydrosolate. Taking your proteins in a hydrolyzed state means that a lot of the work's
+already been done for you. As such, these types of proteins are assimilated much more
+quickly than other, non-hydrolyzed types. The second type is a combination of micro
+and ultrafiltrated whey protein concentrate and whey protein isolate. Amino 2002’s
+protein combination tastes great and is extremely digestible. Because of its speedy
+digestion the amino acids aid in rebuilding the body. 0 0 Whey protein is a very high quality protein, which, along with casein, makes up the
+major proteins in milk. Whey contains all the essential amino acids and therefore scores
+very high on all methods used to score protein quality. In fact, whey protein is superior to
+all other sources of protein when you consider how much of the nitrogen (protein is about
+16% nitrogen) is retained in the body relative to the amount of nitrogen absorbed. This
+criterion method of protein quality is referred to as the biological value (BV), and whey
+protein has the highest score of 104.
+A growing body of literature shows that appropriate use of whey protein can maximize
+muscle size and strength gains from resistance training in addition to having other health-
+promoting effects.
+Amino 2002 delivers these benefits by providing several kinds of amino acid packed
+wheys in one tablet.
+The first type of whey in Amino 2002 is whey hydrosolate. A hydrolysate is a protein
+where long chains of amino acids have been broken up either into little-bitty groups of
+amino acids or freestanding amino acids. Taking your proteins in a hydrolyzed state
+means that a lot of the work's already been done for you. As such, these types of proteins
+are assimilated much more quickly than other, non-hydrolyzed types. During your post-
+workout period especially you'll want a fast-acting, easily digestible protein like a whey
+hydrosolate.
+The second type is a combination of micro and ultrafiltrated whey protein concentrate
+and whey protein isolate. They're types of whey that have been concentrated from
+various dairy sources. Whey protein isolate contains more protein with less fat and
+lactose per serving. Whey protein concentrates contain approximately 80% protein and
+little fat and lactose. Whey protein isolate is the highest yield of protein currently
+available, and is loaded with amino acids, including branched chain amino acids, which
+help them bond together better. Amino 2002’s protein combination tastes great and is
+extremely digestible. Because of its speedy digestion the amino acids aid in rebuilding
+the body. Whey protein contains about 10% immunoglobulin proteins which helps
+support the body's immune system. Also it contains the highest concentration (24-25%)
+of branched-chain amino acids (BCAA's) of any protein source.
+Because of its chemical properties, Amino 2002 tablets are easiest to absorb into your
+muscles. A benefit of whey protein isolate is that it has the ability to enhance
+endogenous Glutathione production, which is the body’s most powerful naturally
+occurring antioxidant. Whey contains Quadra peptides, which are shown to have pain-
+relieving effects. It helps decrease the sensation of muscle soreness following an intense
+workout. It is also used to repair and build muscles. Studies have shown whey protein
+isolate to have immune boosting properties. . Increases the anabolic environment and prevents muscle breakdown, thereby assisting the
+muscle-building effects of intense weight training and exercise.
+Enhances muscle recovery after exercise and workouts.
+Provides the most optimal source of amino acids (the major building blocks of muscle);
+critical for the repair and growth of muscle tissue
+Boosts immune function by increasing levels of glutathione (the most potent antioxidant
+in the body)
+Helps to maintain balanced nutrition, by supporting both healthy weight-loss and muscle
+enhancing nutritional programs.
+Ultimate Nutritions’ Amino 2002 is isolated by a complex low temperature processing
+system that utilizes a proprietary micro and ultra filtration process for the highest quality
+premium isolated whey protein available. Amino 2002 contains all the whey protein
+fractions such as Beta Lactoglobulin, Alpha Lactalbumin, Glycomacropeptide,
+Immunoglobulins, Proteose Peptones, Serum Albumin and Lactoferrin. 2011-07-06 10:57:14 0000-00-00 00:00:00 0 0
+19 1 Amino Bolic 0 0 450_AminoBolic210.jpg <p>
+	Ultimate Nutrition Amino Bolic is a free-form amino acid complex that supplies several of the amino acids most needed by the body, in easy to swallow (and easy to take along to the gym) caplets. The benefits of using free-form amino acids are that because they&#39;re small molecules they are much easier to digest and absorb while exercising, and they don&#39;t cause bloating or gas. With Amino Bolic you get: &bull; &bull; &bull; &bull; &bull; &bull; Increased protein synthesis and recovery rate Over 6000mg of Leucine per serving to blast your body into an anabolic state Reduced muscle breakdown resulting from exercise Increased caloric efficiency for more muscle with less fat Reduced fatigue and soreness NO STIMULANTS! From vegetarians to people with protein allergies, the stressed to the mentally fatigued, bodybuilders to endurance athletes - for anyone who may not be getting a balanced diet in amino acids, Amino Bolic can offer the powerful nutrition tool you need.</p> 0 0 <p>
+	Amino acids are the building blocks of proteins and muscle tissue. All types of physiological processes relating to sport; such as energy, recovery, muscle gain, strength gain and fat loss are closely and significantly linked to amino acids. Amino acids have become a major part of athletes&#39; supplementation, especially among bodybuilders. Amino acids are needed to maintain and repair muscles, tendons, skin, ligaments, organs, etc. They also aid in the production of hormones, neurotransmitters, and enzymes that play a role in various bodily functions. When even one amino acid is deficient, health problems may occur.</p>
+<p>
+	Eating highly nutritious, high protein meals is the most familiar way to get amino acids into the diet. Even some vegetables and legumes can offer high levels of most amino acids. However, for serious athletes and those on the run, protein supplements and pure free-form amino acids provide a convenient and effective way to supplement dietary needs. Ultimate Nutrition Amino Bolic is a free-form amino acid complex that supplies several of the amino acids most needed by the body, in easy to swallow (and easy to take along to the gym) caplets. The benefits of using free-form amino acids are that because they&#39;re small molecules they are much easier to digest and absorb while exercising, and they don&#39;t cause bloating or gas. With Amino Bolic you get: Increased protein synthesis and recovery rate Over 6000mg of Leucine per serving to blast your body into an anabolic state Reduced muscle breakdown resulting from exercise Increased caloric efficiency for more muscle with less fat Reduced fatigue and soreness NO STIMULANTS! As athletes know, physical activity and bodybuilding has distinct effects on protein metabolism. Recent studies indicate that amino acid supplements can increase muscular development, particularly when involved with heavy resistance training.</p>
+<p>
+	Research on amino acid supplements show that athletes achieve muscular strength much quicker and experience less physical exhaustion while taking amino acid supplements or amino acid rich foods. Amino acid supplements can benefit all athletes as well as anyone wanting to ensure a balanced diet. Amino Bolic includes BCAA&rsquo;s. BCAA&rsquo;s act as a fuel source for skeletal muscle during times of trauma or stress and help prevent catabolism, all while encouraging protein synthesis. The BCAA&#39;s are especially important to athletes because they are metabolized in the muscle rather than the liver. This means that they can be used either to build new proteins or be burned as fuel to create energy. Supplementing with BCAA&#39;s has been shown to result in measurable gains in both muscle strength and size.</p>
+<p>
+	Taken before a workout BCAA&#39;s can improve performance and delay the onset of fatigue. They also operate as anabolic agents allowing the body to burn fat and not muscle. From vegetarians to people with protein allergies, the stressed to the mentally fatigued, bodybuilders to endurance athletes - for anyone who may not be getting a balanced diet in amino acids, Amino Bolic can offer the powerful nutrition tool you need. Selected References: Blomstrand E, Ek S, Newsholme EA. Influence of ingesting a solution of branched-chain amino acids on plasma and muscle concentrations of amino acids during prolonged submaximal exercise. Nutrition. 1996 Jul-Aug; 12(7-8):485-90. Mero A. Leucine supplementation and intensive training. Sports Med. 1999 Jun; 27(6):347-58. Nilsson M, Holst JJ, Bjorck IM. Metabolic effects of amino acid mixtures and whey protein in healthy subjects: studies using glucose-equivalent drinks. Am J Clin Nutr. 2007 Apr; 85(4):996-1004. Smith RJ. Glutamine metabolism and its physiologic importance. JPEN J Parenter Enteral Nutr. 1990 Jul-Aug; 14(4 Suppl):40S-44S.</p> <p>
+	.</p> <p>
+	1. What are the potential advantages of taking leucine?</p>
+<p>
+	Leucine works as part of the BCAA&rsquo;s group to repair muscles, regulate blood sugar, and provide the body with energy. It also increases production of growth hormones, and helps burn visceral fat. Leucine, isoleucine, and valine are branched-chain amino acids (BCAAs), and all three of them help promote muscle recovery after exercise. Leucine is the most effective BCAA for preventing muscle loss because it breaks down and is converted to glucose more quickly than isoleucine and valine.</p>
+<p>
+	2. What are Amino Acids?</p>
+<p>
+	Amino acids are the structural building blocks of protein. They are found in protein rich sources, such as meat and fish. Amino acids form the basic components of all living cells, found in virtually every part of the body. They are essential for the maintenance, growth and repair of muscle tissue.</p>
+<p>
+	3. Could One Be Deficient in BCAA&rsquo;s?</p>
+<p>
+	Periods of intense physical stress, such as intense weightlifting and long-distance running, can create a so-called catabolic state in which muscle tissue is broken down faster than it can be recovered and replenished.</p> 2011-07-06 11:01:30 2011-07-22 17:05:21 0 0
+
++++++++++
+paradisen_ultimate - pn_productimages:(66)
+id,product_id,product_image,actual_name,uploaded_on
+30 74 google2.jpg 2011-07-25 19:43:14
+29 73 google1.jpg google1.jpg 2011-07-25 19:09:39
+28 72 controls.png controls.png 2011-07-25 18:59:58
+24 68 2011-07-23 20:36:10
+25 69 B9G_LRG.png B9G_LRG.png 2011-07-25 14:41:21
+23 67 banner-nutrition.jpg banner-nutrition.jpg 2011-07-23 19:14:35
+26 70 2011-07-25 18:20:31
+27 71 13110836911308568538img11.jpg 13110836911308568538img1.jpg 2011-07-25 18:56:00
+20 65 imgxml.jpg imgxml.jpg 2011-07-18 15:47:08
+21 65 1310984289_pdf.jpg pdf.jpg 2011-07-18 15:48:09
+
++++++++++
+paradisen_ultimate - pn_promo:(1)
+id,p_code,promo_isActive,p_off,from_date,upto_date
+1 0 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00
+
++++++++++
+paradisen_ultimate - pn_range:(76)
+range_id,range_name,range_type,range_dateCreated,range_dateUpdated,range_isActive
+121 50 0 2011-08-25 11:20:29 0000-00-00 00:00:00 1
+120 20 1 2011-08-24 18:56:50 0000-00-00 00:00:00 1
+119 10 1 2011-08-24 18:56:41 0000-00-00 00:00:00 1
+117 6.4 6 2011-08-24 13:46:03 0000-00-00 00:00:00 1
+116 3.11 6 2011-08-24 13:39:34 0000-00-00 00:00:00 1
+115 2.2 6 2011-08-24 13:34:12 0000-00-00 00:00:00 1
+114 12 6 2011-08-24 12:41:07 0000-00-00 00:00:00 1
+113 2.65 6 2011-08-24 12:28:55 0000-00-00 00:00:00 1
+112 3 6 2011-08-24 12:17:25 0000-00-00 00:00:00 1
+111 2.48 6 2011-08-24 12:09:40 0000-00-00 00:00:00 1
+
++++++++++
+paradisen_ultimate - pn_subcategory:(3)
+subCategory_id,subCategory_fkMasterCatId,subCategory_name,subCategory_desc,subCategory_dateCreated,subCategory_dateUpdated,subCategory_isActive
+1 3 sasas sasasasa 2011-06-02 18:44:42 2011-06-02 19:47:10 1
+2 4 sasa12364 sasas 2011-06-02 19:21:08 2011-06-02 19:46:57 0
+3 5 dsads adsadasd 2011-06-02 20:07:23 0000-00-00 00:00:00 0
+
++++++++++
+paradisen_ultimate - pn_user:(47567)
+user_id,user_firstname,user_lastname,user_dob,user_tel,user_mobile,user_email,promo_code,price_off,from_date,to_date,promo_isActive,user_password,user_dateCreated,user_dateUpdated,user_isActive
+1 ko final 1986-12-12 66412000 9769287742 paradise@mtnl.net.in 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 a0aeaebe7aee316c49e76c193c89d0f3 2011-06-13 00:00:00 0000-00-00 00:00:00 1
+2 Jignesh Chauhan 1980-02-25 999999999 abhishek.jain@wwindia.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 202cb962ac59075b964b07152d234b70 2011-06-23 00:00:00 0000-00-00 00:00:00 1
+3 umesh sagoria 1980-02-25 123456 umesh.sagoria@wwindia.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 c2bd72203d6a4b004888801089771861 2011-07-04 16:55:39 2011-07-04 16:55:39 1
+4 leo nadar 1980-02-25 2312 leo.rajendra@wwindia.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 5fb410c84401950b325ee832db807a59 2011-07-04 17:42:34 2011-07-04 17:42:34 1
+2366 Trealpedava Trealpedava 0000-00-00 herbal store herbal store canadatorontonpsn@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 f66d235ee75e1cfdf439800ac26cbeeb 2012-05-25 23:26:08 2012-05-25 23:26:08 1
+6 jignesh chauhan 1999-01-01 234234234 jignesh.chauhan@wwindia.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 c962da342ebd6924ffed93cb0c22ddd9 2011-07-16 15:31:45 2011-07-16 15:31:45 1
+2346 amol surname 1984-01-01 32535 9990470249 designeram@rediffmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 6a4845ec0f9eefadf669d3bc94dc533c 2012-05-23 15:16:39 2012-05-23 15:16:39 1
+8 Dinesh Bhatia 2010-05-30 9820292827 dineshnbhatia@usa.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 9c9f1c65b1dc1f79498c9f09eb610e1a 2011-08-26 17:00:44 2011-08-26 17:00:44 1
+9 am te 1990-05-21 9962458591 pm@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 e10adc3949ba59abbe56e057f20f883e 2011-08-27 11:32:49 2011-08-27 11:32:49 1
+2365 optimisticimages optimisticimages 0000-00-00 assly.l.a.l.im.p.er69sk+182009343@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 81a127361f38142f43c300b8f316908d 2012-05-25 22:04:48 2012-05-25 22:04:48 1
+92 Amit Sharma 1985-08-23 814953399 balimeet@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 72cee9e34fa5905168ceae6358cfd6b9 2011-10-02 06:33:48 2011-10-02 06:33:48 1
+93 Umesh Chauhan 1990-08-13 9350104465 dost1937@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 dcbdcab9b26bffc71237317537bd2b07 2011-10-02 10:20:29 2011-10-02 10:20:29 1
+94 avinash verma 1984-09-30 9999941122 avixansa@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 97cbf2fa673be8cbc537a1c4b89deeee 2011-10-02 10:42:14 2011-10-02 10:42:14 1
+95 OrdergoAeroft OrdergoAeroft 0000-00-00 se.o.gyy@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 722ae87202aae2c0098526b0119da963 2011-10-02 14:39:33 2011-10-02 14:39:33 1
+96 ALAY PATEL 1990-08-12 8888109277 KINGALAY@GMAIL.COM 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 bc76f7b3a90b99fc4704f42d9784d7cc 2011-10-02 23:27:32 2011-10-02 23:27:32 1
+97 Rahul Sherkar 1985-01-10 9689326645 mailshamalraj@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 16bea0f64fd0ee60eb32cd573b0f8c39 2011-10-03 01:13:27 2011-10-03 01:13:27 1
+98 mohit sharma 1988-10-22 9888648075 punjboy@ymail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 4781924d5c54116631d07be48986f4ac 2011-10-03 02:17:41 2011-10-03 02:17:41 1
+99 Jeevarasan Elanchelvan 1989-12-13 9789969139 jeevan13@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 5e13b4bc720c2c630902832d6674ea18 2011-10-03 06:26:27 2011-10-03 06:26:27 1
+100 D d 1999-12-12 5654656556 dk121092@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 78a5c504d62b190715e6d309f97def13 2011-10-03 09:26:49 2011-10-03 09:26:49 1
+101 yogesh sharma 1989-09-08 9911440242 sharma.yogesh1750@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 a9f69f9df3c7beeede41029b600006b5 2011-10-03 11:45:48 2011-10-03 11:45:48 1
+493 Kelmeleriouri Kelmeleriouri 0000-00-00 vmpavwypozw212+hotel067@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 3aee6931ec2aea910db12871333b4dda 2011-11-17 08:40:30 2011-11-17 08:40:30 1
+494 ravi gohel 1986-09-10 3017138 9510880001 ravigohel10@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 3eba248b7e8b1bad1c8be08cef1423ea 2011-11-17 08:49:59 2011-11-17 08:49:59 1
+495 coencealleway coencealleway 0000-00-00 s..i.g.n.al.n.m.w@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 003ec14dafafd81414c833f43c85a4dd 2011-11-17 11:42:37 2011-11-17 11:42:37 1
+496 Alusshids Alusshids 0000-00-00 vmpavwypozw212+hotel068@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 0fdaa197a1e72b68cd6a3204ede4f1e1 2011-11-17 13:33:46 2011-11-17 13:33:46 1
+497 broroAvaive broroAvaive 0000-00-00 vmpavwypozw212+hotel069@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 bdf899a821d441aafb3c909f4b0141a7 2011-11-17 16:15:29 2011-11-17 16:15:29 1
+498 Sitinance Sitinance 0000-00-00 vmpavwypozw212+hotel070@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 347348031e6d86821d02eea4fd39b682 2011-11-17 18:59:33 2011-11-17 18:59:33 1
+499 amin khan 1985-06-04 9603106813 9603106813 aminasadi64@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 9d831abca2addbbc3b50240f100b34a7 2011-11-17 22:02:21 2011-11-17 22:02:21 1
+500 Undelinerge Undelinerge 0000-00-00 vmpavwypozw212+inst0000@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 7ae47959112c6fffeb73860a5aedf555 2011-11-17 22:42:11 2011-11-17 22:42:11 1
+501 Pankaj Dewra 1991-05-17 1126242525 9268014436 pankaj.dewra@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 15d995ca5efbfe381b08686ad3c2597c 2011-11-17 23:34:57 2011-11-17 23:34:57 1
+502 GHkgbn jnnjnjn j 1978-02-02 25896325 9632587412 saijith@rediffmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 25f9e794323b453885f5181f1b624d0b 2011-11-18 06:38:57 2011-11-18 06:38:57 1
+993 OntoniattelaY OntoniattelaY 0000-00-00 ark.ud.a2@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 f9f545e802a25c2e3d5a02db6045740a 2012-01-05 09:37:34 2012-01-05 09:37:34 1
+994 boovissophy boovissophy 0000-00-00 u.ggs.b.oots.s.al.e.d.i.sc.o.unt@gmail.com
+u.g.g.s.b.o.o.tssale.d.i.s.co.u.nt@gmail.com
+ug.gsbootssa.l.e.di.sco.un.t@gmail.com
+ug.g.sbo.ots.sal.edi.scou.n.t@gmail.com
+ug.gsboo.t.s.saledisc.ou.n.t@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 9ac5ed1bc8190fe3d20620fb4ac87c81 2012-01-05 09:44:51 2012-01-05 09:44:51 1
+995 pratap salunkhe 1991-02-10 9041419741 9041419741 prtrocks76@yahoo.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 4712f2fb59a78707fb230f1630a7422f 2012-01-05 10:19:31 2012-01-05 10:19:31 1
+996 DalaeLoca DalaeLoca 0000-00-00 claparsetle@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 68856c90365e35e3e8df64cc4e9c3345 2012-01-05 12:17:33 2012-01-05 12:17:33 1
+997 Prednisone Prednisone 0000-00-00 74687426993 73498629925 prednisone@prednisonenet.net 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 188fcb07bde69d2abf5ba5cdcc20a12f 2012-01-05 13:03:48 2012-01-05 13:03:48 1
+998 sceujxjngzdd sceujxjngzdd 0000-00-00 j.o.hnat.h.on.ros.set.ton@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 8081f8f4b9be971f8fd9e362a45dd7a0 2012-01-05 15:31:57 2012-01-05 15:31:57 1
+999 Cheap Levitra Cheap Levitra 0000-00-00 92370007966 93897899950 levitracheap@cheaplevitra.net 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 f05a10dc672521f685cef3770fc7766c 2012-01-05 18:58:56 2012-01-05 18:58:56 1
+1000 oaggywuvbjlq oaggywuvbjlq 0000-00-00 j.ohna.t.ho.n.r.o.s.se.t.t.on@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 8081f8f4b9be971f8fd9e362a45dd7a0 2012-01-06 01:22:38 2012-01-06 01:22:38 1
+1001 DauddiftDar DauddiftDar 0000-00-00 19.9.0c.h.e.nj.i.a@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 8c2a01f6b9d4bd7605b5a9f74602c6b9 2012-01-06 01:41:07 2012-01-06 01:41:07 1
+1002 boovissophy boovissophy 0000-00-00 zh.i.q.i.o.n.g9@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 9ac5ed1bc8190fe3d20620fb4ac87c81 2012-01-06 02:48:33 2012-01-06 02:48:33 1
+1993 Suiviafroro Suiviafroro 0000-00-00 jamesand.e.rs9889@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 2cef4ea07ccdc3e1ea0e31ea2bfb8db9 2012-04-01 07:51:07 2012-04-01 07:51:07 1
+1994 Ivan Castellino 1983-10-10 9845412000 9845412000 ivan.castellino@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 d2266e5ec7b0286a5889418ad7b54503 2012-04-01 19:45:47 2012-04-01 19:45:47 1
+1995 pletcherooc pletcherooc 0000-00-00 tian.c.haoli.k.e@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 200820e3227815ed1756a6b531e7e0d2 2012-04-01 23:02:18 2012-04-01 23:02:18 1
+1996 KHAJA AHMED HUSSAIN 1977-10-17 9867933633 9867933633 mlm9867933633@yahoo.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 f0e1493fbe484922f9058dd8d1e42d6d 2012-04-01 23:46:14 2012-04-01 23:46:14 1
+1997 Gaippespala Gaippespala 0000-00-00 genirgsdfrh@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 0825904f604ce5416a093394cd0f8252 2012-04-02 03:48:47 2012-04-02 03:48:47 1
+1998 DomCrurlsmalo DomCrurlsmalo 0000-00-00 entefeoreve@gmail.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 68856c90365e35e3e8df64cc4e9c3345 2012-04-02 04:27:58 2012-04-02 04:27:58 1
+1999 Raghuveer Nayak 1967-03-13 26771907 9987060060 raghuveer.nayak@ril.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 cba749b96c7c0622caecb8dae7a4633d 2012-04-02 07:21:34 2012-04-02 07:21:34 1
+2000 Bumcaumpfam Bumcaumpfam 0000-00-00 gmuhjei@totalhentai.net 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 b8cedc6268d8771e8c7699e070ce66c7 2012-04-02 12:54:12 2012-04-02 12:54:12 1
+2001 maruf ahmed gour 1982-07-04 9594840066 9594840066 maruf_gour@yahoo.co.in 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 5a5b48e52a31e66df56731081bfa8585 2012-04-02 14:23:17 2012-04-02 14:23:17 1
+2002 sunil silumala 1984-12-12 4556456 7456748 sunil.silumala@wwindia.com 0 0 0000-00-00 00:00:00 0000-00-00 00:00:00 0 e10adc3949ba59abbe56e057f20f883e 2012-04-02 14:58:53 2012-04-02 14:58:53 1 
++++++++++
+paradisen_ultimate - pn_useraddress:(47510)
+useradd_id,useradd_userId,useradd_add1,useradd_add2,useradd_add3,useradd_landmark,useradd_city,useradd_state,useradd_pin,useradd_country,useradd_dateCreated,useradd_dateUpdated,useradd_isActive
+1 1 62, Bajaj Bhavan, 6th Floor 226 Nariman Point Mumbai Maharashtra1 400002 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+2 2 webwerks prabhadevi dadar near siddhivinayak temple mumbai maharashtra 4001020 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+3 3 dasd hjk hh jh jh jjhj 123 dfdsf 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+4 4 gh jh ghgh gh fgfg ghg 123 ghgh 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+5 5 werwer rewrw werwe werwer werwe werwer 242342 sdadas 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+6 6 werwer rewrw werwe werwer dfasdasdas asdasdas 242342 asdasdasd 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+7 7 add1 add2 landmark city state 123456 india 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+8 8 Malad West Landmark Mumbai Maharashtra 400064 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+9 9 par ki re hanu mum maha 400 india 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+10 10 x y z mu mu in 400 in 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+90 90 1041/11, 17th E cross Indiranagar Jain College Bangalore karanataka 560038 INDIA 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+91 91 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+92 92 S. S. Thakar Bangalow, Lane No. 10 Canal Road, Karve Nagar Pune Pune Pune Maharashtra 411052 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+93 93 Hno 4/227 Shivaji Nagar , Near SD high School Gurgaon Haryana 122001 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+94 94 3rd e 108 nehru nagar near nehru stadium ghaziabad uttar pradesh 201001 INDIA 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+95 95 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+96 96 B/37, Sona Township , near Kansa char rasta, opp doctor house visnagar Doctor house Visnagar Gujarat 384315 INDIA 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+15152 15186 hyderabad safari nagar sai baba temple hyderabad andhra pradesh 500084 india 2014-03-19 12:43:35 2014-03-19 12:43:35 0
+407 414 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+408 415 mittal complex 2nd mile, sevoke road anandloke hospital siliguri west bengal 734001 india 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+488 495 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+489 496 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+490 497 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+491 498 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+492 499 2-2-647-187-6,B.CEColony,Bagh Amberpet,Shivam road,Hyderabad 2-2-647-187-6,B.CEColony,Bagh Amberpet,Shivam road,Hyderabad Bata Shoroom in shivamroad Hyderabad andhra Pradesh 500013 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+493 500 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+494 501 1204/10 govingpuri kalkaji near gurudwara new delhi delhi 110064 india 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+495 502 dfvbdfbvdb dvbdfbgdfb gbdfgdfgfdgfgf dffg fgfgrg ehgffgf fgfgfgfgfg 123654 tytytyt 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+496 503 g-59 shastri nagar g-59 shastri nagar g-59 shastri nagar pvs mall meerut uttar pradesh 250004 india 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+497 504 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+988 995 mr.shamrao moh kharadian house no 2972 near azad diary nakodar moh kharadian nakodar nakodar nakodar(dist-jalandhar) punjab 144040 india 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+989 996 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+990 997 Prednisone Prednisone Prednisone USA New York NY 0 USA 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+991 998 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+992 999 Cheap Levitra Cheap Levitra Cheap Levitra USA New York NY 0 USA 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+993 1000 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+994 1001 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+995 1002 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+996 1003 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+997 1004 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1987 1994 #76 Ground Floor, 17th Main 18th Cross Near HSR Club, HSR Layout Sector - 3 Bangalore HSR Club Bangalore Karnataka 560102 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1988 1995 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1989 1996 L.B NAGAR ANDHARI EAST NEAR GOPAL KRISHNA HOTEL MUMBAI MAHARASTRA 400069 INDIA 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1990 1997 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1991 1998 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1992 1999 A403 Vasant milestone chs Meridian apartments Veeradesai road andheri west Near st Catherine home Mumbai Maharashtra 400058 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1993 2000 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1994 2001 19/16 mariam nagar,naigaon west taluka vasai,dist thane same as above naigaon railway staion vasai maharashtra 401207 india 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1995 2002 Address 1 Address 1 Address 1 Address 1 Address 1 Address 1 54646 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0
+1996 2003 3 Central View,29 Souter Street Mumbai central Baby Garden,Agripada Mumbai maharashtra 400008 India 0000-00-00 00:00:00 0000-00-00 00:00:00 0 
++++++++++
+paradisen_ultimate - pn_videos:(36)
+id,video_title,video_description,video_name,uploaded_date,is_delete
+1 test32324 <p>
+	testing&nbsp; desc hjgkdfghsdfg gdhgsd gsdkghsjkd kh</p>
+<p>
+	sdjkkdsdkghsdjkghkgjhsd4343</p> 1308225649_Live_TV_eng - 150311.mp4 2011-06-16 00:00:00 1
+2 fgdggf <p>
+	fgsdgdfg dfgsdgsdfg dfgsdfgsdg sdfgsdfg sdgf</p> 1308225682_Firefox_wallpaper.png 2011-06-16 00:00:00 1
+3 demo <p>
+	demo testing</p>
+<p>
+	dgfjsgfjgfsjg</p> 1308548528_demo.flv 2011-06-20 00:00:00 1
+5 new banner <p>
+	new banner description</p> 1315827013_UN_PlatinumPromo.swf 2011-09-12 00:00:00 1
+6 gfhfh <p>
+	dfgdfgh dfgh sdfhdgh hgfh hdfh hdfghd hdfghd h</p> 1315829094_weight gainer.swf 2011-09-12 17:34:54 1
+7 John Abraham Joins Team Ultimate Nutrition <p>
+	<iframe allowfullscreen="" frameborder="0" height="345" src="http://www.youtube.com/embed/eZl8HNeLJcY" width="420"></iframe></p> no.JPG 2011-09-12 18:38:36 1
+8 abc <p>
+	afaf</p> 1315833060_John Abraham Joins Team Ultimate Nutrition low.wmv 2011-09-12 18:41:00 1
+9 a 1315890792_1.swf 2011-09-13 10:43:12 1
+10 a 1315891353_1.swf 2011-09-13 10:52:33 1
+11 dummy <p>
+	dummy for testing here</p> 1316845762_demo.flv 2011-09-24 11:59:22 1
+
++++++++++
+
+ 

@@ -1,0 +1,1161 @@
+www.uetainc.com/products_detail.php?sid=48&cid=15
+ 
+dutyfree_dfa - article:(21)
+id,name,publish,desc,creation_date,page_title,meta_keyword,meta_description
+
++++++++++
+dutyfree_dfa - category:(5)
+id,name,logo,publish,desc,creation_date,site_ueta,site_uetaint,category_slug,page_title,meta_keyword,meta_description
+
++++++++++
+dutyfree_dfa - contact_form:(22)
+id,name,email,phone,city,state,date
+3 kkkkk kudeep@yahoo.com 234234 ertert ertertt 2010-11-19 14:13:16
+5 xkul a@yahoo.com 234234 sdf dsfsdfsdf 2010-11-19 04:13:07
+7 sf a@yahoo.com 234234 dsf sdfsdf 1290165661
+8 sad aa12@yahoo.com 324234 werwer werwerwer 1290165724
+9 sad aa12@yahoo.com 324234 werwer werwerwer 1290165857
+10 sad aa12@yahoo.com 324234 werwer werwerwer 1290166720
+11 sad aa12@yahoo.com 324234 werwer werwerwer 1290169822
+12 sad aa12@yahoo.com 324234 werwer werwerwer 1290170523
+13 sf a@yahoo.com 234234 dsf sdfsdf 1290170525
+14 xkul a@yahoo.com 234234 sdf dsfsdfsdf 1290170528
+
++++++++++
+dutyfree_dfa - countries:(241)
+id,value
+1 Afghanistan
+2 Aringland Islands
+3 Albania
+4 Algeria
+5 American Samoa
+6 Andorra
+7 Angola
+8 Anguilla
+9 Antarctica
+10 Antigua and Barbuda
+91 Guatemala
+92 Guinea
+93 Guinea-Bissau
+94 Guyana
+95 Haiti
+96 Heard and McDonald Islands
+97 Honduras
+98 Hong Kong
+99 Hungary
+100 Iceland
+
++++++++++
+dutyfree_dfa - feedback_manager:(573)
+id,first_name,last_name,email,address,comment,date
+7 Catherine Lagace catherine.lagace@gmail.com 3574 Evelyn, Verdun, Quebec, H4G1P3 To whom it may concern, 
+
+While travelling from New York City back to home in Montreal last December I purchased some goods at one of your Duty Free stands in LaGuardia. 
+The experience was very unpleasant because of the vendor who didn't possess the skills to operate the Duty Free stand alone. The check-out alone took almost 10 minutes because it seemed he wasn't able to type in the correct information in his computer (item, price, boarding pass information ect..).
+All of that would have been OK since there is not much else to do in an airport while waiting for a plane. The problem is that my credit card has been charged twice for the same amount of my transaction (34.88$).
+I've already tried to contact MasterCard  to see if they could reverse the second faulty transaction but they couldn't do it because the mistake comes from your company, not theirs.
+Now, I'd like to know how is it possible for me to be reimbursed for the second faulty transaction ?
+Please tell me all the information that you need to me send you for you to correct your mistake and I'll happily provide it to you.
+
+Best regards, 
+Catherine LagacÃ©
+catherine.lagace@gmail.com 1328523342
+5 Test1 Last test@homesadfd.com Testing Street Testing comments 1323066508
+8 dahlia white ldmkwhite@bellsouth.net store 411 how are your 1328712977
+9 Jutta Riegel jutta.riegel@gmx.net 1130 Wien / Vienna / Austria Dear DFA-Team, I bought cigarettes at miami airport in the DFA-Shop # 71 at 19th of january 2012 - then my flight (BA0206) was cancelled and so I did not get my cigaretts, people told me, that in this case DFA will not take money of my creditcard. But now I have seen on my account that you took the money (45 EURO) and I beg you to refund it! I want to send you my documents, please give me an e-mail-adress! I also asked British Airways what to do in this case - read the answer bellow!
+Thx in advance
+Jutta Riegel 
+----
+MAIL British Airways:
+Dear Ms Riegel
+
+Any duty free purchases are distributed by an employee of the duty free shop prior to boarding.  So any purchases are never handed over to British Airways staff but will be in the possession of duty free employees until they are handed to the passenger.  Therefore I am sorry to let you know that we cannot solve this issue for you and kindly ask you once again to contact the duty free shop.
+Best regards
+Andrea  Blumhagen
+British Airways Customer Relations 1329313829
+10 david currie d2currie@gmail.com canada Your web site is very uncompetitive. Why would I gamble on an unknown price when I cross back to Canada and I canâ€™t turn around? I can compare pricing on line and see specials going into the US from Canada at the Lewiston-Queenston Bridge. I can only bring 1 bottle back no matter where I buy it. Check out your competition http://www.dutytaxfree.com/. 1329570188
+11 Nicolas GuiÃ±azu s6is@hotmail.com Santiago Chile El dÃ­a Jueves 16 de Febrero de 2012 en DFA Punta Cana (Republica Dominicana), la supervisora "Maria Santiago" (NÂº545), me falto el respeto al no querer realizar un cambio sobre un producto fallado.Ella quiso adulterar el producto y entregarmelo a su manera de ver. Ella me discrimino preguntando mi ciudadanÃ­a y riendose en mi rostro faltando el respeto. Ella en un principio se negÃ³ a identificarse no queriendo dar su nombre ni tampoco llamar a la persona supervisora de ella. 
+Al solicitar a las autoridades de Republica Dominicana ella prepotentemente saliÃ³ a buscar a otro supervisor llamado Rafael Reyes (NÂº3222) El cual me pidiÃ³ las disculpas respectivas y me devolviÃ³ el dinero de los productos fallados. 
+Espero que tomen las medidas necesarias y me informen que decisiÃ³n tomaran al respecto de esta persona mal educada. Les recomiendo que soliciten las grabaciones de las cÃ¡maras de seguridad de ese dÃ­a para poder finiquitar el problema.
+Disculpen por no escribir en ingles 1329645788
+12 Doug Pettigrew dougp@mts.net Winnipeg, MB, Canada What happened to the No 7 tobacco sticks? 1330076168
+13 HANWOOK SONG shw@kec.co.kr South Korea Hello.
+I live in South Korea is Han Wook Song.
+Your shop on Feb. 29, 2012 are people who buy stuff.
+(Detroit Metropolitan Airport)
+February 29, 2012 in your store
+$ 228.6 of the products bought with cash.
+Was to give cash to buy stuff but did not receive.
+You want to be refunded in cash.
+For details, did you check the email was sent to.
+Your e-mail address of the store is STORE488@DUTYFREEAMERICAS.COM right?
+I can not speak English well.
+Please answer my e-mail. 1330941935
+14 Manuel Pena nolo172@gmail.com 3335 Alton Road Miami I bought last March 17th a bottle of Johnnie Walker blue label  at Miami airport. The price was 187 US$ and, when I noticed that the cashier had not applied the 5% discount for spending more than 150 dollars, I came back and claimed.
+
+She ask the manager to come, both of them said to me that they had reversed the charge and agin charged me the right amount, 177.65 dollars.
+
+I asked for a receipt of the reversion fo the first charge, and they told me they could not give it to me, but that I could check it in my bank statement. i just have come back from my travel today and I see the two charges but no refund of the first one.
+
+I am very upset, how can I claim my refund for the first charge? 1332672096
+15 Dean Crozon dean@grainland.com Naicam Sk The parking lot at your Portal ND location is deplorable and has been for some time. 1333209816
+96 luis Gaviria luisgaviriaalonso@hotmail.com Calle Insuela, 76 A. 15950, RIBEIRA, SPAIN I would like know the price of the perfum Chanel # 5 in the duty free of Miami Airport. Thanks in advance. Luis 1353932554
+97 Estefania Lopez Tefilopez@hotmail.com 630 grand bay drive I live in argentina, on my tast trip to miami, i bought at the duty free shop a villebrequin men swimwear but the size wasn t correct, i kept the tag on and woukd like to know if it s possible to change it on my next visit to florida. 
+Thanks, 1353943254
+98 Dale Smotrycki gearjammer23@hotmail.com 622 talbot ave Winnipeg MB R2L 0R6 I am a frequent customer at your Pembina ND location. I am concerned about the lack of selection of Canadian tobacco products. No one seems to care what customers want such Players products.This the brand myself and many others smoke and seems as if we are being force to buy other brands because you don't want to carry this product line. 1354888364
+99 Ignacio Velazquez ivelazqu@yoli.com.mx tamarindos 2706, Acapulco, Mexico Hi, Yesterday I bought two perfumes in your store at the E terminal in AtlantaÂ´s Airport, and I did not get mystuff, the Delta 351 took off and was without mi aricles, the reference i # 2256, I was seating in seat 27B in that flight, I paid with my credit card and the salesperson was # 13564, I paid $ 152.95 USD with my mastercard  number 5452043031915452, Can you reimburse me that amount to my credit card ?. Thank you 1354958389
+100 Steve Slupski slups37@hotmail.com Caracas, Venezuela I had a layover yesterday in Miami as I was flying back to Caracas.  I had in mind a specific product that I wanted to pick up, so I swung by one the the DFA stores in terminal D.  As I walked in, I almost felt assaulted by the sales reps.  They were acting like hungry used car salesmen.  It was obvious they are working on a commission.  It just felt so slimy and I felt so pressured that I turned around and walked out. 1355671779
+101 karen davidge karebare1956@hotmail.com Ottawa, Ontario, Canada i have a coupon that expired this year for DFA for $10 off $50 purchase, which i have used before at Rte I-81 at Wellesley Island, Alexandria Bay, are there any that are valid now that will be useful for returning to Canada in January 2013,
+Regards, 
+karen Davidge 1355934017
+102 Ignacio Velazquez ivelazqu@yoli.com.mx Tamarindos 2706, acapulco I have been trying to contact you for days, I bought some perfumes at your store in terminal E in Atlanta, my claim ticket is # 5460-142.please reimburse me my money. I was on the Delta Flight 351 seating on the 27B seat on december 7/2012 1356013605
+103 Barbara Fullerton barbfullerton@gmail.com 3064 O'Hagan Drive, Mississauga, Ontario L5C 2C5 We stopped at Duty Free in Buffalo before crossing into Canada on 31 Dec at about 4:15 PM, for me to throw away some trash in the container outside, by the traffic lane West of the building. I dropped my brand new gloves off my lap when I hopped out of the car. They were a gift from my daughter, who we had just taken back to the U.S. Black with white tips on index finger and thumbs for using a cell phone. If they are found (likely on the curb) and could be mailed to me, I will repay mailing cost and give a $25 reward.
+ 
+I realize this is not likely to happen, but would be SO grateful as these were a special gift from my daughter.
+ 
+Barbara Fullerton
+ 
+3064 O'Hagan Drive
+ Mississauga, Ontario L5C 2C5
+ Canada
+ 
+905.306.9024 (home)
+ 416.540.8498 (cell)
+ 519.442.4223 (work) 1356954251
+104 john wood thunderbay2@hotmail.com 603 power dam drive cornwall ontario canada i hear you have a discount offered for a freekwent border crossing when shopping at your duty free shops. can you send me how i can join this group of shoppers. 1357215963
+105 Mikako Nishimura miviez@gmail.com Tokyo, Japan I bought Lipsticks of LOREAL at Delta Terminal #3 in JFK Airport Jan 02 2013 11:39AM. 
+The one of lipstick is defective product, it would not come lipstick up. Please advise what to to.
+Item is LOREAL TRIO COLOR RICHE + FREE MASCARA 6773573 / USD31
+50. 
+Invoice# 826
+ref# 2876
+I paid in credit card of Amex.
+I wait for your reply soon. 
+Thank you very much.
+
+Mikako Nishimura
+Mobile 81-90-9372-4701
+#103, 49-13 Hayamiya 1 chome, Nerima-ku Tokyo, Japan Zip 179-0085 1357371560
+496 Sara Shahim Sshahim@gmail.com 505 East 79 Street ny ny 10075 Susan K. Mackenzie at duty free America's terminal 7 JFK Airport NY was extremely knowledgeable about the products and provided excellent service. 1401418216
+497 rqeydck rqeydck zidqka@zmbaex.com VatKiRgNyrZBzWGdHkP JwvCL9  <a href="http://upgujkqcopgv.com/">upgujkqcopgv</a>, [url=http://gejiymdtmunk.com/]gejiymdtmunk[/url], [link=http://ivelhpenamal.com/]ivelhpenamal[/link], http://pmbxfvoncsmn.com/ 1401541004
+498 cyuljnyiqy cyuljnyiqy ljcoed@llkpqq.com gIKhmFgLluDLKDvK LHqJ3q  <a href="http://zkedvwhgkdnb.com/">zkedvwhgkdnb</a>, [url=http://pslnbknjqtkm.com/]pslnbknjqtkm[/url], [link=http://hjddrryufsan.com/]hjddrryufsan[/link], http://yejwjtecrczr.com/ 1401516118
+499 hpmjzbv hpmjzbv xnrrno@rykogx.com lZcVpfrhjhp gS1L2I  <a href="http://nsagybaeului.com/">nsagybaeului</a>, [url=http://sasiakbtszlf.com/]sasiakbtszlf[/url], [link=http://jnpdrzhrlviv.com/]jnpdrzhrlviv[/link], http://cwzfywpicynp.com/ 1401524338
+500 mjbfpsc mjbfpsc xlmypf@iuhnkp.com sdActmKdwrwBHuje t6wixY  <a href="http://jzacpukmxljj.com/">jzacpukmxljj</a>, [url=http://urhwitksktgo.com/]urhwitksktgo[/url], [link=http://juhteskxmplq.com/]juhteskxmplq[/link], http://blcezxfloaik.com/ 1401536289
+501 aybxtm aybxtm bimtip@tyjagv.com mZPUhknwFTkyxRdEH V8VTsV  <a href="http://biaihtxwlick.com/">biaihtxwlick</a>, [url=http://ilpuvamvrmlj.com/]ilpuvamvrmlj[/url], [link=http://ixbjzrulgbzy.com/]ixbjzrulgbzy[/link], http://nvuvxfbwoceh.com/ 1401604452
+502 nrdsdy nrdsdy jekzft@peidud.com cwDAYwAlrNSUtbMibj zKR7Ec  <a href="http://mheugtezpbqf.com/">mheugtezpbqf</a>, [url=http://gfnanaonreni.com/]gfnanaonreni[/url], [link=http://dngrikxkoruu.com/]dngrikxkoruu[/link], http://imvvxhiwdikg.com/ 1401709918
+503 jyinickn jyinickn rekeiq@bajlpr.com FPatJxLOhrBDTajfCQ MOYMq6  <a href="http://sdvarokgdack.com/">sdvarokgdack</a>, [url=http://bwtenfbvccmq.com/]bwtenfbvccmq[/url], [link=http://nlkqgehyrnhe.com/]nlkqgehyrnhe[/link], http://vlbcqengkatg.com/ 1401771105
+504 rwblasocy rwblasocy txceim@atzkqk.com VCElzOQO YCwLTa  <a href="http://cdkiqiarlkge.com/">cdkiqiarlkge</a>, [url=http://fibmwhrukgxm.com/]fibmwhrukgxm[/url], [link=http://jhvydpminlgj.com/]jhvydpminlgj[/link], http://lxtgktunjuxr.com/ 1401792622
+505 ihgubja ihgubja xxicrz@donfyx.com UqDVtlUzxOdon CMnP84  <a href="http://gelhhzhzztoq.com/">gelhhzhzztoq</a>, [url=http://ixpqvvausfbb.com/]ixpqvvausfbb[/url], [link=http://uqzecneykxgy.com/]uqzecneykxgy[/link], http://klugfwlvmbum.com/ 1401790605
+
++++++++++
+dutyfree_dfa - gallery:(3)
+id,name,image,publish,creation_date
+1 first image 1305902216_banner.jpg 1 1294003938
+2 second 1308825644_slide2.jpg 1 1294004111
+3 third 1310022361_slide1.jpg 1 1294004127
+
++++++++++
+dutyfree_dfa - jobs:(71)
+id,name,state,publish,job_start_date,job_end_date,exp,desc,creation_date
+
++++++++++
+dutyfree_dfa - jobs_name:(63)
+id,job_title_id,name,publish,creation_date,site_ueta
+1 150 ADMINISTRATIVE ASSISTANT 1 1308726432 1
+2 170 ASSISTANT WHSE. MANAGER 1 1308062469 1
+3 681 ASSISTANT GENERAL MANAGER 1 1308061480 1
+5 240 ASSISTANT STORE MANAGER 1 1308062458 1
+6 250 ADMINISTRATIVE SPECIALIST 1 1308061467 1
+7 1102 BOUTIQUE SALES COORDINATOR 1 1308062480 1
+8 1100 BOUTIQUE SALES MANAGER 1 1308156109 1
+9 1101 BOUTIQUE STORE MANAGER 1 1308156126 1
+10 305 CASHIER 1 1308156138 1
+11 306 CASHIER SUPERVISOR 1 1308156151 1
+
++++++++++
+dutyfree_dfa - location_seo:(4)
+id,name,page_title,meta_keyword,meta_description
+4 Corporate Locations Corporate Contact Duty Free Americas - Duty Free Airport Shopping Duty Free Americas, Duty Free Airport Shopping, Duty Free Airport Stores Corporate Contact Information for Duty Free Americas, Duty Free Airport Shopping, Duty Free Airport Stores in USA.
+1 US & Canada Border US & Canada Border Duty Free Shopping, Duty Free Stores duty free shops, duty free shopping, duty free gifts Shop for jewelry, gifts, cosmetics, perfumes, liquor from Duty Free Americas, best airport duty free stores in US & Canada Border.
+2 Airport Locations Airport Duty Free, Airport Duty Free Shops, Duty Free Store America Airport Duty Free, Airport Duty Free Shops, Duty Free Store America Airport Division, Airport Duty Free Shops Contact Information and Mission Statement for Duty Free Americas.
+5 International International Duty Free Shopping - Duty Free Americas International Locations Contact Duty Free Americas for international duty free shopping, duty free retail shops in US Airports.
+
++++++++++
+dutyfree_dfa - newsletter:(5)
+id,name,email,publish,desc,creation_date
+
++++++++++
+dutyfree_dfa - press_realese:(4)
+id,name,logo,desc,publish,publish_date,document,creation_date
+
++++++++++
+dutyfree_dfa - products:(868)
+id,cat_id,sub_cat_id,name,logo,desc,publish,price,creation_date,p_slug,page_title,meta_keyword,meta_description
+
++++++++++
+dutyfree_dfa - resume:(2677)
+id,job_id,fname,lname,email,city,state,zip,creation_date,address,phone,alt_phone,position_type,date_available,last_pay,working_shift,about_you,work_permit_us,adult,employed_dfa,when,where,position,leaving_voluntarily,reason_leaving,relative_dfa,name,relation,location,education,exp1_start_date,exp1_end_date,exp1_company,exp1_job_title,exp2_start_date,exp2_end_date,exp2_company,exp2_job_title,day_hour_sun,day_hour_mon,day_hour_tue,day_hour_wed,day_hour_thu,day_hour_fri,day_hour_sat,night_hour_sun,night_hour_mon,night_hour_tue,night_hour_wed,night_hour_thu,night_hour_fri,night_hour_sat,resume
+
++++++++++
+dutyfree_dfa - settings:(6)
+id,admin,password,fname,lname,phone,creation_date
+2 admin@dfa.com seobrand2012 michael abitbol 1340875847
+21 amena@dutyfreeamericas.com am2012 Alyson Mena 954-986-7704 1328731853
+22 lsierra@dutyfreeamericas.com ls2012 Leticia Sierra 954-986-7661 1328731941
+1 webmaster admin@sil Silvia Reinhardt 1/4/2013
+23 ymoreno@dutyfreeamericas.com yaDi2013 Yadira Moreno Creado x Silvia: para incluir nuevas posisiciones 1/22/2013
+25 dgrooscors@dutyfreeamericas.com daniela13 Daniela Grooscors Creado x Silvia: para incluir nuevas posisiciones 1368104594
+
++++++++++
+dutyfree_dfa - states:(66)
+id,state,created
+1 Missouri 1281096023
+12 Texas 1281771107
+10 Alaska 1281767637
+11 Georgia 1281770587
+3 Florida 1281096023
+7 Kentucky 1281155902
+13 Virginia 1281771118
+14 Kansas 1291966433
+15 Illinois 1291966440
+16 North Carolina 1291966450
+
++++++++++
+dutyfree_dfa - store_airport:(13)
+id,name,publish,creation_date
+1 PHX 0 1293601330
+2 MIA 0 1293601330
+3 ORD-T5 0 1293601330
+4 BOS 1 1293601330
+5 BWI 0 1293601330
+6 DTW 0 1293601330
+7 CLT 0 1293601330
+8 JFK-BA 0 1293601330
+10 LGA 1 1294694418
+11 JFK-DL 1 1294694440
+
++++++++++
+dutyfree_dfa - store_division:(5)
+id,name,publish,creation_date
+2 Airport Border 1 1293601330
+1 Northern Border 1 1294650665
+3 Southern Border 1 1294650665
+4 Corporate 1 1294650665
+5 International 1 1308200749
+
++++++++++
+dutyfree_dfa - store_location:(8)
+id,name,image,publish,creation_date
+2 Idaho 1294007729_idaho.jpg 1 1294007729
+3 Illinois 1294007764_illinois.jpg 1 1294007764
+4 Maine 1294007794_maine.jpg 1 1294007794
+5 Minnesota 1294007822_minnesota.jpg 1 1294007822
+6 Texas 1294007837_new_york.jpg 0 1294007837
+7 Washington 1294007860_washington.jpg 1 1294007860
+8 Vermont 1294007878_vermont.jpg 1 1294007878
+9 Montana 1294007899_montana.jpg 1 1294007899
+
++++++++++
+dutyfree_dfa - store_locator:(171)
+id,user_id,post_id,category_id,name,logo,marker_icon,address,lat,lng,url,description,tel,email,city,country,created
+1 0 0 1 MontBlanc - Duty Free Americas MIA #743 http://dutyfreeamericas.com/images/logo.jpg 2100 NW 42nd Ave, Miami, FL 33126 25.7950665 -80.2786931 www.DutyFreeAmericas.com Concourse D Gate D14 North Terminal Miami United States 2014-04-21 22:33:31
+2 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg Ronald Reagan National Airport , Washington DC, usa www.DutyFreeAmericas.com Ronald Reagan National Airport Terminal A (South Pier) United States 0000-00-00 00:00:00
+3 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg Washington-Dulles Int'l Airpiort, 23941 Cargo Drive, Doors 7-13, Dulles, VA, USA www.DutyFreeAmericas.com Dulles DF Conc C , Washington-Dulles Int'l Airpiort, 23941 Cargo Drive, Doors 7-13 Dulles United States 0000-00-00 00:00:00
+4 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg 23941 Cargo Drive Doors 7-13, Dulles, Virginia , USA www.DutyFreeAmericas.com Dulles DF Admin,  Washington-Dulles Int'l Airpiort 23941 Cargo Drive Doors 7-13 Dulles United States 0000-00-00 00:00:00
+5 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg 23941 Cargo Drive Doors , Dulles, Virginia , USA www.DutyFreeAmericas.com Dulles Kiosk , Cargo Drive Doors 7-13 Dulles United States 0000-00-00 00:00:00
+6 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg Cargo Drive , Dulles, Virginia , USA www.DutyFreeAmericas.com Dulles C16 Kiosk , Washington/Dulles International Airport, Cargo Drive, Doors 7-13 Dulles United States 0000-00-00 00:00:00
+7 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg B-3 East, 145 Hook Creek Blvd., Valley Stream, NY, USA www.DutyFreeAmericas.com LGA Bijoux Terner , B-3 East, 145 Hook Creek Blvd Valley Stream United States 0000-00-00 00:00:00
+8 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg B-3 East, 145 Hook Creek Blvd, Valley Stream, NY, USA www.DutyFreeAmericas.com JFK Warehouse , B-3 East, 145 Hook Creek Blvd Valley Stream United States 0000-00-00 00:00:00
+9 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg B-3 East, 145 Hook Creek Blvd., Valley Stream, NY, USA www.DutyFreeAmericas.com B-3 East, 145 Hook Creek Blvd Valley Stream United States 0000-00-00 00:00:00
+10 0 0 1 Duty Free http://dutyfreeamericas.com/images/logo.jpg B-3 East, 145 Hook Creek Blvd, Valley Stream, NY, USA www.DutyFreeAmericas.com JFK BA Coach , B-3 East, 145 Hook Creek Blvd Valley Stream United States 0000-00-00 00:00:00
+91 0 0 2 Duty Free Americas MIA #711 http://dutyfreeamericas.com/images/logo.jpg Miami International Airport, Concourse E Gate E7 Central Terminal, 2100 NW 42nd Ave, Miami FL 33126, USA www.DutyFreeAmericas.com Miami International Airport, Concourse E Gate E7 Central Terminal Miami United States 0000-00-00 00:00:00
+92 0 0 2 Duty Free Americas  MIA #713 http://dutyfreeamericas.com/images/logo.jpg Miami International Airport, Concourse E Satellite Central Terminal, 2100 NW 42nd Ave, Miami FL 33126, USA www.DutyFreeAmericas.com Miami International Airport, Concourse E Satellite Central Terminal Miami United States 0000-00-00 00:00:00
+93 0 0 2 Duty Free Americas MIA #706 http://dutyfreeamericas.com/images/logo.jpg Miami International Airport, Concourse D Gate D36 North Terminal, 2100 NW 42nd Ave, Miami FL 33126, USA www.DutyFreeAmericas.com Miami International Airport, Concourse D Gate D36 North Terminal Miami United States 0000-00-00 00:00:00
+94 0 0 2 Duty Free Americas MIA #701 http://dutyfreeamericas.com/images/logo.jpg Miami International Airport, Concourse D Gate D15 North Terminal, 2100 NW 42nd Ave, Miami FL 33126, USA www.DutyFreeAmericas.com Miami International Airport, Concourse D Gate D15 North Terminal Miami United States 0000-00-00 00:00:00
+95 0 0 2 Duty Free Americas MIA #703 http://dutyfreeamericas.com/images/logo.jpg Miami International Airport, Concourse D Gate D41 North Terminal, 2100 NW 42nd Ave, Miami FL 33126, USA www.DutyFreeAmericas.com Miami International Airport, Concourse D Gate D41 North Terminal Miami United States 0000-00-00 00:00:00
+96 0 0 2 Duty Free Americas MIA #704 http://dutyfreeamericas.com/images/logo.jpg Miami International Airport, Concourse D Gate D25 North Terminal, 2100 NW 42nd Ave, Miami FL 33126, USA www.DutyFreeAmericas.com Miami International Airport, Concourse D Gate D25 North Terminal Miami United States 0000-00-00 00:00:00
+97 0 0 2 Duty Free http://dutyfreeamericas.com/images/logo.jpg B-3 East, 145 Hook Creek Blvd, Valley Stream, NY, USA www.DutyFreeAmericas.com JFK British Airways T-7 , B-3 East, 145 Hook Creek Blvd Valley Stream United States 0000-00-00 00:00:00
+98 0 0 2 Duty Free http://dutyfreeamericas.com/images/logo.jpg B-3 East, 145 Hook Creek Blvd, Valley Stream, NY, USA www.DutyFreeAmericas.com JFK Mont Blanc , B-3 East, 145 Hook Creek Blvd Valley Stream United States 0000-00-00 00:00:00
+99 0 0 2 Duty Free http://dutyfreeamericas.com/images/logo.jpg B-3 East, 145 Hook Creek Blvd, Valley Stream, NY, USA www.DutyFreeAmericas.com LGA American Con D Cent Term , B-3 East, 145 Hook Creek Blvd Valley Stream United States 0000-00-00 00:00:00
+100 0 0 2 MONTBLANC - Store 542 http://dutyfreeamericas.com/images/logo.jpg 2600 Maynard H. Jackson Jr. Blvd.,Atlanta, GA 30354 www.DutyFreeAmericas.com Concourse F - Montblanc Atlanta United States 0000-00-00 00:00:00
+
++++++++++
+dutyfree_dfa - store_locator_category:(3)
+id,name,marker_icon,image
+1 Airport
+2 Northern Border
+3 Southern Border
+
++++++++++
+dutyfree_dfa - stores:(168)
+id,name,location,location_2,city,state,country,google_map,zip,phone,fax,open,close,division,airport,creation_date,sunday,monday,tuesday,wednesday,thursday,friday,saturday,notes,store_number
+199 Duty Free Ronald Reagan National Airport Terminal A (South Pier) Virginia United States of America Ronald Reagan National Airport , Washington DC, usa 20001 (703) 417-1220 (703) 417-1222 2 1305884219 5:30am-8:30pm 5:30am-8:30pm 5:30am-8:30pm 5:30am-8:30pm 5:30am-8:30pm 5:30am-8:30pm 5:30am-8:30pm 0
+221 Duty Free Dulles DF Conc C , Washington-Dulles Int'l Airpiort, 23941 Cargo Drive, Doors 7-13 Dulles Virginia United States of America Washington-Dulles Int'l Airpiort, 23941 Cargo Drive, Doors 7-13, Dulles, VA, USA 20166 (703) 572-0245 (703) 572-0247 2 1305886494 6:30am-10:30pm 6:30am-10:30pm 6:30am-10:30pm 6:30am-10:30pm 6:30am-10:30pm 6:30am-10:30pm 6:30am-10:30pm 0
+222 Duty Free Dulles DF Admin,  Washington-Dulles Int'l Airpiort 23941 Cargo Drive Doors 7-13 Dulles Virginia United States of America 23941 Cargo Drive Doors 7-13, Dulles, Virginia , USA 20166 (703) 572-0125 (703) 572-0184 2 1305886563 Closed 7:00am-4:00pm 7:00am-4:00pm 7:00am-4:00pm 7:00am-4:00pm 7:00am-4:00pm Closed 0
+224 Duty Free Dulles Kiosk , Cargo Drive Doors 7-13 Dulles Virginia United States of America 23941 Cargo Drive Doors , Dulles, Virginia , USA 20166 (703) 572-4495 (703) 572-0184 2 1305886678 7:00am- 9:00pm 7:00am- 9:00pm 7:00am- 9:00pm 7:00am- 9:00pm 7:00am- 9:00pm 7:00am- 9:00pm 7:00am- 9:00pm 0
+251 Duty Free Americas Belize Philip Goldson International Airport Ladyville Belize Belize Philip Goldson International Airport, Intl Airport Road, Ladyville, Belize 5 1308202180 0
+225 Duty Free Dulles C16 Kiosk , Washington/Dulles International Airport, Cargo Drive, Doors 7-13 Dulles Virginia United States of America Cargo Drive , Dulles, Virginia , USA 20166 (703) 572-0228 (703) 572-0184 2 1305886778 6:30pm-10:00pm 6:30pm-10:00pm 6:30pm-10:00pm 6:30pm-10:00pm 6:30pm-10:00pm 6:30pm-10:00pm 6:30pm-10:00pm 0
+193 Duty Free LGA Bijoux Terner , B-3 East, 145 Hook Creek Blvd Valley Stream New York United States of America B-3 East, 145 Hook Creek Blvd., Valley Stream, NY, USA 11581 (718) 205-1242 (718) 632-8504 2 1305883796 8:00am-7:00pm 8:00am-7:00pm 8:00am-7:00pm 8:00am-7:00pm 8:00am-7:00pm 8:00am-7:00pm 8:00am-7:00pm 0
+430 Duty Free JFK Warehouse , B-3 East, 145 Hook Creek Blvd Valley Stream New York United States of America B-3 East, 145 Hook Creek Blvd, Valley Stream, NY, USA 11581 (516) 218-2155 (516) 218-2156 2 1305883708 CLOSED 7:00am-3:00pm 7:00am-3:00pm 7:00am-3:00pm 7:00am-3:00pm 7:00am-3:00pm CLOSED 430
+191 Duty Free B-3 East, 145 Hook Creek Blvd Valley Stream New York United States of America B-3 East, 145 Hook Creek Blvd., Valley Stream, NY, USA 11581 (516) 256-3000 (516) 872-8670 2 1305883652 0
+186 Duty Free JFK BA Coach , B-3 East, 145 Hook Creek Blvd Valley Stream New York United States of America B-3 East, 145 Hook Creek Blvd, Valley Stream, NY, USA 11581 (718) 425-5441 2 1305883366 0
+117 Duty Free Americas 7577 Airway Road., Suites 100-102 San Diego California United States of America 7577 Airway Road., Suites 100 to 102, San Diego, CA, USA 92154 (619) 661-0584 (619) 661-8905 3 1305714651 closed 8:00am-5:00pm 8:00am-5:00pm 8:00am-5:00pm 8:00am-5:00pm 8:00am-5:00pm 8:00am-12:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+118 Duty Free Westside Highway 85 Lukeville Arizona United States of America Westside Highway 85, Lukeville, AZ, USA 85341 (520) 387-6123 (520) 387-3064 3 1305714708 10:00am-4:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-7:00pm (PST; 3 hours behind; M-Sat, Open at 12:00pm EST) 0
+1119 Duty Free 535 N. Main St San Luis Arizona United States of America 535 N. Main St., San Luis, AZ, USA 85349 (928) 627-2094 (928) 627-3806 3 1305714763 CLOSED 9:30am-6:00pm 9:30am-6:00pm 9:30am-6:00pm 9:30am-6:00pm 9:30am-6:00pm 9:30am-6:00pm (PST; 3 hours behind; Open at 1pm EST) 0
+120 Duty Free Americas 4630 Border Village Rd, #A-E San Ysidro California United States of America 4630 Border Village Rd #A-E, San Ysidro, CA, USA 92173 (619) 428-4444 (619) 690-5178 3 1305714838 9:00am-5:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+121 Duty Free Americas 2470 Roll Drive, Suite #G San Diego California United States of America 2470 Roll Drive, Suite #G, San Diego, CA, USA 92154 (619) 661-1660 (619) 690-1668 3 1305714916 9:00am-6:00pm 9:00 am-8:00pm 9:00 am-8:00pm 9:00 am-8:00pm 9:00 am-8:00pm 9:00 am-8:00pm 9:00 am-8:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+122 Duty Free Americas 147 Imperial Avenue Calexico California United States of America 147 Imperial Avenue, Calexico CA 92231, USA 92231 (760) 768-0150 (760) 768-0152 3 1305714969 9:00am-7:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+123 Duty Free Americas 211 1st St Calexico California United States of America 211 1st St, Calexico CA 92231, USA 92231 (760) 768-0092 (760) 768-0093 3 1305715049 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+124 Duty Free Americas San Ysidro Mega Store, 5775 Camiones Way San Ysidro California United States of America 5775 Camiones Way, San Ysidro, CA, USA 92173 (619) 662-2028 (619) 428-7807 3 1305715117 9:00am-8:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+249 Duty Free Americas 4509 Camino De La Plaza #362 San Ysidro California United States of America 4509 Camino De La Plaza #362, San Ysidro, CA, USA 92173 (619) 690-9300 (619) 662-9339 3 1306161658 9:00am-8:30pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm Corrected by Jodie Gonzalez 1/9/2013 0
+126 Duty Free Americas 4509 Camino De La Plaza #372 San Ysidro California United States of America 4509 Camino De La Plaza #372, San Ysidro, CA, USA 92173 (619) 662-1860 (619) 428-6063 3 1305715294 9:00am-8:00pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm 9:00am-9:30pm Corrected by Jodie Gonzalez 1/9/2013 0
+
++++++++++
+dutyfree_dfa - sub_category:(96)
+id,cid,name,logo,publish,desc,creation_date,sub_cat_slug,page_title,meta_keyword,meta_description
+
++++++++++
+dutyfree_dfa - subscribe_newsletter:(5419)
+id,email,creation_date
+13 dr@gmail.com 1294662609
+16 weewwef@Eefefc.com 1295544869
+8 aa12233@yahoo.com 1294124680
+7 sad@yahoo.com 1294124315
+9 aa122dsfdsf33@yahoo.com 1294125501
+15 audreymaman@hotmail.com 1295018957
+12 fgd@gmail.com 1294650069
+14 dfd@gmail.com 1294662761
+17 erswfewfewfwef@ewfedc.com 1295544903
+18 test1@test.com 1295544951
+99 jnadaraj@hotmail.com 1329058303
+100 smoore0129@juno.com 1329059781
+101 rfarmer@farmerlegal.com 1329063720
+102 skipmaslin@rogers.com 1329138887
+103 stanspizza@gmail.com 1329114433
+104 happypuppie@juno.com 1329226841
+105 diogolk@gmail.com 1329235457
+106 tgspeterek@gmail.com 1329205578
+107 slothdijk@zeelandnet.nl 1329209174
+108 canadian4u@sympatico.ca 1329305914
+499 memberservices@cheektowaga.org 1337870543
+500 lockedonald@gmail.com 1337876782
+501 muge.uusan@yapikredi.com.tr 1337848048
+502 martinhamer@ymail.com 1338124626
+503 dseth1@hotmail.com 1338181985
+504 ngeroliminis@hotmail.com 1338194824
+505 jgamoril@terra.com.br 1338216833
+506 danhe2000@hotmail.com 1338268299
+507 hyjansma@shaw.ca 1338309764
+508 lady_red_book@yahoo.com 1338393025
+999 graypaige007@gmail.com 1346750057
+1000 lhk_02@YAHOO.COM 1346757766
+1001 ugougo@tbaytel.net 1346862198
+1002 beertje43@live.nl 1346826461
+1003 tiger_laine@hotmail.com 1346839421
+1004 juliek@cvk.net 1346848282
+1005 jwalker22@shaw.ca 1346908427
+1006 dschamberlin@sympatico.ca 1346919096
+1007 yzhang0128@yahoo.com 1346937878
+1008 picotico128@hotmail.com 1347035152
+1999 steve.sumra@gmail.com 1364201587
+2000 mikemstanton@hotmail.com 1364213441
+2001 cassia056@hotmail.com 1364228787
+2002 c-camilo-g@hotmail.com 1364189109
+2003 elco1994@yahoo.ca 1364189182
+2004 mgp_pereira@hotmail.com 1364198991
+2005 paolakuenzer@gmail.com 1364199540
+2006 manuelsfernandes@YAHoo.com 1364314809
+2007 bradshaw24@sympatico.ca 1364313706
+2008 princessjaneypoo@hotmail.com 1364275748 
++++++++++
+dutyfree_dfa - vendor_request:(4379)
+id,vender_number,company_name,contact_name,contact_phone,another_contact,contact_email,address1,address2,city,state,zip,country,product_name,buyer_name,product_category,product_cost,currency,product_desc,product_image,creation_date
+48 uy yuy uy y uy uy uy uyu 72 787877 werewr wer wer 19 444 USD 33 1328255659_sider_banner.jpg 1328255659
+49 RLK & Associates, Inc. Miguel Ramirez 808-282-1643 808-259-6933 solisevolutions@gmail.com Post Office Box 145 Waimanalo 55 96795 USA SoL Hybrid iPhone Solar Power Pack Charger Case Seller Contact: Miguel Ramirez 17 Suggested Retail: $89.95 USD The SoL Hybrid iPhone Solar Power Pack Charger Case is a new iPhone/iPod charging device that will keep your iPhone/iPod powered up for days.  The case has an internal extra large battery that triples your iPhone life and its integrated solar panel allows you to charge with sunlight or indoor light.  The device also charges very fast (3 times faster than a wall charger).  The SoL Hybrid Power Pack Charger is like nothing on the market as no other charging accessory in the world will keep you as connected as the SoL Hybrid Solar Power Pack.  Great for travelers as it generates power not only by the sunlight but also by any indoor light.  
+Cost to DFA: $48.00 per unit based on minimum order of 5000 units (slightly more if less quantity ordered).  Suggested Retail Price: $89.95
+Please contact me for further information, Presentation .pdf Packet and Technical Data Sheet.  Product has Provisional Patent and Hybrid Solar Technology is Trademarked.
+I look forward to hearing from you soon and am available at your leisure: 808-282-1643.  Thank you very much for your time and consideration.
+Miguel Ramirez 1328253237_SOLChargerPowerPoint_Page_01.jpg 1328253237
+44 tetet tete tete tete fdfds@gfgfdg.jhjh fdfd fdfd fdfdd 58 43434 fdfdfdf gfgfg fgfg 19 25 USD fdf 1311763553_win.jpg 1311763553
+45 sfsd sdf 44353 3534 test@test.com ert et ertret 29 675465 rtyry rtyry tyutyu 16 200 EURO 45 1311764393_BiscayneNP_ROW878587037.jpg 1311764393
+50 The Marcam Group, Inc. Rick A. Lopez 321-303-5148 rlopez@marcamgroup.com P.O. Box 917327 Longwood 3 32791 USA Twilight Teeth Rick A. Lopez 16 $15.00 USD Twilight Teeth is a safe, patented, teeth whitening system for use at home or while you tan. For more product information, please check the product website twilightteeth.com.
+The Twilight Teeth product currently retails for $49.00 USD and is sold in exclusive stores throughout the United States.
+I would like to bring complimentary samples to your office, please let me know when it is convenient for you, thank you. 1328606185_header-product-information.jpg 1328606185
+51 Prohibition Distillery Brian Facquet 917-685-8989 brian@prohibitiondistillery.com 12 Desbrosses St New York 33 10013 USA Bootlegger 21 New York Vodka Brian Facquet 15 29.99 USD Bootlegger 21 is distllled six times from 100% Corn (Gluten Free),  then filtered through hardwood charcoal to produce an uncommonly smooth, sipping vodka.  Our small batch / hand crafted vodka has won best in the world at the New York International Spirits Competition and four other international gold medals.  Our quality, story and packaging truly set us apart from the generic world of vodkas.  We fob for $14.00 per bottle in a 750 ml six pack case.  After selling out at every tourist area retail shop in NYC,  it became apparent that the \"Made in New York\" markings on the label draw tremendous attention from the international tourists. 
+  www.prohitiondistillery.com 1328769709_bottleshot 2.jpg 1328769709
+52 GO-GIRL Fashion Fixes Shelly 310-933-1455 support@gogirlfashionfixes.com 369 Doheny Drive Beverly Hills 34 90210 USA Lint on the go sheets, CHIC Apparel Tape, The Smudge Sponge Debbie 16 $9.50-$13.50 USD These products are P.O.P items and must have travel items for the busy gal on the go.  Our Lint-on-the-go-sheets! have been seen on TV Guide Network, The Insider and on E! Network.  They remove lint and fuzz w/o the need of a bulky lint roller.  Our Smudge Sponge removes deodorant marks w/o the need of a wash cloth and our CHIC Apparel Tape, is a must for the unexpected fashion mishap. 1329148359_lint-sm.jpg 1329148359
+53 ruecas ernesto ruelas (956)7407374 evy ruelas evy_ruelas@hotmail.com 2713 wadkins laredo 12 78045 usa backpacks,messenger bags,ipad covers ernesto ruelas 17 $30backpack - $24-$30 messenger bag $20 ipad cover USD backpack
+*selected fine satin brocade fabric as surface size 12"wX14"HX5"D  original design hand made
+messenger bag
+12"WX4"DX12"H original design hand made    *ipad cover original design hand made   *diaper bag 14"W X12"H X6"D satin brocade fabric ,black water resistant liner beatiful design peace and love 1329899288_DSC04371.JPG 1329899288
+54 Entreprise Spring USA (Provessence) Jose Lopez 786-3892908 Sophie Spring jose.lopez@provessence.com 1255 Orange Drive, Suite 256 Davie 3 33330 USA Provessence Jose Lopez 16 From $3.30 to $54.90 USD Welcome to the Provessence Universe. You are cordially invited to discover the \"Traditions and Art of cosmetics in Provence,\" the veritable paradise in the South of France. An exclusive line of treatments and products developed from authentic Provencal recipes, 100% plant based and prepared according to exacting quality criteria.
+The products â€” bar soaps, liquid soaps, body milks, bath salts, massage oils, linen waters, room scents and scented candles â€” all have only aromas from Provence, 1330450143_6-medium.jpg 1330450143
+55 Airport Valet Parking Martha A. Ward 716-566-3508 Sean Chambers martha.ward@budgetbuffalo.com 3999 Genesee Street Buffalo 33 14225 USA Airport Parking Services Unknown 17 $9.85 USD Serving Western New York and Southern Ontario for over 20 years - Airport Valet Parking(located @ Budget Rent a Car of Buffalo -3999 Genesee Street) is a locally owned valet parking facility  located directly across the street from the Buffalo Airport. Open 24 hours a day, 7 days a week, year round. 
+
+We would like to offer your customers a 10% discount off our daily and weekly parking rates. 1330409065_AVP Logo.jpg 1330409065
+136 Aap Ki Pasand Tea Nikhil Kapur +919810402028 Sanjay Kapur travelretail@sanchatea.com Sterling House, 15 Netaji Subhash Marg, Daryaganj Daryaganj New Delhi 34 110002 India Gourmet Tea Sancha Tea 19 USD 6- USD 37 USD Good Afternoon. We are a gourmet Tea brand based out of New Delhi, India. Owned and Managed by a Master Tea Taster, the Sancha brand is proudly the No.1 selling Tea brand in Indian Travel Retail partnering the biggest names in Travel Retail such as Aer Rianta, Lagardere, GMR, Nuance, DFS, Flemingo, WH Smith, and King Power.   
+
+We have recently launched a pioneering service at Delhi Duty free and i have attached a link below for your perusal from the prestigious DFNIONLINE. 
+
+http://www.dfnionline.com/article/Delhi-Duty-Free-launches-tea-tasting-activity-1864744.html
+
+Our brand is well appreciated by Japanese PAX and i believe the range will be a great addition to the wide array of categories you have on offer at your wonderful stores. Darjeeling Tea from the Country of Origin, Flown in Fresh is an offering not many International brands can offer.  We are also looking forward to launching our teas at Hawaii with our Retail Partner DFS whom we work with at Singapore and Mumbai Airport currently. 
+
+Our CEO Mr. Sanjay Kapur will be traveling to the United States in January, 2013 and it would be our honour to visit your office for a short presentation of our range and a tea tasting session. 
+
+I have attached some product images for you perusal. Our packaging is described as Ethnic Luxury and is very popular for gifting.  
+
+Looking forward to hearing from you. 
+
+Yours sincerely 
+
+
+Nikhil Kapur 1355729204_(1) Rare Darjeeling.jpg 1355729204
+137 West Coast Trends, Inc. Danea Otor 714-843-9288 danea@clubglove.com 17811 Jamestown Lane huntington beach 34 92647 US Train ReactionÂ® Danea Otor 17 9.98 USD Train Reaction offers unique luggage accessories that make carrying your travel bags and luggage much easier. Say goodbye to trying to roll two suitcases through the lobby with a laptop bag on one shoulder and a carry-on bag cutting off your circulation on the other. The patent pending Train Reaction luggage stabilizing device will help you alleviate the pain of traveling with multiple rolling suitcases. This travel luggage accessory allows you to carry more travel luggage & bags with less effort than ever before. Simply slide the accessory onto your rolling travel luggage and bags to secure your items together for easy transport from home to car to airport. 1355851048_TRD.jpg 1355851048
+138 PAYNE MASON CIGARS Paulo Caillile 858 228.7716 paulo@paynemason.com 6455 La Jolla Blvd. Suite 236 La Jolla 34 92037 USA PAYNE MASON CIGARS MANUFACTURE 20 7.00 USD HAND MADE CIGARS WITH AGED TOBACCO ENCASED IN TUBE GLASSES FOR FRESHNESS. 1355815731_Connoisseur Collection DFS .jpg 1355815731
+139 Aap Ki Pasand NIKHIL Kapur +919810402028 travelretail@sanchatea.com 15 Netaji Subhash Marg, Daryaganj NEW DELHI 33 110002 INDIA SANCHA TEA NIKHIL Kapur 19 6-37 USD Hi, 
+
+Seasons Greetings. 
+We emailed your company a couple of days back but are yet to hear from anyone at your office.  Since its Christmas now, we shall await a reply back when you return to office after the vacations.. 
+
+Wishing your team a wonderful christmas. 
+
+Yours sincerely 
+
+N Kapur 
+Sancha Tea 1356334884_No.1 Darjeeling Tea.JPG 1356334884
+140 Green Apple Candy, Corp William Pereira 7186070000 6462694822 wp@greenapplecandy.com 1211 38TH AVE 2FL ASTORIA 33 11101 USA I LOVE NEW YORK - Green Apple Candy William Pereira 19 0.99 USD The I LOVE NEW YORK - Green Apple Candy is individually wrapped green apple flavor taffy; 3.52 oz. (100g) bag, about 25 pieces per bag. 72 bags per box. 1356509369_GAC1.jpg 1356509369
+141 Eleia - Born Where It All Began Elli Leno 00306979404727 Nadia Stratou e.leno@eleia.gr 44, Politechniou Street n/a Lechaina, Ilia 3 27033 Greece Eleia - Greek Premium Extra Virgin Olive Oil Alexandros Spiliadis 19 15 USD " ELEIA " is an award winning fresh brand, from Greece, that not only stands for unique quality and exceptional fruity taste and strong aroma but also has a way to reflect that through its contemporary design. â€¨â€¨I don\\\'t believe in many words, therefore I just want to mention briefly our 2012 milestones:
+ 
+Â·        Golden Medal at European Design Award;
+http://www.europeandesign.org/submissions/eleia-olive-oil/
+ 
+Â·        Golden Medal at Greek Design Award (EÎ’Î“Î•)
+ 
+Â·        Silver Medal at Los Angeles Olive Oil Competition
+ 
+Â·        DEAN & DELUCA U.S.A., Singapore, Dubai, Korea;
+http://www.deandeluca.com/pantry/pantry-new/eleia.aspx & http://www.deandeluca.com/el-ia-extra-virgin-olive-oil-tin.aspx (great reviews)
+ 
+Â·        Collaboration with NY street artist Bast for an incredible limited edition bottle
+ 
+For more information, regarding our company and olive oil, please visit our website: www.eleia.gr and our Facebook site: facebook.com/eleiagr
+ 
+Since I will be in Miami until Friday 4th of January 2013, it would be a great pleasure for us meeting you in person at your earliest convenience, in order to introduce to you â€žELEIAâ€œ and our product. In the meantime we can send you a sample of our 1/2 Lt glass bottle and Lt Tin for you to taste its unique full taste.
+ 
+We strongly believe that you, your customers will love â€žELEIAâ€œ and our product.
+ 
+Looking forward to a future cooperation and we remain at your disposal for any further inquiries that you might have. 
+ 
+Best Regards,
+Elli Leno
+Sales Coordinator 1357194178_Eleia_01.jpg 1357194178
+142 Francovich Distillers Sam Francovich 775-825 1180 Marisa Francovich sfrancovich@yahoo.com 1180 Skyline Blvd. Reno 47 89509 USA Francovich Manhattan/Skyscraper Edition Sam Francovich 15 $25 USD A 21" tall Skyscraper bottle in a decorative box of a premium ready to drink manhattan. This is a novelty presentation , but a superior , unmatched product in the bottle. 1357210365_Manhattan JPEG.jpg 1357210365
+143 Masterbrands LLC Tina Mehta 2035597010 tmehta@choctailnyc.com 115 w 86th street 2nd Floor new york 33 10024 USA Choctail NYC, New York City\'s Premium Liqueur Truffle Tina Mehta 19 $30.00 USD Choctail NYC utilizes the expertise of New York Cityâ€™s award-winning
+master chocolatiers to create the masterclass of premium liqueur
+truffles in the world. Named after New York City neighborhoods and
+landmarks, each Choctail brings sexy New York City excitement and
+indulgence with every mischievous bite.
+
+We proudly infuse the finest, high end liqueurs with rich, fresh,
+handmade artisan white, dark and milk chocolate. Our liqueurs include
+Moet & ChandonÂ® Champagne, StoliÂ® Pepper Vodka, Knob CreekÂ®
+Bourbon,Grand MarnierÂ® Cordon Rouge, HennessyÂ® Cognac, Clear Creek
+DistilleryÂ® Pear Brandy, Raspberry ChambordÂ®, DisaronnoÂ® Amaretto,
+Myerâ€™sÂ® Rum, RomanaÂ® Sambuca, Baileyâ€™sÂ® Irish Cream, and DrambuieÂ®. 1357839712_2011-03-09 08.04.04.jpg 1357839712
+144 Jackrabbit Caps Matt Marshall 760-533-3317 Steve Sloan matt@jackrabbitcaps.com 4065 Oceanside Blvd., Suite P Oceanside 34 92056 USA Jackrabbit Caps Matt Marshall 17 $29.99 retail USD 100% flannel wool.  Handmade in California. 1357817448_028_wool_gray_men.jpg 1357817448
+145 5linx Enterprises Leevon Bethel 340-227-2356 www.5linx.net/L547437 leevonb@yahoo.com 619 Rollingbrook St. Apt.# 0102 Baytown 12 77521 Credit Card Processing Machines Leevon Bethel 17 rates at 0.95% USD Good day,first i'll like to appolagize for picking luxury girft. I am offering some great rates on our Credit Card Processing machine. and i would like the opportunity to show you a way where you could maybe cut your processing rates in half. please let me assist you in some great safings. my website is www.5linx.net/L547437, then click on the products button.Now when the next screen opens scroll down and click on credit card processing and see how much you can really save . 1358164111_Hypercom.png 1358164111
+536 IOAKU Fanny Ek +46708281108 Bernadeth Joven fanny@ioaku.com VÃ¤stergatan 6C Malmoe 34 21121 SWEDEN IOAKU Jewellery IOAKU 17 18-185 USD Purchase price USD My namn is Fanny Ek, founder of IOAKU and a swedish jewellery designer who became the "designer of the year" in Scandinavia a couple of months ago. The IOAKU ( I Oak You )  jewelry are on there way of launching in the US this autumn and it would suit perfect -  Duty Free at American airports as well.  It would be something special and eyecatching for your costumers. I'm sure this will sell amazing. With exclusive packaging and fashionable pieces, most of your costumers will go for IOAKU when comparing to other trendy jewelry brands. The prices are not cheap but still far from expensive. everybody could afford it.
+
+I would be very pleased to get in contact with you to show you the IOAKU Collection and tell you more about the company and the brand. We could do an amazing co-operation together. It will be a very big benefit for you aswell to show that you have one of the most brand new jewelry at the market, which has been awarded with trend, style and designer awards over the last two years. 
+
+To give you an idea about the prices to the costumers see below.
+Original Retail Prices:
+Necklaces: 85-519 USD
+Rings: 50-105 USD
+Earrings: 50 USD
+
+Ioaku offers high-fashion jewelry for those who wants something different and special. Sophisticated elegance shown in an unique style, inspires a combined style from both the past and the future. Ioaku develops and creates the look for the dynamic people who embrace their self-esteem, assertiveness and supernatural fashionable charisma. The collections are mostly reflected by aesthetic awareness of the timeline of human mankind yet combined with new ideas and experimental designs.
+
+Please visit our website www.ioaku.com / www.facebook.com/ioakus and google #ioaku to see all the amazing pictures taken with the jewelry.
+
+Please contact me for more information, digital presentation or questions.
+
+
+Best Regards
+
+
+Fanny Ek
+Founder/ Designer
+
+IOAKU AB
+VÃ¤stergatan 6C 
+21121 Malmo
+SWEDEN
+
++46708281108
+fanny@ioaku.com
+
+or contact our US Manager
+
+Bernadeth Joven
+bernadeth@ioaku.com
++16262504975 1405414559_IOAKU Jewellery Card.jpg 1405414559
+537 North Coast Distilling Jim Hall 989-506-7921 Todd Shelton jimhall48858@yahoo.com 1270 Duane St. Astoria 41 97103 USA North Coast Distilling Jim Hall 15 1) Bar Pilot Vodka $13.35 per bottle. 2) Bar Pilot Vodka flavors $14.35 per bottle. 3) Bar Pilot Gin $14.35 per bottle. 4) Painted Lady Gin $15 per bottle. 5) Uncle Scary's Moonshine $14 per bottle. 6) Shanghaied Rum $14 per bottle. USD OUR STORY
+
+North Coast Distilling started back in a holler in Tennessee, as a thought after tasting some moonshine.  At which point we set out to produce a quality product that can actually be enjoyed.  This desire soon became a passion and took hold, and years later North Coast Distilling was born in Astoria, Oregon. What better place to express the rugged individualism embodied in the the history of distilling then the oldest settlement west of the Rockies.  We produce our hand crafted spirits which include:  Bar Pilot Vodka, Bar Pilot Jalapeno Pepper and Cucumber infused Vodka, Bar Pilot Gin (A dry, traditional gin), Painted Lady Gin 
+(An American, botanical style gin), Uncle Scary's Moonshine and Shanghaied Rum.  Our website is www.northcoastdistilling.com and our Facebook page is North Coast Distilling. 1405669821_NCD-Ad-Slick Compressed.jpg 1405669821
+538 GoSleep USA Tom Parziale 323-874-4875 323-286-8374 Gosleepmask@gmail.com 1558 n Stanley ave Los Angeles 34 90046 United States GOSLEEP Travel Mask ? 17 $38 USD The  patent pending GOSleep mask is perfect for travelers. It's been specially molded to block light and allow eye movement. The adjustable elastic cord is designed to go around the seat back or adjustable head rest which prevents your head from the infamous head bob, allowing you a more restful sleep on the GO. Each GOSLEEP travel mask comes with provided pillow carrying case and can be used on most planes, in the car, train or bus. 1405836657_image.jpg 1405836657
+539 Nanyang Co., Inc. Stanley Zhou 510-670-1389 Cynthia Cai nanyangco@yahoo.com 20953 Cabot Blvd., Hayward 34 94545 USA Kweichow Moutai Chiew Stanley Zhou 15 $210/bottle USD Kweichow Moutai Chiew 750ml is flag ship product of China Kweichow Moutai Distillery Co.,Ltd. which is the largest Liquor Maker in China. It's well-known as National Liquor in China. It's made from Organic Wheat and Sorghum. Alcohol content 53% by volum. 1405933862_image.jpg 1405933862
+540 Nanyang Co., Inc. Stanley Zhou 510-670-1389 Cynthia Cai nanyangco@yahoo.com 20953 Cabot Blvd., Hayward 34 94545 USA Kweichow Moutai Chiew Stanley Zhou 15 $210/bottle USD Kweichow Moutai Chiew 750ml is flag ship product of China Kweichow Moutai Distillery Co.,Ltd. which is the largest Liquor Maker in China. It's well-known as National Liquor in China. It's made from Organic Wheat and Sorghum. Alcohol content 53% by volum. 1405933867_image.jpg 1405933867
+541 Sea Smadar Eliasaf Arna Ron 972544744839 97236445623 arna@sea-smadar.com Habarzel 32 Tel Aviv 72 69126 Israel Gold and crystal bracelet /Necklace Arna Ron 17 35 USD Soft candlelight glow, sparkling crystal, glints of gold. 
+The epitome of elegance captured in a classic creation
+of  Swarovski crystals and 24K gold-plated charms strung
+on a lustrous coil of pearl-colored leather.
+This eye-catching piece can also be worn as a necklace
+Length: 21.5" (55cm)
+Created by Smadar Eliasaf, an internationally renowned designer, whose collections are on permanent display in leading designer boutiques world-wide. 1406084251_B1-AA-GLD.jpg 1406084251
+542 Felfort Marcelo Cretella 541146180016 mcretella@felfort.com.ar Gascon 329 Buenos Aires 72 1181 Argentina Marroc Marroc 19 7.96 USD Delicious white and milk chocolate praline bite. ï»¿One of our flagship products now becomes an icon in its category.
+
+1 box with 60 units x 14 g. 1406254387_0610_Gallery_3.jpg 1406254387
+543 Felfort Marcelo Cretella 541146180016 mcretella@felfort.com.ar Gascon 329 Buenos Aires 72 1181 Argentina Mentitas Mentitas 19 5.36 USD The unmistakable taste of mint cream coated with the most delicious Felfort chocolate. 
+ 
+1 box with 30 units x 16 g
+
+more info in www.felfort.com.ar 1406257714_0830_Main.jpg 1406257714
+544 Arturo Fuente Karl Herzog 813-248-1598 Dianne Gradillas kherzog@afuenteco.com 1310 N22nd Street Tampa 3 33602 United States Arturo Fuente Karl Herzog 20 2.85 USD Fine hand made premium cigars
+http://www.arturofuente.com/digital_catalogs/full_catalog/
+
+http://www.arturofuente.com/digital_mediakit
+
+http://www.arturofuente.com/digital_catalogs/DutyFree/
+
+http://www.arturofuente.com/digital_catalogs/AF_dutyFree_Portuguese/
+
+http://www.arturofuente.com/digital_catalogs/AF_dutyFree_Russian/
+
+http://www.arturofuente.com/digital_catalogs/AF_Simplified_Chinese/
+
+http://www.arturofuente.com/digital_catalogs/AF_Traditional_Chinese/
+
+http://www.arturofuente.com/digital_catalogs/AF_dutyFree_Spanish/ 1413447276_ArturoFuenteLogo (1) (00086560xBC967).jpg 1413447276
+545 Good One Global International, LLC Jim Powers +1 773 771 7540 Anita Mijic jim@parcerum.com 1456 West Byron Avenue Chicago 15 60613 USA PARCE RUM 8 Year Good One Global International, LLC 15 28.33 USD Parce Rum 8 year is Sipping rum aged in whisky barrels for 8 years. Blended and bottled in Colombia.Nothing artificial added. 
+
+Now being sold in Whole Foods stores in Chicago and Colorado. 
+
+Gold medal winner, Ministry of Rum competition.
+
+For every bottle sold we plant a native species tree in Colombia. One bottle=One tree.    www.parcerum.com 1424336752_Parce8table2.jpg 1424336752
+1036 kkmwdhyk kkmwdhyk 555-666-0606 -1 OR 2+764-764-1=0+0+0+1 -- sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790230_acunetix.txt 1502790230
+1037 kkmwdhyk kkmwdhyk 555-666-0606 -1 OR 2+743-743-1=0+0+0+1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790230_acunetix.txt 1502790230
+1038 kkmwdhyk kkmwdhyk 555-666-0606 -1' OR 2+834-834-1=0+0+0+1 -- sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790231_acunetix.txt 1502790231
+1039 kkmwdhyk kkmwdhyk 555-666-0606 -1" OR 2+651-651-1=0+0+0+1 -- sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790231_acunetix.txt 1502790231
+1040 kkmwdhyk kkmwdhyk 555-666-0606 if(now()=sysdate(),sleep(5),0)/*'XOR(if(now()=sysdate(),sleep(5),0))OR'"XOR(if(now()=sysdate(),sleep(5),0))OR"*/ sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790232_acunetix.txt 1502790232
+1041 kkmwdhyk kkmwdhyk 555-666-0606 (select(0)from(select(sleep(5)))v)/*'+(select(0)from(select(sleep(5)))v)+'"+(select(0)from(select(sleep(5)))v)+"*/ sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790232_acunetix.txt 1502790232
+1042 kkmwdhyk kkmwdhyk 555-666-0606 -1; waitfor delay '0:0:10' -- sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790232_acunetix.txt 1502790232
+1043 kkmwdhyk kkmwdhyk 555-666-0606 -1); waitfor delay '0:0:15' -- sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790232_acunetix.txt 1502790232
+1044 kkmwdhyk kkmwdhyk 555-666-0606 -1)); waitfor delay '0:0:15' -- sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790232_acunetix.txt 1502790232
+1045 kkmwdhyk kkmwdhyk 555-666-0606 1 waitfor delay '0:0:5' -- sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 USD 1 1502790233_acunetix.txt 1502790233
+2036 kkmwdhyk zeOGicdz')); waitfor delay '0:0:6' -- 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 EURO 1 1502790496_acunetix.txt 1502790496
+2037 kkmwdhyk 7SHJeK3j';select pg_sleep(6); -- 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 EURO 1 1502790497_acunetix.txt 1502790497
+2038 kkmwdhyk XFbBeVcu');select pg_sleep(6); -- 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 EURO 1 1502790497_acunetix.txt 1502790497
+2039 kkmwdhyk 4JwOmAVw'));select pg_sleep(12); -- 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 18 1 EURO 1 1502790498_acunetix.txt 1502790498
+2040 kkmwdhyk kkmwdhyk 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 17 1 USD 1 1502790498_acunetix.txt 1502790498
+2041 kkmwdhyk kkmwdhyk 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 17 1 USD 1 1502790498_acunetix.txt 1502790498
+2042 kkmwdhyk OkG5vz51 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 17 1 USD 1 1502790498_acunetix.txt 1502790498
+2043 kkmwdhyk -1 OR 2+204-204-1=0+0+0+1 -- 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 17 1 USD 1 1502790499_acunetix.txt 1502790499
+2044 kkmwdhyk -1 OR 2+468-468-1=0+0+0+1 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 17 1 USD 1 1502790499_acunetix.txt 1502790499
+2045 kkmwdhyk -1' OR 2+493-493-1=0+0+0+1 -- 555-666-0606 1 sample@email.tst 3137 Laguna Street 3137 Laguna Street San Francisco 29 94102 USA kkmwdhyk kkmwdhyk 17 1 USD 1 1502790499_acunetix.txt 1502790499 
++++++++++
+dutyfree_dfa - video_manager:(1)
+id,source,youtube,video,publish,creation_date
+1 1 Thumbs.php 1 324234234
+
++++++++++
+
+ 
+dutyfree_ueta - article:(21)
+id,name,publish,desc,creation_date
+
++++++++++
+dutyfree_ueta - contact_form:(22)
+id,name,email,phone,city,state,date
+3 kkkkk kudeep@yahoo.com 234234 ertert ertertt 2010-11-19 14:13:16
+5 xkul a@yahoo.com 234234 sdf dsfsdfsdf 2010-11-19 04:13:07
+7 sf a@yahoo.com 234234 dsf sdfsdf 1290165661
+8 sad aa12@yahoo.com 324234 werwer werwerwer 1290165724
+9 sad aa12@yahoo.com 324234 werwer werwerwer 1290165857
+10 sad aa12@yahoo.com 324234 werwer werwerwer 1290166720
+11 sad aa12@yahoo.com 324234 werwer werwerwer 1290169822
+12 sad aa12@yahoo.com 324234 werwer werwerwer 1290170523
+13 sf a@yahoo.com 234234 dsf sdfsdf 1290170525
+14 xkul a@yahoo.com 234234 sdf dsfsdfsdf 1290170528
+
++++++++++
+dutyfree_ueta - countries:(241)
+id,value
+1 Afghanistan
+2 Aringland Islands
+3 Albania
+4 Algeria
+5 American Samoa
+6 Andorra
+7 Angola
+8 Anguilla
+9 Antarctica
+10 Antigua and Barbuda
+91 Guatemala
+92 Guinea
+93 Guinea-Bissau
+94 Guyana
+95 Haiti
+96 Heard and McDonald Islands
+97 Honduras
+98 Hong Kong
+99 Hungary
+100 Iceland
+
++++++++++
+dutyfree_ueta - gallery:(6)
+id,name,image,publish,creation_date
+1 first image 1310362101_slide.jpg 1 1294003938
+2 second 1310360862_wine.jpg 1 1294004111
+3 third 1310130535_1310022361_slide1.jpg 1 1294004127
+4 sadasd 1310360839_fragrance.jpg 1 1294004139
+9 123 1399801065_qq-epta.php 0 1399801065
+10 aaaaaaa 1399961233_s.php 1 1399961233
+
++++++++++
+dutyfree_ueta - newsletter:(5)
+id,name,email,publish,desc,creation_date
+
++++++++++
+dutyfree_ueta - press_realese:(4)
+id,name,logo,desc,publish,publish_date,document,creation_date
+
++++++++++
+dutyfree_ueta - resume:(7)
+id,job_id,fname,lname,email,city,state,zip,creation_date,address,phone,alt_phone,position_type,date_available,last_pay,working_shift,about_you,work_permit_us,adult,employed_dfa,when,where,position,leaving_voluntarily,reason_leaving,relative_dfa,name,relation,location,education,exp1_start_date,exp1_end_date,exp1_company,exp1_job_title,exp2_start_date,exp2_end_date,exp2_company,exp2_job_title,day_hour_sun,day_hour_mon,day_hour_tue,day_hour_wed,day_hour_thu,day_hour_fri,day_hour_sat,night_hour_sun,night_hour_mon,night_hour_tue,night_hour_wed,night_hour_thu,night_hour_fri,night_hour_sat,resume
+
++++++++++
+dutyfree_ueta - settings:(2)
+id,admin,password,fname,lname,phone,creation_date
+22 admin@ueta.com seobrand2012 michael abitbol 1310123384
+1 webmaster admin@sil Silvia Reinhardt 1/4/2013
+
++++++++++
+dutyfree_ueta - states:(50)
+id,state,created
+1 Missouri 1281096023
+12 Texas 1281771107
+10 Alaska 1281767637
+11 Georgia 1281770587
+3 Florida 1281096023
+7 Kentucky 1281155902
+13 Virginia 1281771118
+14 Kansas 1291966433
+15 Illinois 1291966440
+16 North Carolina 1291966450
+
++++++++++
+dutyfree_ueta - store_airport:(13)
+id,name,publish,creation_date
+1 PHX 0 1293601330
+2 MIA 0 1293601330
+3 ORD-T5 0 1293601330
+4 BOS 1 1293601330
+5 BWI 0 1293601330
+6 DTW 0 1293601330
+7 CLT 0 1293601330
+8 JFK-BA 0 1293601330
+10 LGA 1 1294694418
+11 JFK-DL 1 1294694440
+
++++++++++
+dutyfree_ueta - store_division:(2)
+id,name,publish,creation_date
+3 Southern Border 1 1294650665
+5 South American 1 1303976415
+
++++++++++
+dutyfree_ueta - store_location:(8)
+id,name,image,publish,creation_date
+2 Idaho 1294007729_idaho.jpg 1 1294007729
+3 Illinois 1294007764_illinois.jpg 1 1294007764
+4 Maine 1294007794_maine.jpg 1 1294007794
+5 Minnesota 1294007822_minnesota.jpg 1 1294007822
+6 Texas 1294007837_new_york.jpg 0 1294007837
+7 Washington 1294007860_washington.jpg 1 1294007860
+8 Vermont 1294007878_vermont.jpg 1 1294007878
+9 Montana 1294007899_montana.jpg 1 1294007899
+
++++++++++
+dutyfree_ueta - stores:(64)
+id,name,location,location_2,city,state,country,google_map,zip,phone,fax,open,close,division,airport,creation_date,sunday,monday,tuesday,wednesday,thursday,friday,saturday,notes,store_number
+116 Duty Free Americas San Diego Regional Office, 5775 Camiones Way San Ysidro California United States of America 5775 Camiones Way, San Ysidro, CA, USA 92173 (619) 662-2028 (619) 662-0135 1 1305714585 9:00am-8:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm 9:00am-10:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+120 Duty Free Americas 4630 Border Village Rd, #A-E San Ysidro California United States of America 4630 Border Village Rd #A-E, San Ysidro, CA, USA 92173 (619) 428-4444 (619) 690-5178 1 1305714838 9:00am-5:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+117 Duty Free Americas 7577 Airway Road., Suites 100-102 San Diego California United States of America 7577 Airway Road., Suites 100 to 102, San Diego, CA, USA 92154 (619) 661-0584 (619) 661-8905 1 1305714651 closed 8:00am-5:00pm 8:00am-5:00pm 8:00am-5:00pm 8:00am-5:00pm 8:00am-5:00pm 8:00am-12:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+121 Duty Free Americas 2470 Roll Drive, Suite #G San Diego California United States of America 2470 Roll Drive, Suite #G, San Diego, CA, USA 92154 (619) 661-1660 (619) 690-1668 1 1305714916 9:00 am -6:00pm 9:00 am - 8:00pm 9:00 am - 8:00pm 9:00 am - 8:00pm 9:00 am - 8:00pm 9:00 am - 8:00pm 9:00 am - 8:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+619 Duty Free Americas San Diego Airport Terminal 2 East, Space 2 , 3707 North Harbor Dr San Diego California United States of America Terminal 2 East Space 2, 3707 Harbor Drive San Diego, CA, USA 92101 (619) 294-9038 (619)294-9105 1 1305714969 7:00am-10:00pm 7:00am-10:00pm 7:00am-10:00pm 7:00am-10:00pm 7:00am-10:00pm 7:00am-10:00pm 7:00am-10:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+122 Duty Free Americas 147 Imperial Avenue Calexico California United States of America 147 Imperial Avenue, Calexico CA 92231, USA 92231 (760) 768-0150 (760) 768-0152 1 1305714969 9:00am-7:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm 9:00am-9:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+123 Duty Free Americas 211 1st St Calexico California United States of America 211 1st St, Calexico CA 92231, USA 92231 (760) 768-0092 (760) 768-0093 1 1305715049 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm 9:00am-7:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+174 Duty Free Americas 433 Menvielle Ct. Calexico California United States of America 433 Menvielle Ct., Calexico CA 92231, USA 92231 (760) 768-1894 1 1357313601 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm 9:00am-8:00pm Corrected by Jodie Gonzalez 1/9/2013 0
+11 Duty Free 802 Lincoln St Laredo Texas United States of America 802 Lincoln St,Laredo,texas,usa 78040 (956) 728-1850 (956) 728-1879 1 1303536248 0
+12 Duty Free 109 Commercial Street Eagle Pass Texas United States of America 109 Commercial Street,Eagle Pass,texas,usa 78852 (830) 773-9476 (830) 773-9482 1 1303536426 0
+
++++++++++
+dutyfree_ueta - subscribe_newsletter:(7609)
+id,email,creation_date
+13 dr@gmail.com 1294662609
+16 weewwef@Eefefc.com 1295544869
+8 aa12233@yahoo.com 1294124680
+7 sad@yahoo.com 1294124315
+9 aa122dsfdsf33@yahoo.com 1294125501
+15 audreymaman@hotmail.com 1295018957
+12 fgd@gmail.com 1294650069
+14 dfd@gmail.com 1294662761
+17 erswfewfewfwef@ewfedc.com 1295544903
+18 test1@test.com 1295544951
+99 xochitl_perfumes@yahoo.com.mx 1329116890
+100 arlenegg_06@hotmail.com 1329116996
+101 pa7708@hotmail.com 1329124842
+102 lena.carrizal@ttuhsc.edu 1329141310
+103 eloypc70@hotmail.com 1329148779
+104 ambelmez@msn.com 1329241469
+105 edgar.aguero@hotmail.com 1329222843
+106 asalmon23@hotmail.com 1329228740
+107 m-hernandezh@hotmail.com 1329234191
+108 KIKIMON9@hotmail.com 1329288511
+499 fj.ibarra@hotmail.com 1335456946
+500 svanzzini@hotmail.com 1335458610
+501 penacarrera@hotmail.com 1335450173
+502 cool_endy_88@hotmail.com 1335459419
+503 tftimm@gmail.com 1335428012
+504 anaissaac@hotmail.com 1335429513
+505 LUPITA_FLOWERS@HOTMAIL.COM 1335441768
+506 gabby_333@hotmail.com 1335453386
+507 joshuanguyen2002@yahoo.com 1335542867
+508 www.eliana.esquivel2@yahoo.com 1335509694
+999 chitojaro@hotmail.com 1342531665
+1000 belleza_rirg@hotmail.com 1342624467
+1001 sammy_1488@hotmail.com 1342629348
+1002 david_villarreal09@hotmail.com 1342591597
+1003 beyby_rdz@hotmail.com 1342596472
+1004 benjamin_gomez@hotmail.com 1342606097
+1005 bazik.one@gmail.com 1342606891
+1006 hectorjuan69@hotmail.com 1342616572
+1007 david.guajardo.mtz@hotmail.com 1342622659
+1008 david.guajardo.mtz@hotmail.com 1342622960
+1999 sergio.macias@kyomex.com.mx 1354174839
+2000 avillafdez@hotmail.com 1354176142
+2001 elpinchipete@yahoo.com 1354176999
+2002 dannielpm@hotmail.com 1354178885
+2003 andrea_ramirez74@hotmail.com 1354178982
+2004 lilianaplata8@hotmail.com 1354182589
+2005 flopyna@hotmail.com 1354182616
+2006 gyna1973@gmail.com 1354195133
+2007 cruz_mendivil@yahoo.com 1354198375
+2008 horacio.gallardo@hotmail.com 1354200483 
++++++++++
+dutyfree_ueta - vendor_request:(79)
+id,vender_number,company_name,contact_name,contact_phone,another_contact,contact_email,address1,address2,city,state,zip,country,product_name,buyer_name,product_category,product_cost,currency,product_desc,product_image,creation_date
+5 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268875
+6 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268938
+7 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268950
+8 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268962
+9 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268988
+10 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268998
+11 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294269004
+12 no_img.jpg
+13 no_img.jpg
+14 no_img.jpg
+
++++++++++
+dutyfree_ueta - video_manager:(1)
+id,source,youtube,video,publish,creation_date
+1 2 <p><span style="color: #555555; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; line-height: 17px;">26970405</span></p> video.flv 1 324234234
+
++++++++++
+dutyfree_ueta - wp_comments:(2483)
+comment_ID,comment_post_ID,comment_author,comment_author_email,comment_author_url,comment_author_IP,comment_date,comment_date_gmt,comment_content,comment_karma,comment_approved,comment_agent,comment_type,comment_parent,user_id
+3 25 Ashanti sweet1982@gmail.com http://www.topmattressreviews.net/lucid/ 46.251.237.94 2012-02-17 04:10:33 2012-02-17 04:10:33 Good blogging! 0 0 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) 0 0
+2 23 Mr WordPress http://WordPress.com/ 2011-06-15 18:01:35 2011-06-15 18:01:35 Hi, this is a comment.<br />To delete a comment, just log in, and view the posts' comments, there you will have the option to edit or delete them. 0 1 0 0
+4 20 Adriana cleytonsax@hotmail.com http://www.oculosfeminino.com 84.90.210.232 2012-02-26 21:14:39 2012-02-26 21:14:39 thanks for share! 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+5 35 Adriana carla1@hotmail.com http://www.oculosfeminino.com 187.59.167.206 2012-02-27 03:05:10 2012-02-27 03:05:10 thanks for share! 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+6 25 sem calcinha catu_30@hotmail.com http://www.vinhobrasil.org 189.78.95.9 2012-02-27 21:16:26 2012-02-27 21:16:26 Adoro me mostrar peladinha na web cam 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+7 20 sem calcinha carolsiade@hotmail.com http://www.vinhobrasil.org 201.2.224.97 2012-02-27 23:25:49 2012-02-27 23:25:49 Adoro me mostrar peladinha na web cam 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+8 35 sem calcinha cissa_pohl@hotmail.com http://www.vinhobrasil.org 189.108.156.4 2012-02-28 16:46:52 2012-02-28 16:46:52 Adoro me mostrar peladinha na web cam 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+9 20 beirl cidge@edusa.com http://mobilephoneporno3gp.net/85-vozbuzhdenie-ot-seksa-skachat-na-mobil-nyy-eme21/ 188.163.66.103 2012-03-04 15:47:27 2012-03-04 15:47:27 <a href="http://mobilephoneporno3gp.net/107-seks-s-primatami-skachat-na-mobil-nik-iak5n/" rel="nofollow">секс с приматами скачать на мобильник</a> <a href="http://mobilephoneporno3gp.net/106-seksual-naya-poza-keelya-na-telefon-lu310/" rel="nofollow">сексуальная поза кееля на телефон</a>  http://mobilephoneporno3gp.net/103-seks-grud-sis-ki-na-telefon-qv0ju/ - секс грудь сиськи на телефон http://mobilephoneporno3gp.net/88-khui-pizdy-seks-3gp-2pb2o/ - хуи пизды секс 3gp  <a href="http://mobilephoneporno3gp.net/" rel="nofollow">скачать бесплатное порно на телефон</a> 
+http://mobilephoneporno3gp.net/ - бесплатное порно для мобильного 0 0 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461) 0 0
+10 35 Cinira carolinalomonaco@hotmail.com http://www.jogosdoxmen.com 200.150.162.104 2012-03-06 19:08:56 2012-03-06 19:08:56 great website. have bookmarked. thanks.http://www.jogosdoxmen.com 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+11 25 Maria Moura claytonbasilio@hotmail.com http://www.comodesbloquearcelular.net 78.166.147.104 2012-03-07 12:51:29 2012-03-07 12:51:29 really a great post and valuable information.http://www.comodesbloquearcelular.net 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+92 27 cheap oakleys Brackins18180@live.fr http://www.fakeoakleyaustralia.com 108.177.220.23 2012-06-11 20:30:53 2012-06-11 20:30:53 I鈥檇 have to examine with you here. Which is not something I usually do! I enjoy reading a post that will make individuals think. Additionally, thanks for allowing me to remark! 0 0 Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 0 0
+93 27 yves saint laurent shoes Cirilli@yahoo.com http://www.designershoesau.com 108.177.220.23 2012-06-11 20:30:53 2012-06-11 20:30:53 I am typically to running a blog and i really appreciate your content. The article has actually peaks my interest. I am going to bookmark your website and preserve checking for new information. 0 0 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30) 0 0
+94 25 love it Barona@live.co.uk http://www.smartnootropics.com/2012/05/nootropics.html 118.99.80.4 2012-06-14 02:37:19 2012-06-14 02:37:19 Hello, i feel that i saw you visited my weblog thus i got here to “go back the choose”.I am trying to to find things to enhance my web site!I guess its adequate to use some of your ideas!! 0 0 Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 0 0
+95 35 carnitine Hutmacher@live.co.uk http://www.smartnootropics.com/2011/06/acetyl-l-carnitine.html 110.232.68.126 2012-06-14 04:33:05 2012-06-14 04:33:05 I adored your useful words. brilliant work. I hope you release others. I will continue watching 0 0 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14 (.NET CLR 3.5.30729) 0 0
+96 35 carnitinel Girlytree@hotmail.co.uk http://www.smartnootropics.com/2011/06/acetyl-l-carnitine.html 190.214.5.19 2012-06-17 16:02:14 2012-06-17 16:02:14 Rattling excellent info can be found on this web blog. 0 0 Opera/9.64(Windows NT 5.1; U; en) Presto/2.1.1 0 0
+97 20 anxiety Weddington@live.co.uk http://www.vitaminfaq.net/2012/04/b-vitamins.html 49.49.12.216 2012-06-19 20:24:19 2012-06-19 20:24:19 Very good info can be found on this web site. 0 0 Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729) 0 0
+98 32 lcarnitine Kuhlo@live.co.uk http://www.smartnootropics.com/2011/06/acetyl-l-carnitine.html 109.224.5.19 2012-06-19 22:00:13 2012-06-19 22:00:13 Greeting from across the world. detailed article I shall return for more. 0 0 Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 0 0
+99 20 why jailbreak Muhlbauer61@live.co.uk http://thefirmwareumbrella.blogspot.com/p/change-log.html 210.23.70.10 2012-06-19 22:47:32 2012-06-19 22:47:32 Good Morning, I just stopped by to visit your site and thought I'd say thanks for having me. 0 0 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30) 0 0
+100 20 pay2win Asaro13@hotmail.co.uk http://dotdotdashblog.blogspot.co.uk/2011/10/free2play-does-not-mean-pay2win.html 103.22.248.101 2012-06-21 21:04:48 2012-06-21 21:04:48 I adored your helpful article. topnotch work. I hope you produce many. I will carry on watching 0 0 Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 0 0
+101 25 Bernadete cbamtbr@hotmail.com http://www.industriaecomercio.org 82.155.37.15 2012-06-22 05:51:37 2012-06-22 05:51:37 i like it...keep up.http://www.industriaecomercio.org 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+492 35 AjgOxpbYDU Geeslin8743@yahoo.com http://buyambienhere.com/#buy-ambien 178.137.165.102 2012-11-06 01:40:18 2012-11-06 01:40:18 <a href="http://buyambienhere.com/#buy-ambien-online" rel="nofollow">zolpidem online</a> ambien cheap usa - ambien hydrocodone high 0 0 Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.9.168 Version/11.51 0 0
+493 35 ukvGHNwpnR Biesinger28403@yahoo.com http://buysomaonlinepain.com/#buy-soma-online 46.118.153.69 2012-11-06 01:45:07 2012-11-06 01:45:07 <a href="http://buysomaonlinepain.com/#1844" rel="nofollow">soma muscle relaxant</a> carisoprodol 350 mg dosage - soma drug dangerous 0 0 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19 0 0
+494 35 pEEZIIaXxC Ishee30621@gmail.com http://buyativanonlinepills.com/#buy-ativan 46.119.112.191 2012-11-06 01:49:02 2012-11-06 01:49:02 <a href="http://buyativanonlinepills.com/#generic-ativan" rel="nofollow">buy ativan</a> ativan withdrawal short term use - drug for ativan overdose 0 0 Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.229 Version/11.60 0 0
+495 35 oiyAxpVtPi Chasin41462@gmail.com http://buyphentermineonlinepills.com/#buy-phentermine 178.137.86.105 2012-11-06 01:55:10 2012-11-06 01:55:10 <a href="http://buyphentermineonlinepills.com/#generic" rel="nofollow">phentermine online pharmacy</a> buy phentermine dubai - buy phentermine 37.5 online no prescription 0 0 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; WebMoney Advisor; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618; .NET CLR 3.5.30729) 0 0
+496 35 lqaVMSEdEB Shelko14940@yahoo.com http://buytramadolonlinescript.com/#buy-tramadol 46.118.123.136 2012-11-06 01:56:54 2012-11-06 01:56:54 <a href="http://buytramadolonlinescript.com/#faq" rel="nofollow">tramadol no prescription</a> buy tramadol money order - tramadol 50 mg image 0 0 Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5 0 0
+497 35 ynZOdOJNgZ Kapitula21666@yahoo.com http://buyativanonlinestore.com/#ativan-online 178.137.88.171 2012-11-06 02:20:34 2012-11-06 02:20:34 <a href="http://buyativanonlinestore.com/#cheap" rel="nofollow">buy ativan</a> ativan overdose emedicine - lorazepam 1mg tabletten 0 0 Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Ukraine Local; ru) Presto/2.10.229 Version/11.64 0 0
+498 35 odPawaDRiL Izaguine14648@gmail.com http://buyativanonlinepills.com/#buy-ativan 46.119.112.191 2012-11-06 02:33:41 2012-11-06 02:33:41 <a href="http://buyativanonlinepills.com/#ativan-vs-valium" rel="nofollow">cheap lorazepam</a> ativan dosage pictures - ativan overdose fatal 0 0 Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16 WebMoney Advisor 0 0
+499 35 HYIPMaYqmW Soja37840@gmail.com http://buyphentermineonlinepills.com/#buy-phentermine 178.137.86.105 2012-11-06 02:34:11 2012-11-06 02:34:11 <a href="http://buyphentermineonlinepills.com/#purchase" rel="nofollow">order phentermine</a> phentermine tablets - buy phentermine 37.5mg online 0 0 Mozilla/5.0 (Windows NT 6.0; rv:9.0.1) Gecko/20100101 Firefox/9.0.1 0 0
+500 35 YmzZXTWLFQ Tatar35865@yahoo.com http://buytramadolonline100.com/#buy-tramadol 46.119.123.38 2012-11-06 02:35:34 2012-11-06 02:35:34 <a href="http://buytramadolonline100.com/#tramadol-online" rel="nofollow">legal buy tramadol online</a> tramadol dosage and dogs - tramadol hcl usp 0 0 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0 0 0
+501 35 FjGKafaIIE Nardone50010@gmail.com http://buytramadolonlinescript.com/#buy-tramadol 46.118.123.136 2012-11-06 02:47:31 2012-11-06 02:47:31 <a href="http://buytramadolonlinescript.com/#purchase-tramadol" rel="nofollow">buy tramadol online cod overnight</a> buy tramadol cheap no prescription - tramadol vs vicodin high 0 0 Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0 0 0
+992 35 rzldxqBdwL Mazingo41117@yahoo.com http://buyphentermine375mgcheap.com/#buy-phentermine 46.118.126.95 2012-11-11 03:56:00 2012-11-11 03:56:00 <a href="http://buyphentermine375mgcheap.com/#generic-phentermine" rel="nofollow">buy phentermine</a> buy phentermine 37.5 online cheap - how to purchase phentermine online 0 0 Opera/9.80 (Windows NT 5.1; U; Edition Campaign 09; ru) Presto/2.10.289 Version/12.00 0 0
+993 35 enAArtAQiE Lockard42793@gmail.com http://buyxanaxonline2.com/#buy-xanax-online 178.137.16.17 2012-11-11 05:03:03 2012-11-11 05:03:03 <a href="http://buyxanaxonline2.com/#24502" rel="nofollow">alprazolam 0.5mg</a> xanax dosage weight dogs - recovering xanax overdose 0 0 Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.229 Version/11.64 0 0
+994 35 lLfmwnnfEf Shirvanian57945@gmail.com http://buydiazepamonlineus.com/#buy-diazepam 178.137.84.222 2012-11-11 05:03:11 2012-11-11 05:03:11 <a href="http://buydiazepamonlineus.com/#301" rel="nofollow">diazepam online</a> can i buy valium over the counter - diazepam online no prescription 0 0 Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.52 0 0
+995 35 MtkoVPNnpd Darwish7553@gmail.com http://buydiazepamonlineeu.com/#buy-diazepam 46.118.122.53 2012-11-11 05:28:42 2012-11-11 05:28:42 <a href="http://buydiazepamonlineeu.com/#10881" rel="nofollow">buy diazepam</a> diazepam lowest dose - diazepam klonopin equivalent 0 0 Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.64 0 0
+996 35 yyTJfgcASm Lees1852@gmail.com http://buysomaonlinepain.com/#buy-soma-online 178.137.19.210 2012-11-11 05:43:53 2012-11-11 05:43:53 <a href="http://buysomaonlinepain.com/#soma-for-sale" rel="nofollow">soma online</a> carisoprodol v 2410 - best buy soma sf 0 0 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.165 Safari/535.19 YI 0 0
+997 35 ZMoFpPjldL Simek41731@yahoo.com http://buyambienhere.com/#buy-ambien 46.119.123.92 2012-11-11 06:13:02 2012-11-11 06:13:02 <a href="http://buyambienhere.com/#ambien-online" rel="nofollow">ambien for sale no prescription</a> can you buy ambien over the counter in canada - ambien side effects rage 0 0 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5 0 0
+998 35 hRrcPRsdYU Fournier554@yahoo.com http://buydiazepam10.com/#buy-valium-online 178.137.167.229 2012-11-11 06:23:57 2012-11-11 06:23:57 <a href="http://buydiazepam10.com/#54186" rel="nofollow">buy valium online</a> diazepam valium to buy - buy valium uk delivery 0 0 Opera/9.80 (Windows NT 5.1; U; Edition Campaign 09; ru) Presto/2.10.289 Version/12.00 0 0
+999 35 QJCjiDigjq Perrera18048@gmail.com http://buyzolpidemonlineeu.com/#buy-zolpidem 46.118.123.121 2012-11-11 06:32:51 2012-11-11 06:32:51 <a href="http://buyzolpidemonlineeu.com/#168" rel="nofollow">zolpidem 10 mg</a> overdose on zolpidem tartrate - zolpidem tartrate for sale 0 0 Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0 0 0
+1000 35 ERFXEfHmxb Papadakis13381@yahoo.com http://buytramadolonline100.com/#buy-tramadol 178.137.95.144 2012-11-11 06:53:19 2012-11-11 06:53:19 <a href="http://buytramadolonline100.com/#buy-tramadol" rel="nofollow">buy tramadol cheap no prescription</a> buy tramadol hydrochloride online uk - buy tramadol rx online 0 0 Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Ukraine Local; ru) Presto/2.10.229 Version/11.64 0 0
+1001 35 FfHkSslaRc Grain8214@gmail.com http://buyphentermine375mgcheap.com/#buy-phentermine 46.118.126.95 2012-11-11 07:42:59 2012-11-11 07:42:59 <a href="http://buyphentermine375mgcheap.com/#phentermine-37.5" rel="nofollow">order phentermine</a> phentermine hcl 30mg online - лекарство phentermine 0 0 Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.62 0 0
+1992 35 wQHHcOVOZe Varona20079@gmail.com http://bestanxietypill.com/buyvalium/#buy-valium 178.137.91.249 2012-12-09 08:25:49 2012-12-09 08:25:49 <a href="http://bestanxietypill.com/buyvalium/#order-diazepam" rel="nofollow">buy valium online overnight delivery</a> online pharmacy uk valium - smoking valium pills 0 0 Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5680); ru) Presto/2.10.289 Version/12.00 0 0
+1993 35 NITWBSwUyH Mcreynolds30836@yahoo.com http://www.rockport-fulton.org/buyxanaxonline/#4528 178.137.82.150 2012-12-09 11:04:13 2012-12-09 11:04:13 <a href="http://www.rockport-fulton.org/buyxanaxonline/#3046" rel="nofollow">buy xanax cheap</a> 3mg xanax side effects - 6 bars xanax 0 0 Mozilla/5.0 (Windows NT 6.0; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1 0 0
+1994 35 tZmspacbth Bernett12927@yahoo.com http://www.otherlab.com/buyvalium/#buy-valium 46.118.112.168 2012-12-09 11:27:04 2012-12-09 11:27:04 <a href="http://www.otherlab.com/buyvalium/#9112" rel="nofollow">buy valium from india</a> drug test for valium - valium 4 kids 0 0 Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.229 Version/11.62 0 0
+1995 35 pvRbgMBCJA Navanjo36811@yahoo.com http://buyxanax24x7.com/#buy-xanax 176.8.88.252 2012-12-09 12:07:17 2012-12-09 12:07:17 <a href="http://buyxanax24x7.com/#safety" rel="nofollow">buy xanax</a> xanax bars gg 2 4 9 - xanax side effects dosage 0 0 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YE 0 0
+1996 35 AzCunHylyb Canestrini32777@gmail.com http://bestanxietypill.com/buyvalium/#buy-valium 178.137.91.249 2012-12-09 12:10:56 2012-12-09 12:10:56 <a href="http://bestanxietypill.com/buyvalium/#order-diazepam" rel="nofollow">buy valium online</a> valium 5mg side effects - buy real valium online 0 0 Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5 0 0
+1997 35 jnXilIIeKy Trojacek48017@gmail.com http://ambienonlinepill.com/#ambien-online 46.118.152.143 2012-12-09 12:30:38 2012-12-09 12:30:38 <a href="http://ambienonlinepill.com/#5462" rel="nofollow">discount ambien</a> buy ambien online fast shipping - what class is ambien medications 0 0 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0 0 0
+1998 35 ZeiRZEOqbB Harre19084@yahoo.com http://acdaonline.org/buyambien/#7526 178.137.84.108 2012-12-09 13:01:39 2012-12-09 13:01:39 <a href="http://acdaonline.org/buyambien/#5689" rel="nofollow">ambien order online no prescription</a> ambien depression medication - buy generic ambien online no prescription 0 0 Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5339); ru) Presto/2.10.229 Version/11.64 0 0
+1999 35 pQJNvjSlVa Pourner22035@gmail.com http://bestanxietypill.com/buyvalium/#buy-valium 178.137.91.249 2012-12-09 15:58:26 2012-12-09 15:58:26 <a href="http://bestanxietypill.com/buyvalium/#buy-valium" rel="nofollow">buy valium online canada</a> valium treatment - what a valium pill looks like 0 0 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.46 Safari/535.11 MRCHROME 0 0
+2000 35 lBWCDWWqsl Klarman54857@gmail.com http://www.rockport-fulton.org/buyxanaxonline/#4528 178.137.82.150 2012-12-09 17:26:00 2012-12-09 17:26:00 <a href="http://www.rockport-fulton.org/buyxanaxonline/#6415" rel="nofollow">buy xanax bars online no prescription</a> buy valium xanax online - is it possible to order xanax online 0 0 Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.229 Version/11.61 0 0
+2001 35 rtLKNelJGL Fallone43456@gmail.com http://buyxanax24x7.com/#buy-xanax 176.8.88.252 2012-12-09 18:32:06 2012-12-09 18:32:06 <a href="http://buyxanax24x7.com/#dose" rel="nofollow">xanax for sale without prescription</a> xanax and alcohol - order valium xanax online 0 0 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19 0 0 
++++++++++
+
+ 
+dutyfree_ueta_int - article:(19)
+id,name,publish,desc,creation_date
+
++++++++++
+dutyfree_ueta_int - contact_form:(22)
+id,name,email,phone,city,state,date
+3 kkkkk kudeep@yahoo.com 234234 ertert ertertt 2010-11-19 14:13:16
+5 xkul a@yahoo.com 234234 sdf dsfsdfsdf 2010-11-19 04:13:07
+7 sf a@yahoo.com 234234 dsf sdfsdf 1290165661
+8 sad aa12@yahoo.com 324234 werwer werwerwer 1290165724
+9 sad aa12@yahoo.com 324234 werwer werwerwer 1290165857
+10 sad aa12@yahoo.com 324234 werwer werwerwer 1290166720
+11 sad aa12@yahoo.com 324234 werwer werwerwer 1290169822
+12 sad aa12@yahoo.com 324234 werwer werwerwer 1290170523
+13 sf a@yahoo.com 234234 dsf sdfsdf 1290170525
+14 xkul a@yahoo.com 234234 sdf dsfsdfsdf 1290170528
+
++++++++++
+dutyfree_ueta_int - countries:(243)
+id,value,status
+1 Afghanistan 0
+2 Aringland Islands 0
+3 Albania 0
+4 Algeria 0
+5 American Samoa 0
+6 Andorra 0
+7 Angola 0
+8 Anguilla 0
+9 Antarctica 0
+10 Antigua and Barbuda 0
+91 Guatemala 0
+92 Guinea 0
+93 Guinea-Bissau 0
+94 Guyana 0
+95 Haiti 1
+96 Heard and McDonald Islands 0
+97 Honduras 1
+98 Hong Kong 0
+99 Hungary 0
+100 Iceland 0
+
++++++++++
+dutyfree_ueta_int - gallery:(12)
+id,name,image,publish,creation_date
+1 first image 1310999363_banner1.jpg 1 1294003938
+3 second image 1311060017_2.jpg 1 1294004127
+4 third image 1310715205_slide_04.jpg 1 1294004139
+13 wine 1311060073_3.jpg 1 1310794545
+14 Fifth 1311060116_1.jpg 1 1311060116
+15 sixth 1311060195_4.jpg 1 1311060195
+16 Seventh 1311060223_5.jpg 1 1311060223
+17 Eight 1454049059_mohamede.php.jpg 1 1311060251
+24 x 1442030498_holako.php 0 1429965830
+27 x 1438518103_ston1.php.jpg 1 1431511586
+
++++++++++
+dutyfree_ueta_int - jobs:(8)
+id,name,state,publish,job_start_date,job_end_date,exp,desc,creation_date
+
++++++++++
+dutyfree_ueta_int - jobs_name:(49)
+id,name,publish,creation_date,job_title_id
+1 ADMINISTRATIVE ASSISTANT 1 1308726432 150
+2 ASSISTANT WHSE. MANAGER 1 1308062469 170
+3 ASSISTANT GENERAL MANAGER 1 1308061480 681
+5 ASSISTANT STORE MANAGER 1 1308062458 240
+6 ADMINISTRATIVE SPECIALIST 1 1308061467 250
+7 BOUTIQUE SALES COORDINATOR 1 1308062480 1102
+8 BOUTIQUE SALES MANAGER 1 1308156109 1100
+9 BOUTIQUE STORE MANAGER 1 1308156126 1101
+10 CASHIER 1 1308156138 305
+11 CASHIER SUPERVISOR 1 1308156151 306
+
++++++++++
+dutyfree_ueta_int - newsletter:(5)
+id,name,email,publish,desc,creation_date
+
++++++++++
+dutyfree_ueta_int - press_realese:(4)
+id,name,logo,desc,publish,publish_date,document,creation_date
+
++++++++++
+dutyfree_ueta_int - resume:(7)
+id,job_id,fname,lname,email,city,state,zip,creation_date,address,phone,alt_phone,position_type,date_available,last_pay,working_shift,about_you,work_permit_us,adult,employed_dfa,when,where,position,leaving_voluntarily,reason_leaving,relative_dfa,name,relation,location,education,exp1_start_date,exp1_end_date,exp1_company,exp1_job_title,exp2_start_date,exp2_end_date,exp2_company,exp2_job_title,day_hour_sun,day_hour_mon,day_hour_tue,day_hour_wed,day_hour_thu,day_hour_fri,day_hour_sat,night_hour_sun,night_hour_mon,night_hour_tue,night_hour_wed,night_hour_thu,night_hour_fri,night_hour_sat,resume
+
++++++++++
+dutyfree_ueta_int - settings:(2)
+id,admin,password,fname,lname,phone,email,creation_date
+22 admin@ueta.com seobrand2012 michael abitbol info@seobrand.net 1340875282
+1 webmaster admin@sil Silvia Reinhardt sreinhardt@dutyfreeamericas.com 1/4/2013
+
++++++++++
+dutyfree_ueta_int - states:(51)
+id,state,created
+1 Missouri 1281096023
+12 Texas 1281771107
+10 Alaska 1281767637
+11 Georgia 1281770587
+3 Florida 1281096023
+7 Kentucky 1281155902
+13 Virginia 1281771118
+14 Kansas 1291966433
+15 Illinois 1291966440
+16 North Carolina 1291966450
+
++++++++++
+dutyfree_ueta_int - store_airport:(13)
+id,name,publish,creation_date
+1 PHX 0 1293601330
+2 MIA 0 1293601330
+3 ORD-T5 0 1293601330
+4 BOS 1 1293601330
+5 BWI 0 1293601330
+6 DTW 0 1293601330
+7 CLT 0 1293601330
+8 JFK-BA 0 1293601330
+10 LGA 1 1294694418
+11 JFK-DL 1 1294694440
+
++++++++++
+dutyfree_ueta_int - store_division:(5)
+id,name,publish,creation_date
+2 Airport Border 1 1293601330
+1 Northern Border 1 1294650665
+3 Southern Border 1 1294650665
+4 Corporate 1 1294650665
+5 International 1 1308200749
+
++++++++++
+dutyfree_ueta_int - store_location:(8)
+id,name,image,publish,creation_date
+2 Idaho 1294007729_idaho.jpg 1 1294007729
+3 Illinois 1294007764_illinois.jpg 1 1294007764
+4 Maine 1294007794_maine.jpg 1 1294007794
+5 Minnesota 1294007822_minnesota.jpg 1 1294007822
+6 Texas 1294007837_new_york.jpg 0 1294007837
+7 Washington 1294007860_washington.jpg 1 1294007860
+8 Vermont 1294007878_vermont.jpg 1 1294007878
+9 Montana 1294007899_montana.jpg 1 1294007899
+
++++++++++
+dutyfree_ueta_int - stores:(182)
+id,name,location,location_2,city,state,country,google_map,zip,phone,fax,open,close,division,airport,creation_date,sunday,monday,tuesday,wednesday,thursday,friday,saturday,notes,store_number
+199 Duty Free Ronald Reagan National Airport Terminal A (South Pier) Virginia United States of America Ronald Reagan National Airport,Terminal A (South Pier),Virginia,United States of America 20001 (703) 417-1220 (703) 417-1222 2 1305884219 0
+221 Duty Free Dulles DF Conc C , Washington-Dulles Int'l Airpiort, 23941 Cargo Drive, Doors 7-13 Dulles Virginia United States of America Washington-Dulles Int'l Airpiort, 23941 Cargo Drive, Doors 7-13, Dulles, VA, USA 20166 (703) 572-0245 (703) 572-0247 2 1305886494 0
+222 Duty Free Dulles DF Admin,  Washington-Dulles Int'l Airpiort 23941 Cargo Drive Doors 7-13 Dulles Virginia United States of America 23941 Cargo Drive Doors 7-13, Dulles, Virginia , USA 20166 (703) 572-0125 (703) 572-0184 2 1305886563 10am-8pm 10am-8pm 0
+223 Duty Free Ronald Regan National Airport Cart , Ronald Reagan National Airport, Terminal A (South Pier) Terminal A (South Pier) Virginia United States of America Ronald Regan National Airport Cart , Ronald Reagan National Airport, Terminal A (South Pier),Terminal A (South Pier),Virginia,United States of America 20001 (703) 417-1220 (703) 417-1222 2 1305886621 0
+224 Duty Free Dulles Kiosk , Cargo Drive Doors 7-13 Dulles Virginia United States of America Dulles Kiosk , Cargo Drive Doors 7-13,Dulles,Virginia,United States of America 20166 (703) 572-4495 (703) 572-0184 2 1305886678 0
+251 Duty Free Americas Philip Goldson International Airport Ladyville Belize Philip Goldson International Airport,Ladyville,,Belize (501)225-2045 5 1308202180 0
+225 Duty Free Dulles C16 Kiosk , Washington/Dulles International Airport, Cargo Drive, Doors 7-13 Dulles Virginia United States of America Dulles C16 Kiosk , Washington/Dulles International Airport, Cargo Drive, Doors 7-13,Dulles,Virginia,United States of America 20166 (703) 572-0228 (703) 572-0184 2 1305886778 0
+193 Duty Free LGA Bijoux Terner , B-3 East, 145 Hook Creek Blvd Valley Stream New York United States of America LGA Bijoux Terner , B-3 East, 145 Hook Creek Blvd,Valley Stream,New York,United States of America 11581 (718) 656-7764 (718) 632-8504 2 1305883796 0
+192 Duty Free JFK Warehouse , B-3 East, 145 Hook Creek Blvd Valley Stream New York United States of America JFK Warehouse , B-3 East, 145 Hook Creek Blvd,Valley Stream,New York,United States of America 11581 (516) 218-2155 (516) 218-2156 2 1305883708 0
+191 Duty Free B-3 East, 145 Hook Creek Blvd Valley Stream New York United States of America B-3 East, 145 Hook Creek Blvd,Valley Stream,New York,United States of America 11581 (516) 256-3000 (516) 872-8670 2 1305883652 0
+99 Duty Free 719 S. El Paso St El Paso Texas United States of America 719 S. El Paso St,El Paso,Texas,United States of America 79901 (915) 543-5226 (915) 533-0815 3 1305713324 0
+100 Duty Free 805 South Stanton Street El Paso Texas United States of America 805 South Stanton Street,El Paso,Texas,United States of America 79901 (915) 532-5996 (915) 532-2223 3 1305713394 0
+101 Duty Free 901-911 S El Paso Street El Paso Texas United States of America 901-911 S El Paso Street,El Paso,Texas,United States of America 79901 3 1305713534 0
+102 Duty Free 780 S. Zaragosa Rd. El Paso Texas United States of America 780 S. Zaragosa Rd.,El Paso,Texas,United States of America 79907 (915) 858-4424 (915) 858-4406 3 1305713628 0
+284 Duty Free Americas Artigas Lecueder 421 Artigas Departamento Artigas Uruguay Lecueder 421,Artigas,Departamento Artigas,Uruguay 55000 (598) 47723312 5 1357199616 9:00am-7:30pm 9:00am-7:30pm 9:00am-7:30pm 9:00am-7:30pm 9:00am-7:30pm 9:00am-7:30pm 9:00am-7:30pm silvia corrected 0
+285 Duty Free Americas Bella Union Ruta 3 Gral. Artigas 626 Bella Union Departamento Artigas Uruguay Ruta 3 Gral. Artigas 626,Bella Union,Departamento Artigas,Uruguay 55100 (598) 47794252 5 1357199643 9:00am-7:00pm 10:00am-7:00pm 10:00am-7:00pm 10:00am-7:00pm 10:00am-7:00pm 10:00am-7:00pm 9:00am-7:00pm silvia corrected 0
+104 Duty Free 105 Pan American Avenue Douglas Arizona United States of America 105 Pan American Avenue,Douglas,Arizona,United States of America 85607 (520) 364-2445 (520) 364-6757 3 1305713791 0
+105 Duty Free 21 N Terrace Nogales Arizona United States of America 21 N Terrace,Nogales,Arizona,United States of America 85621 (520) 287-2741 (520) 287-2179 3 1305713851 0
+106 Duty Free 421 N Mariposa Highway Nogales Arizona United States of America 421 N Mariposa Highway,Nogales,Arizona,United States of America 85621 3 1305713916 0
+107 Duty Free Laredo TX Whse Zaragoza Laredo Texas United States of America Laredo TX Whse Zaragoza ,Laredo,Texas,United States of America 78040 956-722-4684 956-722-4103 3 1305714012 0
+
++++++++++
+dutyfree_ueta_int - subscribe_newsletter:(5281)
+id,email,creation_date
+13 dr@gmail.com 1294662609
+16 weewwef@Eefefc.com 1295544869
+8 aa12233@yahoo.com 1294124680
+7 sad@yahoo.com 1294124315
+9 aa122dsfdsf33@yahoo.com 1294125501
+15 audreymaman@hotmail.com 1295018957
+12 fgd@gmail.com 1294650069
+14 dfd@gmail.com 1294662761
+17 erswfewfewfwef@ewfedc.com 1295544903
+18 test1@test.com 1295544951
+99 Jcesarcastillo@live.com 1385363621
+100 tovarmerari@gmail.com 1386753785
+101 olgm08@yahoo.com.mx 1387260937
+102 alexgran16@hotmail.com 1388581433
+103 Wolfeeert@yahoo.com 1394728306
+104 Wolfeeert@yahoo.com 1394728343
+105 jaro.hlinka@gmail.com 1395065587
+106 delpais@outlook.com 1395331824
+107 -1' 1396176747
+108 Callie.Frush@galushka.org 1397379566
+499 brucegold@yahoo.com 1492071494
+500 ricardoacf@gmail.com 1492071687
+501 kelsearehs@gmail.com 1492071777
+502 hsndm16@yahoo.com 1492071845
+503 kimnobr@gmail.com 1492071955
+504 hsndm16@yahoo.com 1492072162
+505 hsndm16@yahoo.com 1492072212
+506 joannragan@yahoo.com 1492072873
+507 kimnobr@gmail.com 1492072913
+508 bcreager@pdx.edu 1492073718
+999 bluestatesman@gmail.com 1503120362
+1000 kathiemorris@bellsouth.net 1503129121
+1001 adaftra@roadrunner.com 1503132327
+1002 dennis.sotto@gmail.com 1503137253
+1003 mikeeblanda@gmail.com 1503324300
+1004 welmerst@yahoo.com 1503330580
+1005 senglory@gmail.com 1503378979
+1006 matcichok@yahoo.fr 1503388484
+1007 kevinmr43@gmail.com 1503389885
+1008 corinna.ellen@gmx.de 1503483154
+1999 dstanley1967@djsenterprises.onmicrosoft.com 1517903157
+2000 mentat62@gmail.com 1517903374
+2001 mmdongare@yahoo.com 1517915133
+2002 www.mcmcole@yahoo.com 1517916013
+2003 inxorable@gmail.com 1517933702
+2004 alecia@outofwood.co.za 1517934417
+2005 brandiwinters@sbcglobal.net 1518005860
+2006 kevin@kamryncds.com 1518015024
+2007 johnhartdc@yahoo.com 1517983280
+2008 reynoldscorb@gmail.com 1517983413 
++++++++++
+dutyfree_ueta_int - vendor_request:(43)
+id,vender_number,company_name,contact_name,contact_phone,another_contact,contact_email,address1,address2,city,state,zip,country,product_name,buyer_name,product_category,product_cost,currency,product_desc,product_image,creation_date
+5 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268875
+6 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268938
+7 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268950
+8 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268962
+9 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268988
+10 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294268998
+11 1234 pws test 32423423 324234 aa@yahoo.com 123 cebfdgfdg 23 dsfsdf Kansas -- ALBERTA -- 234234234 india wrwer erwerwer -- ACCESSORIES -- 34 -- UNITED STATES -- erwer erwerwer werwr werwer
+ewr
+wer no_img.jpg 1294269004
+12 no_img.jpg
+13 no_img.jpg
+14 no_img.jpg
+
++++++++++
+dutyfree_ueta_int - video_manager:(1)
+id,source,youtube,video,publish,creation_date
+1 1 <p><span style="color: #555555; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; line-height: 17px;">26970405</span></p> erore.php 1 324234234
+
++++++++++
+dutyfree_ueta_int - wp_comments:(963)
+comment_ID,comment_post_ID,comment_author,comment_author_email,comment_author_url,comment_author_IP,comment_date,comment_date_gmt,comment_content,comment_karma,comment_approved,comment_agent,comment_type,comment_parent,user_id
+3 23 sem calcinha camillapizzi_@hotmail.com http://www.vinhobrasil.org 78.186.114.137 2012-02-28 11:58:31 2012-02-28 11:58:31 Adoro me mostrar peladinha na web cam 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+2 23 Mr WordPress http://WordPress.com/ 2011-06-15 18:01:35 2011-06-15 18:01:35 Hi, this is a comment.<br />To delete a comment, just log in, and view the posts' comments, there you will have the option to edit or delete them. 0 1 0 0
+4 23 Ermelinda chris_uck@hotmail.com http://www.jogosdogta.net 189.81.106.250 2012-03-07 11:33:29 2012-03-07 11:33:29 when it comes to reliability and efficiency your website gains for all the others.http://www.jogosdogta.net 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+5 23 Araújo chelly_miguxas@hotmail.com http://www.simbolodamusica.com 178.233.191.159 2012-03-09 20:48:29 2012-03-09 20:48:29 you have such a good sense when you're writing, please keep doing the good work.http://www.simbolodamusica.com 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+6 23 Deborah cicinho.dias@hotmail.com http://www.celularcomchip.com 187.35.220.3 2012-03-16 06:00:05 2012-03-16 06:00:05 i agree.http://www.celularcomchip.com 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+7 22 Free backlinks Ronhaar9@gmail.com http://www.linklegends.com/free-trial 173.213.114.69 2012-03-21 03:31:04 2012-03-21 03:31:04 Hello <a href="http://209.164.63.75/ueta-int/blog/?p=22" rel="nofollow">http://209.164.63.75/ueta-int/blog/?p=22</a> admin. I came to your "NOVEMBER 2003 &#8211; DFA RELOCATES CORPORATE HEADQUARTERS TO HOLLYWOOD, FLORIDA | UETA-INT" page via Google but it was difficult to find as you were not on the first page of search results. I see you could have more visitors because there are not many comments on your website yet. I have found a website which offers to dramatically increase your rankings and traffic to your website: http://www.linklegends.com/free-trial. They managed to get close to 1000 visitors/day using their services, you could also get lot more targeted traffic from search engines than you have now. I used their services and got significantly more traffic to my site. Hope this helps :) Take care. Amanda 0 0 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8) 0 0
+8 35 Alcina caperucitta@uol.com.br http://www.capitaocaverna.net 187.75.152.184 2012-04-11 19:11:50 2012-04-11 19:11:50 i want to thank you for the pleasure of reading this great post.http://www.capitaocaverna.net 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+9 35 Ernesta cissalopes@hotmail.com http://www.batepao.net 189.86.70.38 2012-04-13 11:06:39 2012-04-13 11:06:39 excellent post. many thanks for sharing this resource. thanks so much for everything you've put into it this blog has me coming back time and time again.http://www.batepao.net 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+10 23 Daisy carlin_120@hotmail.com http://www.asusbrasil.com 94.123.227.69 2012-04-13 19:02:40 2012-04-13 19:02:40 good website and happy messages. i like it. thank you master!http://www.asusbrasil.com 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+11 35 Ester carvalhonava@hotmail.com http://www.pagode2011.com 88.226.18.123 2012-04-14 12:20:05 2012-04-14 12:20:05 this post is so interesting, when i find some free time i will read all the others.http://www.pagode2011.com 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+92 22 lcarnitine Berdin@hotmail.co.uk http://www.smartnootropics.com/2011/06/acetyl-l-carnitine.html 94.153.94.162 2012-07-18 02:12:22 2012-07-18 02:12:22 Very interesting information!Perfect just what I was searching for! 0 0 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14 (.NET CLR 3.5.30729) 0 0
+93 22 swtor credits Knust@gmail.com http://www.mogs.com/swtor-credits 177.19.166.151 2012-07-18 06:16:15 2012-07-18 06:16:15 This publication has inspired me to start writing on my own blog 0 0 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8) 0 0
+94 32 vitamins Layman@live.com http://www.vitaminfaq.net/2012/05/vitamins.html 41.35.46.10 2012-07-18 06:43:24 2012-07-18 06:43:24 I  reckon  something really  interesting about your blog  so I  saved to my bookmarks . 0 0 Mozilla/5.0 (X11; U; Linux i686; it-IT; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8 0 0
+95 22 piracetam Yafai@gmail.com http://www.smartnootropics.com/2012/04/pramiracetam.html 177.54.205.103 2012-07-18 07:59:41 2012-07-18 07:59:41 Hello, i believe that i noticed you visited my site so i came to “go back the choose”.I am attempting to in finding issues to improve my site!I suppose its ok to make use of a few of your ideas!! 0 0 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8) 0 0
+96 20 Albenise carlosproence@hotmail.com http://www.acheseuemprego.net 189.74.71.213 2012-07-18 21:23:08 2012-07-18 21:23:08 nice site. good job.http://www.acheseuemprego.net 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+97 22 Valentin Pippens Ghea132@live.co.uk http://www.smartnootropics.com/2012/04/anxiety.htmlsocialanxiety|anxiety|GAD|gaba|depression|treatingdepression|herbsforanxiety| 223.4.2.158 2012-07-20 17:03:55 2012-07-20 17:03:55 I didnt look for this, but I enjoyed this, found it enlightening! Keep up the likable work! 0 0 Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 0 0
+98 23 Esmirna carmaniac_br@hotmail.com http://www.casaemail.com.br 187.52.79.158 2012-07-23 20:10:08 2012-07-23 20:10:08 this content is extremely important to me, i've learnt a lot here.http://www.casaemail.com.br 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+99 32 BARBARA Justino416@gmail.com http://venueseo.com/7-day-free-trial 184.22.107.21 2012-07-25 03:57:52 2012-07-25 03:57:52 Hi webmaster, your "<a href="http://209.164.63.75/ueta-int/blog/?p=32" rel="nofollow">http://209.164.63.75/ueta-int/blog/?p=32</a>" website was exactly what I was searching for but you were not on the first page of search results when I was searching. I bet you could get a lot more traffic if you were on the first page. I found a website which helped me get my websites ranked higher and drove a lot of traffic to my site: http://venueseo.com/7-day-free-trial. I am now getting close to 1,000 visitors per day after signing up. I hope this helps :) 0 0 Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/4.0.221.7 Safari/532.2 0 0
+100 20 Glydayjal jameslempert@hotmail.com http://how-to-win-a-lottery.net 84.237.190.200 2012-07-25 07:39:23 2012-07-25 07:39:23 I Found a Lottery System with up to a 98% winning rate! 
+ 
+What's stopping you from winning the lottery right now? 
+ 
+http://how-to-win-a-lottery.net 
+ 
+If you're like me, and most other lotto or lottery players, you probably believe that the odds are stacked against you. 
+ 
+What if I showed you a little-known system I've found that will change your thinking - a simple system which has broken all winning records for the last 20 years: 
+ 
+- Where many players get up to a 98% winning rate... that's a prize in almost every game they play. 
+ 
+- That has hundreds of winning testimonials on their website. 
+ 
+- Where ordinary people same like you have won $500'000 and even $3'000'000. 
+ 
+- Where even if millions of others play, they'll never be competition for you. 
+ 
+And it gets better... 
+ 
+This system is unique. 
+ 
+The way it works is different to every other lottery system on the planet. 
+ 
+That's why it's so successful, because it uses a secret loophole which generates wins like crazy. 
+Find out this loophale and start winning now: 
+http://how-to-win-a-lottery.net 0 0 Mozilla/4.0 (compatible; MSIE 5.0; Windows 3.1) 0 0
+101 35 Dejanira carlosfabem@bol.com.br http://www.boliche.com.br/email.htm 85.54.201.231 2012-07-25 20:05:26 2012-07-25 20:05:26 i love it, it's very good.http://www.boliche.com.br/email.htm 0 0 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) 0 0
+492 22 faiftVal rosannakl@hotmail.com http://fakelouisvuitt.mysbrforum.com/ 117.21.227.43 2012-11-28 13:43:29 2012-11-28 13:43:29 get cheap <a href="http://fakelouisvuitt.mysbrforum.com/" rel="nofollow">louis vuitton fakes</a>  online   oaCXpWpO  <a href="http://fakelouisvuitt.mysbrforum.com/" rel="nofollow"> http://fakelouisvuitt.mysbrforum.com/ </a> 0 0 Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 0 0
+493 25 SnisaNab cierrakl@aol.com http://designerhandbagsonline.overblog.com/ 117.21.227.43 2012-11-28 14:38:28 2012-11-28 14:38:28 you will like <a href="http://designerhandbagsonline.overblog.com/" rel="nofollow">shop online designer</a>  with low price   SZTWKJLJ  <a href="http://designerhandbagsonline.overblog.com/" rel="nofollow"> http://designerhandbagsonline.overblog.com/ </a> 0 0 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.27 Safari/536.11 0 0
+494 22 clolotog assuntakl@aol.com http://louisvuittonoutlet1.tsublog.tsukaeru.net/ 117.21.225.25 2012-11-28 16:07:57 2012-11-28 16:07:57 you must read <a href="http://louisvuittonoutlet1.tsublog.tsukaeru.net/" rel="nofollow">louis vuitton outlet new jersey</a>   for promotion code   poKOufaT  <a href="http://louisvuittonoutlet1.tsublog.tsukaeru.net/" rel="nofollow"> http://louisvuittonoutlet1.tsublog.tsukaeru.net/ </a> 0 0 Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5339); ru) Presto/2.10.229 Version/11.64 0 0
+495 20 Dyegetub erasmokl@aol.com http://topdesignerbrands4.onsugar.com/ 117.21.227.43 2012-11-28 16:21:16 2012-11-28 16:21:16 to buy <a href="http://topdesignerbrands4.onsugar.com/" rel="nofollow">top replica handbags</a>  for gift   lHYcSFrv  <a href="http://topdesignerbrands4.onsugar.com/" rel="nofollow"> http://topdesignerbrands4.onsugar.com/ </a> 0 0 Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.229 Version/11.64 0 0
+496 22 Cilifrox amieekl@gmail.com http://www.photoblog.com/bestdesigner/ 117.21.227.43 2012-11-28 16:23:26 2012-11-28 16:23:26 buy best <a href="http://www.photoblog.com/bestdesigner/" rel="nofollow">designer handbags</a>   and check coupon code available   TDZStrfh  <a href="http://www.photoblog.com/bestdesigner/" rel="nofollow"> http://www.photoblog.com/bestdesigner/ </a> 0 0 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5 Comodo_Dragon/19.1.0.0 0 0
+497 20 anombors charleskl@aol.com http://louisvuittonoutlet.newsblog.com/ 117.21.225.25 2012-11-28 16:34:14 2012-11-28 16:34:14 you must read <a href="http://louisvuittonoutlet.newsblog.com/" rel="nofollow">louis vuitton outlet new york</a>  with low price   oefZBNBN  <a href="http://louisvuittonoutlet.newsblog.com/" rel="nofollow"> http://louisvuittonoutlet.newsblog.com/ </a> 0 0 Mozilla/5.0 (Windows NT 5.2; rv:12.0) Gecko/20100101 Firefox/12.0 0 0
+498 25 Frulteft audriekl@hotmail.com http://hermesreplica.newsblog.com/ 117.21.225.25 2012-11-28 16:40:30 2012-11-28 16:40:30 order an <a href="http://hermesreplica.newsblog.com/" rel="nofollow">replica hermes</a>  with low price   cYuLdGem  <a href="http://hermesreplica.newsblog.com/" rel="nofollow"> http://hermesreplica.newsblog.com/ </a> 0 0 Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.52 0 0
+499 25 NelmReof bernettakl@gmail.com http://imitationlouisvuitton2.iwannayou.com/ 117.21.227.43 2012-11-28 17:24:37 2012-11-28 17:24:37 get <a href="http://imitationlouisvuitton2.iwannayou.com/" rel="nofollow">imitation louis vuitton bags</a>  with confident   ojRnStXS  <a href="http://imitationlouisvuitton2.iwannayou.com/" rel="nofollow"> http://imitationlouisvuitton2.iwannayou.com/ </a> 0 0 Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5 0 0
+500 22 derrurgy bethelkl@gmail.com http://gucciwholesale.marquette.blogs.propertysolutions.com/ 117.21.225.25 2012-11-28 18:14:14 2012-11-28 18:14:14 buy a <a href="http://gucciwholesale.marquette.blogs.propertysolutions.com/" rel="nofollow">gucci bags wholesale</a>  , for special offer   OsQlFpRg  <a href="http://gucciwholesale.marquette.blogs.propertysolutions.com/" rel="nofollow"> http://gucciwholesale.marquette.blogs.propertysolutions.com/ </a> 0 0 Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 5.10 (build 5339); ru) Presto/2.10.229 Version/11.64 0 0
+501 20 Unalidaw kristiankl@hotmail.com http://gucciuk1.thursdayinternet.com/ 117.21.225.25 2012-11-28 18:14:31 2012-11-28 18:14:31 must check <a href="http://gucciuk1.thursdayinternet.com/" rel="nofollow">gucci uk</a>  , just clicks away   qBcIDHZV  <a href="http://gucciuk1.thursdayinternet.com/" rel="nofollow"> http://gucciuk1.thursdayinternet.com/ </a> 0 0 Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.61 0 0
+
++++++++++
+
+ 

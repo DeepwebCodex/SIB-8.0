@@ -1,0 +1,960 @@
+distancecalculator.globefeed.com/India_Distance_Calculator.asp?state=07
+ 
+mysql - columns_priv:(0)
+Host,Db,User,Table_name,Column_name,Timestamp,Column_priv
+
++++++++++
+mysql - db:(2)
+Host,Db,User,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Create_tmp_table_priv,Lock_tables_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Execute_priv,Event_priv,Trigger_priv
+% test Y Y Y Y Y Y N Y Y Y Y Y Y Y Y N N Y Y
+% test\_% Y Y Y Y Y Y N Y Y Y Y Y Y Y Y N N Y Y
+
++++++++++
+mysql - event:(0)
+db,name,body,definer,execute_at,interval_value,interval_field,created,modified,last_executed,starts,ends,status,on_completion,sql_mode,comment,originator,time_zone,character_set_client,collation_connection,db_collation,body_utf8
+
++++++++++
+mysql - func:(0)
+name,ret,dl,type
+
++++++++++
+mysql - general_log:(0)
+event_time,user_host,thread_id,server_id,command_type,argument
+
++++++++++
+mysql - help_category:(40)
+help_category_id,name,parent_category_id,url
+1 Geographic 0
+2 Polygon properties 35
+3 WKT 35
+4 Numeric Functions 39
+5 Plugins 36
+6 MBR 35
+7 Control flow functions 39
+8 Transactions 36
+9 Help Metadata 36
+10 Account Management 36
+
++++++++++
+mysql - help_keyword:(485)
+help_keyword_id,name
+0 JOIN
+1 HOST
+2 REPEAT
+3 SERIALIZABLE
+4 REPLACE
+5 AT
+6 SCHEDULE
+7 RETURNS
+8 STARTS
+9 MASTER_SSL_CA
+90 MAX_SIZE
+91 HOUR_SECOND
+92 SQL_AFTER_GTIDS
+93 VARIABLE
+94 ROLLBACK
+95 PROCEDURE
+96 TIMESTAMP
+97 IMPORT
+98 AGAINST
+99 CHECKSUM
+
++++++++++
+mysql - help_relation:(1090)
+help_topic_id,help_keyword_id
+0 0
+447 0
+249 1
+126 2
+238 3
+269 4
+332 4
+483 4
+310 5
+310 6
+264 41
+32 42
+48 42
+110 42
+247 42
+305 42
+332 42
+447 42
+448 42
+483 42
+115 207
+247 207
+342 207
+467 208
+513 209
+101 210
+238 210
+329 210
+337 210
+442 210
+515 442
+247 443
+511 443
+247 444
+386 444
+247 445
+517 445
+25 446
+238 446
+340 446
+
++++++++++
+mysql - help_topic:(533)
+help_topic_id,name,help_category_id,description,example,url
+0 JOIN 28 MySQL supports the following JOIN syntaxes for the table_references
+part of SELECT statements and multiple-table DELETE and UPDATE
+statements:
+
+table_references:
+    escaped_table_reference [, escaped_table_reference] ...
+
+escaped_table_reference:
+    table_reference
+  | { OJ table_reference }
+
+table_reference:
+    table_factor
+  | join_table
+
+table_factor:
+    tbl_name [PARTITION (partition_names)] 
+        [[AS] alias] [index_hint_list]
+  | table_subquery [AS] alias
+  | ( table_references )
+
+join_table:
+    table_reference [INNER | CROSS] JOIN table_factor [join_condition]
+  | table_reference STRAIGHT_JOIN table_factor
+  | table_reference STRAIGHT_JOIN table_factor ON conditional_expr
+  | table_reference {LEFT|RIGHT} [OUTER] JOIN table_reference join_condition
+  | table_reference NATURAL [{LEFT|RIGHT} [OUTER]] JOIN table_factor
+
+join_condition:
+    ON conditional_expr
+  | USING (column_list)
+
+index_hint_list:
+    index_hint [, index_hint] ...
+
+index_hint:
+    USE {INDEX|KEY}
+      [FOR {JOIN|ORDER BY|GROUP BY}] ([index_list])
+  | IGNORE {INDEX|KEY}
+      [FOR {JOIN|ORDER BY|GROUP BY}] (index_list)
+  | FORCE {INDEX|KEY}
+      [FOR {JOIN|ORDER BY|GROUP BY}] (index_list)
+
+index_list:
+    index_name [, index_name] ...
+
+A table reference is also known as a join expression.
+
+In MySQL 5.6.2 and later, a table reference (when it refers to a
+partitioned table) may contain a PARTITION option, including a
+comma-separated list of partitions, subpartitions, or both. This option
+follows the name of the table and precedes any alias declaration. The
+effect of this option is that rows are selected only from the listed
+partitions or subpartitions---in other words, any partitions or
+subpartitions not named in the list are ignored For more information,
+see http://dev.mysql.com/doc/refman/5.6/en/partitioning-selection.html.
+
+The syntax of table_factor is extended in comparison with the SQL
+Standard. The latter accepts only table_reference, not a list of them
+inside a pair of parentheses.
+
+This is a conservative extension if we consider each comma in a list of
+table_reference items as equivalent to an inner join. For example:
+
+SELECT * FROM t1 LEFT JOIN (t2, t3, t4)
+                 ON (t2.a=t1.a AND t3.b=t1.b AND t4.c=t1.c)
+
+is equivalent to:
+
+SELECT * FROM t1 LEFT JOIN (t2 CROSS JOIN t3 CROSS JOIN t4)
+                 ON (t2.a=t1.a AND t3.b=t1.b AND t4.c=t1.c)
+
+In MySQL, JOIN, CROSS JOIN, and INNER JOIN are syntactic equivalents
+(they can replace each other). In standard SQL, they are not
+equivalent. INNER JOIN is used with an ON clause, CROSS JOIN is used
+otherwise.
+
+In general, parentheses can be ignored in join expressions containing
+only inner join operations. MySQL also supports nested joins (see
+http://dev.mysql.com/doc/refman/5.6/en/nested-join-optimization.html).
+
+Index hints can be specified to affect how the MySQL optimizer makes
+use of indexes. For more information, see
+http://dev.mysql.com/doc/refman/5.6/en/index-hints.html.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/join.html SELECT left_tbl.*
+  FROM left_tbl LEFT JOIN right_tbl ON left_tbl.id = right_tbl.id
+  WHERE right_tbl.id IS NULL; http://dev.mysql.com/doc/refman/5.6/en/join.html
+1 HEX 38 Syntax:
+HEX(str), HEX(N)
+
+For a string argument str, HEX() returns a hexadecimal string
+representation of str where each character in str is converted to two
+hexadecimal digits. The inverse of this operation is performed by the
+UNHEX() function.
+
+For a numeric argument N, HEX() returns a hexadecimal string
+representation of the value of N treated as a longlong (BIGINT) number.
+This is equivalent to CONV(N,10,16). The inverse of this operation is
+performed by CONV(HEX(N),16,10).
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/string-functions.html mysql> SELECT 0x616263, HEX('abc'), UNHEX(HEX('abc'));
+        -> 'abc', 616263, 'abc'
+mysql> SELECT HEX(255), CONV(HEX(255),16,10);
+        -> 'FF', 255 http://dev.mysql.com/doc/refman/5.6/en/string-functions.html
+2 CONTAINS 31 Contains(g1,g2)
+
+Returns 1 or 0 to indicate whether g1 completely contains g2. This
+tests the opposite relationship as Within().
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/functions-for-testing-spatial-relations-between-geometric-objects.html http://dev.mysql.com/doc/refman/5.6/en/functions-for-testing-spatial-relations-between-geometric-objects.html
+3 SRID 37 SRID(g)
+
+Returns an integer indicating the Spatial Reference System ID for the
+geometry value g.
+
+In MySQL, the SRID value is just an integer associated with the
+geometry value. All calculations are done assuming Euclidean (planar)
+geometry.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/geometry-property-functions.html mysql> SELECT SRID(GeomFromText('LineString(1 1,2 2)',101));
++-----------------------------------------------+
+| SRID(GeomFromText('LineString(1 1,2 2)',101)) |
++-----------------------------------------------+
+|                                           101 |
++-----------------------------------------------+ http://dev.mysql.com/doc/refman/5.6/en/geometry-property-functions.html
+4 SHOW CONTRIBUTORS 27 Syntax:
+SHOW CONTRIBUTORS
+
+The SHOW CONTRIBUTORS statement displays information about the people
+who contribute to MySQL source or to causes that we support. For each
+contributor, it displays Name, Location, and Comment values.
+
+This statement is removed as of MySQL 5.6.8.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/show-contributors.html http://dev.mysql.com/doc/refman/5.6/en/show-contributors.html
+5 VARIANCE 16 Syntax:
+VARIANCE(expr)
+
+Returns the population standard variance of expr. This is an extension
+to standard SQL. The standard SQL function VAR_POP() can be used
+instead.
+
+VARIANCE() returns NULL if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/group-by-functions.html http://dev.mysql.com/doc/refman/5.6/en/group-by-functions.html
+6 DROP SERVER 40 Syntax:
+DROP SERVER [ IF EXISTS ] server_name
+
+Drops the server definition for the server named server_name. The
+corresponding row in the mysql.servers table is deleted. This statement
+requires the SUPER privilege.
+
+Dropping a server for a table does not affect any FEDERATED tables that
+used this connection information when they were created. See [HELP
+CREATE SERVER].
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/drop-server.html http://dev.mysql.com/doc/refman/5.6/en/drop-server.html
+7 SHOW AUTHORS 27 Syntax:
+SHOW AUTHORS
+
+The SHOW AUTHORS statement displays information about the people who
+work on MySQL. For each author, it displays Name, Location, and Comment
+values.
+
+This statement is removed as of MySQL 5.6.8.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/show-authors.html http://dev.mysql.com/doc/refman/5.6/en/show-authors.html
+8 CONCAT 38 Syntax:
+CONCAT(str1,str2,...)
+
+Returns the string that results from concatenating the arguments. May
+have one or more arguments. If all arguments are nonbinary strings, the
+result is a nonbinary string. If the arguments include any binary
+strings, the result is a binary string. A numeric argument is converted
+to its equivalent nonbinary string form.
+
+CONCAT() returns NULL if any argument is NULL.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/string-functions.html mysql> SELECT CONCAT('My', 'S', 'QL');
+        -> 'MySQL'
+mysql> SELECT CONCAT('My', NULL, 'QL');
+        -> NULL
+mysql> SELECT CONCAT(14.3);
+        -> '14.3' http://dev.mysql.com/doc/refman/5.6/en/string-functions.html
+9 GEOMETRY HIERARCHY 35 Geometry is the base class. It is an abstract class. The instantiable
+subclasses of Geometry are restricted to zero-, one-, and
+two-dimensional geometric objects that exist in two-dimensional
+coordinate space. All instantiable geometry classes are defined so that
+valid instances of a geometry class are topologically closed (that is,
+all defined geometries include their boundary).
+
+The base Geometry class has subclasses for Point, Curve, Surface, and
+GeometryCollection:
+
+o Point represents zero-dimensional objects.
+
+o Curve represents one-dimensional objects, and has subclass
+  LineString, with sub-subclasses Line and LinearRing.
+
+o Surface is designed for two-dimensional objects and has subclass
+  Polygon.
+
+o GeometryCollection has specialized zero-, one-, and two-dimensional
+  collection classes named MultiPoint, MultiLineString, and
+  MultiPolygon for modeling geometries corresponding to collections of
+  Points, LineStrings, and Polygons, respectively. MultiCurve and
+  MultiSurface are introduced as abstract superclasses that generalize
+  the collection interfaces to handle Curves and Surfaces.
+
+Geometry, Curve, Surface, MultiCurve, and MultiSurface are defined as
+noninstantiable classes. They define a common set of methods for their
+subclasses and are included for extensibility.
+
+Point, LineString, Polygon, GeometryCollection, MultiPoint,
+MultiLineString, and MultiPolygon are instantiable classes.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/gis-geometry-class-hierarchy.html http://dev.mysql.com/doc/refman/5.6/en/gis-geometry-class-hierarchy.html
+90 ELT 38 Syntax:
+ELT(N,str1,str2,str3,...)
+
+ELT() returns the Nth element of the list of strings: str1 if N = 1,
+str2 if N = 2, and so on. Returns NULL if N is less than 1 or greater
+than the number of arguments. ELT() is the complement of FIELD().
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/string-functions.html mysql> SELECT ELT(1, 'ej', 'Heja', 'hej', 'foo');
+        -> 'ej'
+mysql> SELECT ELT(4, 'ej', 'Heja', 'hej', 'foo');
+        -> 'foo' http://dev.mysql.com/doc/refman/5.6/en/string-functions.html
+91 ALTER VIEW 40 Syntax:
+ALTER
+    [ALGORITHM = {UNDEFINED | MERGE | TEMPTABLE}]
+    [DEFINER = { user | CURRENT_USER }]
+    [SQL SECURITY { DEFINER | INVOKER }]
+    VIEW view_name [(column_list)]
+    AS select_statement
+    [WITH [CASCADED | LOCAL] CHECK OPTION]
+
+This statement changes the definition of a view, which must exist. The
+syntax is similar to that for CREATE VIEW and the effect is the same as
+for CREATE OR REPLACE VIEW. See [HELP CREATE VIEW]. This statement
+requires the CREATE VIEW and DROP privileges for the view, and some
+privilege for each column referred to in the SELECT statement. ALTER
+VIEW is permitted only to the definer or users with the SUPER
+privilege.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/alter-view.html http://dev.mysql.com/doc/refman/5.6/en/alter-view.html
+92 SHOW DATABASES 27 Syntax:
+SHOW {DATABASES | SCHEMAS}
+    [LIKE 'pattern' | WHERE expr]
+
+SHOW DATABASES lists the databases on the MySQL server host. SHOW
+SCHEMAS is a synonym for SHOW DATABASES. The LIKE clause, if present,
+indicates which database names to match. The WHERE clause can be given
+to select rows using more general conditions, as discussed in
+http://dev.mysql.com/doc/refman/5.6/en/extended-show.html.
+
+You see only those databases for which you have some kind of privilege,
+unless you have the global SHOW DATABASES privilege. You can also get
+this list using the mysqlshow command.
+
+If the server was started with the --skip-show-database option, you
+cannot use this statement at all unless you have the SHOW DATABASES
+privilege.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/show-databases.html http://dev.mysql.com/doc/refman/5.6/en/show-databases.html
+93 SEC_TO_TIME 32 Syntax:
+SEC_TO_TIME(seconds)
+
+Returns the seconds argument, converted to hours, minutes, and seconds,
+as a TIME value. The range of the result is constrained to that of the
+TIME data type. A warning occurs if the argument corresponds to a value
+outside that range.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/date-and-time-functions.html mysql> SELECT SEC_TO_TIME(2378);
+        -> '00:39:38'
+mysql> SELECT SEC_TO_TIME(2378) + 0;
+        -> 3938 http://dev.mysql.com/doc/refman/5.6/en/date-and-time-functions.html
+94 LOCATE 38 Syntax:
+LOCATE(substr,str), LOCATE(substr,str,pos)
+
+The first syntax returns the position of the first occurrence of
+substring substr in string str. The second syntax returns the position
+of the first occurrence of substring substr in string str, starting at
+position pos. Returns 0 if substr is not in str.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/string-functions.html mysql> SELECT LOCATE('bar', 'foobarbar');
+        -> 4
+mysql> SELECT LOCATE('xbar', 'foobar');
+        -> 0
+mysql> SELECT LOCATE('bar', 'foobarbar', 5);
+        -> 7 http://dev.mysql.com/doc/refman/5.6/en/string-functions.html
+95 SHOW EVENTS 27 Syntax:
+SHOW EVENTS [{FROM | IN} schema_name]
+    [LIKE 'pattern' | WHERE expr]
+
+This statement displays information about Event Manager events. It
+requires the EVENT privilege for the database from which the events are
+to be shown.
+
+In its simplest form, SHOW EVENTS lists all of the events in the
+current schema:
+
+mysql> SELECT CURRENT_USER(), SCHEMA();
++----------------+----------+
+| CURRENT_USER() | SCHEMA() |
++----------------+----------+
+| jon@ghidora    | myschema |
++----------------+----------+
+1 row in set (0.00 sec)
+
+mysql> SHOW EVENTS\G
+*************************** 1. row ***************************
+                  Db: myschema
+                Name: e_daily
+             Definer: jon@ghidora
+           Time zone: SYSTEM
+                Type: RECURRING
+          Execute at: NULL
+      Interval value: 10
+      Interval field: SECOND
+              Starts: 2006-02-09 10:41:23
+                Ends: NULL
+              Status: ENABLED
+          Originator: 0
+character_set_client: latin1
+collation_connection: latin1_swedish_ci
+  Database Collation: latin1_swedish_ci
+
+To see events for a specific schema, use the FROM clause. For example,
+to see events for the test schema, use the following statement:
+
+SHOW EVENTS FROM test;
+
+The LIKE clause, if present, indicates which event names to match. The
+WHERE clause can be given to select rows using more general conditions,
+as discussed in
+http://dev.mysql.com/doc/refman/5.6/en/extended-show.html.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/show-events.html http://dev.mysql.com/doc/refman/5.6/en/show-events.html
+96 LONGTEXT 23 LONGTEXT [CHARACTER SET charset_name] [COLLATE collation_name]
+
+A TEXT column with a maximum length of 4,294,967,295 or 4GB (232 - 1)
+characters. The effective maximum length is less if the value contains
+multi-byte characters. The effective maximum length of LONGTEXT columns
+also depends on the configured maximum packet size in the client/server
+protocol and available memory. Each LONGTEXT value is stored using a
+4-byte length prefix that indicates the number of bytes in the value.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/string-type-overview.html http://dev.mysql.com/doc/refman/5.6/en/string-type-overview.html
+97 KILL 27 Syntax:
+KILL [CONNECTION | QUERY] thread_id
+
+Each connection to mysqld runs in a separate thread. You can see which
+threads are running with the SHOW PROCESSLIST statement and kill a
+thread with the KILL thread_id statement.
+
+KILL permits an optional CONNECTION or QUERY modifier:
+
+o KILL CONNECTION is the same as KILL with no modifier: It terminates
+  the connection associated with the given thread_id.
+
+o KILL QUERY terminates the statement that the connection is currently
+  executing, but leaves the connection itself intact.
+
+If you have the PROCESS privilege, you can see all threads. If you have
+the SUPER privilege, you can kill all threads and statements.
+Otherwise, you can see and kill only your own threads and statements.
+
+You can also use the mysqladmin processlist and mysqladmin kill
+commands to examine and kill threads.
+
+*Note*: You cannot use KILL with the Embedded MySQL Server library
+because the embedded server merely runs inside the threads of the host
+application. It does not create any connection threads of its own.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/kill.html http://dev.mysql.com/doc/refman/5.6/en/kill.html
+98 DISJOINT 31 Disjoint(g1,g2)
+
+Returns 1 or 0 to indicate whether g1 is spatially disjoint from (does
+not intersect) g2.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/functions-for-testing-spatial-relations-between-geometric-objects.html http://dev.mysql.com/doc/refman/5.6/en/functions-for-testing-spatial-relations-between-geometric-objects.html
+99 LPAD 38 Syntax:
+LPAD(str,len,padstr)
+
+Returns the string str, left-padded with the string padstr to a length
+of len characters. If str is longer than len, the return value is
+shortened to len characters.
+
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/string-functions.html mysql> SELECT LPAD('hi',4,'??');
+        -> '??hi'
+mysql> SELECT LPAD('hi',1,'??');
+        -> 'h' http://dev.mysql.com/doc/refman/5.6/en/string-functions.html
+490 DIMENSION 37 Dimension(g)
+
+Returns the inherent dimension of the geometry value g. The result can
+be -1, 0, 1, or 2. The meaning of these values is given in
+http://dev.mysql.com/doc/refman/5.6/en/gis-class-geometry.html.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/geometry-property-functions.html mysql> SELECT Dimension(GeomFromText('LineString(1 1,2 2)'));
++------------------------------------------------+
+| Dimension(GeomFromText('LineString(1 1,2 2)')) |
++------------------------------------------------+
+|                                              1 |
++------------------------------------------------+ http://dev.mysql.com/doc/refman/5.6/en/geometry-property-functions.html
+491 BIT 23 BIT[(M)]
+
+A bit-field type. M indicates the number of bits per value, from 1 to
+64. The default is 1 if M is omitted.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/numeric-type-overview.html http://dev.mysql.com/doc/refman/5.6/en/numeric-type-overview.html
+492 EQUALS 31 Equals(g1,g2)
+
+Returns 1 or 0 to indicate whether g1 is spatially equal to g2.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/functions-for-testing-spatial-relations-between-geometric-objects.html http://dev.mysql.com/doc/refman/5.6/en/functions-for-testing-spatial-relations-between-geometric-objects.html
+493 XA 8 Syntax:
+XA {START|BEGIN} xid [JOIN|RESUME]
+
+XA END xid [SUSPEND [FOR MIGRATE]]
+
+XA PREPARE xid
+
+XA COMMIT xid [ONE PHASE]
+
+XA ROLLBACK xid
+
+XA RECOVER
+
+For XA START, the JOIN and RESUME clauses are not supported.
+
+For XA END the SUSPEND [FOR MIGRATE] clause is not supported.
+
+Each XA statement begins with the XA keyword, and most of them require
+an xid value. An xid is an XA transaction identifier. It indicates
+which transaction the statement applies to. xid values are supplied by
+the client, or generated by the MySQL server. An xid value has from one
+to three parts:
+
+xid: gtrid [, bqual [, formatID ]]
+
+gtrid is a global transaction identifier, bqual is a branch qualifier,
+and formatID is a number that identifies the format used by the gtrid
+and bqual values. As indicated by the syntax, bqual and formatID are
+optional. The default bqual value is '' if not given. The default
+formatID value is 1 if not given.
+
+gtrid and bqual must be string literals, each up to 64 bytes (not
+characters) long. gtrid and bqual can be specified in several ways. You
+can use a quoted string ('ab'), hex string (0x6162, X'ab'), or bit
+value (b'nnnn').
+
+formatID is an unsigned integer.
+
+The gtrid and bqual values are interpreted in bytes by the MySQL
+server's underlying XA support routines. However, while an SQL
+statement containing an XA statement is being parsed, the server works
+with some specific character set. To be safe, write gtrid and bqual as
+hex strings.
+
+xid values typically are generated by the Transaction Manager. Values
+generated by one TM must be different from values generated by other
+TMs. A given TM must be able to recognize its own xid values in a list
+of values returned by the XA RECOVER statement.
+
+XA START xid starts an XA transaction with the given xid value. Each XA
+transaction must have a unique xid value, so the value must not
+currently be used by another XA transaction. Uniqueness is assessed
+using the gtrid and bqual values. All following XA statements for the
+XA transaction must be specified using the same xid value as that given
+in the XA START statement. If you use any of those statements but
+specify an xid value that does not correspond to some existing XA
+transaction, an error occurs.
+
+One or more XA transactions can be part of the same global transaction.
+All XA transactions within a given global transaction must use the same
+gtrid value in the xid value. For this reason, gtrid values must be
+globally unique so that there is no ambiguity about which global
+transaction a given XA transaction is part of. The bqual part of the
+xid value must be different for each XA transaction within a global
+transaction. (The requirement that bqual values be different is a
+limitation of the current MySQL XA implementation. It is not part of
+the XA specification.)
+
+The XA RECOVER statement returns information for those XA transactions
+on the MySQL server that are in the PREPARED state. (See
+http://dev.mysql.com/doc/refman/5.6/en/xa-states.html.) The output
+includes a row for each such XA transaction on the server, regardless
+of which client started it.
+
+XA RECOVER output rows look like this (for an example xid value
+consisting of the parts 'abc', 'def', and 7):
+
+mysql> XA RECOVER;
++----------+--------------+--------------+--------+
+| formatID | gtrid_length | bqual_length | data   |
++----------+--------------+--------------+--------+
+|        7 |            3 |            3 | abcdef |
++----------+--------------+--------------+--------+
+
+The output columns have the following meanings:
+
+o formatID is the formatID part of the transaction xid
+
+o gtrid_length is the length in bytes of the gtrid part of the xid
+
+o bqual_length is the length in bytes of the bqual part of the xid
+
+o data is the concatenation of the gtrid and bqual parts of the xid
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/xa-statements.html http://dev.mysql.com/doc/refman/5.6/en/xa-statements.html
+494 OCTET_LENGTH 38 Syntax:
+OCTET_LENGTH(str)
+
+OCTET_LENGTH() is a synonym for LENGTH().
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/string-functions.html http://dev.mysql.com/doc/refman/5.6/en/string-functions.html
+495 UTC_TIMESTAMP 32 Syntax:
+UTC_TIMESTAMP, UTC_TIMESTAMP([fsp])
+
+Returns the current UTC date and time as a value in 'YYYY-MM-DD
+HH:MM:SS' or YYYYMMDDHHMMSS format, depending on whether the function
+is used in a string or numeric context.
+
+As of MySQL 5.6.4, if the fsp argument is given to specify a fractional
+seconds precision from 0 to 6, the return value includes a fractional
+seconds part of that many digits. Before 5.6.4, any argument is
+ignored.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/date-and-time-functions.html mysql> SELECT UTC_TIMESTAMP(), UTC_TIMESTAMP() + 0;
+        -> '2003-08-14 18:08:04', 20030814180804.000000 http://dev.mysql.com/doc/refman/5.6/en/date-and-time-functions.html
+496 AES_ENCRYPT 12 Syntax:
+AES_ENCRYPT(str,key_str)
+
+AES_ENCRYPT() and AES_DECRYPT() enable encryption and decryption of
+data using the official AES (Advanced Encryption Standard) algorithm,
+previously known as "Rijndael." Encoding with a 128-bit key length is
+used, but you can extend it up to 256 bits by modifying the source. We
+chose 128 bits because it is much faster and it is secure enough for
+most purposes.
+
+AES_ENCRYPT() encrypts a string and returns a binary string.
+AES_DECRYPT() decrypts the encrypted string and returns the original
+string. The input arguments may be any length. If either argument is
+NULL, the result of this function is also NULL.
+
+Because AES is a block-level algorithm, padding is used to encode
+uneven length strings and so the result string length may be calculated
+using this formula:
+
+16 * (trunc(string_length / 16) + 1)
+
+If AES_DECRYPT() detects invalid data or incorrect padding, it returns
+NULL. However, it is possible for AES_DECRYPT() to return a non-NULL
+value (possibly garbage) if the input data or the key is invalid.
+
+You can use the AES functions to store data in an encrypted form by
+modifying your queries:
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/encryption-functions.html INSERT INTO t VALUES (1,AES_ENCRYPT('text','password')); http://dev.mysql.com/doc/refman/5.6/en/encryption-functions.html
+497 + 4 Syntax:
++
+
+Addition:
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/arithmetic-functions.html mysql> SELECT 3+5;
+        -> 8 http://dev.mysql.com/doc/refman/5.6/en/arithmetic-functions.html
+498 GTID_SUBTRACT 17 Syntax:
+GTID_SUBTRACT(set,subset)
+
+Given two sets of global transaction IDs subset and set, returns only
+those GTIDs from set that are not in subset.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/gtid-functions.html http://dev.mysql.com/doc/refman/5.6/en/gtid-functions.html
+499 INET_NTOA 14 Syntax:
+INET_NTOA(expr)
+
+Given a numeric IPv4 network address in network byte order, returns the
+dotted-quad string representation of the address as a nonbinary string
+in the connection character set. INET_NTOA() returns NULL if it does
+not understand its argument.
+
+URL: http://dev.mysql.com/doc/refman/5.6/en/miscellaneous-functions.html mysql> SELECT INET_NTOA(167773449);
+        -> '10.0.5.9' http://dev.mysql.com/doc/refman/5.6/en/miscellaneous-functions.html
+
++++++++++
+mysql - innodb_index_stats:(46)
+database_name,table_name,index_name,last_update,stat_name,stat_value,sample_size,stat_description
+shareglobe admin2 PRIMARY 2013-07-18 12:45:03 n_diff_pfx01 11360 20 GeoId
+shareglobe admin2 PRIMARY 2013-07-18 12:45:03 n_leaf_pages 49 Number of leaf pages in the index
+shareglobe admin2 PRIMARY 2013-07-18 12:45:03 size 97 Number of pages in the index
+shareglobe airports PRIMARY 2018-08-02 16:44:42 n_diff_pfx01 51974 20 id
+shareglobe airports PRIMARY 2018-08-02 16:44:42 n_leaf_pages 474 Number of leaf pages in the index
+shareglobe airports PRIMARY 2018-08-02 16:44:42 size 481 Number of pages in the index
+shareglobe airports country 2018-08-02 16:44:42 n_diff_pfx01 167 20 iso_country
+shareglobe airports country 2018-08-02 16:44:42 n_diff_pfx02 52409 20 iso_country,id
+shareglobe airports country 2018-08-02 16:44:42 n_leaf_pages 64 Number of leaf pages in the index
+shareglobe airports country 2018-08-02 16:44:42 size 97 Number of pages in the index
+
++++++++++
+mysql - innodb_table_stats:(10)
+database_name,table_name,last_update,n_rows,clustered_index_size,sum_of_other_index_sizes
+shareglobe admin2 2013-07-18 12:45:03 11360 97 0
+shareglobe airports 2018-08-02 16:44:42 51974 481 97
+shareglobe airports_old 2017-10-23 20:48:00 51935 481 97
+shareglobe airroutes 2018-08-02 16:52:11 66447 737 0
+shareglobe geonameids 2013-07-18 13:36:59 6649425 9898 0
+shareglobe majorcities 2014-04-06 19:06:38 38413 481 97
+shareglobe postalcodes 2013-07-18 13:38:29 683192 4455 673
+shareglobe states 2013-07-18 13:37:58 3681 17 0
+shareglobe testing 2013-07-18 13:38:09 3 1 0
+shareglobe topcities 2013-07-18 13:38:19 425 4 0
+
++++++++++
+mysql - ndb_binlog_index:(0)
+Position,File,epoch,inserts,updates,deletes,schemaops,orig_server_id,orig_epoch,gci
+
++++++++++
+mysql - plugin:(0)
+name,dl
+
++++++++++
+mysql - proc:(0)
+db,name,type,specific_name,language,sql_data_access,is_deterministic,security_type,param_list,returns,body,definer,created,modified,sql_mode,comment,character_set_client,collation_connection,db_collation,body_utf8
+
++++++++++
+mysql - procs_priv:(0)
+Host,Db,User,Routine_name,Routine_type,Grantor,Proc_priv,Timestamp
+
++++++++++
+mysql - proxies_priv:(1)
+Host,User,Proxied_host,Proxied_user,With_grant,Grantor,Timestamp
+localhost root 1 2013-05-21 21:13:00
+
++++++++++
+mysql - servers:(0)
+Server_name,Host,Db,Username,Password,Port,Socket,Wrapper,Owner
+
++++++++++
+mysql - slave_master_info:(0)
+Number_of_lines,Master_log_name,Master_log_pos,Host,User_name,User_password,Port,Connect_retry,Enabled_ssl,Ssl_ca,Ssl_capath,Ssl_cert,Ssl_cipher,Ssl_key,Ssl_verify_server_cert,Heartbeat,Bind,Ignored_server_ids,Uuid,Retry_count,Ssl_crl,Ssl_crlpath,Enabled_auto_position
+
++++++++++
+mysql - slave_relay_log_info:(0)
+Number_of_lines,Relay_log_name,Relay_log_pos,Master_log_name,Master_log_pos,Sql_delay,Number_of_workers,Id
+
++++++++++
+mysql - slave_worker_info:(0)
+Id,Relay_log_name,Relay_log_pos,Master_log_name,Master_log_pos,Checkpoint_relay_log_name,Checkpoint_relay_log_pos,Checkpoint_master_log_name,Checkpoint_master_log_pos,Checkpoint_seqno,Checkpoint_group_size,Checkpoint_group_bitmap
+
++++++++++
+mysql - slow_log:(0)
+start_time,user_host,query_time,lock_time,rows_sent,rows_examined,db,last_insert_id,insert_id,server_id,sql_text,thread_id
+
++++++++++
+mysql - tables_priv:(0)
+Host,Db,User,Table_name,Grantor,Timestamp,Table_priv,Column_priv
+
++++++++++
+mysql - time_zone:(0)
+Time_zone_id,Use_leap_seconds
+
++++++++++
+mysql - time_zone_leap_second:(0)
+Transition_time,Correction
+
++++++++++
+mysql - time_zone_name:(0)
+Name,Time_zone_id
+
++++++++++
+mysql - time_zone_transition:(0)
+Time_zone_id,Transition_time,Transition_type_id
+
++++++++++
+mysql - time_zone_transition_type:(0)
+Time_zone_id,Transition_type_id,Offset,Is_DST,Abbreviation
+
++++++++++
+mysql - user:(4)
+Host,User,Password,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Reload_priv,Shutdown_priv,Process_priv,File_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Show_db_priv,Super_priv,Create_tmp_table_priv,Lock_tables_priv,Execute_priv,Repl_slave_priv,Repl_client_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Create_user_priv,Event_priv,Trigger_priv,Create_tablespace_priv,ssl_type,ssl_cipher,x509_issuer,x509_subject,max_questions,max_updates,max_connections,max_user_connections,plugin,authentication_string,password_expired
+
++++++++++
+
+ 
+performance_schema - accounts:(2)
+USER,HOST,CURRENT_CONNECTIONS,TOTAL_CONNECTIONS
+19 11256
+sameer_cdac localhost 8 115011
+
++++++++++
+performance_schema - cond_instances:()
+
++++++++++
+performance_schema - events_stages_current:()
+
++++++++++
+performance_schema - events_stages_history:()
+
++++++++++
+performance_schema - events_stages_history_long:()
+
++++++++++
+performance_schema - events_stages_summary_by_account_by_event_name:()
+
++++++++++
+performance_schema - events_stages_summary_by_host_by_event_name:()
+
++++++++++
+performance_schema - events_stages_summary_by_thread_by_event_name:()
+
++++++++++
+performance_schema - events_stages_summary_by_user_by_event_name:()
+
++++++++++
+performance_schema - events_stages_summary_global_by_event_name:()
+
++++++++++
+performance_schema - events_statements_current:()
+
++++++++++
+performance_schema - events_statements_history:()
+
++++++++++
+performance_schema - events_statements_history_long:()
+
++++++++++
+performance_schema - events_statements_summary_by_account_by_event_name:()
+
++++++++++
+performance_schema - events_statements_summary_by_digest:()
+
++++++++++
+performance_schema - events_statements_summary_by_host_by_event_name:()
+
++++++++++
+performance_schema - events_statements_summary_by_thread_by_event_name:()
+
++++++++++
+performance_schema - events_statements_summary_by_user_by_event_name:()
+
++++++++++
+performance_schema - events_statements_summary_global_by_event_name:()
+
++++++++++
+performance_schema - events_waits_current:()
+
++++++++++
+performance_schema - events_waits_history:()
+
++++++++++
+performance_schema - events_waits_history_long:()
+
++++++++++
+performance_schema - events_waits_summary_by_account_by_event_name:()
+
++++++++++
+performance_schema - events_waits_summary_by_host_by_event_name:()
+
++++++++++
+performance_schema - events_waits_summary_by_instance:()
+
++++++++++
+performance_schema - events_waits_summary_by_thread_by_event_name:()
+
++++++++++
+performance_schema - events_waits_summary_by_user_by_event_name:()
+
++++++++++
+performance_schema - events_waits_summary_global_by_event_name:()
+
++++++++++
+performance_schema - file_instances:()
+
++++++++++
+performance_schema - file_summary_by_event_name:()
+
++++++++++
+performance_schema - file_summary_by_instance:()
+
++++++++++
+performance_schema - host_cache:()
+
++++++++++
+performance_schema - hosts:()
+
++++++++++
+performance_schema - mutex_instances:()
+
++++++++++
+performance_schema - objects_summary_global_by_type:()
+
++++++++++
+performance_schema - performance_timers:()
+
++++++++++
+performance_schema - rwlock_instances:()
+
++++++++++
+performance_schema - session_account_connect_attrs:()
+
++++++++++
+performance_schema - session_connect_attrs:()
+
++++++++++
+performance_schema - setup_actors:()
+
++++++++++
+performance_schema - setup_consumers:()
+
++++++++++
+performance_schema - setup_instruments:()
+
++++++++++
+performance_schema - setup_objects:()
+
++++++++++
+performance_schema - setup_timers:()
+
++++++++++
+performance_schema - socket_instances:()
+
++++++++++
+performance_schema - socket_summary_by_event_name:()
+
++++++++++
+performance_schema - socket_summary_by_instance:()
+
++++++++++
+performance_schema - table_io_waits_summary_by_index_usage:()
+
++++++++++
+performance_schema - table_io_waits_summary_by_table:()
+
++++++++++
+performance_schema - table_lock_waits_summary_by_table:()
+
++++++++++
+performance_schema - threads:()
+
++++++++++
+performance_schema - users:()
+
++++++++++
+
+ 
+
+ 
+
+ 

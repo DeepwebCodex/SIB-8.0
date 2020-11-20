@@ -1,0 +1,779 @@
+www.serk.ee/rubriigid.php?id=15
+ 
+la01_6181548 - announce:(0)
+id,firmkey,user,title,announce,date,todate
+
++++++++++
+la01_6181548 - files_db:(0)
+id,filename,descr,ext,firmkey
+
++++++++++
+la01_6181548 - firm_cats:(0)
+id,name,subcat_id,firmkey
+
++++++++++
+la01_6181548 - firms:(0)
+id,name,person_id,phone,fax,street,city,zip,website,bankaccount,comments,email,bank,regcode,gsm,firmkey,phone2,phone3,cat_id,contactperson,agent_name,salescat,added,nospam,date,priority
+
++++++++++
+la01_6181548 - foorum:(371)
+item_id,thrd_id,group_id,autor,email,kuupaev,kell,sisu,ip,flag
+420 81 1 RUTH LUIK 2008-07-07 15:48:04 minuni pole samuti see juuni kataloog jõudnud ja alati ei käi ka kodulehel ja üllatus üllatus -täna tuli pakiteade raamatule mille olemasolust mul aimugi polnud ja mis veel hullem-kuna me mehega mõlemad oleme liikmed siis tuli talle ka seesama raamat.Heaküll ostan ühe soovimatu raamatu aga mida teha mehe raamatuga?mida ma teen 2 dieediraamatuga,kui ma ei tahtnud ühtegi raamatut? 213.35.168.184
+421 81 1 Katrin Isajev 2008-07-07 16:49:58 Lp.Ruth Luik!<br>
+<br>
+Kirjutasite ka meilile raamatuklubi@serk.ee,oleme vastuse saatnud Teie meilile ruthluik@hot.ee<br>
+<br>
+Parimate soovidega,<br>
+Suur Eesti Raamatuklubi 88.196.251.154
+422 81 1 Ülle Vool 2008-07-10 00:23:11 Mis oli juuni klubiraamat? Kust saaks selle kohta täpsemat infot? Ei saanud juuni kataloogi, küll aga sain pakiteate. 84.50.53.24
+423 81 1 Katrin Isajev 2008-07-10 15:04:43 Lp.Ülle Vool!<br>
+<br>
+Võtame Teiega telefoni teel ühendust,siis saame täpsemalt rääkida kataloogiga seonduvast.<br>
+<br>
+Tervitades,<br>
+Suur Eesti Raamatuklubi 88.196.251.154
+424 82 1 MERIKE RAUDSEPP 2008-07-14 11:58:58 ... kaas siis saan seda veel muuta ja siiski tellida?<br>
+ette tänades... 81.21.248.138
+425 82 1 Pille Maide 2008-07-14 14:36:24 Austatud Merike Raudsepp!<br>
+Juhul kui olete äraütlemise teinud, aga soovite siiski klubiraamatut saada, tuleb klubiraamat tellida. Seda on kõige lihtsam teha siinsamas kodulehel \"Klubiraamat\" alammenüüst.<br>
+Parimate soovidega,<br>
+Suur Eesti Raamatuklubi<br>
+ <br> 88.196.251.154
+426 71 1 LUMME KADAJA 2008-07-21 23:05:42 Miks ei saa teha äraütlemist sellisel kujul, et ma kunagi ei soovi ja ei hakka soovima ühtki klubiraamatut. Milleks iga kuu eraldi? 85.196.201.125
+791 123 1 Rimma Vorontsova rimma.vorontsova@hotmail.com 2015-07-02 10:15:11 Tere!<br>
+Täname küsimuse eest!<br>
+E-raamatute pakkumisi saadame klubiliikmetele igakuiselt e-posti aadressidele. Kui soovite neid saada, palun kontrollige oma andmed ja lisage või parandage oma e-posti aadress. <br>
+<br>
+Häid lugemiselamusi e-raamatuga!<br>
+Suur Eesti Raamatuklubi<br> 62.65.42.28
+790 123 1 Siret Huik 2015-07-01 21:04:18 Tere!<br>
+Kuna minule varsti enam paberraamatuid koju väga ei mahu, olen viimasel ajal neid vähe ostnud. Viimaste jõulude ajal sai minust aga lugeri omanik ja endalegi üllatuseks meeldib mulle sealne lugemine väga. Enam ei muretse ma, kuhu panen raamatud. Olen e-raamatuid ostnud erinevatest kohtadest, ka Varrakust. Ja nüüd tahaksingi küsida, kas raamatuklubi ei tahaks pakkuda oma liikmetele ka allvariandina e-raamatut. See oleks mugav ja igati ajakohane. <br>
+Parimate soovidega<br>
+S. Huik 62.65.42.28
+419 81 1 Pille Maide 2008-06-26 10:07:15 Austatud Leelo Bekker,<br>
+kahjuks esineb tõesti juhuseid, kus kataloog jääb õigel ajal saabumata. Oleme seda teemat korduvalt arutanud Eesti Postiga, kes on omaltpoolt lubanud olukorda jälgida ja parandada. Oleme kutsunud oma klubiliikmeid üles alati teavitama meie klienditeenindust sellest, kui kataloog ei ole jõudnud postkasti 12. kuupäevaks. Kõige kindlam ja kiirem on tutvuda uue pakkumisega  Raamatuklubi kodulehel www.serk.ee, kuhu info jõuab alati kuu esimestel päevadel. Kodulehel on ka kõige mugavam klubiraamatust ära ütelda. Nendele klubiliikmetele, kes on andnud meile oma e-maili aadressi, jõuab uue kuu pakkumine iga kuu alguses otse e-postkasti.<br>
+<br>
+Heade soovidega,<br>
+Suur Eesti Raamatuklubi 88.196.251.154
+385 73 1 Pille Maide 2008-03-11 13:53:10 Tere,<br>
+praegu äraütlemistega küll kõik korras ja eitused registreeruvad õige kuupäevaga. Ei oska öelda, miks Teie eitus algselt vale kuupäevaga kodulehel kajastus. <br>
+Edu,<br>
+Suur Eesti Raamatuklubi 84.50.92.102
+386 61 1 2008-03-11 19:53:45 Tere! Millal need boonuspunktid ära märgitakse,kas siis ki neid on kokku viis,või kui on olemas ka ainult näiteks 2 või kolm boonuspunkti?praegu näen ainult et mul on o,oo boonuspunkti kuigi peaks olema juba 2 boonuspunkti.Millal neid siis näidatakse ma ei saa pihta koht on aga punkte ei ole ?Parimate soovidega klubiliige.<br> 78.28.77.117
+805 128 1 2016-04-08 20:44:08 Sooviks klubist lahkuda! 62.65.42.28
+806 128 1 Rimma Vorontsova rimma.vorontsova@hotmail.com 2016-04-11 11:18:01 Tere!<br>
+Palun võtke ühendust klienditeenindusega tel nr 6460 218 või e-mail raamatuklubi@serk.ee. Kindlasti märkige oma andmed ja väljaastumise põhjus.<br>
+<br>
+Lugupidamisega,<br>
+Suur Eesti Raamatuklubi 62.65.42.28
+427 77 1 Elvi Reinvald 2008-07-22 11:06:54 Tere!<br>
+Vormistasin klubiraamatust äraütlemise 10.07.08. Samas tellisin mitu raamatut. Minu kontol on näha äraütlemine, kuid tellimust ei ole. Kas jätsin tellides kuskile klõpsamata või saan tellimust näha alles siis, kui kui arve ja raamatud on teele saadetud? 88.196.230.96
+804 127 1 Rimma Vorontsova rimma.vorontsova@hotmail.com 2016-03-23 12:45:20 Tere<br>
+Müügil olevad Terry Pratchett´i raamatuid võib klubi kaudu tellida telefoni või meili teel. Hetkel on saadaval järgmised raamatud: \"Nanny Oggi kokaraamat\", \"Pikkmarss\", \"Auru juurde\", \"Võlukunsti värv\" ja \"Pikk sõda\".<br>
+<br>
+Lugupidamisega,<br>
+Suur Eesti Raamatuklubi 62.65.42.28
+800 126 1 Rimma Vorontsova rimma.vorontsova@hotmail.com 2016-02-05 14:31:54 Lugupeetud H.Pärtel,<br>
+Auhinnaraamatuid võib saada ka müügipunktidest, ei pea kindlasti tellimust tegema. Posti teel auhinnaraamatuid väljastame ainult koos tellimusega.<br>
+<br>
+Lugupidamisega,<br>
+Suur Eesti Raamatuklubi 62.65.42.28
+801 124 1 Annika Jansikene aniela@hot.ee 2016-02-22 14:37:13 Tere<br>
+Sooviksin klubiliikmekaarti.<br>
+Tänan 62.65.42.28
+802 124 1 Rimma Vorontsova rimma.vorontsova@hotmail.com 2016-02-22 16:31:33 Lp. Annika Jansikene,<br>
+<br>
+Klubiliikmekaart on Teile posti teel saadetud.<br>
+<br>
+Lugupidamisega,<br>
+Suur Eesti Raamatuklubi 62.65.42.28
+803 127 1 2016-03-18 23:06:03 Tere.<br>
+Soovin teada kas Terry Pratchett\'i raamatuid on ka võimalik tellida.<br>
+Lugupidamisega. 62.65.42.28
+
++++++++++
+la01_6181548 - foorum_group:(0)
+group_id,d_name,d_description,d_flag,tstamp_add,tstamp_mod,ord
+
++++++++++
+la01_6181548 - foorum_thread:(64)
+thrd_id,group_id,autor,email,kuupaev,kell,pealkiri,tstamp_mod,flag
+79 1 KAIRE VANNAS 2008-06-10 08:56:28 Kuidas saan vaadata eelmiste kuude kataloge? 2008-06-21 07:49:11 0
+78 1 2008-05-05 21:44:02 Elektrooniline kataloog. 2008-05-06 11:47:35 0
+77 1 KRISTA SIIM 2008-05-04 18:15:37 Minu tellimused 2010-10-14 09:50:03 0
+75 1 Ineken Karu 2008-04-12 09:55:40 Suur Laste raamatuklubi 2008-04-12 14:24:28 0
+73 1 Katrin Kärgenberg 2008-03-11 10:54:31 Klubiraamatu äraütlemise kuupäev... 2008-03-11 13:53:10 0
+129 1 2016-05-02 22:12:52 Loobumine. 2016-05-03 13:55:11 0
+130 1 2016-10-03 15:47:32 Auhinnaraamat 2016-10-03 16:56:15 0
+128 1 2016-04-08 20:44:08 Tere!! 2016-04-11 11:18:01 0
+127 1 2016-03-18 23:06:03 Terry Pratchett\'i teosed 2016-03-23 12:45:20 0
+125 1 2016-01-04 18:12:28 Tere 2016-01-06 09:31:48 0
+
++++++++++
+la01_6181548 - gallery:(3820)
+id,tstamp_mod,tstamp_add,main_id_est,main_id_eng,main_id_fin,main_id_rus,name_est,name_eng,name_fin,name_rus,description_est,description_eng,description_fin,description_rus,lang,pict,is_active,sisestus,aegumine,pid,ord,dt,did
+1 2008-06-12 13:13:14 2008-06-11 19:45:06 Raamatuklubiga Draamateatris "Soome Hobust" vaatamas 06.02.08 0000-00-00 00:00:00 0000-00-00 00:00:00 0 1 0000-00-00 00:00:00 0
+24 2008-06-12 11:35:43 2008-06-12 11:35:43 1 1 24_image001.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 1 24 0000-00-00 00:00:00 0
+25 2008-06-12 11:35:50 2008-06-12 11:35:49 2 2 25_image002.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 1 25 0000-00-00 00:00:00 0
+5 2008-06-12 13:11:03 2008-06-12 11:13:19 Kohtumine klubiraamatu "Eesti Oma Feng Shui" autoriga 26.05.08 0000-00-00 00:00:00 0000-00-00 00:00:00 0 5 0000-00-00 00:00:00 0
+6 2008-06-12 13:09:23 2008-06-12 11:13:27 Raamatuklubi reis Helsingisse 31.05.08-01.06.08 0000-00-00 00:00:00 0000-00-00 00:00:00 0 6 0000-00-00 00:00:00 0
+10 2008-06-12 11:20:18 2008-06-12 11:20:17 2 2 10_Lapitoo 003.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 4 10 0000-00-00 00:00:00 0
+9 2008-06-12 11:18:49 2008-06-12 11:18:48 1 1 9_Lapitoo 001.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 4 9 0000-00-00 00:00:00 0
+11 2008-06-12 11:20:30 2008-06-12 11:20:30 3 3 11_Lapitoo 005.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 4 11 0000-00-00 00:00:00 0
+12 2008-06-12 11:20:40 2008-06-12 11:20:39 4 4 12_Lapitoo 007.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 4 12 0000-00-00 00:00:00 0
+13 2008-06-12 11:20:49 2008-06-12 11:20:48 5 5 13_Lapitoo 009.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 4 13 0000-00-00 00:00:00 0
+148 2008-06-25 15:15:22 2008-06-25 15:15:22 60 60 148_Helsingi08 095.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 148 0000-00-00 00:00:00 0
+149 2008-06-25 15:16:10 2008-06-25 15:16:09 61 61 149_Helsingi08 096.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 149 0000-00-00 00:00:00 0
+150 2008-06-25 15:16:29 2008-06-25 15:16:28 62 62 150_Helsingi08 097.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 150 0000-00-00 00:00:00 0
+151 2008-06-25 15:16:55 2008-06-25 15:16:54 63 63 151_Helsingi08 098.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 151 0000-00-00 00:00:00 0
+152 2008-06-25 15:17:14 2008-06-25 15:17:13 64 64 152_Helsingi08 099.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 152 0000-00-00 00:00:00 0
+154 2008-06-25 15:17:54 2008-06-25 15:17:54 66 66 154_Helsingi08 101.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 154 0000-00-00 00:00:00 0
+155 2008-06-25 15:18:15 2008-06-25 15:18:15 67 67 155_Helsingi08 102.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 155 0000-00-00 00:00:00 0
+156 2008-06-25 15:18:35 2008-06-25 15:18:34 68 68 156_Helsingi08 103.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 156 0000-00-00 00:00:00 0
+157 2008-06-25 15:18:56 2008-06-25 15:18:55 69 69 157_Helsingi08 104.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 157 0000-00-00 00:00:00 0
+158 2008-06-25 15:19:13 2008-06-25 15:19:13 70 70 158_Helsingi08 105.jpg 0000-00-00 00:00:00 0000-00-00 00:00:00 6 158 0000-00-00 00:00:00 0
+566 2009-09-14 14:31:29 2009-09-14 14:31:28 0000-00-00 00:00:00 0000-00-00 00:00:00 479 566 0000-00-00 00:00:00 0
+567 2009-09-14 14:31:41 2009-09-14 14:31:41 0000-00-00 00:00:00 0000-00-00 00:00:00 479 567 0000-00-00 00:00:00 0
+568 2009-09-14 14:31:55 2009-09-14 14:31:54 0000-00-00 00:00:00 0000-00-00 00:00:00 479 568 0000-00-00 00:00:00 0
+569 2009-09-14 14:32:09 2009-09-14 14:32:08 0000-00-00 00:00:00 0000-00-00 00:00:00 479 569 0000-00-00 00:00:00 0
+570 2009-09-14 14:32:23 2009-09-14 14:32:22 0000-00-00 00:00:00 0000-00-00 00:00:00 479 570 0000-00-00 00:00:00 0
+571 2009-09-14 14:32:38 2009-09-14 14:32:37 0000-00-00 00:00:00 0000-00-00 00:00:00 479 571 0000-00-00 00:00:00 0
+572 2009-09-14 14:33:58 2009-09-14 14:33:57 0000-00-00 00:00:00 0000-00-00 00:00:00 479 572 0000-00-00 00:00:00 0
+573 2009-09-14 14:34:14 2009-09-14 14:34:14 0000-00-00 00:00:00 0000-00-00 00:00:00 479 573 0000-00-00 00:00:00 0
+574 2009-09-14 14:34:27 2009-09-14 14:34:26 0000-00-00 00:00:00 0000-00-00 00:00:00 479 574 0000-00-00 00:00:00 0
+575 2009-09-14 14:34:45 2009-09-14 14:34:45 0000-00-00 00:00:00 0000-00-00 00:00:00 479 575 0000-00-00 00:00:00 0
+1102 2011-06-14 13:23:55 2011-06-14 13:23:55 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1102 0000-00-00 00:00:00 0
+1103 2011-06-14 13:24:12 2011-06-14 13:24:12 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1103 0000-00-00 00:00:00 0
+1104 2011-06-14 13:24:26 2011-06-14 13:24:26 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1104 0000-00-00 00:00:00 0
+1105 2011-06-14 13:24:40 2011-06-14 13:24:40 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1105 0000-00-00 00:00:00 0
+1106 2011-06-14 13:24:54 2011-06-14 13:24:53 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1106 0000-00-00 00:00:00 0
+1107 2011-06-14 13:25:07 2011-06-14 13:25:07 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1107 0000-00-00 00:00:00 0
+1108 2011-06-14 13:25:20 2011-06-14 13:25:19 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1108 0000-00-00 00:00:00 0
+1109 2011-06-14 13:25:32 2011-06-14 13:25:32 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1109 0000-00-00 00:00:00 0
+1110 2011-06-14 13:25:43 2011-06-14 13:25:43 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1110 0000-00-00 00:00:00 0
+1111 2011-06-14 13:25:56 2011-06-14 13:25:56 0000-00-00 00:00:00 0000-00-00 00:00:00 1008 1111 0000-00-00 00:00:00 0
+2115 2014-06-10 12:23:43 2014-06-10 12:23:41 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2115 0000-00-00 00:00:00 0
+2116 2014-06-10 12:24:09 2014-06-10 12:24:06 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2116 0000-00-00 00:00:00 0
+2117 2014-06-10 12:24:27 2014-06-10 12:24:25 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2117 0000-00-00 00:00:00 0
+2118 2014-06-10 12:24:49 2014-06-10 12:24:47 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2118 0000-00-00 00:00:00 0
+2119 2014-06-10 12:25:07 2014-06-10 12:25:05 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2119 0000-00-00 00:00:00 0
+2120 2014-06-10 12:25:28 2014-06-10 12:25:26 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2120 0000-00-00 00:00:00 0
+2121 2014-06-10 12:25:48 2014-06-10 12:25:46 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2121 0000-00-00 00:00:00 0
+2122 2014-06-10 12:26:07 2014-06-10 12:26:05 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2122 0000-00-00 00:00:00 0
+2123 2014-06-10 12:26:37 2014-06-10 12:26:35 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2123 0000-00-00 00:00:00 0
+2124 2014-06-10 12:26:58 2014-06-10 12:26:56 0000-00-00 00:00:00 0000-00-00 00:00:00 2061 2124 0000-00-00 00:00:00 0 
++++++++++
+la01_6181548 - game_answer:(0)
+id,questid,answer
+
++++++++++
+la01_6181548 - game_main:(0)
+id,title,descr,mainending,endtext,active,quest,queststart,lang,mailtext,firmkey,maillist_id,toemailtext,winnerid
+
++++++++++
+la01_6181548 - game_quest:(0)
+id,gameid,question,answertype,answer_nr
+
++++++++++
+la01_6181548 - game_u_answers:(0)
+id,userid,gameid,questid,answerid,answer
+
++++++++++
+la01_6181548 - game_users:(0)
+id,first_name,last_name,email,birthday,sex,occup,address,sent_emails,answerid,userid,joinmail,gameid
+
++++++++++
+la01_6181548 - links:(0)
+id,name,link,user
+
++++++++++
+la01_6181548 - mail_clicks:(0)
+id,mailid,url,email,remoteip,time
+
++++++++++
+la01_6181548 - mail_log:(0)
+id,mailid,email,remoteip,time
+
++++++++++
+la01_6181548 - maillist:(1)
+id,name,descr,date,firmkey
+1 Liikmed 2004-03-23 serk
+
++++++++++
+la01_6181548 - maillist_joinstats:(0)
+id,firmkey,total_u,joined_yest,joined_thisweek,joined_thismonth,joined_thisyear,update_date,unsubscr,joined_lastweek
+
++++++++++
+la01_6181548 - maillist_mails:(1)
+id,title,text,senddate,sendsex,confirmed,firmkey,attach_name,attach_type,sendall,sentok,bgcolor,bgimg,lang,sendfrom
+4 test test 0000-00-00 A serk 0 0 0
+
++++++++++
+la01_6181548 - maillist_mails_text:(1)
+id,maillid,mod_num,text
+1 4 1 err wer ewr wer
+
++++++++++
+la01_6181548 - maillist_mailsend:(0)
+id,mail_id,maillist_id,sentok,date,touch,cur_pos,tot_users
+
++++++++++
+la01_6181548 - maillist_sending:(0)
+id,mms_id,email,sent,time,firmkey,first_name,last_name
+
++++++++++
+la01_6181548 - maillist_sentusers:(0)
+id,mail_id,pers_type,pid,email,firmkey
+
++++++++++
+la01_6181548 - maillist_undelivered:(0)
+id,email,text,firmkey,date,person_type,pid
+
++++++++++
+la01_6181548 - maillist_unsubusers:(0)
+id,name,phone,email,address,firmkey,time,mail_id
+
++++++++++
+la01_6181548 - maillist_users:(2387)
+id,maillist_id,person_type,persons_id,nospam,unsub_time
+1 1 person 1 0 2004-03-23 19:39:54
+2 1 person 2 0 2004-03-23 19:39:54
+3 1 person 3 0 2004-03-23 19:39:54
+4 1 person 4 0 2004-03-23 19:39:54
+5 1 person 5 0 2004-03-23 19:39:54
+6 1 person 6 0 2004-03-23 19:39:54
+7 1 person 7 0 2004-03-23 19:39:54
+8 1 person 8 0 2004-03-23 19:39:54
+9 1 person 9 0 2004-03-23 19:39:54
+10 1 person 10 0 2004-03-23 19:39:54
+91 1 person 91 0 2004-03-23 19:39:55
+92 1 person 92 0 2004-03-23 19:39:55
+93 1 person 93 0 2004-03-23 19:39:55
+94 1 person 94 0 2004-03-23 19:39:55
+95 1 person 95 0 2004-03-23 19:39:55
+96 1 person 96 0 2004-03-23 19:39:55
+97 1 person 97 0 2004-03-23 19:39:55
+98 1 person 98 0 2004-03-23 19:39:55
+99 1 person 99 0 2004-03-23 19:39:55
+100 1 person 100 0 2004-03-23 19:39:55
+491 1 person 491 0 2004-03-23 19:39:57
+492 1 person 492 0 2004-03-23 19:39:57
+493 1 person 493 0 2004-03-23 19:39:57
+494 1 person 494 0 2004-03-23 19:39:57
+495 1 person 495 0 2004-03-23 19:39:57
+496 1 person 496 0 2004-03-23 19:39:57
+497 1 person 497 0 2004-03-23 19:39:57
+498 1 person 498 0 2004-03-23 19:39:57
+499 1 person 499 0 2004-03-23 19:39:57
+500 1 person 500 0 2004-03-23 19:39:57
+991 1 person 991 0 2004-03-23 19:40:02
+992 1 person 992 0 2004-03-23 19:40:02
+993 1 person 993 0 2004-03-23 19:40:02
+994 1 person 994 0 2004-03-23 19:40:02
+995 1 person 995 0 2004-03-23 19:40:02
+996 1 person 996 0 2004-03-23 19:40:02
+997 1 person 997 0 2004-03-23 19:40:02
+998 1 person 998 0 2004-03-23 19:40:02
+999 1 person 999 0 2004-03-23 19:40:02
+1000 1 person 1000 0 2004-03-23 19:40:02
+1991 1 person 1991 0 2004-03-23 19:40:17
+1992 1 person 1992 0 2004-03-23 19:40:17
+1993 1 person 1993 0 2004-03-23 19:40:18
+1994 1 person 1994 0 2004-03-23 19:40:18
+1995 1 person 1995 0 2004-03-23 19:40:18
+1996 1 person 1996 0 2004-03-23 19:40:18
+1997 1 person 1997 0 2004-03-23 19:40:18
+1998 1 person 1998 0 2004-03-23 19:40:18
+1999 1 person 1999 0 2004-03-23 19:40:18
+2000 1 person 2000 0 2004-03-23 19:40:18 
++++++++++
+la01_6181548 - persons:(2387)
+id,name,phone,fax,email,birthday,gsm,comments,address,sex,firmkey,added,nospam,date,amet,idcode,company
+1 A.J. anu1211@hot.ee 0000-00-00 serk 0
+2 a.kaasik@ts.ee a.kaasik@ts.ee 0000-00-00 serk 0
+3 a.noot@marat.ee a.noot@marat.ee 0000-00-00 serk 0
+4 Aado Kaasik Aado.Kaasik@mail.ee 0000-00-00 serk 0
+5 aakerxx@hot.ee aakerxx@hot.ee 0000-00-00 serk 0
+6 AAre Anier Aare.Anier@mail.ee 0000-00-00 serk 0
+7 AAre Anier aarea@jetoil.ee 0000-00-00 serk 0
+8 AARE.AASAMETS@MAIL.EE AARE.AASAMETS@MAIL.EE 0000-00-00 serk 0
+9 aarne aarne17@hot.ee 0000-00-00 serk 0
+10 aarne.kurjama@sampo.fi aarne.kurjama@sampo.fi 0000-00-00 serk 0
+91 aljona.lind@mail.ee aljona.lind@mail.ee 0000-00-00 serk 0
+92 alla@surgitech.ee alla@surgitech.ee 0000-00-00 serk 0
+93 AllaMaria calendula1@hot.ee 0000-00-00 serk 0
+94 allan allanlauga@hot.ee 0000-00-00 serk 0
+95 Allan Kolkar nalla123@hot.ee 0000-00-00 serk 0
+96 allan.martin@hanza.net allan.martin@hanza.net 0000-00-00 serk 0
+97 AllanPloovits@hotmail.com AllanPloovits@hotmail.com 0000-00-00 serk 0
+98 Allen Allet tarbija@hot.ee 0000-00-00 serk 0
+99 Allen Leiten all22xx@hotmail.com 0000-00-00 serk 0
+100 alo@koht.ee alo@koht.ee 0000-00-00 serk 0
+491 eve eve.vaslamagi@eniro.ee 0000-00-00 serk 0
+492 Eve Kylmallik Eve.Kylmallik@mail.ee 0000-00-00 serk 0
+493 Eve Look eve.look@rautakesko.ee 0000-00-00 serk 0
+494 Eve Look eve@nurmiko.ee 0000-00-00 serk 0
+495 Eve Oro Eve.Oro@mail.ee 0000-00-00 serk 0
+496 Eve Sikka evesk@email.ee 0000-00-00 serk 0
+497 Eve Sooba eve.s@online.ee 0000-00-00 serk 0
+498 eve zekker evezekker@hotmail.com 0000-00-00 serk 0
+499 Eve Tang eve.tang@epa.ee 0000-00-00 serk 0
+500 eve.eensalu@mail.ee eve.eensalu@mail.ee 0000-00-00 serk 0
+991 katrin katrin@sekr.ee 0000-00-00 serk 0
+992 Katrin malla@hot.ee 0000-00-00 serk 0
+993 katrin katrinkaerama@hotmail.com 0000-00-00 serk 0
+994 katrin kati81@hot.ee 0000-00-00 serk 0
+995 Katrin katrinmae@hot.ee 0000-00-00 serk 0
+996 katrin katrin.karma@emor.ee 0000-00-00 serk 0
+997 katrin ainus katrin.kaerama@ajakirjad.ee 0000-00-00 serk 0
+998 Katrin Erg erg@gi.ee 0000-00-00 serk 0
+999 Katrin Hanikat marksystems@hot.ee 0000-00-00 serk 0
+1000 Katrin L?nts katrin@ekomajad.ee 0000-00-00 serk 0
+1991 signe@pelerine.ee signe@pelerine.ee 0000-00-00 serk 0
+1992 signelhm@hot.ee signelhm@hot.ee 0000-00-00 serk 0
+1993 signesuurvali@hot.ee signesuurvali@hot.ee 0000-00-00 serk 0
+1994 sigrid@portartur.ee sigrid@portartur.ee 0000-00-00 serk 0
+1995 sigrid@utlib.ee sigrid@utlib.ee 0000-00-00 serk 0
+1996 sigridkaju@hot.ee sigridkaju@hot.ee 0000-00-00 serk 0
+1997 Sigrit Rak Sigrit.Rak@mail.ee 0000-00-00 serk 0
+1998 "Sihver, Katrin" SihverK@ph.ee 0000-00-00 serk 0
+1999 siigart@hot.ee siigart@hot.ee 0000-00-00 serk 0
+2000 Siim R??mussaar siim@starman.ee 0000-00-00 serk 0 
++++++++++
+la01_6181548 - pic_db:(0)
+id,descr,ext,firmkey
+
++++++++++
+la01_6181548 - text:(0)
+id,title,link,user,firmkey,date,text
+
++++++++++
+la01_6181548 - user:(2)
+id,firstname,famname,username,password,joined,active,user_firm,links,lang,cat,ver,last_login
+60 Suur Eesti Raamatuklubi suur1 20e631ca3b2bc5b3 2004-02-26 true serk maillist|game|pics|files est admin 2 0000-00-00
+61 Annabella annabella 43d218cd104caf23 2004-03-13 true annabella maillist|game|pics|files est admin 2 0000-00-00
+
++++++++++
+la01_6181548 - user_firms:(2)
+id,firmkey,firmname,fax,regnr,email,kmkr,arvenr,bank,phone,address,links,bank2,arvenr2,gameurl
+61 serk Suur Eesti Raamatuklubi raamatuklubi@ajakirjad.ee 6814514
+62 annabella Annabella annabella@ajakirjad.ee
+
++++++++++
+la01_6181548 - user_log:(6229)
+id,username,page,query_string,time,ip,firmkey
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+991
+992
+993
+994
+995
+996
+997
+998
+999
+1000
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000 
++++++++++
+la01_6181548 - user_sendfrom:(0)
+id,firmkey,name,email,set_default
+
++++++++++
+la01_6181548 - usr_admin:(14)
+admin_id,tstamp_mod,tstamp_add,username,PASSWORD,d_name,d_status
+2 2004-02-10 12:51:31 2002-02-16 13:37:55 past f16b82ee4c79ac26a8c8 pärtel vurma 0
+3 2004-03-10 21:22:44 2004-03-10 21:22:44 carp 23e5d809e88ef6cd7d07 jens kasemets 0
+4 2005-04-11 16:20:12 2004-04-19 18:09:48 serk 88f59455b4428ffd4a47 serk 9
+5 2005-04-11 16:20:15 2004-04-26 13:25:18 maris a59804a89fd08743f5b3 maris 9
+6 2004-09-13 11:09:52 2004-06-16 16:33:30 maie ad5d6576f452d1cec66f maie 0
+7 2008-02-04 15:39:29 2004-09-13 11:10:09 margit 9f5b6bbdc4a2a7c7066d margit 9
+8 2008-02-04 15:39:22 2004-09-13 11:10:25 anu 89a4b5bd7d02ad1e342c anu 9
+9 2008-01-07 17:36:15 2004-09-24 13:48:24 kaire 60a013a05a156a6655d1 kaire 9
+10 2005-04-11 16:20:30 2005-04-11 16:20:30 reelika b0f61cb1ae28417acb02 Reelika Rahu 0
+11 2005-05-31 10:21:13 2005-05-31 10:21:13 kadri c195eecd6a3a8db6ae7b kadri 0
+
++++++++++
+la01_6181548 - web_avaleht:(4)
+id,parent_id,ord,tstamp_mod,tstamp_add,image_id,d_tag,d_title_est,d_content_est,d_pagetype
+1 0 1 2019-05-02 09:35:56 2004-05-18 16:38:52 0 <p>
+	Viimane klubiraamatust &auml;ra&uuml;tlemise p&auml;ev on 22. mai. J&auml;rgmine kataloog<span style="font-family: arial, sans-serif; font-size: 12px;">&nbsp;</span>ilmub 1. juunil.</p> 0
+2 0 2 2015-07-01 11:07:16 2004-05-20 19:45:59 0 <p>
+	<b>Armas raamatus&otilde;ber!</b></p>
+<p>
+	On r&otilde;&otilde;m kohtuda Sinuga sellel lehek&uuml;ljel!<br />
+	Suur Eesti Raamatuklubi &uuml;hendab 27 000 lugemishuvilist&nbsp;&uuml;le kogu Eesti, pakkudes meelep&auml;raseid raamatuid igale maitsele.<br />
+	Meie valikust leiad v&auml;rsket Eesti ja maailmakirjandust, haaravaid ajaloo- ja elulooraamatuid, taasavastatud klassikat ja k&ouml;itvaid ajaviiteromaane, teatmeteoseid ning huvialaraamatuid.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<b>Miks liituda Suure Eesti Raamatuklubiga?</b></p>
+<ul engine="disc">
+	<li>
+		Suur ja mitmekesine raamatuvalik</li>
+	<li>
+		Tasuta klubikataloog iga kuu alguses parimate pakkumistega koju k&auml;tte</li>
+	<li>
+		Mugav v&otilde;imalus kodust v&auml;ljumata raamatuid tellida ja olla kursis Eesti kirjandusmaastikul toimuvaga</li>
+	<li>
+		Hulgaliselt sooduspakkumisi &ndash; hinnad v&otilde;rreldes kauplusega oluliselt madalamad. Iga kuu &uuml;ks raamat eriti soodsa hinnaga</li>
+	<li>
+		Iga viie kogutud boonuspunkti eest saab valida tasuta auhinnaraamatu</li>
+	<li>
+		Vahvad &uuml;ritused, kus v&otilde;imalik kohtuda teiste raamatuklubi liikmetega &ndash; kultuurireisid, teatrietendused, autori&otilde;htud, seminarid</li>
+</ul> http://www.serk.ee 0
+3 0 3 2019-05-02 10:35:16 2009-03-31 16:04:00 0 <p>
+	<strong>Head klubikaaslased!</strong></p>
+<p>
+	Meie maikuu klubiraamat &bdquo;Eesti elusloodus&ldquo; on t&otilde;epoolest loodusraamat kogu perele, kus ei ole mindud alamliikide m&auml;&auml;ramistunnustega lausa peensustesse. Aga k&otilde;ik need taimed, loomad, linnud ja teisedki eluvormid, keda looduses ja kodu&otilde;uel t&otilde;en&auml;oliselt kohtad, on kenasti &auml;ra m&auml;&auml;ratavad. Ja see k&otilde;ik on mahutatud k&auml;ep&auml;raselt &uuml;htede kaante vahele.&nbsp;Sellest raamtust v&otilde;iks alata nii lapse kui t&auml;iskasvanu t&otilde;sisem loodushuvi.</p>
+<p>
+	Minge loodusesse ja lugege h&auml;id raamatuid!</p>
+<p>
+	<em style="font-family: arial, sans-serif; font-size: 12px;">Mall Paas, Suure Eesti Raamatuklubi toimetaja</em></p> 0
+4 0 4 2019-05-02 10:34:40 2009-03-31 16:56:08 0 <p>
+	<strong><a href="http://www.serk.ee//files/uploads/21.php" target="_blank"><img alt="" src="http://www.serk.ee//files/uploads/21.php#" /></a>Head klubikaaslased!</strong></p>
+<p>
+	Meie maikuu klubiraamat &bdquo;Eesti elusloodus&ldquo; on t&otilde;epoolest loodusraamat kogu perele, kus ei ole mindud alamliikide m&auml;&auml;ramistunnustega lausa peensustesse. Aga k&otilde;ik need taimed, loomad, linnud ja teisedki eluvormid, keda looduses ja kodu&otilde;uel t&otilde;en&auml;oliselt kohtad, on kenasti &auml;ra m&auml;&auml;ratavad. Ja see k&otilde;ik on mahutatud k&auml;ep&auml;raselt &uuml;htede kaante vahele.&nbsp;Sellest raamtust v&otilde;iks alata nii lapse kui t&auml;iskasvanu t&otilde;sisem loodushuvi.</p>
+<p>
+	Minge loodusesse ja lugege h&auml;id raamatuid!</p>
+<p>
+	<em>Mall Paas, Suure Eesti Raamatuklubi toimetaja</em></p> 0
+
++++++++++
+la01_6181548 - web_book:(9403)
+book_id,cat_id,sequel_id,d_name,d_kataloog,d_autor,d_tolk,d_toimetaja,d_tutvustus,d_sisu,d_formaat,d_isbn,d_lehek,d_aasta,d_image,d_kood,tstamp_add,tstamp_mod,parent_id,ord,d_hind,d_hind_eur,d_hind2,d_hind2_eur,d_hind3,d_kirjastus,d_rubriik,d_soldout,d_klubi,d_premia,d_soodus,d_eritingimus,d_hind_soodus,d_valik,d_moodud,d_esileht,d_esileht_sisu,d_pdf
+5628 191 Minu Leninid 192|191| DVD kestus: 98 min
+Stuudio: Faama Film
+Lavastaja: Hardi Volmer 
+Aasta: 1997 2 5901 334478 2009-11-23 10:12:47 0000-00-00 00:00:00 5629 49 99 79| 0 0 0 0 0 0 0
+5784 197 Võimsad valitsejad. Suurejoonelise kuningavõimu ajalugu 198|197| Hywel Williams Sash Uusjärv, Kaja Riikoja Iisraeli valitsejast Saalomonist ja Babüloonia kuningast Nebukadnetsarist alates kuni Venemaa keisrinna Katariina Suure ja Prantsusmaa keisri Napoleonini on ajaloo suurimad valitsejad kehastanud oma impeeriumide hiilgust. See põnev raamat ei paku mitte üksnes olulisi detaile rohkem kui 50 võimsa monarhi elust ja saavutustest, vaid ka köitvat ajaloolist ülevaadet kuningavõimu arenemisest, mis hõlmab umbes 3000 aastat inimkonna ajaloos. 150 värvilist illustratsiooni toovad esile Päikesekuningate valitsemise kogu hiilguse – nende paleed, monumendid, portreed ja võimusümbolid. Lisaks kuningatele ja printsidele leiate siit ka keisreid ja sultaneid, kuningannasid ja paavste, sealhulgas Ramses II, Nebukadnetsar II, Constantinus Suur, Karl Suur, Henry VIII, Elizabeth I, Peeter I, Katariina Suur ja kuninganna Victoria. 1 256 6134 16696 2010-03-01 09:42:48 0000-00-00 00:00:00 5724 169 300 Varrak 71| 0 0 0 0 0 0 225x283 0 </span><br /><span style="font-size: 18px; font-weight: bold; color: red;">
+NÄDALA PAKKUMINE
+</span><br />
+<span style="font-size: 13px; font-weight: bold;">
+Kehtib 22.-28. veebruarini
+</span><br />
+
+<span style="font-size: 18px; font-weight: bold;">
+"VÕIMSAD VALITSEJAD. Suurejoonelise kuningavõimu ajalugu"
+</span><br />
+
+<span style="font-size: 18px; font-weight: bold;">
+eriti soodsa hinnaga 169.- 
+</span><br />
+
+
+<span style="font-size: 13px; font-weight: bold;">
+Tavahind 300.-
+</span></p><br />
+
+<p><span style="font-size: 12px;">
+Tellimiseks logi sisse või liitu raamatuklubiga.
+</span></p>
+5833 199 TEA Koolisõnastik. Võõrsõnad +CD-ROM 200|199| 1 624 6186 714881 2010-03-23 09:55:41 0000-00-00 00:00:00 5834 199 275 89| 0 0 0 0 0 0 0
+5943 203 Puitmajad 203|202| Judith Miller, James Merrell Marju Algvere See rikkalikult illustreeritud raamat on puidu kui praktilise ja kauni ehitusmaterjali ülistus nii välisarhitektuuris kui sisekujunduses, andes ülevaate puidu kasutamisest ehitamisel ja interjööris läbi ajaloo kuni tänapäevase disainini välja. Puitu on läbi aegade väärtustatud just selle praktiliste omaduste tõttu; näiteks tegi puidu isoleeriv võime sellest endastmõistetava valiku Põhjamaade hoonete jaoks, mis peavad vastu pidama äärmuslikes temperatuuri- ja kliimatingimustes. Koduseinte vahel võib puit meid ümbritseda õige mitmel erineval moel. Struktuurielemendid, nagu näiteks iidsed tammised talad, määravad õhustiku ja neist saavad omaette kujunduselemendid. Raamatu autor Judith Miller on sisekujunduse ja arhitektuuri vallas rahvusvaheliselt tunnustatud asjatundja ja enam kui 80 raamatu autor. James Merrell on Briti raamatute ja ajakirjade tuntumaid fotograafe, ta on spetsialiseerunud peaasjalikult interjööridele ja toidule. 1 144 6300 18003 2010-06-01 09:45:44 0000-00-00 00:00:00 5902 159 249 Varrak 71| 0 0 0 0 0 0 220x260 mm 0 </span><br /><span style="font-size: 18px; font-weight: bold; color: red;">
+NÄDALA PAKKUMINE
+</span><br />
+<span style="font-size: 13px; font-weight: bold;">
+Kehtib 24.-31. maini
+</span><br />
+
+<span style="font-size: 18px; font-weight: bold;">
+"PUITMAJAD"
+</span><br />
+
+<span style="font-size: 18px; font-weight: bold;">
+eriti soodsa hinnaga 159.- 
+</span><br />
+
+
+<span style="font-size: 13px; font-weight: bold;">
+Tavahind 250.-
+</span></p><br />
+
+<p><span style="font-size: 12px;">
+Tellimiseks logi sisse või liitu raamatuklubiga.
+</span></p>
+5832 199 TEA Koolisõnastik. Eesti keel + CD-ROM 200|199| TEA koolisõnastikud on unikaalsed nii sisult kui ka vormilt. Sõna tähendust aitavad kiiresti mõista ning meelde jätta hoolikalt valitud väljendid ja näitelaused. Põhisõnastiku juurde kuuluvad ka mahukas lisaosa ning temaatiline piltsõnastik. Iga koolisõnastikuga on kaaasas ka CD-ROM.
+
+TEA eesti keele koolisõnastik õpetab eesti keele kasutamist ning pakub igakülgset abi nii õppijale kui ka õpetajale. 1 1216 6185 714928 2010-03-23 09:55:46 0000-00-00 00:00:00 5833 229 449 89| 0 0 0 0 0 0 0
+6164 211 MADISONI MAAKONNA SILLAD. TUHAT KÜLATEED 212|211| Robert James Waller Lia Rajandi ja Rebekka Lotman Francesca armastab oma meest ja lapsi, hoiab majapidamist kohusetundlikult käigus, ent kannab südamepõhjas ometi mingit nimetut igatsust. Ühel kuumal suvel lähevad tema ebamäärased unistused äkki täide. Mõneks unustamatuks päevaks ja ööks astub tema ellu hoopis teistmoodi inimene hoopis teistsugusest maailmast – luuletajahingega rändur, palju näinud, ent ometi üksildane maailmamees, ameerika Nipernaadi. 
+
+Paljud lugejad on pärast „Madisoni maakonna sildade“ (eesti keeles 1996 pealkirja all „Sillad jõel“) lugemist tahtnud rohkem teada Robert Kincaidist ja Francesca Johnsonist, nende eludest, sellest, mis neist sai pärast nelja Madisoni maakonnas koos veedetud päeva. „Tuhat külateed“ räägibki ebatõenäosustest, juhuse loomusest – see on ülejäänud lugu ja küllap üllatab lugeja ootamatust rõõmust, mille Robert Kincaid oma elu lõpus avastas.
+
+Kindlasti on paljude filmisõprade lemmikute hulgas ka romaani põhjal valminud täiskasvanulik, usutav ja tõeliselt liigutav armastuslugu „The Bridges of Madisson County“ („Madissoni maakonna sillad“) Clint Eastwoodi ja Meryl Streepiga peaosas. 1 256 6566 21157 2010-08-31 15:53:20 0000-00-00 00:00:00 6164 219 14.00 249 15.91 Varrak 39| 0 0 0 0 0 1 145x203 0 http://www.serk.ee/files/arhiiv/madison.pdf
+10265 407 101 EESTI KULLASEPATEOST 408|407| Anu MÃ¤nd <p>
+	Raamatus ei ole esemeid mitte &uuml;ksnes kirjeldatud, vaid jutustatakse ka lugusid sellest, milleks neid loodi ja mis puhuks kingiti, kuidas kasutati ja kaunistati, mida t&auml;hendavad neil leiduvad s&uuml;mbolid ning kuidas esemete omanikud v&otilde;i kinkijad end h&otilde;beteostel j&auml;&auml;dvustasid.</p> 1 216 11039 44651 2018-11-22 10:20:57 0000-00-00 00:00:00 10266 16.95 21.35 Varrak 228| 0 0 0 0 0 0 160 x 210 mm 0 http://www.serk.ee/files/arhiiv/kullassepatood.pdf
+10266 407 101 EESTI MONUMENTI 408|407| Raul Vaiksoo <p>
+	See raamat ei ole monumentaalskulptuuridest, vaid monumentidest, s.o mingitest t&auml;histest. Ehkki skulptor v&otilde;i arhitekt on monumendi-m&auml;lestusm&auml;rgi kujundamisel v&auml;ga t&auml;htis, on siin keskendutud eesk&auml;tt sellele, kellele v&otilde;i millele on monument p&uuml;stitatud.</p> 1 220 11040 43470 2018-11-22 10:20:54 0000-00-00 00:00:00 10267 17.00 21.25 Varrak 228| 0 0 0 0 0 0 160 x 210 mm 0 http://www.serk.ee/files/arhiiv/101monumenti.pdf
+10267 407 GORBATÅ OV 408|407| William Taubman TÃµnis VÃ¤rnik <p>
+	Mahukas biograafia maalib p&otilde;hjaliku pildi, kuidas tagasihoidlikku p&auml;ritolu maapoisist sai n&otilde;ukogude s&uuml;steemi hauakaevaja, kuidas ta t&otilde;usis j&auml;rk-j&auml;rgult selle s&uuml;steemi tippu, kuidas ta leidis &uuml;hise keele &uuml;likonservatiivse USA presidendi Reaganiga ja kuidas ta v&otilde;imaldas nii NSV Liidul laguneda kui ka selle Ida-Euroopa satelliitidel oma teed minna. T&otilde;stes esile Gorbat&scaron;ovi isiksuse paljusid omalaadseid tahke, p&uuml;&uuml;ab autor v&auml;lja selgitada, kas tegu oli t&otilde;epoolest suure riigimehega v&otilde;i l&otilde;ppes k&otilde;ik nii tema vigade ja m&ouml;&ouml;dalaskmiste t&otilde;ttu.</p>
+<p>
+	Sari &bdquo;Inimene ja ajalugu&ldquo;</p> 1 744 11052 42565 2018-11-22 10:20:51 0000-00-00 00:00:00 10268 7.90 38.70 Varrak 247| 0 0 0 0 0 0 160 x 240 mm 0
+10268 407 JÃ•ULUST JAANI 408|407| Milvi Panga <p>
+	&bdquo;J&otilde;ulust jaani&ldquo; on v&auml;ike luuleraamat noorele lugejale. See sisaldab Tuglase Seltsi poolt korraldatud Valge raamatu konkursil &auml;ram&auml;rgitud k&auml;sikirja luuletusi, mis on esmakordselt ilmunud kahes kogus &ndash; &bdquo;Pesamunale&ldquo; (1995) ja &bdquo;J&otilde;ulust jaani&ldquo; (1998). Luuletuste temaatika h&otilde;lmab k&otilde;iki nelja aastaaega.</p> 1 56 11056 42633 2018-11-22 10:20:48 0000-00-00 00:00:00 10269 5.00 15.40 Varrak 247| 0 0 0 0 0 0 162 x 235 mm 0
+149 7 BARBARA 69|68|47|46|37|36|7| J.-F. Jacobsen Põhjamaise looduse taustal hargnevad elujanuse Barbara armastustelood. 1 300 983 303954 2005-03-07 10:53:43 0000-00-00 00:00:00 149 25 70 Varrak 16|18| 0 0 0 0 0 0 0
+150 8 KÕRBEKOIT 8| Waris Dirie, Jeanne D`Haem Karina Suursalu Warise teine autobiograafiline raamat, kus ta juba täiskasvanud naisena ja emana läheb tagasi Aafrikasse oma sugulasi otsima. 1 252 134 735897 2004-09-30 17:11:23 0000-00-00 00:00:00 150 149 Sinisukk 18| 0 0 0 0 0 0 0
+151 8 INIMESE NIMEL 8| Karla Schefter Kersti Kittus Saksa meditsiiniõde läks Afganistani, et sõjas räsitud maa inimesi aidata, rajada haigla ja õpetada naisi meditsiinõdedeks ja ämmaemandateks. 1 350 135 735854 2004-09-30 17:11:39 0000-00-00 00:00:00 151 160 Sinisukk 18| 0 0 0 0 0 0 0
+152 8 RASPUTIN 8| Edvard Radzinski Margus Leemets Autor on kasutanud senitundmatuid materjale ja heitnud valgust selle mõistatusliku tegelase elule. 0 558 136 305434 2004-09-30 17:12:06 0000-00-00 00:00:00 152 219 Varrak 4|21| 0 0 0 0 0 0 0
+153 7 HITLERI KÄSILASED 11|7| Guido Knopp Ajalooline uurimus nendest, kelle abil natsikuriteod võimalikuks said. 1 309 108 932773 2004-09-29 13:50:00 0000-00-00 00:00:00 153 70 Varrak 4|16| 0 0 0 0 0 0 0
+154 8 NII ÕPETAS UKU MASING 8| Ingvar Luhaäär Intervjuu Uku Masinguga, tekstinäiteid tema esseedest, interviuu tema õpilase Vello Salumiga. 0 168 0 479840 2004-09-30 17:12:44 0000-00-00 00:00:00 154 110 8|21| 0 0 0 0 0 0 0
+155 8 IHALDATUD KINNISVARA 8| Zoe Barnes Maigi Müürsepp Noor naine saab päranduseks maja ja sellega koos hunniku probleeme, millega ta peab iseseisvalt toime tulema. 0 354 137 942558 2004-09-30 17:12:57 0000-00-00 00:00:00 155 185 Tormikiri 18| 0 0 0 0 0 0 0
+156 8 RIDADE VAHEL 8| Anthony F.Aveni Peedu Haaslava Maailma üks suurimaid mõistatusi on Nazca maapinnajoonistused Peruus. Raamatus otsitakse vastuseid mitmetele küsimustele seoses nende tekkimisega keset kõrbe. 1 249 138 735757 2004-09-30 17:13:11 0000-00-00 00:00:00 156 169 Sinisukk 4| 0 0 0 0 0 0 0
+157 7 KAPTEN CORELLI MANDOLIIN 69|68|37|36|7| L. de Berniéres Romaani tegevus toimub kaunil Kreeka saarel zzteise maailmasõja ajal. 1 491 1540 303202 2005-03-18 12:47:24 0000-00-00 00:00:00 157 25 85 Varrak 16|18| 1 0 0 0 0 0 0
+158 8 KOOSKASVAMINE 8| Anna Wahlgren Katrin Planhof Skott Mahukas raamat käsitleb 0 – 16 aastaste laste kasvatamist, kuidas teha seda armastusega ja inimlikult, üksteisega arvestades. 1 679 139 574430 2004-09-30 17:13:32 0000-00-00 00:00:00 158 365 Ilo 11| 0 0 0 0 0 0 0
+568 20 TAPPEV TEHING 20| Michael Ridpath Tiiu Viljamaa Kui noor aktsiamaakler leiab oma töökaaslase tapetuna, avastab ta valede ja mõrvade rägastiku ning tal on põhjust karta ka oma elu pärast. 0 392 0 301633 2004-10-11 13:52:47 0000-00-00 00:00:00 568 Varrak 18|5| 0 0 0 0 0 0 0
+569 20 ESMAABI 20| Kuulo Kutsar Iga inimese kohus on abi anda ja igaühel on õigus abi saada. Raamat õpetabki päästmist ja esmaabi andmist igasugustes olukordades. 0 142 0 702195 2004-10-11 13:53:04 0000-00-00 00:00:00 569 Eesti Punane Rist 28|10| 0 0 0 0 0 0 0
+570 20 ON UNISTUS KUI RÄNIKIVI 20| Mats Traat Valitud luuletused. 1 431 878408 2004-10-11 13:54:01 0000-00-00 00:00:00 570 Ilmamaa 8|22| 0 0 0 0 0 0 0
+571 20 LET`S SPEAK ENGLISH 20| N.Toots D.Virkus Raamat on mõeldud küllaltki edasijõudnud keelehuvilistele. Sobib nii keelekursustele kui iseseisvatele õppijatele. 1 348 432 401382 2004-10-11 13:54:17 0000-00-00 00:00:00 571 Valgus 13| 0 0 0 0 0 0 0
+572 20 NERO, VERINE LUULETAJA 20| Dezsö Kosztol?nyi Edvin Hiedel Peategelaseks on luuletaja-keiser, kes elab välja oma alaväärsust ja Seneca, humanist, kes esindab tarkust ja mõistmist. 1 230 0 302176 2004-10-11 13:54:35 0000-00-00 00:00:00 572 Varrak 18| 0 0 0 0 0 0 0
+573 21 NIKOLAI II 21| Margus Leemets Suurepärase biograafi (Stalin, Rasputin) raamat Venemaa viimasest tsaarist, tema perest ja lähikondsetest. Raamatus arutletakse, kellel oli määrav osa, et asi nii traagiliselt lõppes ja lugeja saab teada kuidas tsaaripere mõrv kavandati ja täide viidi, ning milline oli mõrvarite endi saatus. Lisaks rohkelt fotosid. 0 524 433 305531 2004-10-11 13:19:02 0000-00-00 00:00:00 573 155 Varrak 4| 0 0 0 0 0 0 0
+574 21 D?UNGLIRAAMAT 21| Rudyard Kipling V.Rummel, P.Runtal Klassikaks saanud jutustus huntide keskel üleskasvanud inimlapsest Mowglist, lisaks lood loomadest ja imelised pildid. 1 367 0 303571 2004-04-26 00:39:14 0000-00-00 00:00:00 574 259 Varrak 2| 0 0 0 0 0 0 0
+575 21 KÕIGEST, MIDA TÜDRUKUD TAHAVAD TEADA 21| Trude Ausfelder I.Samoldina Teavet ja näpunäiteid elu kõige erutavamateks aastateks. 0 222 0 884540 2004-10-11 13:19:26 0000-00-00 00:00:00 575 103 Tormikiri 1| 0 0 0 0 0 0 0
+576 21 TIINA JA ORKESTER 21| M.Simsa, W.Opgenoorth A.Laur Tiina tohib minna orkestriproovi, kus muusikud näitavad ja demonstreerivad oma pille ja mängivad ette katkendeid. Raamatuga on kaasas CD, millelt võib paralleelselt kuulata pille ja pillirühmi. 1 434 884574 2004-10-11 13:21:10 0000-00-00 00:00:00 576 155 Tormikiri 2|19| 0 0 0 0 0 0 0
+577 21 MEMME, PALUN LOE MULLE 21| Lastejuttude- ja luuletuste raudvara, mis mõeldud lastele ettelugemiseks. 0 397 435 397 2004-10-11 13:21:23 0000-00-00 00:00:00 577 175 ILO 2| 0 0 0 0 0 0 0
+1077 24 EESTLASE LAULUVARA 24| Eestlased on ammutuntud laulurahvas, kes võtab laulu üles perepidudel, jaanipäeval ja jõuluõhtul, rääkimata kohalikest laulupäevadest ja suurest laulupeost. Alailma juhtub ka seda, et tahaks küll laulda, kuid sõnad pole meeles. Nüüd on olemas käepärane laulik, kus on sees nii sõnad kui lihtsad noodiseaded. “Eestlase lauluvara” sisaldab nii isamaalisi-, laste- ja jõululaule kui ka tänapäevaseid eesti- ja välismaiseid lööklaule.
+Esmakordselt jõuab meieni laulik, mille laulude ja nootide eest on kõik autoritasud makstud.
+Soomes on saanud sellisest ettevõtmisest lausa institutsioon. Juba kolmkümmend aastat antakse seal sarnaseid laulikuid välja, need on rahva hulgas väga oodatud ja populaarsed.
+
+Meie lauliku laulude suur ühislaulmine toimub 2.juunil kell 18.00 Suure-Jaanis, mis on ühtlasi ka saate “Laulge kaasa” salvestus Reet Linna juhtimisel. Kõik klubiliikmed on oodatud! Laulikud kaasa! 1 192 832 785223 2004-10-07 13:15:11 0000-00-00 00:00:00 1077 189 Suur Eesti Raamatuklubi 15|19| 0 1 0 0 0 0 0
+1078 25 ISEPÄINE VANDEKOGU 25| John Grisham Jälle jõuab klubiliikmeteni John Grishami põnevusromaan, mis on nagu kohtumine vana hea tuttavaga. Varem on klubiraamatutena sellelt tuntud ameerika kirjanikult ilmunud "Partner", "Aguliadvokaat" ja "Vihmameister". Kõigist neist on tehtud ka populaarsed filmid. Väga vaadatavad on kogu maailmas ka kohtuteemalised teleseriaalid: "Ally MacBeal", "Praksis" jne Grisham pole idealiseeerinud kohut ja kohtuametnikke, vaid toob objektiivselt esile süsteemi pahupoole ning näitab halastamatu groteski ja irooniaga kuidas suured, vägevad ja rahakad manipuleerivad inimestega, et saavutada endale vajalikku tulemust.
+Nagu ikka on kõik 549 lehekülge põnevusega loetavad ja võitlus käib kurjuse ja headuse, rumaluse ja nutikuse vahel. 
+
+Mississipi osariigi väikeses linnas on käimas protsess kopsuvähki surnud mehe lese ja suure tubakafirma vahel. Asi tundub lootusetu, sest tubakafirma taha on koondunud kõik suured tubakakontsernid, kelle eelarves on eraldatud miljonid selliste kohtulugude tarbeks ning siiani pole nad kaotanud ühtegi protsessi. Toimetamas ja tegutsemas on terve armee raskelt kinnimakstud advokaate ja abisid. Innukas on ka vastaspool, kes ei hooli sugugi oma vähki surnud kliendist, vaid püüab lihtsalt suurtele tubakakontsernidele ära teha, et raha, au ja kuulsust saada. Ootamatult hakkab vandekogu, kes on üldsuse terava tähelepanu all, kummaliselt käituma. Mis on kõige selle taga, selgub alles viimasel leheküljel. 1 549 833 304675 2006-10-10 14:11:26 0000-00-00 00:00:00 1078 149 Varrak 18|15|5| 1 1 0 0 0 0 0
+1079 26 HEA MAJA 26| Bonnie Burnard Suviseks lugemiseks sobib hästi see soe ja südamlik lugu Chambersite perest Kanada väikelinnas Stonebrookis, laia Stonebrook Creeki jõe kaldal, mis voolab aeglaselt Huroni järve.
+Kanada kirjaniku Bonnie Burnardi meisterlik romaan kolmest põlvkonnast ühes tavalises väikelinnas algab 1950. aastatel ja lõpeb 1990. Läbi aastakümnete kulgeb ühe perekonna elu: pulmad ja matused, sünnid ja sünnipäevad, generatsoonide vahetus, lahkuminekud ja kokkusaamised. Tundlikult ja detailirikkalt kujutab kirjanik tavaliste inimeste igapäevast elu.
+Bonnie Burnard on suurepärane jutustaja - argipäeva ja inimeste taktitundeline jälgija. 
+
+Pereisa Bill Chambers tuleb Teisest maailmasõjast koju oma kolme väikese lapse ja naise Sylvia juurde ilma kolme sõrmeta ning peab õppima vasakukäeliseks. Sellest hoolimata peavad Chambersid end õnnelikuks pereks ja vaatavad lootusrikkalt tulevikku. Lapsed käivad koolis ning mängivad jõe ääres oma mänge. Kõik on korras kuni selle suveni kui linna lapsed korraldavad tsirkuse. Chamersite kartmatu peretütar Daphne kukub etenduse ajal trapetsilt ja murrab oma lõualuu. Hoolimata ravist, jääb Daphne moonutatud nägu alati meenutama neid tabanud õnnetust. 
+Bill jääb leseks, sest Sylvia sureb raskesse haigusse. Varsti abiellub ta Margaretiga, kes osutub südamlikuks ja taktitundeliseks naiseks, kes aastakümneid kõiki ära kuulab, lepitab ning peret koos hoiab.
+Kui vanemal pojal Patricul ja nooremal Paulil on mõlemil kolm last, siis moonutatud lõuaga Daphne on üksik. Iseseisev naine sünnitab kaks vallaslast, tekitades palju jutte ja vääritimõistmisi.
+Romaan lõppeb suure suguvõsa kokkutulekuga Daphne kaunitarist tütre Maggie pulmas, kus selgub ka isaduse saladus. 
+
+Ontarios sündinud kanada kirjanik Bonnie Burnard on pärjatud mitmete kirjandusauhindadega. Romaani "Kasiino & teised lood" eest on ta saanud Giller Prize`i, "Saskatchevani raamatu" eest Year Awardi`i. 
+Seekord pakume lisaks klubiraamatule laias valikus varemilmunud raamatuid soodsa hinnaga. Kui kellegi on jäänud mõni klubiraamat tellimata, siis on praegu selleks soodus võimalus. 1 834 786017 2004-10-06 16:57:20 0000-00-00 00:00:00 1079 139 Suur Eesti Raamatuklubi 18|15| 0 1 0 0 0 0 0
+1080 27 SUVEAEG 27| Charlotte Bingham Tuntud Inglise jutukirjanik Charlotte Bingham kirjutas oma esimese raamatuna autobiograafia "Kroon umbrohus", olles ise 19aastane. Nüüdseks on temalt ilmunud üle 10 romaani ja enamus neist on osutunud bestsellereiks. Eesti keeles on temalt varem ilmunud populaarsed "Kuulda ööbikulaulu" ja "Ööbik laulab".
+Seekordne klubiraamat algab nagu tõeline naisteromaani tuhkatriinulugu: häbelik noor tüdruk kohtab oma unelmate meest- endast vanemat, rikast ja võluvat- mida muud võiks veel soovida? Kuid seekord ei too pulmad loole õnnelikku lõppu.
+Õige pea hakkab naisele tunduma, et nende ühine kodu on tema jaoks vangla. Algab noore naise eneseleidmise lugu. Väljapääsuks hakkab ta maalima ja maalimise kaudu kohtub ta kaunil suveajal inimesega, kes aitab tal uuesti iseendaks saada. 1 835 305752 2007-07-09 15:46:19 0000-00-00 00:00:00 1080 139 Suur Eesti Raamatuklubi 18|15| 1 1 0 0 0 0 0
+1081 28 PERE LOODUSE KESKEL 28| Kobie Krüger "Dokumentaalfilmides loodusest näidatakse enamasti, kuidas loomad varitsevad ja murravad endast nõrgemaid. Tegelikult on elu savannis palju rahulikum. Kui ka inimestest tehtaks vaid selliseid filme kus ainult tapetakse üksteist ja neid näidataks loomadele, saaksid nad meist väga ühekülgse pildi."
+Kobie Krüger
+
+Kobie Krüger on fantastiline naine, kes on kasvatanud üles kolm tütart ja lõvikutsika. Lisaks on ta olnud kasuema mangustile, mägrale, savannijänesele, oravale, aafrika sookullile, seale ja servalile.
+Juba noore tüdrukuna käis ta koos oma tulevase mehega vaatamas filmi Joy Adamsonist ja lõvi Elsast ning sündis otsus minna esimesel võimalusel linnast ära loodusesse elama.
+Kui lõpuks vabanes looduspargi töötaja koht, kandideeris sellele 2000 inimest, nende hulgas ka Kobie Krügeri mees Kobus. Nüüdseks on ta elanud koos perega terve oma täiskasvanuea Lõuna-Aafrika rahvuspargi kõige kaugemas kolkas, kirjutanud raamatud oma elust looduse keskel ja käib neid nüüd suurlinnades tutvustamas. Linnas jälgib ta hoolega teisi inimesi, et osata minna üle tee, kasutada lifti jne
+"Linnades on nii palju hääli ja lõhnu, et meeled väsivad. Lisaks loen hoolega läbi kõikvõimalikud sildid, sest ei taju, mis on neist vajalik ja mis mitte."
+
+Ühel päeval leidis Kobus Krüger kaljukoopast maõne päeva vanuse ema poolt hüljatud lõvikutsika. Leoks nimetatud lõvipoiss kasvas suureks pereliikmena ja ei osutanud iialgi mingit agressiivsust kellegi suhtes. Ta tundis kiindumust pereliikmete vastu ja oli suur sõber karjakoer Wolfiega. 
+Lõvil on küti vaist, kuid see ei arene ilma õpetust saamata. Leo sai ka ise aru, et kuskil peab olema midagi tähtsat, kuid ei saanud aru, mis see on. Siis hakkas ta õppima ametit karjakoeralt. Kui koer tormas kantseldama seakarja, jooksis lõvi kaasa. Sead pidid lõvi nähes hulluma, kuid sõbrad tulid rahulolevana tagasi ja Leo oli silmnähtavalt uhke oma soorituse üle.
+Lõpuks jäeti täiskasvanud Leo Simbabwe lõvi- ja gepardiparki.
+"Miski ei olnud mind valmistanud ette nii tugevateks tunneteks, mida tõi lõvi üles kasvatamine. Tema jätmine savanniparki oli minu elu raskeim hetk." 
+Kobi Krüger 1 310 836 305515 2004-10-06 16:22:29 0000-00-00 00:00:00 1081 139 Varrak 18|15| 0 1 0 0 0 0 0
+1082 29 UHKUS JA EELARVAMUS 29| Jane Austen Inglise kirjanduses on mitmeid naiskirjanikke, kes justkui rohkem oma lõbuks kirjutades on ennast jäädavalt kirjanduslukku kindlustanud armastatud klassikutena. 
+Nii nagu Emily Bront? "Vihurimäe" ja Charlotte Bront? "Jane Eyre" on ka Jane Austeni "Uhkus ja eelarvamus" tänapäevani üks inglise kirjanduse kõige populaarsemaid romaane ja autor oma ajastu üks kõige värskemana säilinud klassikuid.
+Raamatu sündmused hargnevad tavapärase skeemi järgi, kus kangelannal ning teistel daamidel ja noorhärradel on valida mitme pealtnäha kõlbliku kosilase vahel. Valik toimub vähemsoovitavate kandidaatide järkjärgulise mahakandmise meetodil, aga mitmete üllatustega, nii et viimased saavad lõpuks esimeseks ja vastupidi.
+Kangelanna langeb algul eksiarvamuste ohvriks, kuid vabaneb neist kibedate läbielamiste hinnaga.
+Seda lihtsat skeemi vürtsitab aga kirjaniku iroonia ja huumor, millega on väljajoonistatud kirkad karakterid: kõigutamatu pereisa, sahmerdav mamma, vaimukas Elizabeth, arutu mehenäljas Lydia, targutav Mary ja nohune ning rahulolematu Kitty. Ümber Benneti preilide tiirleb omakorda kirev kavaleride galerii.
+Jane Austin on tõsine, siiamaani matkitav kirjanik, kes kuulub koos õeste Brontédega 19.sajandi suurte klassikute hulka.
+
+Sellest, kui tänapäevaselt mõjub üks XIX sajandi romaan, annab tunnistust ka selle järgi tehtud hiilgav film Emma Thompsoni, Hugh Granti ja Colin Firthiga peaosades, mitmeseerialine televersioon ning ega ilmasjata ei tsiteerinud romaani oma päevikulehekülgedel tänapäeva poppikoon Bridget Jones. 1 406 837 306147 2004-10-06 16:15:24 0000-00-00 00:00:00 1082 143 Varrak 18|15| 0 1 0 0 0 0 0
+1083 30 NAISE TERVIS 30| Suure Eesti Raamatuklubi ja Kodutohtri ühise projektina on jõudnud kaante vahele sajad küsimused ja vastused naise tervisest. Kas põhjuseks on küsija anonüümsus, siiras huvi ka teiste inimeste probleemide vastu või arsti juurde pääsemise raskused, kuid küsimuste-vastuste rubriigid on ajakirjades üha populaarsemad. Kirju tuleb nii palju, et kõik probleemid ei jõua ruumipuudusel ajakirja veergudele. Nüüd on lugejateni jõudnud raamat, kus erialaarstid on vastanud naiste lugematutele probleemidele alates teismeeast kuni kõrge vanuseni. Lugedes seda raamatut on hea kogeda, et me pole oma hädadega üksi ja võime oma muresid jagada - kui üks küsija saab arstilt asjaliku vastuse, on sellest kasu ka kümnetel teistel lugejatel. Raamat algab probleemidest teismeliseeas ja lõpeb elatnud inimese tervisemuredega. Seega käsitletakse tervet naise elukaart: üle 350 küsimuse ja vastuse kõikvõimalikel teemadel mis on kõige rohkem naisi huvitanud. 
+
+Tervishoid ja haiguste ennetamine * Haigused ja nende ravi* Liikumine* Naha- ja juusteprobleemid* Inimsuhted* Toitumine ja kaaluprobleemid* Psüühiline tervis* Seksuaalsus ja paarissuhted 
+
+Paarkümmend aastat tagasi opereeriti mul veenilaiendeid. Arst hoiatas siis, et jalga ei tohi masseerida. Kas sellest ajast on arusaamad muutunud? Kui on, siis missugust ravi tohiksin oma jalgadele lubada? Mind vaevavad krambid jalgades. 
+
+Olen 40-aastane ja minu probleemiks on rohke karvakasv. 
+
+Elumõte on kadunud. Olen 34-aastane naine. Petsin oma meest pärast 13 aastat abielu mingil arusaamatul põhjusel.Nüüd kardan, et ma sain AIDS-i. 1 288 838 786890 2004-10-06 15:32:26 0000-00-00 00:00:00 1083 169 Suur Eesti Raamatuklubi 15|12| 0 1 0 0 0 0 0
+1084 31 Inglise-eesti/eesti-inglise taskusõnastik 31| Selle kuu klubiraamatuks on koostöös TEA kirjastusega valitud äsjavalminud Inglise-eesti /eesti-inglise taskusõnaraamat. Teist nii kasulikku, praktilist ja vajalikku raamatut ei oskagi nimetada. 
+Inglisekeelne keele- ja kultuuriruum on maailmas nii lai, et seda keelt oskamata on tänapäeval raske hakkama saada. Tänu väikesele formaadile on taskusõnastikku võimalik kasutada igas olukorras: reisil olles mahub ta taskusse ja seda võib lehitseda ja vajalikku otsida kasvõi Londonis ja NewYorkis tänavanurgal seistes. Tudengil mahub ta kotti ning sõnu võib õppida ja korrata ka bussis seistes. Arvutikasutaja ja internetis surfaja leiavad sealt abi tundmatu sõna tuvastamisel.
+Hoolimata oma väikesest formaadist on ta aga hämmastavalt mahukas, sisaldades 40000 märksõna ja väljendit. Raamat on trükitud õhukesele vastupidavale paberile, pool sellest on inglise-eesti sõnastik, teine pool on eesti-inglise sõnastik, lisaks väljendid ja inglise keele grammatika.
+Kuna TEA kirjastusel on plaanis sarja jätkata, siis edaspidi on võimalik omale osta veel hispaania, saksa ja prantsuse keele taskusõnastikud. 0 736 839 713079 2004-10-06 15:19:13 0000-00-00 00:00:00 1084 177 TEA 13|15| 0 1 0 0 0 0 0
+1086 33 KALLID KAASTEELISED 65| Jaan Kross HEAD UUT AASTAT KÕIGILE KLUBILIIKMETELE!
+
+Rõõmsat ja teguderohket aastat kõigile klubiliikmetele! Täname kõiki lugejaid, tellijaid ja meie üritustest aktiivselt osavõtjaid. Loodame, et ka Euroopa Liidus ei kao kuhugi eestlaste lugemishuvi ja vastukaaluks ühtlustuvale maailmale hakkame hindama üha rohkem oma eesti autoreid.
+
+Uut aastat alustame väärikast väärikamalt: mis võiks olla veel parem algus aastale, kui eesti kirjanduse vanameistri Jaan Krossi mälestusteraamat.
+See üle 700leheküljeline mahukas teos algab lapsepõlvest, ja vaatleb, kirjeldab, analüüsib oma lehekülgedel sündmusi, tundmusi ja kaasteelisi. Pikemalt peatub kirjanik 1940. aastatel, meenutades laagriaega Komimaal ja pagendust Siberis.
+Eestlased on saanud Jaan Krossi ajaloolistelt romaanidelt toe ja teadmise, et asume kultuuriliselt Euroopas ja oleme läbilöögivõimeline rahvas.
+
+Marika Vingissar
+peatoimetaja 1 718 841 790464 2005-03-07 10:33:26 0000-00-00 00:00:00 1086 230 230 Eesti Keele Sihtasutus 15| 0 1 0 0 0 0 0
+1087 36 ELU JÕUD 37|36| Enno Tammer Kui kirjastus Tänapäev andis mõned aastad tagasi välja väga populaarseks osutunud kolm köidet  “Eesti rahva elulugu”,  mis oli suure üldistusjõuga, fragmentaarne läbilõige saja inimese eluloost, siis tekkis uudishimu ja tahtmine paljude inimeste taustast, arvamustest ja eluvaatest rohkem teada saada. Tahaks teada, kuidas aeg on mõjutanud nende nii erinevate inimeste elu ja saatusi. Igaüks neist vääriks kindlasti eraldi raamatut. Ja on veel palju-palju tuntud eestlasi, kes seda väärivad ja kellest loodetavasti saame lugeda järgmistest raamatutest.
+Raamatu peategelased vaatavad elule tagasi ja meenutavad oma elu lugu ja seda mõjutanud valikuid, pöördeid, õnnestumisi, kahtlusi. Oma elu tähthetki.
+Lisaks eraelulisi põikeid, nagu Kaljo Kiisa aastaid varjatud saladus noore poisina saksa sõjaväes olemisest, või miks Ivo ja Reet Linna lahku läksid.
+
+Enno Tammer 1 424 845 622014 2004-09-25 12:35:39 0000-00-00 00:00:00 1087 179 240 Tänapäev 15| 0 1 0 0 0 0 0
+4139 146 20 Eesti kalakohta II 147|146| Hanno Kask, Ralf Mae, Raimo Kummer, Endrik Tonsberg Raamat tutvustab 20 Eestis olevat kalapüügikohta. Täpsemalt kirjeldatakse, kuidas antud kalastuskohta sõita, mida ja millega püüda, millised on loodustingimused jne. Esimene osa ilmus 2005. 1 200 4265 155422 2008-02-13 17:09:28 0000-00-00 00:00:00 4100 269 Kalastaja 10| 0 0 0 0 0 0 0
+2668 105 Minipäevik 106|105| Umberto Eco Teos sisaldab 15 satiirilist pastišši kõikvõimalikel teemadel nagu näiteks kunst, kirjastamine või etnoloogia. Teos pilab elegantselt nii akadeemilist maailma kui ka massikultuuri. Sisaldab muuhulgas Nabokovi "Lolita" paroodiat, kirjastuse siseretsensioone teostele nagu "Don Quijote", "Jumalik komöödia" ja Piibel, mis kõik avaldamiskõlbmatutena tagasi lükatakse. 1 184 2641 311248 2006-06-06 14:32:25 0000-00-00 00:00:00 2668 189 Varrak 0 0 0 0 0 0 0
+2669 105 Tolm ja tuul 106|105| Eeva Park Autor kirjeldab loominguliste inimeste tormilise perekonnaelu mõju lapse kujunemisele. Raamatu tegevus ongi nähtud lapse silmade läbi ning autor on kasutanud selles suurel määral omaenda perekonna - Hintide suguvõsa elu. 1 352 2663 312171 2006-06-06 14:33:17 0000-00-00 00:00:00 2669 199 Varrak 8|18| 0 0 0 0 0 0 0
+2135 88 Viis inimest, keda kohtad taevas 89|88| Mitch Albom Uus raamat kultusromaani "Teisipäevad Morriega" autorilt on osalt melodraama ja osalt mõistujutt. Kaunilt vormitud romaan uurib müsteeriumit, mille ainult taevas suudab lahendada. Kui peategelane, 83-aastane Eddie oma sünnipäeval õnnetult sureb, tunneb ta oma peos kaht väikest kätt - ja sealt edasi ei midagi enam. Ta ärkab hauatagusesse ellu ja selgub, et taevas ei olegi külluslik Eeden, vaid koht, kus sa kohtud viie inimesega - tuttava või võõraga, kes kõik on sinu eluteed mingil saatuslikul moel mõjutanud. Need inimesed aitavad lahkunul sõlmida rahu oma maa peal elatud eluga ja sisse elada hauatagusesse. Üksteise järel jutustavad nad Eddiele oma lood tema elu kohta. Kui lugu jõuab oma jahmatava järelduseni, koorub välja ka vastus romaani põhiküsimusele: milleks me elame? 0 176 2005 2114 956958 2005-11-02 15:22:48 0000-00-00 00:00:00 2135 140 Eesti Ekspressi Kirjastus 18| 0 0 0 0 0 0 0
+2136 88 Soome. 1000 küsimust ja vastust 89|88| 1000 küsimust ja vastust Soome ajaloost, poliitikast, kultuurist, spordist jm. teemadest. 0 314 2005 2100 132258 2005-11-02 15:24:29 0000-00-00 00:00:00 2136 190 MTÜ Liivimaa Mälu 28|10|14| 0 0 0 0 0 0 0
+2137 88 Su Doku. 2 raamat 89|88| 100 mõistatust, mis on järjestatud vastavalt raskusastmele: alates kõige lihtsamatest kuni väga rasketeni. 0 150 2005 2101 849329 2005-11-02 15:25:53 0000-00-00 00:00:00 2137 45 Eesti Päevaleht 28|14| 0 0 0 0 0 0 0
+2138 88 Astroloogiapiibel 89|88| Judy Hall Põhjalik teejuht sodiaagimärkide maailma. 0 400 2005 2062 642732 2005-11-02 15:28:01 0000-00-00 00:00:00 2138 189 Maalehe Raamat 28| 0 0 0 0 0 0 0
+2139 88 Kõigest kokkusattumus 89|88| Martin Plimmer, Brian King Mõned tõestisündinud lood sellest raamatust:
+Kümneaastase Laura Buxtoni käest pääseb lahti õhupall, mis maandub 140 miili kaugusel teise kümneaastase tüdruku, samuti Laura Buxtoni aias.
+Kaks õde sattuvad Alabama kiirteel eraldi autodes isekeskis liiklusõnnetusse ja hukkuvad. Nad juhtisid samasugust autot ja olid teel teineteise juurde külla.
+Tim Hendersoni vanemad olid lahutanud, kui ta oli alles väike poiss. Isa abiellus uuesti ja sai veel teisegi poja, keda Tim kohtas päeval, mil sukeldumistehnikaga tegelev Mark Knight ta maantee äärest peale võttis. Pika sõidu vältel Newcastle'ist Londonisse avastasid mehed, et on vennad.
+Kas sellised juhtumid on kõigest kokkusattumused? On see matemaatiline juhus, ime või jumalik vahelesegamine? Martin Plimmer ja Brian King on kogunud käesolevasse raamatusse üle 200 kirjelduse uskumatutest ja jaburatest kokkusattumustest. Autorid on vestelnud teadlastega kokkusattumuste tõenäosusest ja uurinud, millised kuulsad kokkusattumused tõele vastavad. 1 240 2070 623460 2005-11-02 15:30:19 0000-00-00 00:00:00 2139 169 Tänapäev 18| 0 0 0 0 0 0 0
+2140 88 Kultuuritõkestus 89|88| Kalle Lasn Ameerika ei ole enam pelgalt riik, temast on saanud bränd. Ta on imidž, mida "müüakse" nii USA kodanikele kui ka tarbijatele üle terve maailma. Ameerika brändi seostatakse selliste märksõnadega nagu "demokraatia", "võimalused" ja "vabadus", kuid tänapäeval loovad kultuuri pigem suurfirmad, mitte rahvas. Kalle Lasn tahab selle vastu midagi ette võtta ja üks viis on "kultuuritõkestamine" – see tähendab inimestele suurfirmade äri tagamaade tutvustamist, miljoniliste eelarvetega reklaamikampaaniate naeruvääristamist ja võimalust vähemalt korraks väljuda tarbimishulluse nõiaringist.
+Kalle Lasn sündis 1942. aastal Tallinnas, põgenes sõja ajal vanematega Saksamaale ja sealt edasi Austraaliasse, kus lõpetas ülikooli rakendusliku matemaatika erialal. 0 229 2078 623410 2005-11-02 15:32:20 0000-00-00 00:00:00 2140 159 Tänapäev 18| 0 0 0 0 0 0 0
+2141 88 Mahehuumor 89|88| Silver Alev Estraadiintermeediumid. 0 176 2085 419646 2005-11-02 15:33:28 0000-00-00 00:00:00 2141 69 Odamees 26| 0 0 0 0 0 0 0 
++++++++++
+la01_6181548 - web_books_cat:(23)
+cat_id,tstamp_mod,tstamp_add,d_name,d_comment,d_status,ord,parent_id
+2 2014-09-25 13:50:41 2004-04-19 16:20:12 LASTELE 0 4
+4 2018-03-26 16:08:08 2004-04-19 16:20:26 AJALUGU 0 6
+221 2017-09-05 14:43:24 2017-07-24 16:37:01 ETTETELLIMINE 0 221
+15 2014-11-06 12:14:42 2004-04-19 16:21:37 KLUBIRAAMAT 0 1
+18 2014-05-27 13:27:29 2004-04-19 16:21:58 ILUKIRJANDUS 0 20
+228 2018-01-02 14:51:16 2017-10-24 16:00:03 TELLI JÃ•ULUKINGID VARAKULT! Siit leiad hulga raamatuid, mis sobivad imehÃ¤sti sisukaks kingituseks. 0 228
+87 2016-03-24 11:35:32 2010-02-25 14:23:27 AIANDUS 0 87
+39 2019-02-28 18:57:09 2008-01-07 16:10:35 VALIKRAAMAT Valikraamatust ei pea Ã¤ra Ã¼tlema, selle saate soovikorral tellida. Valikraamatu ost vabastab pakikappi tellitud paki postikulust ning annab Ã¼he boonuspunkti. Kui teil on kogutud 5 boonuspunkti saate valida kingituseks Ã¼he auhinnaraamatu 0 3
+216 2017-04-24 16:09:49 2017-04-24 16:09:49 NOORTELE 0 216
+44 2019-04-01 10:07:41 2008-02-29 10:39:40 UUS JA HUVITAV 0 44
+
++++++++++
+la01_6181548 - web_cat:()
+
++++++++++
+la01_6181548 - web_comment:()
+
++++++++++
+la01_6181548 - web_comment_news:()
+
++++++++++
+la01_6181548 - web_eitus:()
+
++++++++++
+la01_6181548 - web_form:()
+
++++++++++
+la01_6181548 - web_form_ans:()
+
++++++++++
+la01_6181548 - web_form_item:()
+
++++++++++
+la01_6181548 - web_form_item_item:()
+
++++++++++
+la01_6181548 - web_image:()
+
++++++++++
+la01_6181548 - web_komplekt:()
+
++++++++++
+la01_6181548 - web_lahetusviis:()
+
++++++++++
+la01_6181548 - web_news:()
+
++++++++++
+la01_6181548 - web_news2:()
+
++++++++++
+la01_6181548 - web_news3:()
+
++++++++++
+la01_6181548 - web_page:()
+
++++++++++
+la01_6181548 - web_page_03_01_08:()
+
++++++++++
+la01_6181548 - web_soodus:()
+
++++++++++
+la01_6181548 - web_spbook:()
+
++++++++++
+la01_6181548 - web_spcat:()
+
++++++++++
+la01_6181548 - web_spclient:()
+
++++++++++
+la01_6181548 - web_speitus:()
+
++++++++++
+la01_6181548 - web_spimage:()
+
++++++++++
+la01_6181548 - web_sppage:()
+
++++++++++
+la01_6181548 - web_spsona:()
+
++++++++++
+la01_6181548 - web_sptell_details:()
+
++++++++++
+la01_6181548 - web_sptellimus:()
+
++++++++++
+la01_6181548 - web_spuser:()
+
++++++++++
+la01_6181548 - web_tell_details:()
+
++++++++++
+la01_6181548 - web_tellimus:()
+
++++++++++
+la01_6181548 - web_top:()
+
++++++++++
+la01_6181548 - web_top_cat:()
+
++++++++++
+la01_6181548 - web_user:()
+
++++++++++
+la01_6181548 - web_user_07_01_08:()
+
++++++++++
+la01_6181548 - web_user_27_12_07:()
+
++++++++++
+la01_6181548 - web_user_28_12_07:()
+
++++++++++
+
+ 

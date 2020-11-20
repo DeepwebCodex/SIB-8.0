@@ -1,0 +1,215 @@
+www.wingchunhk.com/product.php?cid=7
+ 
+wingchun_db1 - attachment:(92)
+attachment_id,category_id,table_name,table_id,temp_id,col_name,path,file_name,real_name,sorting,upload_date,upload_time,user_id,attach_caption
+1 0 news 0 79bda92555a59ce6395c1711bc2bb935 photo 073181933193.logo_square.jpg logo_square.jpg 0 2015-09-24 16:45:09 0
+2 0 news 0 4d34fdb4ee3edb229a6f9eb0147532a0 photo 671110856916.smartinfo.jpg smartinfo.jpg 0 2015-09-24 16:48:37 0
+282 0 product 18 photo upload/product/ 491685609226.A051-2.JPG A051-2.JPG 0 2018-06-22 07:35:36 0
+236 0 product 40 photo upload/product/ 151659105237.A031W_3.jpg A031W_3.jpg 0 2018-04-12 05:38:42 0
+235 0 product 40 photo upload/product/ 687837311925.A031W_2.jpg A031W_2.jpg 0 2018-04-12 05:38:41 0
+26 0 product 0 a533c4e112b9b031cfac9a0b1ec8a0a7 photo upload/product/ 492010449632.235235.jpg 235235.jpg 0 2015-10-05 17:10:17 0
+293 0 product 13 photo upload/product/ 816140784979.750sample -B6.jpg 750sample -B6.jpg 0 2018-09-18 08:33:18 0
+266 0 product 14 photo upload/product/ 976976933742.A504_5.jpg A504_5.jpg 0 2018-06-22 07:25:49 0
+48 0 product 12 photo upload/product/ 087384586367.A016--01.jpg A016--01.jpg 0 2015-10-26 07:34:41 0
+238 0 product 41 photo upload/product/ 854576148819.A031P_1.jpg A031P_1.jpg 0 2018-04-12 05:39:55 0
+313 0 product 45 photo upload/product/ 490683088870.刷頭.jpg 刷頭.jpg 0 2019-04-23 06:46:18 0
+314 0 product 45 photo upload/product/ 848181111435.彩盒3.jpg 彩盒3.jpg 0 2019-04-23 06:46:18 0
+
++++++++++
+wingchun_db1 - backend_user:(2)
+user_id,group_id,login,password,last_login
+1 0 admin 2c9ef15a83fc194fe81c9894b63fd3ae 0000-00-00 00:00:00
+2 0 smart_kaze e10adc3949ba59abbe56e057f20f883e 0000-00-00 00:00:00
+
++++++++++
+wingchun_db1 - categories:(5)
+id,sorting,display,categories
+5 2 1 Beer Foam Maker 啤酒泡泡機
+4 1 1 Oral Care Product 口腔護理產品
+3 3 1 Personal Care Product個人護理產品
+6 3 1 Plastic Parts
+7 3 1 Other products 其他產品
+
++++++++++
+wingchun_db1 - leveltwo:(0)
+id,sorting,levelone,e_name
+
++++++++++
+wingchun_db1 - main_banner:(1)
+id
+1
+
++++++++++
+wingchun_db1 - product:(23)
+id,sorting,categories,display,new,model,en_name,en_content
+10 6 4 1 0 A203 Battery Power Toothbrush --Brush head speed 4,500 cycles per minute
+   牙刷頭每分鐘轉動4,500次
+
+--Replacement brush head
+   可更換刷頭
+
+--Water-resistant and compact design
+   全防水實用設計
+
+--Long and soft nylon bristles  gently on gums
+   選用長及柔軟性刷毛， 更貼心呵護牙
+
+-- Power 3.0V (1.5V*2pc "AAA") 
+    電池3.0V (1.5V*2pc "AAA")
+
+-- Not included battery
+   不含電池
+
+-- Size 220* (Dia) 30mm
+    尺寸：220*（直徑）30mm
+11 9 4 1 0 A034 Vibration Battery Power Toothbrush -  12,000 Vibrations per minute
+    每分鐘震動12,000次
+ 
+-  Nice / Silm
+    美觀 / 輕巧
+
+-  Easy to carry
+    方便擕帶
+
+-  Replacement brush Head
+    可更換刷頭
+
+-  Water-Resistant and compact design
+    全防水及輕巧實用設計
+
+-  Weight: 30.5g (Not included battery)
+    重量30.5G (不包含電池)
+
+-  Battery: 1pc of "AAA"
+    電池:1*AAA
+
+--Size: 168*17.5*19mm
+  尺寸: 168*17.5*19mm
+12 5 4 1 0 A016 Vibration Toothbrush -  8000 Vibrations per minuter
+   每分鐘8,000次震動
+
+-  Long and soft nylon bristles gently on gums
+    選用長及柔軟性刷毛, 更貼心呵護牙齒
+
+-  Water-resistant and compact design
+    全防水及輕巧實用設計
+
+-  Weight: 24g (Not included battery)
+    重量: 24G (不含電池)
+
+-  Battery: 1pc of "AAA"
+    電池: 1*AAA
+
+-  Size: 20.5*191mm
+    尺寸: 20.5*191毫米
+13 0 4 1 0 A09G Manual Toothbrush -  Low Price 
+    價廉物美
+
+-  Easy to carry 
+    方便擕帶
+
+-  Many colors to choose 
+    可選擇自己最喜歡的顏色
+
+-  Size: (w/o cover): 118mm*20mm
+            (W cover): 185*20mm
+    尺寸: (不連蓋): 118*20mm
+            (連蓋):185*20mm
+14 9 4 1 0 A504 Battery Power Toothbrush -- BRUSH HEAD SPEED 4500 CYCLES PER MINUTE
+-- REPLACEMENT BRUSH HEAD
+-- WATER-RESISTANT AND COMPACT DESIGN
+-- LONG AND SOFT NYLON BRISTLES GENTLY ON GUMS
+-- POWER 3.0V (1.5V*2PCS AAA)
+--NOT INCLUDE BATTERY
+--SIZE: (L) 220*(DIA)30MM
+15 0 4 1 0 A028 Powerful Vibration Flash Battery Power Toothbrush -  20,000 VIBRATIONS PER MINUTE
+-  EASY TO CARRY
+-  REPLACEMENT BRUSH HEAD
+-  WATER-RESISTANT AND COMPACT DESIGN 
+-  3 MINUTES TIMER WITH 3 LED LAMPS
+-  WEIGHT: 32.5G (NOT INCLUDED BATTERY)
+-  BATTERY: 2PCS OF "AAA"
+18 10 4 1 1 A051 USB Rechargeable Sonic Toothbrush USB充電超聲波牙刷 -  Have 5 functions ( Clean / Sensitive / White / Refresh / Gumcare), each 
+   mode in 2 working minutes, with LED light display 	
+   五段功能模式 ( 清潔 / 護齦 / 美白 / 清新 / 加護 ), 每模式均設定兩分鐘
+
+-  Clean mode about 31000 strokes per minute, high frequency to clean deep 
+   between teeth and gumline	
+   清潔模式每分鐘震動31000次, 有效深入清潔牙齦邊緣
+
+-  Sensitive mode about 27000 strokes per minute, gently for cleaning of 
+   sensitive gums	
+   護齦模式每分鐘震動27000次, 溫和清潔敏感牙齦
+
+-  White mode about 24000 strokes per minute, effectively to remove daily 
+   stains on visible teeth
+   美白模式每分鐘震動24000次, 有效清除污積
+
+-  Refresh mode about 28000-31000 strokes per minute, crescendo and 
+   decrescendo cycling
+   清新模式每分鐘震動28000-31000次, 循環性進行工作模式
+
+-  Gumcare mode about 27000-31000 strokes per minute, pulse mode 
+   cycling
+   加護模式每分鐘震動27000-31000次, 循環性脈衝工作模式
+
+-  Voltage : 100V-240V
+   電壓 : 100V-240V
+22 0 3 1 0 D002 Pill Box timer --This pill box timer can remind you
+   to take your medications up 37 times per day by 
+   a loud beeping alarm.
+  多達37個響鬧調教
+
+--Easy to set alarms repeat automatically every day. 
+  只需調教一次, 藥丸盒便會每天同一時間聲音響鬧提示。
+
+--Alarm can be set from 6 in the morning to 
+   midnight on the hour and the half hour. 
+  可設置響鬧由早上六時至午夜, 每半個小時至一小時響鬧一次。
+
+--This includes an unique "missed pill" feature and 
+   a large capacity slide out pill tray. 
+  如用戶沒有在響鬧時吃藥, 藥盒會有提示 "missed pill"
+
+--Seven compartments 
+  有7個格數
+
+--Power: 2*AAA
+  電池:2*AAA
+
+--Size : 160*55*25mm
+  尺寸: 160*55*25毫米
+23 0 3 1 0 D005 Pill Box timer 2 --Easy to operate, to prevent users forget to
+  take medicine 5 sets Alarm.
+  易於操作, 提醒用戶吃藥, 5組鬧鈴
+
+--Countdown Timer (Maximum 23 hours 59 minutes)
+   倒計時器 (最大23小時59分)
+
+--Has eight compartments, enough for weekly medicine
+   can adjust the sapce
+   有8個格(可調位)足夠放一星期的藥物
+
+--Size: 12.5*6*1.8cm
+  尺寸: 12.5*6*1.8cm
+24 0 3 1 0 D007 Pill Box with cutter --Can cut our medicine into small pieces, easy to swallow
+   (可把藥物切割成細小的形狀, 易於服用)
+
+--Suitable: for elders, patient 
+   適用於老年人及病人
+
+--Easy to carry and clean
+   產品携帶方便, 易於清洗
+
+--Has eight compartments, enough for weekly medicine, with cutter
+   有八格可調位, 足夠放一星期的藥物及有切割藥物的刀具
+
+--Can adjust the space 
+  可調整空間
+
+--Size: 12.5*6*1.8cm
+   尺寸: 12.5*6*1.8cm
+
++++++++++
+
+ 

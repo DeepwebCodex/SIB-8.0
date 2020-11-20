@@ -1,0 +1,900 @@
+www.sendpoints.cn/newsDetail.php?id=24
+ 
+hkhostco_spen - book:(6)
+id,name,content,qq,email,tel,tx,title,sh,ip,fbsj,hf
+7 saf asdf 0 214734864@qq.com 0592-5983163 face/2.gif asdf 1 127.0.0.1 2012-08-04 15:45:34
+8 sdf <br /> 234234 softyuan@qq.com 0592-2342343 face/5.gif 颐达卡扣铁片长度不够，赔偿15元作补偿 1 127.0.0.1 2012-08-04 15:58:54
+9 dfsgdsg sdfasdf asf asf<br /> 234234 214734864@qq.com 0592-5983163 face/18.gif asdf 1 127.0.0.1 2012-08-04 15:59:19
+10 33 agas as fsaf asf saf sa sa sdf sadf <br /> 3654458 23434864@qq.com 0592-23423433 face/16.gif 123123 1 127.0.0.1 2012-08-04 16:06:58
+5 33 <br /> 0 face/1.gif 33 1 127.0.0.1 2012-08-04 15:37:53
+6 333 <br /> 0 234234@ww.com 0592-5983163 face/1.gif 333 1 127.0.0.1 2012-08-04 15:39:33
+
++++++++++
+hkhostco_spen - en_ltt_category:(12)
+Category_ID,Category_Parent,Category_depth,Category_name,Category_Images,Category_Content,Category_Taxis,Category_Products,Category_State,Category_BoxRetail,Category_BoxWholesale,Category_Method,Category_MethodWholesale
+0001.0000.0000.0000 0 0 Men’s short sleeve shirt 0 20 1 Retail
+0002.0000.0000.0000 0 0 Men’s denim shorts 0 20 1 Retail
+0003.0000.0000.0000 0 0 Men’s denim trousers 0 20 1 Retail
+0004.0000.0000.0000 0 0 Men’s casual pants 0 20 1 Retail
+0005.0000.0000.0000 0 0 Men’s long casual pants 0 20 1 Retail
+0006.0000.0000.0000 0 0 Men’s long sleeve shirt 0 20 1 Retail
+0007.0000.0000.0000 0 0 Women’s short sleeve shirt 0 20 1 Retail
+0008.0000.0000.0000 0 0 Women’s denim shorts 0 20 1 Retail
+0009.0000.0000.0000 0 0 Women’s denim trousers 0 20 1 Retail
+0010.0000.0000.0000 0 0 Women’s casual shorts 0 20 1 Retail
+
++++++++++
+hkhostco_spen - en_ltt_company_config:(1)
+Company_Name,Company_address,Company_address2,Company_Tel,Company_Fax,Company_Mail,Company_Url,Company_City,Company_State,Company_Zip,Company_About,Company_Brief,Company_Language,Company_Language_Amount,Company_Email_Confirm,Company_Email_Pending,Company_Email_Shipped,Company_Email_Cancel,Gateway_Company,Gateway_LoginID,Gateway_Key,Shipping_Option,Shipping_Option_Manual,Website_Register,Website_DefaultState,Website_Sendemaiil,Website_Newsletter,Upload_Picture_Path,Upload_Picture_S_W,Upload_Picture_S_L,Upload_Picture_N_W,Upload_Picture_N_L,Upload_Picture_L_W,Upload_Picture_L_H,Upload_File_Path,Upload_Picture_Make,Upload_Picture_Mode
+fshaoke CA 3 RealTime Weight open Approved Automatism http://www.xxx.com/import_from_main.php ../images/products/ 250 360 900 ../document/ 7 1
+
++++++++++
+hkhostco_spen - en_ltt_news:(1)
+Events_ID,Events_Title,Events_Type,Events_Image,Events_StartTime,Events_EndTime,Events_Description,Events_Status,Events_Summary,Events_Url,Events_Category,Events_Hit
+1 <p>Welcome to our website.</p> 工程项目 1334275200 <p>Foshan Shunde Qi Yi Garment Co., Ltd. was established in 1998 is a  professional engaged in the design, production, sales as one of the  specialized clothing manufacturers. Mainly engaged in the production of  fashion wear, casual wear, jeans and other types of clothing  manufacturers.<br />
+<br />
+Foshan Shunde Qi Yi Garment Co., Ltd. with excellent quality and good  after-sales service system has been for a number of large enterprises,  we have a domestic first-class designers and top cut master, the most  advanced production equipment and a batch of skilled high-quality staff,  the team concept of Fantastic Art Clothing company employees, in the  same time to ensure that production and shipping time and meet your  needs. All along, we are both committed to pursue the &quot;quality first,  customer first&quot; business philosophy, many styles for you and your  corporate design and production of innovative, quality, taste high-end  and beautiful clothing.</p> 2 <p>Foshan Shunde Qi Yi Garment Co., Ltd. was established in 1998 is a  professional engaged in the design, production, sales as one of the  specialized clothing manufacturers. Mainly engaged in the production of  fashion wear, casual wear, jeans and other types of clothing  manufacturers.</p> 0001.0000.0000.0000 8
+
++++++++++
+hkhostco_spen - en_ltt_news_category:(3)
+Category_ID,Category_Parent,Category_depth,Category_name,Category_Images,Category_Content,Category_Taxis,Category_News,Category_State,Category_BoxRetail,Category_BoxWholesale,Category_Method,Category_MethodWholesale,Category_Edit,Category_Display
+0001.0000.0000.0000 0 0 工程项目 0 9 1 Retail 1 1
+0002.0000.0000.0000 0 0 人力资源 0 4 Retail 1 1
+0003.0000.0000.0000 0 0 生产聚焦 0 27 Retail 1 1
+
++++++++++
+hkhostco_spen - en_ltt_pages:(6)
+Pages_ID,Pages_Name,Pages_Links,Pages_Image,Pages_Note,Pages_State
+1 公司简介 about <p>Foshan Shunde Qi Yi Garment Co., Ltd. <span class="hps">was established in</span> <span class="hps">1998</span> <span class="hps">is a professional</span> <span class="hps">engaged</span> <span class="hps">in</span> <span class="hps">the</span> <span class="hps">design, production</span><span>, sales</span> <span class="hps">as one of the</span> <span class="hps">specialized</span> <span class="hps">clothing manufacturers</span><span>.</span> <span class="hps">Mainly engaged in</span> <span class="hps">the</span> <span class="hps">production</span> <span class="hps">of</span> <span class="hps">fashion</span> <span class="hps">wear,</span> <span class="hps">casual wear</span><span>, jeans</span> <span class="hps">and</span> <span class="hps">other types of</span> <span class="hps">clothing</span> <span class="hps">manufacturers</span><span>.</span><br />
+<br />
+<br />
+<span>Foshan Shunde Qi Yi Garment Co., Ltd. </span><span class="hps">with</span> <span class="hps">excellent</span> <span class="hps">quality and good</span> <span class="hps">after-sales service</span> <span class="hps">system</span> <span class="hps">has been</span> <span class="hps">for a number of</span> <span class="hps">large enterprises</span><span>, we have a</span> <span class="hps">domestic</span> <span class="hps">first-class</span> <span class="hps">designers and</span> <span class="hps">top</span> <span class="hps">cut</span> <span class="hps">master</span><span>,</span> <span class="hps">the most advanced</span> <span class="hps">production equipment and</span> <span class="hps">a</span> <span class="hps">batch of</span> <span class="hps">skilled</span> <span class="hps">high-quality</span> <span class="hps">staff</span><span>,</span> <span class="hps">the team concept</span> <span class="hps">of</span> <span class="hps">Fantastic Art</span> <span class="hps">Clothing</span> <span class="hps">company</span> <span class="hps">employees</span><span>,</span> <span class="hps">in</span> <span class="hps">the same time</span> <span class="hps">to</span> <span class="hps">ensure that production and</span> <span class="hps">shipping time</span> <span class="hps">and</span> <span class="hps">meet your</span> <span class="hps">needs</span><span>.</span> <span class="hps">All along, we</span> <span class="hps">are both committed to</span> <span class="hps">pursue</span> <span class="hps">the</span> <span class="hps atn">&quot;</span><span>quality first</span><span>, customer</span> <span class="hps">first&quot;</span> <span class="hps">business philosophy</span><span>,</span> <span class="hps">many</span> <span class="hps">styles</span> <span class="hps">for</span> <span class="hps">you and your</span> <span class="hps">corporate</span> <span class="hps">design and production of</span> <span class="hps">innovative,</span> <span class="hps">quality</span><span>,</span> <span class="hps">taste</span> <span class="hps">high-end</span> <span class="hps">and beautiful</span> <span class="hps">clothing</span><span>.</span><br />
+<br />
+<br />
+<span>Tenet</span> <span class="hps">of</span> &quot;<span class="hps">credibility</span> <span class="hps">to greet customers</span><span>, quality</span> <span class="hps">take</span> <span class="hps">market</span> <span class="hps atn">&quot;</span><span>every piece of</span> <span class="hps">clothing</span> <span class="hps">is</span> <span class="hps">a</span> <span class="hps">crystallization</span> <span class="hps">of</span> <span class="hps">our professional</span> <span class="hps">experience, knowledge</span><span>, creativity</span><span>,</span> <span class="hps">and</span> <span class="hps">we can</span> <span class="hps">continue to win</span> <span class="hps">market</span> <span class="hps">reasons</span><span>,</span> <span class="hps">our</span> <span class="hps">customers</span> <span class="hps">are</span> <span class="hps">mainly from Europe</span><span>, Asia</span> <span class="hps">and so on.</span> <span class="hps">Our staff</span> <span class="hps">enthusiastically looking forward to</span> <span class="hps">your presence guidance</span><span>!</span> Please <span class="hps">contact </span><span class="hps">us</span><span>.</span></p> 1
+11 企业荣誉 cert 1
+17 厂房车间 workshop <h3>Workshop</h3>
+<table width="100%" cellspacing="0" cellpadding="15" border="0">
+    <tbody>
+        <tr>
+            <td align="center" valign="middle"><img src="images/about/22.jpg" alt="" class="imgBorder" /></td>
+            <td align="center" valign="middle"><img src="images/about/06.jpg" alt="" class="imgBorder" /></td>
+        </tr>
+    </tbody>
+</table>
+<h3>Show Room</h3>
+<table width="100%" cellspacing="0" cellpadding="15" border="0">
+    <tbody>
+        <tr>
+            <td align="center" valign="middle"><img src="images/about/03.jpg" alt="" class="imgBorder" /></td>
+            <td align="center" valign="middle"><img src="images/about/12.jpg" alt="" class="imgBorder" /></td>
+        </tr>
+    </tbody>
+</table>
+<h3>Depot</h3>
+<table width="100%" cellspacing="0" cellpadding="15" border="0">
+    <tbody>
+        <tr>
+            <td align="center" valign="middle"><img src="images/about/02.jpg" alt="" class="imgBorder" /></td>
+            <td align="center" valign="middle"><img src="images/about/07.jpg" alt="" class="imgBorder" /></td>
+        </tr>
+    </tbody>
+</table> 1
+12 首页介绍 indexAbout Foshan Shunde Qi Yi Garment Co., Ltd. was established in 1998 is a professional engaged in the design, production, sales as one of the specialized clothing manufacturers. Mainly engaged in the production of fashion wear, casual wear, jeans and other types of clothing manufacturers.<br />
+<br />
+Foshan Shunde Qi Yi Garment Co., Ltd. with excellent quality and good after-sales service system has been for a number of large enterprises, we have a domestic first-class designers and top cut master, the most advanced production equipment and a batch of skilled high-quality staff, the team concept of Fantastic Art Clothing company employees, in the same time to ensure that production and shipping time and meet your needs. All along, we are both committed to pursue the &quot;quality first, customer first&quot; business philosophy, many styles for you and your corporate design and production of innovative, quality, taste high-end and beautiful clothing. 1
+16 首页推荐 indexProduct <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td align="center" width="130"><a href="products.php"><img height="230" border="0" src="./images/products/qy_g_2_s.jpg" alt="" name="index_r16_c6" id="index_r16_c6" style="border-bottom: #E0BB9B 2px solid; border-left: #E0BB9B 2px solid; border-top: #E0BB9B 2px solid; border-right: #E0BB9B 2px solid" /></a></td>
+            <td valign="top" style="padding-bottom: 10px; padding-left: 10px; padding-right: 5px; padding-top: 5px">
+            <table width="100%" height="29" cellspacing="0" cellpadding="0" border="0" background="images/dot_line2.gif">
+                <tbody>
+                    <tr>
+                        <td>
+                        <div style="color: #A96B34; font-size: 14px; font-weight: bold">Business cooperation</div>
+                        </td>
+                        <td width="31"><a href="products.php"><img width="31" height="21" alt="" src="./images/more.gif" /></a></td>
+                    </tr>
+                </tbody>
+            </table>
+            <div>Tenet of "credibility to greet customers, quality take market "every piece of clothing is a crystallization of our professional experience, knowledge, creativity, and we can continue to win market reasons, our customers are mainly from Europe, Asia and so on. Our staff enthusiastically looking forward to your presence guidance! Please contact us.</div>
+            </td>
+        </tr>
+    </tbody>
+</table> 1
+15 联系我们 contact <table cellspacing="0" cellpadding="10">
+    <tbody>
+        <tr>
+            <td>Company：</td>
+            <td>Foshan Shunde Qi Yi Garment Co., Ltd. </td>
+        </tr>
+        <tr>
+            <td>Address：</td>
+            <td>No7 East Kang Road, LuDi Industrial District . Xingtan Town,  Shunde District, <br>
+            Foshan City,   Guangdong, China.<BR></td>
+        </tr>
+        <tr>
+            <td>Postcode：</td>
+            <td>528325</td>
+        </tr>
+        <tr>
+            <td>Tel：</td>
+            <td>(86)-757-27772116</td>
+        </tr>
+        <tr>
+            <td>Fax：</td>
+            <td>(86)-757-27688021</td>
+        </tr>
+        <tr>
+            <td>Sales Department：</td>
+            <td>13727330666  YUKI，13674097228 Mr.Su</td>
+        </tr>
+        <tr>
+            <td>E-mail :</td>
+            <td><a href="mailto:sale@qi-yi.com.cn">sale@qi-yi.com.cn</a>&nbsp; <a href="mailto:yuki-inging@163.com">yuki-inging@163.com</a></td>
+        </tr>
+        <tr>
+            <td>QQ：</td>
+            <td><a target="blank" href="http://wpa.qq.com/msgrd?V=1&amp;Uin=370479383&amp;Site=mg&amp;Menu=yes"><img align="absMiddle" border="0" alt="点击这里给我发消息" src="http://wpa.qq.com/pa?p=1:370479383:6" />370479383</a> &nbsp;&nbsp;&nbsp; <a target="blank" href="http://wpa.qq.com/msgrd?V=1&amp;Uin=370479383&amp;Site=mg&amp;Menu=yes"><img align="absMiddle" border="0" alt="点击这里给我发消息" src="http://wpa.qq.com/pa?p=1:370479383:6" />370479383</a></td>
+        </tr>
+    </tbody>
+</table> 1
+
++++++++++
+hkhostco_spen - en_ltt_products:(240)
+Products_ID,Products_Name,Products_SubCategory,Products_SubName,Products_ProductsID,Products_Vendor,Products_ItemCode,Products_Sku,Products_Status,Products_Commend,Products_Original_Price,Products_Retail_Price,Products_Amount,Products_Description,Products_Picture,Products_File,Products_Dynamic,Products_Correlation,Products_All,Products_Add_Name,Products_Add_Time,Products_OtherPrice,Products_FreeCategory,Products_LastDate,Products_Warehouse,Products_Taxis,Products_QtyEmail,Products_Popular,Products_Color,Products_Size,Products_AgeFilter,Products_Address,Products_Phone,Products_Fax,Products_Email,Products_Website,Products_Keyword,Products_Top,Products_Additional,Products_Location,Products_Property,Products_UploadVideo,Products_UploadVideo_Postfix,Products_UploadVideoPic
+1 QY200001 /0001.0000.0000.0000 Men\'s short sleeve shirt QY200001 2 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} s:0:""; N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 22:55:16 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"1";i:1;s:1:"1";i:2;s:1:"1";i:3;s:1:"1";i:4;s:1:"1";i:5;s:1:"1";i:6;s:1:"1";i:7;s:1:"1";i:8;s:1:"1";i:9;s:1:"1";i:10;s:1:"1";i:11;s:1:"1";}} 1314748800 0 1 0
+2 QY20000 /0001.0000.0000.0000 Men\'s short sleeve shirt QY200002 2 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_a_2_n.jpg";s:1:"l";s:12:"qy_a_2_l.jpg";s:1:"s";s:12:"qy_a_2_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 22:56:14 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"2";i:1;s:1:"2";i:2;s:1:"2";i:3;s:1:"2";i:4;s:1:"2";i:5;s:1:"2";i:6;s:1:"2";i:7;s:1:"2";i:8;s:1:"2";i:9;s:1:"2";i:10;s:1:"2";i:11;s:1:"2";}} 1314748800 0 1 0
+3 QY200003 /0001.0000.0000.0000 Men\'s short sleeve shirt QY200003 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_a_3_n.jpg";s:1:"l";s:12:"qy_a_3_l.jpg";s:1:"s";s:12:"qy_a_3_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 22:56:45 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"3";i:1;s:1:"3";i:2;s:1:"3";i:3;s:1:"3";i:4;s:1:"3";i:5;s:1:"3";i:6;s:1:"3";i:7;s:1:"3";i:8;s:1:"3";i:9;s:1:"3";i:10;s:1:"3";i:11;s:1:"3";}} 1314835200 0 1 0
+4 QY2000b2 /0002.0000.0000.0000 Men\'s denim shorts QY2000b1 2 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_b_1_n.jpg";s:1:"l";s:12:"qy_b_1_l.jpg";s:1:"s";s:12:"qy_b_1_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 23:10:34 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"4";i:1;s:1:"4";i:2;s:1:"4";i:3;s:1:"4";i:4;s:1:"4";i:5;s:1:"4";i:6;s:1:"4";i:7;s:1:"4";i:8;s:1:"4";i:9;s:1:"4";i:10;s:1:"4";i:11;s:1:"4";}} 1314921600 0 1 0
+5 QY2000c1 /0003.0000.0000.0000 男装牛仔长裤 QY2000c1 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_c_1_n.jpg";s:1:"l";s:12:"qy_c_1_l.jpg";s:1:"s";s:12:"qy_c_1_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 23:49:29 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"5";i:1;s:1:"5";i:2;s:1:"5";i:3;s:1:"5";i:4;s:1:"5";i:5;s:1:"5";i:6;s:1:"5";i:7;s:1:"5";i:8;s:1:"5";i:9;s:1:"5";i:10;s:1:"5";i:11;s:1:"5";}} 1314921600 0 1 0
+6 QY2000c2 /0003.0000.0000.0000 男装牛仔长裤 QY2000c2 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_c_2_n.jpg";s:1:"l";s:12:"qy_c_2_l.jpg";s:1:"s";s:12:"qy_c_2_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 23:51:03 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"6";i:1;s:1:"6";i:2;s:1:"6";i:3;s:1:"6";i:4;s:1:"6";i:5;s:1:"6";i:6;s:1:"6";i:7;s:1:"6";i:8;s:1:"6";i:9;s:1:"6";i:10;s:1:"6";i:11;s:1:"6";}} 1314921600 0 1 0
+7 QY2000c3 /0003.0000.0000.0000 男装牛仔长裤 QY2000c3 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_c_3_n.jpg";s:1:"l";s:12:"qy_c_3_l.jpg";s:1:"s";s:12:"qy_c_3_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 23:51:25 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"7";i:1;s:1:"7";i:2;s:1:"7";i:3;s:1:"7";i:4;s:1:"7";i:5;s:1:"7";i:6;s:1:"7";i:7;s:1:"7";i:8;s:1:"7";i:9;s:1:"7";i:10;s:1:"7";i:11;s:1:"7";}} 1314921600 0 1 0
+8 QY2000d1 /0004.0000.0000.0000 男装休闲短裤 QY2000d1 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_d_1_n.jpg";s:1:"l";s:12:"qy_d_1_l.jpg";s:1:"s";s:12:"qy_d_1_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:01:28 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"8";i:1;s:1:"8";i:2;s:1:"8";i:3;s:1:"8";i:4;s:1:"8";i:5;s:1:"8";i:6;s:1:"8";i:7;s:1:"8";i:8;s:1:"8";i:9;s:1:"8";i:10;s:1:"8";i:11;s:1:"8";}} 1314921600 0 1 0
+9 QY2000c4 /0003.0000.0000.0000 男装牛仔长裤 QY2000c4 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_c_4_n.jpg";s:1:"l";s:12:"qy_c_4_l.jpg";s:1:"s";s:12:"qy_c_4_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 23:51:43 a:1:{s:10:"ProductsID";a:12:{i:0;s:1:"9";i:1;s:1:"9";i:2;s:1:"9";i:3;s:1:"9";i:4;s:1:"9";i:5;s:1:"9";i:6;s:1:"9";i:7;s:1:"9";i:8;s:1:"9";i:9;s:1:"9";i:10;s:1:"9";i:11;s:1:"9";}} 1314921600 0 1 0
+10 QY2000c5 /0003.0000.0000.0000 男装牛仔长裤 QY2000c5 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_c_5_n.jpg";s:1:"l";s:12:"qy_c_5_l.jpg";s:1:"s";s:12:"qy_c_5_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-12 23:52:02 a:1:{s:10:"ProductsID";a:12:{i:0;s:2:"10";i:1;s:2:"10";i:2;s:2:"10";i:3;s:2:"10";i:4;s:2:"10";i:5;s:2:"10";i:6;s:2:"10";i:7;s:2:"10";i:8;s:2:"10";i:9;s:2:"10";i:10;s:2:"10";i:11;s:2:"10";}} 1314921600 0 1 0
+91 QY2000e3 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e3 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_e_3_n.jpg";s:1:"l";s:12:"qy_e_3_l.jpg";s:1:"s";s:12:"qy_e_3_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:07:52 a:1:{s:10:"ProductsID";a:12:{i:0;i:91;i:1;i:91;i:2;i:91;i:3;i:91;i:4;i:91;i:5;i:91;i:6;i:91;i:7;i:91;i:8;i:91;i:9;i:91;i:10;i:91;i:11;i:91;}} 1334275200 0 1 0
+92 QY2000e4 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e4 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_e_4_n.jpg";s:1:"l";s:12:"qy_e_4_l.jpg";s:1:"s";s:12:"qy_e_4_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:08:05 a:1:{s:10:"ProductsID";a:12:{i:0;i:92;i:1;i:92;i:2;i:92;i:3;i:92;i:4;i:92;i:5;i:92;i:6;i:92;i:7;i:92;i:8;i:92;i:9;i:92;i:10;i:92;i:11;i:92;}} 1334275200 0 1 0
+93 QY2000e5 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e5 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_e_5_n.jpg";s:1:"l";s:12:"qy_e_5_l.jpg";s:1:"s";s:12:"qy_e_5_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:08:16 a:1:{s:10:"ProductsID";a:12:{i:0;i:93;i:1;i:93;i:2;i:93;i:3;i:93;i:4;i:93;i:5;i:93;i:6;i:93;i:7;i:93;i:8;i:93;i:9;i:93;i:10;i:93;i:11;i:93;}} 1334275200 0 1 0
+94 QY2000e6 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e6 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_e_6_n.jpg";s:1:"l";s:12:"qy_e_6_l.jpg";s:1:"s";s:12:"qy_e_6_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:08:27 a:1:{s:10:"ProductsID";a:12:{i:0;i:94;i:1;i:94;i:2;i:94;i:3;i:94;i:4;i:94;i:5;i:94;i:6;i:94;i:7;i:94;i:8;i:94;i:9;i:94;i:10;i:94;i:11;i:94;}} 1334275200 0 1 0
+95 QY2000e7 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e7 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_e_7_n.jpg";s:1:"l";s:12:"qy_e_7_l.jpg";s:1:"s";s:12:"qy_e_7_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:08:40 a:1:{s:10:"ProductsID";a:12:{i:0;i:95;i:1;i:95;i:2;i:95;i:3;i:95;i:4;i:95;i:5;i:95;i:6;i:95;i:7;i:95;i:8;i:95;i:9;i:95;i:10;i:95;i:11;i:95;}} 1334275200 0 1 0
+96 QY2000e8 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e8 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_e_8_n.jpg";s:1:"l";s:12:"qy_e_8_l.jpg";s:1:"s";s:12:"qy_e_8_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:08:53 a:1:{s:10:"ProductsID";a:12:{i:0;i:96;i:1;i:96;i:2;i:96;i:3;i:96;i:4;i:96;i:5;i:96;i:6;i:96;i:7;i:96;i:8;i:96;i:9;i:96;i:10;i:96;i:11;i:96;}} 1334275200 0 1 0
+97 QY2000e9 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e9 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:12:"qy_e_9_n.jpg";s:1:"l";s:12:"qy_e_9_l.jpg";s:1:"s";s:12:"qy_e_9_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:09:12 a:1:{s:10:"ProductsID";a:12:{i:0;i:97;i:1;i:97;i:2;i:97;i:3;i:97;i:4;i:97;i:5;i:97;i:6;i:97;i:7;i:97;i:8;i:97;i:9;i:97;i:10;i:97;i:11;i:97;}} 1334275200 0 1 0
+98 QY2000e10 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e10 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:13:"qy_e_10_n.jpg";s:1:"l";s:13:"qy_e_10_l.jpg";s:1:"s";s:13:"qy_e_10_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:09:29 a:1:{s:10:"ProductsID";a:12:{i:0;i:98;i:1;i:98;i:2;i:98;i:3;i:98;i:4;i:98;i:5;i:98;i:6;i:98;i:7;i:98;i:8;i:98;i:9;i:98;i:10;i:98;i:11;i:98;}} 1334275200 0 1 0
+99 QY2000e11 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e11 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:13:"qy_e_11_n.jpg";s:1:"l";s:13:"qy_e_11_l.jpg";s:1:"s";s:13:"qy_e_11_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:09:41 a:1:{s:10:"ProductsID";a:12:{i:0;i:99;i:1;i:99;i:2;i:99;i:3;i:99;i:4;i:99;i:5;i:99;i:6;i:99;i:7;i:99;i:8;i:99;i:9;i:99;i:10;i:99;i:11;i:99;}} 1334275200 0 1 0
+100 QY2000e12 /0005.0000.0000.0000 Men‘s long sleeve shirt QY2000e12 1 1 0.00 0.00 a:13:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:0:"";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:0:"";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:0:"";s:15:"DimensionsTitle";s:10:"Dimensions";s:17:"DimensionsContent";s:0:"";s:14:"MaterialsTitle";s:20:"Assembly Instruction";s:16:"MaterialsContent";s:0:"";s:13:"OrderingTitle";s:8:"Ordering";s:15:"OrderingContent";s:0:"";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:13:"qy_e_12_n.jpg";s:1:"l";s:13:"qy_e_12_l.jpg";s:1:"s";s:13:"qy_e_12_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2012-04-13 00:09:52 a:1:{s:10:"ProductsID";a:12:{i:0;i:100;i:1;i:100;i:2;i:100;i:3;i:100;i:4;i:100;i:5;i:100;i:6;i:100;i:7;i:100;i:8;i:100;i:9;i:100;i:10;i:100;i:11;i:100;}} 1334275200 0 1 0
+
++++++++++
+hkhostco_spen - en_ltt_products_qty:(11)
+Qty_ID,Qty_ProID,Qty_More,Qty_Price,Qty_Weight
+1 0 12 3.00 123123
+2 0 1 212.00 12
+3 0 21 1.00 23
+4 7 2 22.00 2
+5 8 2 33.00 11
+6 8 2 33.00 22
+7 21 2.00 122
+8 11 1.00 1111
+9 22 22.00 222
+10 9 aaaaaaaa 444444.00 144444444444
+
++++++++++
+hkhostco_spen - en_ltt_shipping_box:(3)
+Box_ID,Box_Name,Box_Weight,Box_Item,Box_Length,Box_Additional
+1 test1 2 15 1 2.50
+2 test2 1 15 1 2.50
+3 test3 1 15 1 2.50
+
++++++++++
+hkhostco_spen - gly:(1)
+id,username,password,sh,gg,copyright,title
+1 tonglow 6fc1041e4d765f2df111deaf8a0b82e4 1 <br/>设计制作：<a href=http://www.115cn.cn>厦门随缘网络科技</a> 留言板
+
++++++++++
+hkhostco_spen - ltt_admin:(3)
+Admin_ID,Admin_Name,Admin_Login,Admin_Password,Admin_TempPassword,Admin_LastLogin,Admin_Redirect,Admin_FailCount,Admin_Email,Admin_Access,Admin_IP,Admin_ClientInfo,Admin_SalesID,Admin_WebsiteType,Admin_Website_Name,Admin_Rank,Admin_Menu,Admin_Menu_Defined,Admin_DefaultPage
+1 1 adminsys ba06697a7f644784306e25406aa9f72e 024dc77ee0d6 1545376994 25 1@1.com a:1:{s:5:"Admin";a:37:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:7:"Contact";s:1:"1";s:9:"SaleOrder";s:1:"1";s:8:"CardInfo";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:10:"Wholesaler";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:8:"Identity";s:1:"1";s:15:"ProductPictures";s:1:"1";s:16:"ProductPicturesV";s:1:"4";s:18:"ProductDescription";s:1:"1";s:14:"ProductFeature";s:1:"1";s:21:"ProductSpecifications";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:13:"Advertisement";s:1:"1";s:8:"Discount";s:1:"1";s:9:"AgeFilter";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";s:12:"GatewaySetup";s:1:"1";s:12:"CompanySetup";s:1:"1";s:12:"WebsiteSetup";s:1:"1";s:10:"EmailSetup";s:1:"1";s:10:"FormsSetup";s:1:"1";s:11:"UploadSetup";s:1:"1";s:13:"LanguageSetup";s:1:"1";s:4:"ICES";s:1:"1";}} 183.26.1.167 Netscape Navigator 510<br>Windows NT CMS 3 NO a:21:{s:7:"Website";s:1:"1";s:7:"Contact";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:8:"Products";s:1:"1";s:9:"Warehouse";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:13:"Advertisement";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";} SaleOrder_ListAllOrders
+2 adminsys1 adminsys1 ba06697a7f644784306e25406aa9f72e 781b8f5a4171 1259511665 32 a:1:{s:5:"Admin";a:52:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:7:"Contact";s:1:"1";s:9:"SaleOrder";s:1:"1";s:8:"CardInfo";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:10:"Wholesaler";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:8:"Identity";s:1:"1";s:8:"Quantity";s:1:"1";s:12:"Relationship";s:1:"1";s:12:"ProductColor";s:1:"1";s:11:"ProductSize";s:1:"1";s:7:"Dynamic";s:1:"1";s:12:"FreeCategory";s:1:"1";s:10:"FileUpload";s:1:"1";s:15:"ProductPictures";s:1:"1";s:16:"ProductPicturesV";s:1:"4";s:18:"ProductDescription";s:1:"1";s:14:"ProductFeature";s:1:"1";s:21:"ProductSpecifications";s:1:"1";s:17:"ProductDimensions";s:1:"1";s:16:"ProductMaterials";s:1:"1";s:15:"ProductOrdering";s:1:"1";s:9:"Warehouse";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:13:"Advertisement";s:1:"1";s:8:"Discount";s:1:"1";s:9:"AgeFilter";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";s:12:"GatewaySetup";s:1:"1";s:12:"CompanySetup";s:1:"1";s:12:"WebsiteSetup";s:1:"1";s:10:"EmailSetup";s:1:"1";s:10:"FormsSetup";s:1:"1";s:11:"UploadSetup";s:1:"1";s:13:"LanguageSetup";s:1:"1";s:4:"ICES";s:1:"1";}} 127.0.0.1 Internet Explorer 710<br>Windows XP 1 NO a:23:{s:7:"Website";s:1:"1";s:7:"Contact";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:9:"Warehouse";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:12:"GlobalSearch";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";} Website_ListPages
+3 spsysadmin spsysadmin 05e3e5865484d8050bc3d8d0d7189d75 8ffa1023efa7 1555814741 2 a:1:{s:5:"Admin";a:11:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:15:"ProductPictures";s:1:"1";s:16:"ProductPicturesV";s:1:"4";s:18:"ProductDescription";s:1:"1";s:14:"ProductFeature";s:1:"1";s:21:"ProductSpecifications";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";}} 218.19.17.192 Netscape Navigator 510<br>Windows NT Catalog 3 NO a:23:{s:7:"Website";s:1:"1";s:7:"Contact";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:9:"Warehouse";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:12:"GlobalSearch";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";} Website_ListPages
+
++++++++++
+hkhostco_spen - ltt_ads:(0)
+Ads_ID,Ads_Type,Ads_Title,Ads_LocationName,Ads_Link,Ads_Target,Ads_FilePath,Ads_Height,Ads_Width,Ads_More,Ads_StartDate,Ads_ExpireDate,Ads_click,Ads_State,Ads_Random
+
++++++++++
+hkhostco_spen - ltt_agefilter:(4)
+Age_ID,Age_Name,Age_Start,Age_End
+4 3-6 years 3 6
+3 2-4 years 2 4
+5 4-8 years 4 8
+6 Big Kids 8 18
+
++++++++++
+hkhostco_spen - ltt_category:(16)
+Category_ID,Category_Parent,Category_depth,Category_name,Category_nameEN,Category_Images,Category_Content,Category_Taxis,Category_Products,Category_State,Category_BoxRetail,Category_BoxWholesale,Category_Method,Category_MethodWholesale
+0001.0000.0000.0000 0 0 雜誌 Magazine 0 0 1 Retail
+0001.0001.0000.0000 0001.0000.0000.0000 1 BranD BranD <div class="categoly_logo"><img alt="" src="images/ico/logo_brand.png" /></div>
+<div class="proDCopy">
+<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200<br />
+English/Chinese</h3>
+</div>
+<p align="justify">BranD is an international bi-monthly  magazine, focusing on Multidisciplinary Communication Design for businesses  with English and Chinese versions, published in Hong Kong by Sendpoints  Publishing Co., Ltd. and distributed globally since 2012.<br>
+  BranD defines a new way to look into  Communication Design by presenting, researching and manifesting excellent works  amongst Visual Art, Advertising, Product, Graphic, Interior, Architecture, etc.  Every issue not only expends around numbers of high-quality visual features to  seek the real content and values behind different forms of communications, but  also includes in-depth observation articles and columns from the industry’s  leading organizations and individuals. The Community section brings the  designers, artists, art directors, marketing specialists, and business  strategists together to seek the multidisciplinary creative methodology behind  communication design for businesses.</p> 0 43 1 Retail
+0002.0000.0000.0000 0 0 圖書 SendPoints Titles 0 0 1 Retail
+0002.0001.0000.0000 0002.0000.0000.0000 1 平面設計 Graphic Design 2 118 1 Retail
+0002.0002.0000.0000 0002.0000.0000.0000 1 產品設計 Product Design 3 4 1 Retail
+0002.0003.0000.0000 0002.0000.0000.0000 1 展覽展示設計 Exhibition Design 4 4 1 Retail
+0002.0004.0000.0000 0002.0000.0000.0000 1 室內設計 Interior Design 5 14 1 Retail
+0002.0005.0000.0000 0002.0000.0000.0000 1 建築景觀設計 Landscape Architecture 6 6 1 Retail
+0003.0000.0000.0000 0 0 代理 Distribution Titles 0 0 1 Retail
+0003.0001.0000.0000 0003.0000.0000.0000 1 Taschen Taschen <div align="justify">In the year 1980, BenediktTaschenopened a comic book shop in his native Cologne to sell and trade from his massive collection.Starting in the late 1980s, his company established subsidiaries around the world and continued to cement its reputation as a publisher of excellent-value art books, and TASCHEN brand has grown into one of the most successful and unique publishers in the global market, distributed worldwide in over twenty languages.TASCHEN enriched the world of books by offering a colorful variety of lavish limited editions, affordable titles, and now even e-books, with choices for many tastes and budgets.</div> 0 9 1 Retail
+
++++++++++
+hkhostco_spen - ltt_company_config:(1)
+Company_Name,Company_address,Company_address2,Company_Tel,Company_Fax,Company_Mail,Company_Url,Company_City,Company_State,Company_Zip,Company_About,Company_Brief,Company_Language,Company_Language_Amount,Company_Email_Confirm,Company_Email_Pending,Company_Email_Shipped,Company_Email_Cancel,Gateway_Company,Gateway_LoginID,Gateway_Key,Shipping_Option,Shipping_Option_Manual,Website_Register,Website_DefaultState,Website_Sendemaiil,Website_Newsletter,Upload_Picture_Path,Upload_Picture_S_W,Upload_Picture_S_L,Upload_Picture_N_W,Upload_Picture_N_L,Upload_Picture_L_W,Upload_Picture_L_H,Upload_File_Path,Upload_Picture_Make,Upload_Picture_Mode
+send@lttnetsolution.com send@lttnetsolution.com send@lttnetsolution.com RealTime Weight open Approved Automatism http://www.simpleemarketing.com/ginseng88/import_from_main.php ../images/products/ 50 150 ../document/ 7 1
+
++++++++++
+hkhostco_spen - ltt_contactus:(32397)
+Contact_ID,Contact_FirstName,Contact_LastName,Contact_Title,Contact_BusinessName,Contact_Address,Contact_City,Contact_State,Contact_ZipCode,Contact_Country,Contact_Telephone,Contact_Fax,Contact_Email,Contact_Category,Contact_Reason,Contact_Comment,Contact_Origin,Contact_ContDate,Contact_Website,Contact_IP
+1 asdfsadf asdfasdf sadsdaf@asas.com 1312312313213123 12312312312312313123 2011-08-29 1
+2 2222 2222 22222222@2222.com 2222 2222 2011-08-29 1
+3 111 111 111@111.com 111 111 2011-08-29 1
+4 111 111 111@111.com 11 111 2011-08-29 1
+5 111 111 111@111.com 11 11 2011-08-29 1
+6 111 111 111@111.com 11 11 2011-08-29 1
+7 111 111 1121@1.com 111 111 2011-08-29 1
+8 1 1 1121@1.com 1121@1.com 1121@1.com 2011-08-29 1
+9 111 2222 111@111.com 22 22 2011-08-29 1
+10 666 666 666@66.com 888 888 2011-08-29 1
+91 SEYTAN HACKER sadada@hotmail.com SİSTEMİZDE AÇIK VAR your system is not safe I can Hacked your site 2017-07-21 0
+92 raulaz2 raulaz2 catalinaei20@penelopedestiny.pop3boston.top Communal pictures Release porn pictures    
+http://webcamsex.net.erolove.in/?pictures.tanya 
+  son see mom when bath mae mai muay thai clasik porn large penis sex dvd 2017-07-21 0
+93 CurtisLivy CurtisLivyLS ansy50598@first.baburn.com fwsavqf jlvniws 
+ 
+http://www.fistofthenorthstar.it/593-nike-shox-costo.html
+http://www.pixelgenic.it/saucony-bianche-e-beige-769.html
+http://www.notcom.it/100-nike-free-4.0-v2-running-shoes.html
+http://www.amadoriscavi.it/huarache-bronzine-470.html
+http://www.annagalante.it/389-hogan-a-stivaletto.html
+ 
+<a href=http://www.agriturismo-a-firenze.it/210-converse-2016-nere.php>Converse 2016 Nere</a>
+<a href=http://www.progettocarettacaretta.it/383-scarpe-da-calcio-nike-ctr360.html>Scarpe Da Calcio 2017-07-21 1
+94 CurtisReT CurtisReTVU martyerfd36@mail.ru Последние женские новости здесь Последние женские новости здесь <a href=http://logwoman.ru/>logwoman.ru</a> 2017-07-21 1
+95 Freddienaw FreddienawSC freddieadese@mail.ru steroid rosacea recovery  grÃ¼nes buch steroide kann man anabolika selber machen
+anabolika ersatz xtreme
+testosteron muskelaufbau ohne training
+berÃ¼hmte anabolika opfer
+nebenwirkungen von creatin forum
+ 
+<a href=\"https://www.ferrari-club-bw.de/muskelaufbau/maxim-pille-muskelaufbau.php\">maxim pille muskelaufbau</a>
+<a href=\"https://www.dreimaltroendle.de/muskelaufbau/was-bringt-testosteron-beim-muskelaufbau.php\">was bringt testosteron beim muskelaufbau</a>
+<a href=\"https://www.ferrari-club-bw.de/muskelaufbau/muskelaufbau-extrem-anabol 2017-07-21 1
+96 qocyfbtc fmmeqplp sample@email.tst 1 1 2017-07-21 1
+97 eqtwwhjp eqtwwhjp sample@email.tst 1 response.write(9149161*9809572) 2017-07-21 1
+98 yitnuleh yitnuleh sample@email.tst 1 1 2017-07-21 1
+99 tneuudsy tneuudsy sample@email.tst 1 &cat /etc/passwd& 2017-07-21 1
+100 eqtwwhjp eqtwwhjp sample@email.tst 1 \'+response.write(9149161*9809572)+\' 2017-07-21 1
+491 tneuudsy |dir sample@email.tst 1 1 2017-07-21 1
+492 -1\" or \"104\"=\"0 yitnuleh sample@email.tst 1 1 2017-07-21 1
+493 dsoemkfh 1 1 2017-07-21 1
+494 suoaqnlh suoaqnlh sample@email.tst 1 1 2017-07-21 1
+495 tneuudsy \'|dir sample@email.tst 1 1 2017-07-21 1
+496 WEB-INF/web.xml hgqwyhmg sample@email.tst 1 1 2017-07-21 1
+497 IF(SUBSTR(@@version,1,1)<5,BEN yitnuleh sample@email.tst 1 1 2017-07-21 1
+498 suoaqnlh suoaqnlh sample@email.tst 1 1 2017-07-21 1
+499 tneuudsy \"|dir sample@email.tst 1 1 2017-07-21 1
+500 dsoemkfh 1 1 2017-07-21 1
+991 wxvdegtd wxvdegtd sample@email.tst 1 ${@print(md5(acunetix_wvs_security_test))}\\ 2017-07-21 1
+992 suucspva http://some-inexistent-website sample@email.tst 1 1 2017-07-21 1
+993 djvynett djvynett sample@email.tst 1 1 2017-07-21 1
+994 qvkvelbn Array sample@email.tst 1 1 2017-07-21 1
+995 uhmwwqxb uhmwwqxb sample@email.tst 1 -1));select pg_sleep(6); -- 2017-07-21 1
+996 (#$!@#$)(()))****** bukjeeme sample@email.tst 1 1 2017-07-21 1
+997 qvkvelbn \'\"() sample@email.tst 1 1 2017-07-21 1
+998 phgpmnnf phgpmnnf sample@email.tst 1 .. 2017-07-21 1
+999 suucspva 1some_inexistent_file_with_lon sample@email.tst 1 1 2017-07-21 1
+1000 djvynett djvynett sample@email.tst 1 2017-07-21 1
+1991 IsmaelFlorp IsmaelFlorpZL albert.vangosh@mail.ru Новая информация об автомобилях Новая информация об автомобилях <a href=http://autoisauto.ru/>autoisauto.ru</a> 2017-07-26 0
+1992 IssacBiage IssacBiageJJ egorivanum2017@outlook.com In Cruises-Travel discount 50-100% https://galina. TOP 3 2017 2017-07-26 0
+1993 Attessuharcat AttessuharcatHZ 4@hochusvalit.ru [url=https://kochubeyevskoye.lend-money.ru/kredito https://ostrogozhsk.forex-broker-invest.ru/signaly/1406-gosduma-i-foreks.html - РіРѕСЃРґСѓРјР° Рё С„РѕСЂРµРєСЃ Рі. РћСЃС‚СЂРѕРіРѕР¶СЃРє 
+https://compton.epoch-life.net/remotedeposit/5966-loan-dao-phuc-han.html - loan dao phuc han Compton California 
+https://center.renthop.net/studio/8932-1rk-on-rent-in-navi-mumbai-property.html - 1rk on rent in navi mumbai property 
+https://sergiyev-posad.lend-money.ru/zaympodpts/3196-kredit-pod-nizkiy-procent-s-plohoy-kreditnoy-istoriey.html - РєСЂРµРґРёС‚ Р 2017-07-26 0
+1994 Davidloolf DavidloolfZF aravana895@mail.ru Читайте информацию о моде, здоровье и красоте Читайте информацию о моде, здоровье и красоте на <a href=http://nalatty.com>nalatty.com</a> 2017-07-26 1
+1995 RichardCem RichardCemJW fight518@hotmail.com Cheap Authentic NFL Jerseys This treatment was clearly ineffective. I?d like to set up a 401(k) or an IRA or some other kind of retirement plan for me and my three employees. Of course mothers be aware of exactly how it are when getting do nothing more than a multi functional little an infant girl and dreaming to understand more about of them are to acquire an all in one princess. If a requestor is not able to provide all the requirements, the offices have the right to reject their request. For as lengthy it has been utili 2017-07-26 1
+1996 WarritDem Book a cheap hotel, A plane ti frodi.serson@yandex.com http://online.ticketsloanhelp.life/08343-airlines-seat-plans-seat-maps-reviews-seatplans.html airlines, seat Plans, seat Maps, reviews, seatplans
+http://onli.airticketbooking.life/34669-woot-daily-deals-for-electronics-computers.html woot : Daily Deals for Electronics, Computers, Home
+http://airticketbooking.life/11127-rumor-droid-2-will-launch-with-android-2.html rumor: Droid 2 will launch with Android.2 on, august
+http://ticketsloanhelp.life/49282-flats-houses-for-sale-in-mumbai.html fla 2017-07-26 1
+1997 Dennishoags DennishoagsFU fight526@hotmail.com Wholesale Jerseys Outlet Tipping Rear Bucket. The SIMPLE IRA was created to make it easier for small businesses with 100 or fewer employees to offer a tax-advantaged, company sponsored retirement plan.Much like your banking relationship, <a href=http://www.cheapwholesalenflfootballjerseys.com/>Cheap NFL Jerseys USA</a>, make a positive connection with the credit or financial analysts in your vendors’ furniture retail businesses.It might be that the always be the case great marketing campaign wearing a multi functi 2017-07-26 2
+1998 qfwncnib kqyfjuei sample@email.tst 1 1 2017-07-26 2
+1999 aalpkmgc aalpkmgc sample@email.tst 1 response.write(9541965*9756679) 2017-07-26 2
+2000 ljnjsfim ljnjsfim sample@email.tst 1 1 2017-07-26 2 
++++++++++
+hkhostco_spen - ltt_discount:(0)
+Discount_ID,Discount_Code,Discount_Amount,Discount_Price,Discount_PriceType,Discount_StartTime,Discount_EndTime,Discount_State,Discount_Shipping,Discount_Tax
+
++++++++++
+hkhostco_spen - ltt_discount_reports:(0)
+Dis_Reports_ID,Dis_Reports_Code,Dis_Reports_OrderID,Dis_Reports_Price
+
++++++++++
+hkhostco_spen - ltt_forms:(33)
+Forms_ID,Forms_Number,Forms_Type,Forms_Title,Forms_Content
+1 11 Email {CompanyUrl} - Order Shipped Dear {FirstName} {LastName}, <br />
+<br />
+Your order, {OrderID}, had been shipped by UPS. <br />
+<br />
+Below is your tracking No.: <br />
+{UPS_TRACKING_NO} <br />
+<br />
+Please login into <a href="https://www.{CompanyUrl}/myAccount.php">My Account</a> to check for your UPS Tracking Information.<br />
+<br />
+<span style="font-weight: bold;">Warehouse Department</span><br />
+Email: {Email}<br />
+Phone: {Phone}
+2 R_1 Register My Account > Register Thank you for registering with&nbsp;<span class="STYLE2">{CompanyName}</span><span style="font-style: italic;">.</span>You can now use <a href="https://www.{CompanyUrl}/myAccount.php">My Account</a> to track your orders, check out faster, and get occasional email offers and news about <span class="STYLE2">{CompanyName}</span><span style="font-style: italic;">.</span>
+3 11 Register {CompanyUrl} - none {CompanyUrl}
+4 24 Email {CompanyUrl} - none {CompanyUrl}
+5 E_1 Email Welcome to {CompanyUrl}! Welcome {FirstName}, <br />
+<br />
+Thank you for registering with {CompanyName}.<span style="font-style: italic">&nbsp;</span> <br />
+As a member of the <em><font color="#0000ff">{CompanyUrl}</font></em> community, you will have access to our natural treats, premium treats, toys, and accessories right at your finger tips. You&rsquo;ll also find these great services:
+<ul>
+    <li>Our online store provides quick and easy orders to your door step</li>
+    <li>&nbsp;{CompanyUrl}'s newsletters loaded with current events and special discounts</li>
+    <li><font color="#0000ff"><a href="http://www.{CompanyUrl}/feature.php">Specials </a></font></li>
+</ul>
+Subscribe/Unsubscribe<br />
+Contact us by email at <a href="mailto:support@{CompanyUrl}">info@{CompanyUrl}</a> or by phone at {Phone}.
+6 E_3 Email {CompanyUrl} - Order Confirmation Communication Dear {FirstName} {LastName}, <br />
+<br />
+Thank you for ordering from {CompanyUrl}.&nbsp; Your order is complete and your purchase information is below.&nbsp; Be sure to keep a copy of this email for your records.&nbsp; A copy of your order can be found in your {CompanyUrl}&nbsp; account.&nbsp; You can access your account at <a href="https://www.{CompanyUrl}/myAccount.php">https://www.{CompanyUrl}/myAccount.php</a> <br />
+<br />
+ORDER DATE: {Date}<br />
+&nbsp;<br />
+WEB ORDER NUMBER: {OrderID}<br />
+&nbsp;<br />
+CUSTOMER INFORMATION<br />
+{FirstName} {LastName}<br />
+{Phone}<br />
+{Email}<br />
+{Address} <br />
+{Address2}<br />
+{City}, {State} {Zip}&nbsp; <br />
+<br />
+PURCHASE INFORMATION<br />
+&nbsp;{OrderInfo}<br />
+&nbsp;<br />
+Customer Support <br />
+Email: <a href="mailto:support@{CompanyUrl}">info@{CompanyUrl}</a><br />
+Phone:{Phone}
+7 M_17 Message checkOut.php > Shopping Cart Order(Thank you for your purchase) Thank you for your purchase.<br />
+You have successfully placed your order.<br />
+You will receive an email, once your order is confirmed.<br />
+<a href="https://www.{CompanyUrl}/myAccount.php">Log on </a>to to check your order status with your Order Number.
+8 gg Email {CompanyUrl} - none {CompanyUrl}
+9 22 Register Wholesale > Register Thank you for your interest in our company's products!<br />
+we will notify you immediately after our routine authentication procedures. <br />
+Customer Services
+10 11 Email Welcome to {CompanyUrl} Wholesale! Welcome {Wholesaler_Contact_Name}, Thank you for registering with <a href="http://{CompanyUrl}/">{CompanyUrl}</a><em> </em>Wholesale.&nbsp; You will be receiving an email from a <a href="http://{CompanyUrl}/">{CompanyUrl}</a><em> </em>administrator<em> </em>to confirm your registration.&nbsp; Once your registration has been approved as a <em><a href="http://{CompanyUrl}/">d{CompanyUrl}</a></em> Wholesale customer, you will have access to our premium treats at wholesale prices.&nbsp; You can now use <em><u><a href="http://www.{CompanyUrl}/WholesaleLogin.php">Your Account</a></u></em>&nbsp; to track your orders from <em><a href="http://{CompanyUrl}/">{CompanyUrl}</a>.</em> Only the best for your best friend, <a href="http://{CompanyUrl}/">{CompanyUrl}</a> <strong>Questions About Orders?</strong> Contact us by email at <a target="_blank" href="mailto:support@{CompanyUrl}"><strong>support@</strong>{CompanyUrl}</a>
+
++++++++++
+hkhostco_spen - ltt_inventory:(0)
+Inventory_ID,Inventory_Item,Inventory_Title,Inventory_Category,Inventory_Category_Name,Inventory_Qty,Inventory_LastUpdate
+
++++++++++
+hkhostco_spen - ltt_language:(3)
+Language_ID,Language_Name,Language_Links
+1 English en-us
+2 Chinese (Simplified) zh-cn
+3 Chinese (Traditional) zh-tw
+
++++++++++
+hkhostco_spen - ltt_leveldiscount:(0)
+Level_LevelID,Level_Name,Level_Description,Level_Category,Level_byProducts
+
++++++++++
+hkhostco_spen - ltt_mag:(0)
+Products_ID,Products_Name,Products_SubCategory,Products_SubName,Products_Status,Products_Description,Products_Picture,Products_File,Products_LastDate,Products_Taxis,Products_Popular,Products_FreeCategory,Products_Location
+
++++++++++
+hkhostco_spen - ltt_mail_config:(1)
+Mail_Server,Mail_Username,Mail_Password,Mail_From,Mail_FromName,Mail_Sender,Mail_Subject,Mail_Body,Mail_ReplyTo,Mail_ReplyTo_Name,Mail_To
+mail.xxx.com send@xxx.com abcsendabc info@xxx.com xxx.com info@xxx.com info@xxx.com xxx.com a:6:{s:8:"Register";s:11:"xxx@xxx.com";s:8:"NewOrder";s:13:"order@xxx.com";s:11:"OrderCancel";s:13:"order@xxx.com";s:12:"OrderShipped";s:13:"order@xxx.com";s:9:"ContactUs";s:15:"contact@xxx.com";s:8:"Feedback";s:13:"erics@xxx.com";}
+
++++++++++
+hkhostco_spen - ltt_navigation:(8)
+Navigation_ID,Navigation_Name,Navigation_LinksLeft,Navigation_LinksRight
+1 WEBSITE Ladmin_menu.php?System=Website Ladmin_Pages.php?MenuOption=List
+2 SALEORDER Ladmin_menu.php?System=Orders Ladmin_Sale_Order.php?menuOption=list
+3 PURCHASE Ladmin_menu.php?System=PurchaseOrder Ladmin_Purchase_Order.php?menuOption=list
+4 CUSTOMER Ladmin_menu.php?System=Customers Ladmin_Customer.php?menuOption=list
+5 VENDOR Ladmin_menu.php?System=Vendor Ladmin_Vendor.php?menuOption=list
+6 INVENTORY Ladmin_menu.php?System=Products Ladmin_Category.php?MenuOption=List
+7 SHIPPING Ladmin_menu.php?System=Shipping Ladmin_Shipping.php?MenuOption=Setup
+8 ACCESSORY Ladmin_menu.php?System=AccessoryModules Ladmin_News.php?MenuOption=List
+
++++++++++
+hkhostco_spen - ltt_news:(52)
+Events_ID,Events_Title,Events_Type,Events_Image,Events_StartTime,Events_EndTime,Events_Description,Events_Status,Events_Summary,Events_Url,Events_Category,Events_Hit
+54 <p>秋日之旅&mdash;&mdash;沐浴金風的南昆山</p> 新闻资讯 1387670400 <p>秋高氣爽的11月，善本團隊乘著濃濃秋意，踏上了一段遊山玩水的旅程。避開了炎暑日照的灼熱和寒冬朔風的凜冽，秋日裡的重岩疊嶂自有一番脫俗的清麗。我們在大自然中尋覓著光影交錯的魅力，也為叢林涓流裝點了聲聲笑語，善本的2013，為此平添了美滿的一頁。</p>
+<p><img alt="" src="images/fckeditor/20131222/3_A_Sunshine_in_Autumn_2013122223568.png" /> <br />
+秋日</p>
+<p>&nbsp;</p>
+<p><img alt="" src="images/fckeditor/20131222/3_B_Because_of_You_2013122220956.png" /> <br />
+因為心中有陽光</p>
+<p>&nbsp;</p>
+<p><img alt="" src="images/fckeditor/20131222/3_C_little_forest_2013122249841.png" /> <br />
+雛叢</p> 2 <p>秋高氣爽的11月，善本團隊乘著濃濃秋意，踏上了一段遊山玩水的旅程。</p> 0001.0000.0000.0000 2784068
+8 <p>SendPoints at BIBF 2013</p> News images/news/20140105/news03_2014010528597.jpg 1377993600 <p>As Greek philosopher Cicero said, &ldquo;A home without books is like a body without a soul.&rdquo; The Beijing International Book Fair (BIBF), held at China International Exhibition Center (New Venue) from the end of August to the very beginning of September each year, is the largest event in the Asian publishing Market. In the past years BIBF has been structured as a platform to introduce high-quality books from around the world into China and to present Chinese publications to the world. 2013 BIBF contains the General Publishing Zone, the innovative Digital Publishing Zone, Children&rsquo;s Book, Cartoons &amp; Animation, the Rights Center and the Library Acquisition Zone, etc.</p>
+<p><img alt="" src="images/fckeditor/20131126/BIBF2013_2013112692666.jpg" /></p>
+<p>2013, SendPoints at BIBF</p> 2 <p>As Greek philosopher Cicero said, &ldquo;A home without books is like a body without a soul.&rdquo; The Beijing International Book Fair (BIBF), held at China International Exhibition Center (New Venue) from the end of August to the very beginning of September each year, is the largest event in the Asian publishing Market.</p> 0002.0000.0000.0000 2784460
+9 <p>SendPoints at Frankfurt Book Fair 2013</p> News images/news/20140105/news04_2014010599744.jpg 1383004800 <p>Each year, SendPoints attends one of the world&rsquo;s most important book exhibitions&mdash;Frankfurt Book Fair with the best of our publications. <br />
+We sell books, but more importantly, we share good designs and we value creative ideas.<br />
+At the 2013 Frankfurt Book Fair, SendPointspresented a number of our well-received publications. The recognition and feedback we have gathered constitute the motivation for us to go further and do better.<br />
+<br />
+At SendPoints, we believe in dreams and we believe in the power of giving our very best to shoot for the stars.</p>
+<p align="left"><img alt="" src="images/fckeditor/20131127/frankfurt1-1_2013112768774.jpg" /></p> 2 <p>Each year, SendPoints attends one of the world&rsquo;s most important book exhibitions&mdash;Frankfurt Book Fair with the best of our publications.</p> 0002.0000.0000.0000 2788489
+23 <p>A Trip to Amsterdam</p> News images/news/20140105/news01_2014010537339.jpg 1383091200 <p>On a land surrounded by water, Amsterdam is a city known for its unique history, art and culture, with bookstores scattering along its streets and alleys.<br />
+<br />
+During our stay in the city, we had a little journey to traceSendPoints books in three famous local bookstores.<br />
+<br />
+Mendo is specialized in publications on design, art and photography. Enwrapped inyellow light, the cozy space can easily make you lose track of time and get lost in the world of books.<br />
+<br />
+American Book Center (ABC) is the largest English bookstore in Amsterdam. The circling bookshelves make you feel like you are right at the center of a book ocean. The best decoration is done about the stairs, around which shelves of books spiralsup to the roof. Climbing up the stairs, you will see the whole spacein a different form, compressed on the pages of the magazines, novels, and books of art, design and poetry, etc.<br />
+<br />
+Athenaeum Boekhandel (AB) is known for their literature books and their vast number of magazines covering almost everything from fashion, lifestyle, and economy to indie works.<br />
+<br />
+Visiting bookstores is a journey to experience the world on prints. This trip to search SendPoints books in Amsterdam yielded fruit as we learned how our ideas and thoughts have reflected on our books have found their way to the West, and reached out toa much wider audience, which gave us the very best encouragement to carry on our endeavors in the days to come.</p> 2 <p>On a land surrounded by water, Amsterdam is a city known for its unique history, art and culture, with bookstores scattering along its streets and alleys.</p> 0002.0000.0000.0000 2784782
+51 <p>2013與書同行之法蘭克福書展</p> 新闻资讯 1352160000 <p>善本每年都會參加全世界最重要的書展，法蘭克福書展。每一次的書展我們都會把最好的出版物，最用心的設計帶給更多的人。這份責任不僅僅是銷售書籍那麼簡單更多的是我們希望能夠讓每個人都體會到設計的魅力，感受到生活的美好。<br />
+<br />
+在2013年的法蘭克福書展上善本出版為大家帶去了很多的好書，同時也受到了很多人的讚賞與喜愛。這些認同都會成為是我們前進的動力。<br />
+<br />
+善本始終相信通過我們的努力與堅持我們的夢想最終會實現。<br />
+&nbsp;</p>
+ <p><img alt="" src="images/fckeditor/20131126/BIBF2013_2013112692666.jpg" /></p> 2 <p>在2013年的法蘭克福書展上善本出版為大家帶去了很多的好書，同時也受到了很多人的讚賞與喜愛。</p> 0001.0000.0000.0000 2782450
+52 <p>2013与书同行之BIBF</p> 新闻资讯 1385510400 <p>希臘哲學家西塞羅說,無書之屋如同無魂之軀。每年的八月底到九月初,是亞洲出版業最盛大的一次書籍展覽活動&mdash;&mdash;北京書展舉辦的日子。書展的目的不僅在於創造書籍的場所,更是為了「把世界圖書引進中國,讓中國圖書走向世界」。據不完全瞭解,今年于八月二十八至九月一日在新國展舉辦的北京書展並不比往年熱鬧。有人不禁發問,現今新媒體將如何影響出版業的發展?書籍的未來在哪裡?答案也許正如今年書展的主題「書籍&mdash;&mdash;人類永恆的摯友」所傳達的,書籍是一個不會消亡的舞臺,它將與我們同行。善本帶著這樣的信念,一直堅持在路上。我們相信,書籍出版將會再次看見了一個新天新地。</p>
+<p><img alt="" src="images/fckeditor/20131126/BIBF2013_2013112692666.jpg" /></p>
+<p>2013年,善本圖書在北京書展</p> 2 <p>北京書展舉辦的日子。書展的目的不僅在於創造書籍的場所,更是為了「把世界圖書引進中國,讓中國圖書走向世界」。</p> 0001.0000.0000.0000 2782443
+53 <p>阿姆斯特丹之旅</p> 新闻资讯 1387670400 <p>阿姆斯特丹，這一個充滿了文化與傳統的水城中，有很多隱藏在大街小巷的書店。善本就拜訪了當地其中三家著名的書店，就讓我們去一起踏上一場善本書籍的發現之旅吧。</p>
+<p>Mendo，一家專門經營設計、藝術、攝影類書籍的書店。店內洋溢著黃色的燈光，坐在舒服的座位上，很容易讓人陶醉於此，忘了時間在走。</p>
+<p>American Book Center （ABC）是阿姆斯特丹最大的英文類書店。圓形的書架環繞四周，讓你有置身于書的海洋之感。這些環繞著樓梯並延伸至天花板的書架就是書店裡最好的裝飾。從雜誌、小說到藝術、設計與詩歌，各個領域的書籍貫穿了這四層空間，在這裡，仿佛可以尋找到整個世界。</p>
+<p>Athenaeum Boekhandel（AB）是阿姆斯特丹又一著名的書店，主要經營文學類的書籍，包括了各類語言、歷史、宗教、藝術、設計等領域，此外還有大量的雜誌，品種相當齊全。更讓人驚喜的是他們的雜誌涵蓋了時尚、生活、經濟、小眾獨立等眾多領域，滿足了不同讀者的不同需求。每一本雜誌都具有它自己的特色，如同被賦予了生命力的性格，豐富而不雷同。</p>
+<p>暢遊於各色的書店，我們也同時在感受著自己的心靈世界，經歷環境的渲染，歷史的震撼，藝術的薰陶，美感的衝擊，我們的思想因而得以昇華，旅程因而變得不可思議。而在這些書店的幽幽書香中，我們也欣喜地發現了善本的書籍，可謂此趟旅程最讓我們感動、感恩的收穫。因為我們知道我們的書籍已經走到西方，能夠被更多的讀者所接觸、所閱讀；因為我們有了莫大的動力，更加確信善本要做的就是把更多的美好帶給更多的人；因為這份使命，讓我們未來的路有了更明晰的航標；因為這份快樂，我們會一直走下去，並且會走得更遠更好。</p> 2 <p>阿姆斯特丹，這一個充滿了文化與傳統的水城中，有很多隱藏在大街小巷的書店。善本就拜訪了當地其中三家著名的書店，就讓我們去一起踏上一場善本書籍的發現之旅吧。</p> 0001.0000.0000.0000 2782428
+24 <p>Hiking in the Autumn Breeze</p> News images/news/20140105/news02_2014010524938.jpg 1384646400 <p><img alt="" src="images/fckeditor/20131222/3_A_Sunshine_in_Autumn_2013122223568.png" /> <br />
+Sunshine in Autumn</p>
+<p>&nbsp;</p>
+<p><img alt="" src="images/fckeditor/20131222/3_B_Because_of_You_2013122220956.png" /> <br />
+&quot;Because of You&quot;</p>
+<p>&nbsp;</p>
+<p><img alt="" src="images/fckeditor/20131222/3_C_little_forest_2013122249841.png" /> <br />
+little forest</p> 2 <p>Hiking in the Autumn Breeze</p> 0002.0000.0000.0000 2952653
+43 NATURE GRAPHICS 首页热门产品 images/products/nature_graphics_l.jpg 1385856000 2 publication_detail.php?id=149&cId=0002.0001.0000.0000 0004.0000.0000.0000 2782415
+44 CREATIVE BAGS 首页热门产品 images/products/creative_bags_l.jpg 1385942400 2 publication_detail.php?id=148&cId=0002.0001.0000.0000 0004.0000.0000.0000 2782415
+
++++++++++
+hkhostco_spen - ltt_news_category:(4)
+Category_ID,Category_Parent,Category_depth,Category_name,Category_Images,Category_Content,Category_Taxis,Category_News,Category_State,Category_BoxRetail,Category_BoxWholesale,Category_Method,Category_MethodWholesale,Category_Edit,Category_Display
+0001.0000.0000.0000 0 0 新闻资讯 0 4 1 Retail 1 1
+0002.0000.0000.0000 0 0 News 0 4 1 Retail 1 1
+0003.0000.0000.0000 0 0 店面展示 0 0 Retail 1 1
+0004.0000.0000.0000 0 0 首页热门产品 0 44 1 Retail 1 1
+
++++++++++
+hkhostco_spen - ltt_orders:(0)
+Orders_ID,Orders_OrderID,Orders_ReferralID,Orders_Commission,Orders_CustomerName,Orders_CustomerType,Orders_CustomerID,Orders_CustomerInfo,Orders_BillingInfo,Orders_Tax,Orders_ShippingInfo,Orders_CartInfo,Orders_Subtotal,Orders_Total,Orders_Tracking,Orders_Status,Orders_Date,Orders_Comment,Orders_EmailSend,Orders_Discount,Orders_Shipping,Orders_tmpSubtotal
+
++++++++++
+hkhostco_spen - ltt_pages:(15)
+Pages_ID,Pages_Name,Pages_Links,Pages_Image,Pages_Note,Pages_State
+1 关于我们 about <p>SendPoints Publishing Co.,Ltd.was founded in 2006 with its office based in Guangzhou, China. Dedicated to design books and magazines publishing,SendPoints publications cover the fields of art and culture, graphic design, product design, fashion design, exhibition design, interior design, architecture, etc.SendPoints has published over 200 titles and more than 40 issues of BranD magazine, and has sold more than a million copies of its publications in English,Japanese, Spanish, Traditional and Simplified Chinese. We have a developed sales network covering Europe, North and South America, and Asia, including the United Kingdom, Germany,France, the United States, Canada, Japan, South Korea, India, Singapore, and China etc.
+At SendPoints, Teamwork, Love, Efficiency and Adventure are what make us who we are today.We take “Better development, better life” as our principle to inspire creativity, bringing inspirations and surprises to designers around the globe while encouraging the advancement of the design industry. Publishing inspiring books has always been and will always be our goal.
+</p>
+<p>善本出版有限公司成立于2006年，专注于艺术设计类图书和杂志出版，内容涉及文化艺术、平面设计、服装设计、产品设计、展览设计、室内设计、建筑设计等领域。善本公司已经出版图书两百多种和BranD杂志四十多期，涉及英文、日文、西班牙文、中文简体、中文繁体等多个语种，销售网络覆盖欧洲、美洲、亚洲，包括英国、德国、法国、美国、加拿大、日本、韩国、印度、新加坡、中国等国家或地区。善本人以“ 让生命得到发展”为宗旨，以“团结、有爱、高效、冒险”为口号，作为设计文化的推动者，愿意开启一个创意与交流的窗口，向全球设计师传播最新的创意作品，为全球设计师带来无限的灵感和惊喜，让世界充满灵感！
+</p> 1
+31 优势分析 superiority 1
+32 会员展示 members <p>建设中，感谢您的关注！</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> 1
+11 经营理念 idea <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>我们以港式甜品文化为依托、以弘扬港式甜品文化为宗旨；本着&ldquo;<strong class="brown3">开拓创新、<img width="338" hspace="10" height="266" align="left" alt="" src="images/about/about_04.png" />诚信务实、专业热情</strong>&rdquo;的经营理念；以健康、新鲜、卫生、时尚的<strong class="brown3">产品</strong>；优质、规范、热情的<strong class="brown3">服务</strong>；优雅、舒适、浪漫的<strong class="brown3">环境</strong>，把我们打造成一个对美食享受、对服务挑剔、对环境追求的时尚男女们追捧的休闲养生餐饮新天地。 <br />
+<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>我们保证:产品原料进货渠道正规、制作规范、坚持<strong class="brown3">现点现做</strong>。<strong class="brown3">不添加任何色素香精防腐剂</strong>,以保证每份产品的健康、卫生、美味。 <br />
+<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>我们承诺:本着以客为本的原则,坚持<strong class="brown3">系统</strong>的服务培训，<strong class="brown3">规范</strong>的服务流程,<strong class="brown3">热情</strong>的服务态度，为您提供五星级的尊享服务。</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>我们以强大的新品研发能力，立足甜品源头的有利条件，随时掌握甜品行业新动态,开发吸收新产品。始终走在时尚最前沿,为你的发展提供强力支持。</p> 1
+17 优势分析 superiority <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 美食部落以港式甜品文化为依托、以弘扬港式甜品文化为宗旨；本着&ldquo;<strong>开拓创新、诚信务实、专业热情</strong>&rdquo;的经营理念；以健康、新鲜、卫生、时尚的<strong>产品</strong>；优质、规范、热情的<strong>服务</strong>；优雅、舒适、浪漫的<strong>环境</strong>，把美食部落打造成一个对美食享受、对服务挑剔、对环境追求的时尚男女们追捧的休闲养生餐饮新天地。 <br />
+我们保证:产品原料进货渠道正规、制作规范、<strong>坚持现点现做</strong>。<strong>不添加任何色素香精防腐剂</strong>，以保证每份产品的健康、卫生、美味。 <br />
+我们承诺:本着以客为本的原则，坚持<strong>系统</strong>的服务培训，<strong>规范</strong>的服务流程，<strong>热情</strong>的服务态度，为您提供五星级的尊享服务。 <br />
+美食部落以强大的新品研发能力，立足甜品源头的有利条件随时掌握甜品行业新动态，开发吸收新产品。始终走在时尚最前沿，为发展提供强力支持。</p> 1
+12 首页介绍 indexAbout <p>美食部落餐饮管理有限公司拥有众多包括市场评估，店面选址，产品制作，人员培训，企划推广，运作管理，新品开发，后勤配给等各方面实际操作经验丰富的专业人才。并掌握有完善稳定的原料，设备采购渠道。</p> 1
+16 首页产品 indexProduct <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td width="30">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td align="center"><a href="products.php?cId=0002.0001.0000.0000&amp;pId="><img width="164" height="155" alt="" src="http://www.tonglow.com/images/temp/pro1.png" /></a></td>
+            <td align="center"><a href="products.php?cId=0002.0007.0000.0000&amp;pId="><img width="164" height="155" alt="" src="http://www.tonglow.com/images/temp/pro2.png" /></a></td>
+            <td align="center"><a href="products.php?cId=0002.0009.0000.0000&amp;pId=&amp;page=3"><img width="164" height="155" alt="" src="http://www.tonglow.com/images/temp/pro3.png" /></a></td>
+            <td align="center"><a href="products.php?cId=0002.0007.0000.0000&amp;pId="><img width="164" height="155" alt="" src="http://www.tonglow.com/images/temp/pro4.png" /></a></td>
+            <td>&nbsp;</td>
+            <td width="30">&nbsp;</td>
+        </tr>
+    </tbody>
+</table> 1
+15 联系我们 contact <p><strong>总部公司地址</strong>：<br />
+400电话：400-0222-157<br />
+邮箱:<a href="mailto:meishibuluo@yeah.net">meishibuluo@yeah.net</a><br />
+地址：长沙市星沙大道楚天世纪城9幢2602室<br />
+QQ: 2440930943<br />
+QQ: 2697569180<br />
+QQ: 1731223367<br />
+QQ: 2425447297</p> 1
+20 加盟流程 join_step 1
+21 投资预算 join_invest 1
+
++++++++++
+hkhostco_spen - ltt_po_item:(0)
+POItem_ID,POItem_POID,POItem_No,POItem_Description,POItem_Cost,POItem_Qty,POItem_Other,POItem_LatestDate,POItem_NewQty,POItem_TotalQty
+
++++++++++
+hkhostco_spen - ltt_products:(232)
+Products_ID,Products_Name,Products_SubCategory,Products_SubName,Products_ProductsID,Products_Vendor,Products_ItemCode,Products_Sku,Products_Status,Products_Commend,Products_Original_Price,Products_Retail_Price,Products_Amount,Products_Description,Products_Picture,Products_File,Products_Dynamic,Products_Correlation,Products_All,Products_Add_Name,Products_Add_Time,Products_OtherPrice,Products_FreeCategory,Products_LastDate,Products_Warehouse,Products_Taxis,Products_QtyEmail,Products_Popular,Products_Color,Products_Size,Products_AgeFilter,Products_Address,Products_Phone,Products_Fax,Products_Email,Products_Website,Products_Keyword,Products_Top,Products_Additional,Products_Location,Products_Property,Products_UploadVideo,Products_UploadVideo_Postfix,Products_UploadVideoPic
+1 2012A /0001.0001.0000.0000 BranD SpectrumISM SpectrumISM 光谱主义 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:829:"<p>SpectrumISM 光譜主義，為讀者呈現出以色彩為主要表現方式的品牌設計作品，深度挖掘其背後的表現意義, 應用意義以及色彩在設計趨勢中的引導價值。 色彩在設計的過程當中，為我們提供了永不枯竭的靈感。而作為色彩的源頭，光譜之所以呈現出令人震撼的視覺美感，不僅是因為光譜中包含了無窮無盡的顏色，更重要的是，光譜展現給我們自然所賦予宇宙萬物的生存姿態：精彩紛呈，無限可能。 「光譜主義」作為BranD 的創刊號，希望可以秉承我們團隊對與光譜之主張和意義的認同，為我們的讀者呈現出以色彩為主要表現方式的品牌設計作品，深度挖掘其背後的表現意義, 應用意義以及色彩在設計趨勢中的引導價值。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:191:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200<br />
+English</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:584:"<p>&ldquo;SpectrumISM&rdquo; is the launching issue of the [BranD] magazine. In this issue, we showcase the works and design initiatives that are fascinated by the magic of colours. Across all the elements that are included within Brand Design, we want to present to our readers: the reason behind the world&rsquo;s fascination about colour, colour as a medium of communication, the naturalist (or not) approach towards understanding design and life, the potential and identity related to colour manipulation, the design philosophy among designers or studios regarding to colours.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:14:"brand_01_n.jpg";s:1:"l";s:14:"brand_01_l.jpg";s:1:"s";s:14:"brand_01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:14:"brand_02_n.jpg";s:1:"l";s:14:"brand_02_l.jpg";s:1:"s";s:14:"brand_02_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:14:"brand_04_n.jpg";s:1:"l";s:14:"brand_04_l.jpg";s:1:"s";s:14:"brand_04_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:14:"brand_06_n.jpg";s:1:"l";s:14:"brand_06_l.jpg";s:1:"s";s:14:"brand_06_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:14:"brand_07_n.jpg";s:1:"l";s:14:"brand_07_l.jpg";s:1:"s";s:14:"brand_07_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:15:"brand_010_n.jpg";s:1:"l";s:15:"brand_010_l.jpg";s:1:"s";s:15:"brand_010_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:15:"brand_039_n.jpg";s:1:"l";s:15:"brand_039_l.jpg";s:1:"s";s:15:"brand_039_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:44:39 N; 1387843200 1 2226-6542 1 0
+2 2012B /0001.0001.0000.0000 BranD SensualISM SensualISM 肉欲主义 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:247:"<p>肉慾主義：赤裸，慾望，本能。通過大膽的圖文，刺激您的肉慾感官！本期雜誌收集了來自世界各國的挑動「性」品牌設計作品，展示、分析並挖掘原慾在品牌價值中的應用及影響。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:203:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200/208<br />
+English/Chinese</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:524:"<p>In this issue, we showcase the works and design initiatives that are fascinated by the magic of human temptations, to be more specific, the lure towards sex, food, money and experience. Across all the elements that are included within Brand Design, we want to present to our readers: how are the visual world interpreting the temptation towards food, sex, money and experience; what effects do they have on the brand values; how food and sex are unified to create something irresistible within a brand and etc&hellip;</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:16:"issue2__01_n.jpg";s:1:"l";s:16:"issue2__01_l.jpg";s:1:"s";s:16:"issue2__01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:17:"issue2__015_n.jpg";s:1:"l";s:17:"issue2__015_l.jpg";s:1:"s";s:17:"issue2__015_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:17:"issue2__021_n.jpg";s:1:"l";s:17:"issue2__021_l.jpg";s:1:"s";s:17:"issue2__021_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:17:"issue2__071_n.jpg";s:1:"l";s:17:"issue2__071_l.jpg";s:1:"s";s:17:"issue2__071_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:17:"issue2__084_n.jpg";s:1:"l";s:17:"issue2__084_l.jpg";s:1:"s";s:17:"issue2__084_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:17:"issue2__088_n.jpg";s:1:"l";s:17:"issue2__088_l.jpg";s:1:"s";s:17:"issue2__088_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:17:"issue2__096_n.jpg";s:1:"l";s:17:"issue2__096_l.jpg";s:1:"s";s:17:"issue2__096_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:44:27 N; 1387843200 2 2226-6542 1 0
+3 2012C /0001.0001.0000.0000 BranD MinimalISM MinimalISM 极简主义 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:419:"<p>極簡主義帶給我們的總是自然、舒適與平和。這世界，太多的陳詞濫調，過分修飾，過分設計；這世界，需要一些純粹的事物，讓人回歸本源，發現真正所需。 本期雜誌收集了來自世界各國的極簡主義品牌設計作品，在商業設計的語境中解構極簡主義，為讀者呈現出極簡主義合理性、前瞻性及引領潮流的一面。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:203:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200/208<br />
+English/Chinese</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:500:"<p>In this issue, we showcase the brand design works and design initiatives that are fascinated by &ldquo;Minimalism&rdquo;. Across all the elements that are included within Brand Design, we want to present to our readers: how minimalism is invading the whole VI world of Brand Design, what is the philosophy behind Minimalism that fascinates the global commercial world, how the philosophy changes the consuming behaviour which results in the emerging of various trend-leading BI and MI designs.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"issue3_01_n.jpg";s:1:"l";s:15:"issue3_01_l.jpg";s:1:"s";s:15:"issue3_01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:15:"issue3_10_n.jpg";s:1:"l";s:15:"issue3_10_l.jpg";s:1:"s";s:15:"issue3_10_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:15:"issue3_60_n.jpg";s:1:"l";s:15:"issue3_60_l.jpg";s:1:"s";s:15:"issue3_60_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:15:"issue3_76_n.jpg";s:1:"l";s:15:"issue3_76_l.jpg";s:1:"s";s:15:"issue3_76_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:16:"issue3_142_n.jpg";s:1:"l";s:16:"issue3_142_l.jpg";s:1:"s";s:16:"issue3_142_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:16:"issue3_146_n.jpg";s:1:"l";s:16:"issue3_146_l.jpg";s:1:"s";s:16:"issue3_146_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:16:"issue3_186_n.jpg";s:1:"l";s:16:"issue3_186_l.jpg";s:1:"s";s:16:"issue3_186_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:44:13 N; 1387843200 3 2226-6542 1 0
+4 2012D /0001.0001.0000.0000 BranD FuturISM FuturISM 未来主义 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:382:"<p>未來主義狂熱於速度、科技、年輕活力等元素，被某些特定行業品牌所追捧。本期雜誌收集了來自世界各國的未來主義品牌設計作品，為您展示商業設計語境中未來主義的多樣化視覺風格，未來主義設計在商業設計領域的最新趨勢、未來主義品牌價值的發展方向以及品牌設計的未來。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:203:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200/216<br />
+English/Chinese</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:454:"<p>In this issue, we showcase the brand design works and design initiatives that are fascinated by future. Across all the elements that are included within Brand Design, we want to present to our readers: how the idea of future is interpreted by the whole VI world of Brand Design, how our commercial world is being shaped by the future-living leader and brands, what inside their values triggers the brand design world to celebrate in their designs.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"issue4_01_n.jpg";s:1:"l";s:15:"issue4_01_l.jpg";s:1:"s";s:15:"issue4_01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:15:"issue4_24_n.jpg";s:1:"l";s:15:"issue4_24_l.jpg";s:1:"s";s:15:"issue4_24_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:15:"issue4_90_n.jpg";s:1:"l";s:15:"issue4_90_l.jpg";s:1:"s";s:15:"issue4_90_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:16:"issue4_124_n.jpg";s:1:"l";s:16:"issue4_124_l.jpg";s:1:"s";s:16:"issue4_124_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:19:"issue4_130_b1_n.jpg";s:1:"l";s:19:"issue4_130_b1_l.jpg";s:1:"s";s:19:"issue4_130_b1_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:19:"issue4_138_b2_n.jpg";s:1:"l";s:19:"issue4_138_b2_l.jpg";s:1:"s";s:19:"issue4_138_b2_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:16:"issue4_170_n.jpg";s:1:"l";s:16:"issue4_170_l.jpg";s:1:"s";s:16:"issue4_170_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:38:49 N; 1387843200 4 2226-6542 1 0
+5 2012E /0001.0001.0000.0000 BranD OrganicISM OrganicISM 原生主义 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:424:"<p>原生主義，大自然賜予人類的哲理，不僅教授給我們認識大自然的方式，同時，也決定了我們的創意方式。本期雜誌收集了來自世界各國的原生主義品牌設計作品，為您展現商業設計語境中富有衝擊力的原生主義視覺元素以及規則，解讀 &ldquo;大自然&rdquo;在設計、創意方法論、藝術指導以及市場營銷過程中的應用。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:203:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200/216<br />
+English/chinese</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:622:"<p>In this issue, we showcase the brand design works and design initiatives that are fascinated by natural organisms and the concept of organic. Across all the elements that are included within Brand Design, we want to present to our readers: how the idea of organic is interpreted by the whole VI world of Brand Design, how our commercial world is being shaped by the growing organic products/brands and market, what is the natural belief behind &ldquo;organic&rdquo; and how is it interpreted culturally in the commercial world, what inside their values triggers the brand design world to celebrate in their designs.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"issue5-01_n.jpg";s:1:"l";s:15:"issue5-01_l.jpg";s:1:"s";s:15:"issue5-01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:17:"issue5-a_07_n.jpg";s:1:"l";s:17:"issue5-a_07_l.jpg";s:1:"s";s:17:"issue5-a_07_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:17:"issue5-a_10_n.jpg";s:1:"l";s:17:"issue5-a_10_l.jpg";s:1:"s";s:17:"issue5-a_10_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:17:"issue5-a_47_n.jpg";s:1:"l";s:17:"issue5-a_47_l.jpg";s:1:"s";s:17:"issue5-a_47_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:17:"issue5-a_64_n.jpg";s:1:"l";s:17:"issue5-a_64_l.jpg";s:1:"s";s:17:"issue5-a_64_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:17:"issue5-b_16_n.jpg";s:1:"l";s:17:"issue5-b_16_l.jpg";s:1:"s";s:17:"issue5-b_16_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:17:"issue5-c_02_n.jpg";s:1:"l";s:17:"issue5-c_02_l.jpg";s:1:"s";s:17:"issue5-c_02_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:15:43 N; 1387843200 5 2226-6542 1 0
+6 2012F /0001.0001.0000.0000 BranD NowISM NowISM 幸福主义 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:647:"<p>人為追求幸福而生，但現代人卻越來越難有幸福感。歐美各國的現狀正在改變著世界的信仰體系，同時我們被告知的或我們所經歷的也要求我們重新構築自己的思想體系。 幸福的概念正在改變，幸福感超越了純粹的愉悅感和物質滿足感，漸漸獲得了更為寬泛的定義，包括環境可持續、責任感、精神動力、自我完善、和諧互敬等意義。本期BranD 雜誌集合眾多注重幸福感的品牌設計作品的同時，採訪了近百個來自全球各地的設計師，通過對幸福的界定，共同探索幸福感對品牌的價值。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:203:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200/216<br />
+English/Chinese</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:733:"<p>In this issue, we showcase the brand design works and design initiatives that are fascinated by the understanding and aspiration towards Happiness, which is achieved by responsibility, moderate materialism, self-realization and spiritual pursuit. Across all the elements that are included within Brand Design, we want to present to our readers: how happiness is interpreted visually? What are the values that Nowism has installed on us? What is Nowism in relations with Consumerism? How is the ultimate happiness achieved in our real world and the commercial world? What is the escape for us to survive in the increasingly turbulent society? And how different brands merge happiness and self-realization in their brand values?</p>";} a:6:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:17:"issue6-a_01_n.jpg";s:1:"l";s:17:"issue6-a_01_l.jpg";s:1:"s";s:17:"issue6-a_01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:17:"issue6-a_14_n.jpg";s:1:"l";s:17:"issue6-a_14_l.jpg";s:1:"s";s:17:"issue6-a_14_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:17:"issue6-a_15_n.jpg";s:1:"l";s:17:"issue6-a_15_l.jpg";s:1:"s";s:17:"issue6-a_15_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:17:"issue6-a_17_n.jpg";s:1:"l";s:17:"issue6-a_17_l.jpg";s:1:"s";s:17:"issue6-a_17_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:17:"issue6-a_20_n.jpg";s:1:"l";s:17:"issue6-a_20_l.jpg";s:1:"s";s:17:"issue6-a_20_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:26:"issue6-b_(185-208p)7_n.jpg";s:1:"l";s:26:"issue6-b_(185-208p)7_l.jpg";s:1:"s";s:26:"issue6-b_(185-208p)7_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:15:29 N; 1387843200 6 2226-6542 1 0
+7 2013A /0001.0001.0000.0000 BranD Brand Your Relaxation Brand Your Relaxation 品牌呼吸 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:417:"<p>现代的都市人群越来越重视放松与休闲，这为商业的休闲空间提供了很大的发展空间。这些场所在提供休闲和娱乐服务的同時，也影响着人们的生活方式。本期&ldquo;品牌呼吸&rdquo;展示休闲空间品牌设计的多种可能性，通过深度访谈，剖析商业休闲空间的形象创意过程及商业运营模式，探索新的生活休闲方式。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:208:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200<br />
+English/Chinese, English</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:721:"<p>Pursuing relaxation has become one of the trends of people&rsquo;s life. It not only booms the consuming market, but also influences our social life in every aspect. Due to such a tendency, commercial spaces for relaxation develop vigorously all around the world, and meanwhile bring people a lot of enjoyment. In this issue, we will be showcasing the world&rsquo;s excellent brand design works about relaxing spaces. Through in-depth interviews with designers on their process of building the brands of these relaxing spaces, innovative lifestyle and creative business modes will be deeply explored, which finally discovers how designers utilize brand design of commercial purpose to display innovative lifestyle.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"issue7_01_n.jpg";s:1:"l";s:15:"issue7_01_l.jpg";s:1:"s";s:15:"issue7_01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:18:"issue7_p1476_n.jpg";s:1:"l";s:18:"issue7_p1476_l.jpg";s:1:"s";s:18:"issue7_p1476_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:18:"issue7_p1478_n.jpg";s:1:"l";s:18:"issue7_p1478_l.jpg";s:1:"s";s:18:"issue7_p1478_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:18:"issue7_p1479_n.jpg";s:1:"l";s:18:"issue7_p1479_l.jpg";s:1:"s";s:18:"issue7_p1479_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:19:"issue7_p14711_n.jpg";s:1:"l";s:19:"issue7_p14711_l.jpg";s:1:"s";s:19:"issue7_p14711_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:19:"issue7_p14725_n.jpg";s:1:"l";s:19:"issue7_p14725_l.jpg";s:1:"s";s:19:"issue7_p14725_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:19:"issue7_p14740_n.jpg";s:1:"l";s:19:"issue7_p14740_l.jpg";s:1:"s";s:19:"issue7_p14740_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:15:14 N; 1387843200 7 2226-6542 1 0
+8 2013B /0001.0001.0000.0000 BranD The Fashion Issue The Fashion Issue 万众向尚 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:229:"<p>本期主題主要圍繞時尚來開展，介紹時尚品牌的內在價值和外在魅力，探索這些品牌所倡導的時尚態度及品牌概念，時尚品牌如何構建和諧，人文以及有愛的環境氛圍。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:208:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200<br />
+English/Chinese, English</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:481:"<p>In this issue, we will be showcasing the world&rsquo;s excellent brand design works about fashon to find out how these fashion brands express their internal value and external fascination together. Through in-depth interviews and features, we will present to our readers the ideas or concepts behind the brands and explore what kind of lifestyle or attitude fashion brands advocate and finally discover how these brands build a harmonious, humanistic and loving environment.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"issue8_01_n.jpg";s:1:"l";s:15:"issue8_01_l.jpg";s:1:"s";s:15:"issue8_01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:14:"issue8_5_n.jpg";s:1:"l";s:14:"issue8_5_l.jpg";s:1:"s";s:14:"issue8_5_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:14:"issue8_6_n.jpg";s:1:"l";s:14:"issue8_6_l.jpg";s:1:"s";s:14:"issue8_6_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:14:"issue8_8_n.jpg";s:1:"l";s:14:"issue8_8_l.jpg";s:1:"s";s:14:"issue8_8_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:15:"issue8_13_n.jpg";s:1:"l";s:15:"issue8_13_l.jpg";s:1:"s";s:15:"issue8_13_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:15:"issue8_29_n.jpg";s:1:"l";s:15:"issue8_29_l.jpg";s:1:"s";s:15:"issue8_29_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:15:"issue8_33_n.jpg";s:1:"l";s:15:"issue8_33_l.jpg";s:1:"s";s:15:"issue8_33_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:14:58 N; 1387843200 8 2226-6542 1 0
+9 2013C /0001.0001.0000.0000 BranD World of Innocence World of Innocence 无邪世界 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:390:"<p>本期雜誌帶領大家進入一個無邪的世界，一起了解那些想讓世界变得更加美好的品牌，以及其充滿大愛的品牌价值和杰出的設計，探索品牌所推崇的純粹的生活方式。通過對品牌案例的展示，BranD向讀者介紹相關品牌的價值觀、這些價值如何通過設計傳達給受眾、以及傳達這些價值的意義。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:208:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200<br />
+English/Chinese, English</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:429:"<p>In this issue, BranD explores the World of Innocence, celebrating the brands that present us the &ldquo;pure living&rdquo; lifestyle. Showcasing the world's excellent brand design works in products and services tailored for sustainable living, people with special needs, children, and global equality. BranD cultivates the ideas behind the brand values, the reason and how these values communicates in modern design world.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"issue9_01_n.jpg";s:1:"l";s:15:"issue9_01_l.jpg";s:1:"s";s:15:"issue9_01_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:15:"issue9_02_n.jpg";s:1:"l";s:15:"issue9_02_l.jpg";s:1:"s";s:15:"issue9_02_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:15:"issue9_03_n.jpg";s:1:"l";s:15:"issue9_03_l.jpg";s:1:"s";s:15:"issue9_03_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:15:"issue9_04_n.jpg";s:1:"l";s:15:"issue9_04_l.jpg";s:1:"s";s:15:"issue9_04_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:15:"issue9_05_n.jpg";s:1:"l";s:15:"issue9_05_l.jpg";s:1:"s";s:15:"issue9_05_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:15:"issue9_06_n.jpg";s:1:"l";s:15:"issue9_06_l.jpg";s:1:"s";s:15:"issue9_06_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:15:"issue9_07_n.jpg";s:1:"l";s:15:"issue9_07_l.jpg";s:1:"s";s:15:"issue9_07_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:14:44 N; 1387843200 9 2226-6542 1 0
+10 2013D /0001.0001.0000.0000 BranD The Animals The Animals 万兽商界 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:399:"<p>這一期，BranD雜誌帶您走入&ldquo;動物世界&rdquo;，探尋動物王國與商業世界的共通之處，發掘存在於消費者、企業家和設計師中的&ldquo;動物本能&rdquo;。從動物的地域屬性到其文化內涵，通過對動物本性與各方面特徵的探索，BranD雜誌揭開動物的神秘魅力，瞭解設計師如何在設計中詮釋動物的魅力。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:208:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200<br />
+English/Chinese, English</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:440:"<p>In this issue, BranD takes a fresh vision on commercial design world by exploring the animals or the nature of animals that have inspired brand values and designs around the world. From geometrical attributes to cultural implications of animals, we take every single side of animals to our discussions in the magazine,looking into the reasons behind our fascinations of animals, and how those fascinations are interpreted by designs.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"issue10_1_n.jpg";s:1:"l";s:15:"issue10_1_l.jpg";s:1:"s";s:15:"issue10_1_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:15:"issue10_2_n.jpg";s:1:"l";s:15:"issue10_2_l.jpg";s:1:"s";s:15:"issue10_2_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:15:"issue10_3_n.jpg";s:1:"l";s:15:"issue10_3_l.jpg";s:1:"s";s:15:"issue10_3_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:15:"issue10_4_n.jpg";s:1:"l";s:15:"issue10_4_l.jpg";s:1:"s";s:15:"issue10_4_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:15:"issue10_5_n.jpg";s:1:"l";s:15:"issue10_5_l.jpg";s:1:"s";s:15:"issue10_5_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:15:"issue10_6_n.jpg";s:1:"l";s:15:"issue10_6_l.jpg";s:1:"s";s:15:"issue10_6_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:15:"issue10_7_n.jpg";s:1:"l";s:15:"issue10_7_l.jpg";s:1:"s";s:15:"issue10_7_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-06 07:14:29 N; 1387843200 10 2226-6542 1 0
+93 第三屆全國插畫藝術展 /0002.0001.0000.0000 平面設計 The Third China Illustration Exhibition 第三届全国插画艺术展 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:501:"插畫這一藝術形式也逐漸被更多的人瞭解，並在全國蔓延進而形成熱潮。插畫作為文化產業的重要組成部分，對創意設計產業具有廣泛的支援滲透性，對社會文化形態具有重要的審美影響力。而自2007年 “首屆全國插畫藝術展”在深圳舉辦至今，這項活動已經走過了四個年頭，舉辦了三屆。本書是第三屆全國插畫藝術展作品集，另收錄當屆評委日本插畫大師U.G.佐藤插畫海報展。";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:254:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-15625-0-0 <br />
+SendPoints <br />
+Hardcover <br />
+210 &times; 285mm <br />
+356 <br />
+English/Chinese <br />
+Graphic Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:177:"<p>China is a large country with deep influence on the world. This China Illustration Exhibition observed the visual information of Chinese illustrators from various angles.</p>";} a:5:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:19:"3th_cie_cover_n.jpg";s:1:"l";s:19:"3th_cie_cover_l.jpg";s:1:"s";s:19:"3th_cie_cover_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:16:"3th_cie_01_n.jpg";s:1:"l";s:16:"3th_cie_01_l.jpg";s:1:"s";s:16:"3th_cie_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:16:"3th_cie_02_n.jpg";s:1:"l";s:16:"3th_cie_02_l.jpg";s:1:"s";s:16:"3th_cie_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:16:"3th_cie_03_n.jpg";s:1:"l";s:16:"3th_cie_03_l.jpg";s:1:"s";s:16:"3th_cie_03_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:16:"3th_cie_04_n.jpg";s:1:"l";s:16:"3th_cie_04_l.jpg";s:1:"s";s:16:"3th_cie_04_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-05 08:28:06 N; 1387929600 2 978-988-15625-0-0 1 0
+94 收藏時間 /0002.0001.0000.0000 平面設計 Creative Calendar Collection 收藏时间 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:245:"<p>這是一本介紹和展示日曆設計的書籍。<br />
+<br />
+該書收集了來自世界各地最優秀的日曆設計作品，這些作品在滿足了日曆的基本的需求之外也呈現出非常豐富的趣味性與藝術性。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:246:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-19610-0-6 <br />
+SendPoints <br />
+Hardcover <br />
+220 &times; 290mm <br />
+256 <br />
+English <br />
+Graphic Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:212:"This book introduces calendar design to our readers, presenting a collection of the best calendar designs around the world, which s are both practical in use and meaningful and artistic enough to please the eyes.";} a:5:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:34:"creative_caiendor_collection_n.jpg";s:1:"l";s:34:"creative_caiendor_collection_l.jpg";s:1:"s";s:34:"creative_caiendor_collection_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:37:"creative_caiendor_collection_01_n.jpg";s:1:"l";s:37:"creative_caiendor_collection_01_l.jpg";s:1:"s";s:37:"creative_caiendor_collection_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:37:"creative_caiendor_collection_02_n.jpg";s:1:"l";s:37:"creative_caiendor_collection_02_l.jpg";s:1:"s";s:37:"creative_caiendor_collection_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:37:"creative_caiendor_collection_03_n.jpg";s:1:"l";s:37:"creative_caiendor_collection_03_l.jpg";s:1:"s";s:37:"creative_caiendor_collection_03_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:37:"creative_caiendor_collection_04_n.jpg";s:1:"l";s:37:"creative_caiendor_collection_04_l.jpg";s:1:"s";s:37:"creative_caiendor_collection_04_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-05 08:18:07 N; 1387929600 1 978-988-19610-0-6 1 0
+95 創意產品設計 /0002.0002.0000.0000 產品設計 Creative  Product Design 创意产品设计 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:513:"<p>生活時常是一次充滿創意和樂趣的感受!</p>
+<p>技術、材料的進步和環保意識的增強，以及對舒適、簡便、多功能化的生活方式的追求，無疑都對產品設計提出新的要求。 《創意產品設計》全書圍繞這貼近人們日常生活的創意小產品展開，集中展示了來自世界各地充滿智慧與創意的產品設計，並對創意做深入的分析。全書分為燈光、桌椅、架子和櫃子、廚具與器具、工具五大類別。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:246:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-16835-3-3 <br />
+SendPoints <br />
+Hardcover <br />
+225 &times; 225mm <br />
+400 <br />
+English <br />
+Product Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:549:"<p>Life is filled with innovation and joy!</p>
+<p>The advancement in technology and the use of new materials, the increase of public environmental protection awareness, as well as people&rsquo;s seeking for better, easier and multifunctional living, bring fresh challenges to product design. <strong>Creative Product Design</strong> presents and analyses creative products in everyday life from various parts of the world. The book features five parts: lamps, tables &amp; chairs, shelves &amp; cabinets, kitchenware &amp; containers and tools.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:36:"creative_product_design_cover1_n.jpg";s:1:"l";s:36:"creative_product_design_cover1_l.jpg";s:1:"s";s:36:"creative_product_design_cover1_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:32:"creative_product_design_01_n.jpg";s:1:"l";s:32:"creative_product_design_01_l.jpg";s:1:"s";s:32:"creative_product_design_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:32:"creative_product_design_02_n.jpg";s:1:"l";s:32:"creative_product_design_02_l.jpg";s:1:"s";s:32:"creative_product_design_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:32:"creative_product_design_03_n.jpg";s:1:"l";s:32:"creative_product_design_03_l.jpg";s:1:"s";s:32:"creative_product_design_03_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:32:"creative_product_design_04_n.jpg";s:1:"l";s:32:"creative_product_design_04_l.jpg";s:1:"s";s:32:"creative_product_design_04_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:32:"creative_product_design_05_n.jpg";s:1:"l";s:32:"creative_product_design_05_l.jpg";s:1:"s";s:32:"creative_product_design_05_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:32:"creative_product_design_06_n.jpg";s:1:"l";s:32:"creative_product_design_06_l.jpg";s:1:"s";s:32:"creative_product_design_06_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-05 12:53:25 N; 1387929600 4 978-988-16835-3-3 1 0
+96 歐洲頂級工業草圖設計 /0002.0002.0000.0000 產品設計 Top Sketches 欧洲顶级工业草图设计 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:427:"<p>書裡的所有草圖都是由世界頂尖設計師完成的真實案例，從產品價值分析、設計原理、設計理念、產品細節設計到產品發佈向讀者展示了完整的設計過程。優秀的草圖設計與珍貴的解釋說明有很好的教育意義與實踐價值。通過本書不僅能幫助年輕的設計師與學生提高創新能力，同時也為設計行業帶來新的靈感與創意。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:246:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-17933-6-2 <br />
+SendPoints <br />
+Hardcover <br />
+210 &times; 297mm <br />
+200 <br />
+English <br />
+Product Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:517:"<p><strong>Top Sketches</strong> compiled sketches of realized projects by renowned designers from all over the world, accompanied by product value analysis, design philosophy, design concept, product detail design and the product launch. The book is most valuable for it unveils the creative process usually unknown by others with the sketches and explanations. It is especially instructive for young designers and design students in attempts to improve ingenuity and will spark new ideas in the design industry.</p>";} a:4:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:18:"top_sketches_n.jpg";s:1:"l";s:18:"top_sketches_l.jpg";s:1:"s";s:18:"top_sketches_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:21:"top_sketches_01_n.jpg";s:1:"l";s:21:"top_sketches_01_l.jpg";s:1:"s";s:21:"top_sketches_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:21:"top_sketches_02_n.jpg";s:1:"l";s:21:"top_sketches_02_l.jpg";s:1:"s";s:21:"top_sketches_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:21:"top_sketches_03_n.jpg";s:1:"l";s:21:"top_sketches_03_l.jpg";s:1:"s";s:21:"top_sketches_03_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} adminsys 2014-03-09 06:38:36 N; 1387929600 1 978-988-17933-6-2 1 0
+97 設計趨勢報告 /0002.0002.0000.0000 產品設計 Design Trend Report 设计趋势报告 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:424:"<p>本書展示的是楊明潔設計顧問機構常年跟踪的十多類設計行業的最新發展趨勢的報告和總結，而該機構在產品策略與設計、服務設計及品牌整合等領域具備領先優勢，產品類別橫跨家電、消費電子、家居產品、時尚產品、公共設施及信息導向系統等行業，相信該書的經驗無論是對設計師還是企業，都極具參考價值。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:246:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-15625-7-9 <br />
+SendPoints <br />
+Hardcover <br />
+220 &times; 220mm <br />
+330 <br />
+Chinese <br />
+Product Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:579:"<p><strong>Design Trend Report</strong> presents readers with the latest trend in more than ten design fields through a collection of reports and summaries by Yang Design. Yang Design is a leading product strategy and design consultancy specialized in product strategy and design, user experience and service design, whose products are found in various fields: domestic appliances, consumer electronics, household products, lifestyle products, public service, and signage. The expertise and insight introduced in this book will be helpful for both corporations and designers.</p>";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:25:"design_trend_report_n.jpg";s:1:"l";s:25:"design_trend_report_l.jpg";s:1:"s";s:25:"design_trend_report_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-05 08:50:04 N; 1387929600 3 978-988-15625-7-9 1 0
+98 藝術，手工，設計 /0002.0002.0000.0000 產品設計 Merge - Art, Craft, Design 艺术，手工，设计 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:540:"<p>批量生產產品也許為生活帶來了便利，但手工作品卻製造了驚喜和釋放了人無限創意。 《藝術，手工，設計》引領讀者踏足全球，去到亞洲，澳洲，歐洲和南北美洲尋找最引人入勝的手工製品和藝術作品。本書介紹了80多位手工藝術家，他們精湛的手藝和豐富的想像力將各種材料和物品&mdash;&mdash;從木材、塑料到鈕扣和磁帶，化為令人驚嘆的藝術品。同時通過介紹，讓讀者體會到創作的樂趣和自豪感。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:246:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-16835-5-7 <br />
+SendPoints <br />
+Hardcover <br />
+210 &times; 250mm <br />
+260 <br />
+English <br />
+Product Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:572:"<p>Mass production has facilitated people&rsquo;s daily life, but handmade craft brings surprises and liberates imagination. Merge takes readers on a trip around the globe to Asia, Australia, Europe, North and South America, in search of the most fascinating handcrafted arts and designs. The book introduces more than 80 artists whose admirable craftsmanship and innovation bestow magic on materials and objects of all sorts, ranging from wood, plastic to buttons and tape etc., and leads readers to feel the joy and pride of creating such awe-inspiring works of art.</p>";} a:1:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:11:"merge_n.jpg";s:1:"l";s:11:"merge_l.jpg";s:1:"s";s:11:"merge_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2013-12-31 08:45:18 N; 1387929600 2 978-988-16835-5-7 1 0
+100 時尚之眼 - 歐洲頂級櫥窗設計 /0002.0003.0000.0000 展覽展示設計 Fashion Eyes - Top European Display Window Designs 时尚之眼 - 欧洲顶级橱窗设计 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:367:"<p>本書收入了當前歐洲大量時尚奢侈品牌的最新櫥窗設計作品，這些櫥窗展示作品五光十色、流彩繽紛，充分地代表了當前的潮流趨勢。同時也通過這些具有代表性的作品全面地展現了櫥窗設計的發展趨勢。本書更通過圖片的形式向讀者回顧了巴黎服裝時尚潮流發展的過程。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:248:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-15624-5-6 <br />
+SendPoints <br />
+Hardcover <br />
+220 &times; 300mm<br />
+312 <br />
+English <br />
+Exhibition Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:339:"<p><strong>Fashion Eyes</strong> is a collection of the latest display window designs for European luxury brands,depicting vividly the current fashion trend and the latest development in display window design. Also, this beautifully illustrated book chronicle the development of fashion trend in Paris through a large number of photos.</p>";} a:5:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:18:"fashion_eyes_n.jpg";s:1:"l";s:18:"fashion_eyes_l.jpg";s:1:"s";s:18:"fashion_eyes_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:21:"fashion_eyes_01_n.jpg";s:1:"l";s:21:"fashion_eyes_01_l.jpg";s:1:"s";s:21:"fashion_eyes_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:21:"fashion_eyes_02_n.jpg";s:1:"l";s:21:"fashion_eyes_02_l.jpg";s:1:"s";s:21:"fashion_eyes_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:21:"fashion_eyes_03_n.jpg";s:1:"l";s:21:"fashion_eyes_03_l.jpg";s:1:"s";s:21:"fashion_eyes_03_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:21:"fashion_eyes_04_n.jpg";s:1:"l";s:21:"fashion_eyes_04_l.jpg";s:1:"s";s:21:"fashion_eyes_04_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-07 09:23:11 N; 1387929600 2 978-988-15624-5-6 1 0
+101 現場力量 - 展覽與舞臺設計 /0002.0003.0000.0000 展覽展示設計 Show Time - Exhibition and Stage Design 现场力量 - 展览与舞台设计 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:329:"<p>《現場力量》分為三個部分:會展展館、主題展覽和舞臺設計。本書收錄了大量世界著名設計師、建築師的作品，帶你感受最有視覺衝擊力的展臺、最有創意的展覽、以及最震撼人心的舞臺，通過此書你會感受到「現場力量」所蘊含的無窮魅力。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:249:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-15624-8-7 <br />
+SendPoints <br />
+Hardcover <br />
+220 &times; 300mm <br />
+304 <br />
+English <br />
+Exhibition Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:294:"<p><strong>Show Time</strong> covers trade fair design, theme exhibition design and stage design. Collecting the most captivating designs, the book takes readers on a tour to experience creative display designs, the most stimulating stage designs and above all, to feel the power of design.</p>";} a:5:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:15:"show_time_n.jpg";s:1:"l";s:15:"show_time_l.jpg";s:1:"s";s:15:"show_time_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:18:"show_time_01_n.jpg";s:1:"l";s:18:"show_time_01_l.jpg";s:1:"s";s:18:"show_time_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:18:"show_time_02_n.jpg";s:1:"l";s:18:"show_time_02_l.jpg";s:1:"s";s:18:"show_time_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:18:"show_time_03_n.jpg";s:1:"l";s:18:"show_time_03_l.jpg";s:1:"s";s:18:"show_time_03_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:18:"show_time_04_n.jpg";s:1:"l";s:18:"show_time_04_l.jpg";s:1:"s";s:18:"show_time_04_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-05 12:44:10 N; 1387929600 1 978-988-15624-8-7 1 0
+103 城市視覺 - 室內裝飾 /0002.0004.0000.0000 室內設計 City Visual - Interior Embellishment 城市视觉 - 室内装饰 1 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:602:"<p>室內視覺作為城市視覺的一個重要組成部分，對城市景觀有著不可忽視的影響力。它注重室內色彩與各種元素的搭配運用，是一種合理組織和塑造具有美感、舒適又方便的室內環境的綜合性藝術。 本書精心挑選了世界範圍內著名設計師和設計機構最新設計案例，將不同類型的城市視覺設計作品分類呈現，展示其設計最新成果，呈現當下處於流行前沿的設計理念，並主要體現造型與色彩兩大要素。必然能夠為設計界專業人士提供更全面豐富的參考。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:247:"<h2>ISBN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE<br />
+THEME</h2>
+<h3>978-988-16835-0-2 <br />
+SendPoints <br />
+Hardcover <br />
+240 &times; 320mm <br />
+320 <br />
+English <br />
+Interior Design</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:685:"<p>As one of the vital components in city visual, interior visual has a considerable impact on the overall city image. Emphasizing on the harmony of color and other design elements, interior visual is an art that pursues an organic organization answering to the needs for aesthetics and comfort. This book compiles the latest works from renowned designers and design studios all over the world and presents them under a well-arranged category so as to demonstrate the current interior embellishment trend in design, with an emphasis on their shapes and colors. <strong>City Visual</strong> is an inclusive reference for the professionals and people who are interested in the topic.</p>";} a:5:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:46:"city_visual_interior_embellishment_cover_n.jpg";s:1:"l";s:46:"city_visual_interior_embellishment_cover_l.jpg";s:1:"s";s:46:"city_visual_interior_embellishment_cover_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:43:"city_visual_interior_embellishment_01_n.jpg";s:1:"l";s:43:"city_visual_interior_embellishment_01_l.jpg";s:1:"s";s:43:"city_visual_interior_embellishment_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:43:"city_visual_interior_embellishment_02_n.jpg";s:1:"l";s:43:"city_visual_interior_embellishment_02_l.jpg";s:1:"s";s:43:"city_visual_interior_embellishment_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:43:"city_visual_interior_embellishment_03_n.jpg";s:1:"l";s:43:"city_visual_interior_embellishment_03_l.jpg";s:1:"s";s:43:"city_visual_interior_embellishment_03_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:43:"city_visual_interior_embellishment_04_n.jpg";s:1:"l";s:43:"city_visual_interior_embellishment_04_l.jpg";s:1:"s";s:43:"city_visual_interior_embellishment_04_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} admin 2014-01-05 12:52:55 N; 1387929600 6 978-988-16835-0-2 1 0
+147 2014D /0001.0001.0000.0000 BranD Science of Design Science of Design “科學設計法” 2 1 0.00 0.00 a:7:{s:13:"PicturesTitle";s:6:"Images";s:16:"DescriptionTitle";s:11:"Description";s:18:"DescriptionContent";s:729:"<p>科學發展的里程碑有史以來一直都標誌著人類了解和征服自然的重要時刻。設計，作為一個承載科學最終成型方式和科學所創造出多重功能的最終載體，已經承擔起了人類了解與世界互動方式的重擔。設計的崛起不僅使科學對於人類行為和渴望的觀察得以實現，而且在一定程度上讓設計師可以通過交互設計和體驗設計創造出新的互動方式和體驗。<br />
+本期，我們一起探尋：科學與設計之間的魅力互動；科學賦予設計的靈感以及設計如何讓科學變得平易近人，淺顯易懂；並且這些方式是如何最終定義理性設計方法論在傳播設計中的未來趨勢。</p>";s:13:"FeaturesTitle";s:8:"Features";s:15:"FeaturesContent";s:199:"<h2>ISSN<br />
+PUBLISHER<br />
+BINDING<br />
+TRIM SIZE<br />
+PAGES<br />
+LANGUAGE</h2>
+<h3>2226-6542<br />
+SendPoints<br />
+Softcover<br />
+220 x 295mm<br />
+200<br />
+English/Chinese</h3>";s:19:"SpecificationsTitle";s:14:"Specifications";s:21:"SpecificationsContent";s:858:"<p>The milestones of Science have always been the definingmoments of human understanding and conqueringthe nature. Design, as the ultimate mediumof how science is being shaped and carried via multiplefunctions, has come tothe centre stage of howpeople understand their interaction with the world.The rise of design not only increased the chancesof successful actualization of various scientific analysesof human behaviours and ambitions, but alsomade it possible for designers to create new humaninteractions (interaction design) and experiences(experiences design).<br />
+This issue explores the beautiful interactionsbetween science and design, the inspirationsof science over design and the designs that havemade science approachable and understandable,together to define the future trend of Rational DesignMethodology for communication design world.</p>";} a:7:{s:3:"top";a:1:{i:0;a:3:{s:1:"n";s:16:"issue16_en_n.jpg";s:1:"l";s:16:"issue16_en_l.jpg";s:1:"s";s:16:"issue16_en_s.jpg";}}s:7:"topleft";a:1:{i:0;a:3:{s:1:"n";s:19:"issue16_en_01_n.jpg";s:1:"l";s:19:"issue16_en_01_l.jpg";s:1:"s";s:19:"issue16_en_01_s.jpg";}}s:8:"topright";a:1:{i:0;a:3:{s:1:"n";s:19:"issue16_en_02_n.jpg";s:1:"l";s:19:"issue16_en_02_l.jpg";s:1:"s";s:19:"issue16_en_02_s.jpg";}}s:9:"topbottom";a:1:{i:0;a:3:{s:1:"n";s:19:"issue16_en_03_n.jpg";s:1:"l";s:19:"issue16_en_03_l.jpg";s:1:"s";s:19:"issue16_en_03_s.jpg";}}s:7:"topFive";a:1:{i:0;a:3:{s:1:"n";s:19:"issue16_en_04_n.jpg";s:1:"l";s:19:"issue16_en_04_l.jpg";s:1:"s";s:19:"issue16_en_04_s.jpg";}}s:6:"topSix";a:1:{i:0;a:3:{s:1:"n";s:19:"issue16_en_05_n.jpg";s:1:"l";s:19:"issue16_en_05_l.jpg";s:1:"s";s:19:"issue16_en_05_s.jpg";}}s:8:"topSeven";a:1:{i:0;a:3:{s:1:"n";s:19:"issue16_en_06_n.jpg";s:1:"l";s:19:"issue16_en_06_l.jpg";s:1:"s";s:19:"issue16_en_06_s.jpg";}}} N; a:6:{s:6:"Weight";s:0:"";s:6:"Length";s:0:"";s:5:"Width";s:0:"";s:6:"Height";s:0:"";s:10:"VideoWidth";s:0:"";s:11:"VideoHeight";s:0:"";} adminsys 2016-08-18 14:36:51 N; 1409875200 16 2226-6542 1 0
+
++++++++++
+hkhostco_spen - ltt_products_mail:(1)
+Products_Mail_ID,Products_Mail_Class,Products_Mail_Sub,Products_Mail_From,Products_Mail_To,Products_Mail_Content,Products_Mail_Time,Products_Mail_IP
+1 test@test.com neilt@lttnetsolutions.com hello~ 2008-03-12 10:12:17 192.168.1.100
+
++++++++++
+hkhostco_spen - ltt_products_qty:(0)
+Qty_ID,Qty_ProID,Qty_More,Qty_Price,Qty_Weight
+
++++++++++
+hkhostco_spen - ltt_products_rma:(0)
+RMA_ID,RMA_Number,RMA_ORDERID,RMA_Customer,RMA_Authorized,RMA_Status,RMA_Data,RMA_Note
+
++++++++++
+hkhostco_spen - ltt_purchase_order:(0)
+PO_ID,PO_VendorNo,PO_VendorName,PO_CustomerNo,PO_CustomerName,PO_Type,PO_Status,PO_StartDate,PO_ArriveDate,PO_FOB_Port,PO_Freight_Charge,PO_Note
+
++++++++++
+hkhostco_spen - ltt_review:(0)
+Review_ID,Review_CategoryID,Review_ProductID,Review_Title,Review_Content,Review_Name,Review_IP,Review_Client,Review_Time,Review_State
+
++++++++++
+hkhostco_spen - ltt_shipping_box:(3)
+Box_ID,Box_Name,Box_Weight,Box_Item,Box_Length,Box_Additional
+1 test1 2 15 1 2.50
+2 test2 1 15 1 2.50
+3 test3 1 15 1 2.50
+
++++++++++
+hkhostco_spen - ltt_shipping_manual:(1)
+Manual_ID,Manual_Calculate,Manual_Name,Manual_Price,Manual_Condition,Manual_From,Manual_To,Manual_Countries,Manual_State,Manual_State_Exclude
+1 Weight 31321 12121.00 item US
+
++++++++++
+hkhostco_spen - ltt_shipping_price:(0)
+Price_ID,Price_StartRange,Price_EndRange,Price_PriceType
+
++++++++++
+hkhostco_spen - ltt_shipping_price_type:(4)
+Price_Type_ID,Price_Type_Method,Price_Type_Sort
+23 222222222222 22
+15 1111111111 0
+29 44444444444444 90
+22 33333333333333 89
+
++++++++++
+hkhostco_spen - ltt_shipping_realtime:(1)
+RealTime_CarrierName,RealTime_AccessKey,RealTime_Account,RealTime_Password,RealTime_Link,RealTime_AdditionalFees,RealTime_MaxItem,RealTime_Length,RealTime_Width,RealTime_Height,RealTime_Weight,RealTime_CaseQty
+UPS 123123 123123 123123 https://111.com 1 6 8 6 3 1 2
+
++++++++++
+hkhostco_spen - ltt_shopping_log:(0)
+Shopping_Log_ID,Shopping_Log_Name,Shopping_Log_IP,Shopping_Log_Date,Shopping_Log_Time,Shopping_Log_Shopping,Shopping_Log_CheckOut_1,Shopping_Log_CheckOut_2,Shopping_Log_CheckOut_Done,Shopping_Log_Done,Shopping_Log_order
+
++++++++++
+hkhostco_spen - ltt_useraccount:(0)
+User_CustomerID,User_SalesID,User_CustomerType,User_LastName,User_FirstName,User_MiddleName,User_Prefix,User_Suffix,User_Email,User_Phone,User_Fax,User_Company,User_Company_Type,User_Department,User_Gender,User_Address,User_Address2,User_City,User_State,User_Province,User_Country,User_Zip,User_Website,User_Login,User_Password,User_TempPassword,User_LastLogin,User_FailCount,User_DOB,User_PriceLevelID,User_VendorInfo,User_Status,User_ContactInfo,User_PayOption,User_RepInfo,User_OtherInfo,User_Auditing,User_Aware,User_RegisterType,User_TaxID,User_ResellerID,User_Upload,User_Note,User_Title,User_SendEmail,User_ShippingInfo,customers_default_address_id,customers_newsletter,User_Update,User_Principle_Owner,User_Email2
+
++++++++++
+hkhostco_spen - ltt_vendoraccount:(0)
+Vendor_ID,Vendor_VendorID,Vendor_SalesID,Vendor_VendorType,Vendor_Email,Vendor_Phone,Vendor_Fax,Vendor_Company,Vendor_Address,Vendor_City,Vendor_State,Vendor_Country,Vendor_Zip,Vendor_Website,Vendor_Login,Vendor_Password,Vendor_TempPassword,Vendor_LastLogin,Vendor_FailCount,Vendor_PriceLevelID,Vendor_VendorInfo,Vendor_ContactInfo,Vendor_PayOption,Vendor_RepInfo,Vendor_Note
+
++++++++++
+hkhostco_spen - ltt_warehouse:(0)
+Warehouse_ID,Warehouse_Name,Warehouse_Address1,Warehouse_Address2,Warehouse_City,Warehouse_ZipCode,Warehouse_State,Warehouse_Country,Warehouse_Phone,Warehouse_Fax,Warehouse_Email,Warehouse_Manager
+
++++++++++
+hkhostco_spen - ltt_websitetype:(6)
+WebSiteType_ID,WebSiteType_Name,WebSiteType_Intro,WebSiteType_Access
+1 Catalog Catalog a:1:{s:5:"Admin";a:6:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";}}
+2 E-Commerce E-Commerce a:1:{s:5:"Admin";a:27:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:12:"GlobalSearch";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";s:12:"GatewaySetup";s:1:"1";s:12:"CompanySetup";s:1:"1";s:10:"EmailSetup";s:1:"1";s:13:"LanguageSetup";s:1:"1";s:4:"ICES";s:1:"1";}}
+3 Hybrid E-Commerce Hybrid E-Commerce a:1:{s:5:"Admin";a:27:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:12:"GlobalSearch";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";s:12:"GatewaySetup";s:1:"1";s:12:"CompanySetup";s:1:"1";s:10:"EmailSetup";s:1:"1";s:13:"LanguageSetup";s:1:"1";s:4:"ICES";s:1:"1";}}
+4 B-2-B B-2-B a:1:{s:5:"Admin";a:27:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:12:"GlobalSearch";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";s:12:"GatewaySetup";s:1:"1";s:12:"CompanySetup";s:1:"1";s:10:"EmailSetup";s:1:"1";s:13:"LanguageSetup";s:1:"1";s:4:"ICES";s:1:"1";}}
+5 CMS CMS a:1:{s:5:"Admin";a:27:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:12:"GlobalSearch";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";s:12:"GatewaySetup";s:1:"1";s:12:"CompanySetup";s:1:"1";s:10:"EmailSetup";s:1:"1";s:13:"LanguageSetup";s:1:"1";s:4:"ICES";s:1:"1";}}
+6 Basic Inventory Basic Inventory a:1:{s:5:"Admin";a:39:{s:5:"Allow";s:1:"1";s:7:"Website";s:1:"1";s:7:"Contact";s:1:"1";s:9:"SaleOrder";s:1:"1";s:13:"PurchaseOrder";s:1:"1";s:8:"Customer";s:1:"1";s:6:"Vendor";s:1:"1";s:9:"Inventory";s:1:"1";s:8:"Products";s:1:"1";s:8:"Identity";s:1:"1";s:8:"Quantity";s:1:"1";s:12:"Relationship";s:1:"1";s:7:"Dynamic";s:1:"1";s:12:"FreeCategory";s:1:"1";s:10:"FileUpload";s:1:"1";s:15:"ProductPictures";s:1:"1";s:14:"DescriptionOne";s:1:"1";s:14:"DescriptionTwo";s:1:"1";s:16:"DescriptionThree";s:1:"1";s:9:"Warehouse";s:1:"1";s:10:"Adjustment";s:1:"1";s:3:"RMA";s:1:"1";s:10:"PriceLevel";s:1:"1";s:6:"Review";s:1:"1";s:8:"Shipping";s:1:"1";s:16:"AccessoryModules";s:1:"1";s:4:"News";s:1:"1";s:3:"FAQ";s:1:"1";s:12:"Testimonials";s:1:"1";s:11:"TellAFriend";s:1:"1";s:12:"GlobalSearch";s:1:"1";s:10:"Management";s:1:"1";s:11:"WebSiteType";s:1:"1";s:7:"Setting";s:1:"1";s:12:"GatewaySetup";s:1:"1";s:12:"CompanySetup";s:1:"1";s:10:"EmailSetup";s:1:"1";s:13:"LanguageSetup";s:1:"1";s:4:"ICES";s:1:"1";}}
+
++++++++++
+
+ 

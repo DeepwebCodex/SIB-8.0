@@ -1,0 +1,1745 @@
+zlinaero.com/prodotti.php?lang=2&id=17
+ 
+zlin_zlinaero - auth:(115)
+id,userid,pass,cognome,nome,permessi,vedimodi,expertmode,progettista,disegnatore,costo,attivo
+1 tizio tizio Ferrari Tiziano D 5 0 0 0 0.00 1
+2 zlin 23032001 Zlin Aviation D 5 0 0 0 0.00 1
+3 savage.ulm raul Russo Pasquale D 5 0 0 0 0.00 1
+4 glide ashask Baschieri Giuseppe D 2 0 0 0 0.00 1
+5 gaid rggokiur Renna Guido D 2 0 0 0 0.00 1
+6 a.shop 1224 Aeroshop D 2 0 0 0 0.00 1
+7 cacholland m.tefsen Michael tefsen D 2 0 0 0 0.00 1
+8 Tom 14789 Huber Tom D 2 0 0 0 0.00 1
+9 dimauro 1565 Di Mauro Maurizio D 2 0 0 0 0.00 1
+10 dalegre jpd152 jean paul dalegre SAVAGE CLASSIC 152 D 2 0 0 0 0.00 1
+91 D 0 0 0 0.00
+92 D 0 0 0 0.00
+93 D 0 0 0 0.00
+94 D 0 0 0 0.00
+95 D 0 0 0 0.00
+96 D 0 0 0 0.00
+97 Coppola Ranch D 2 0 0 0 0.00 1
+98 Jurgen cabrio Jurgen Shelling D 2 0 0 0 0.00 1
+99 Tony Toronto Cianfarani Tony D 2 0 0 0 0.00 1
+100 Markus 221 Markus Koc D 2 0 0 0 0.00 1
+
++++++++++
+zlin_zlinaero - categories:(0)
+categories_id,categories_image,parent_id,sort_order,date_added,last_modified
+
++++++++++
+zlin_zlinaero - categories_description:(0)
+categories_id,language_id,categories_name
+
++++++++++
+zlin_zlinaero - currency:(2)
+id,nome,sigla,default_currency
+1 EURO € 1
+2 United States Dollar $ 0
+
++++++++++
+zlin_zlinaero - defaults:(1)
+id,intranet_title,body_bgcolor,menu_text_color,ba_1,rss_1,rcs_1,tit_1,ba_2,rss_2,rcs_2,tit_2,a_capo,diviso_y_pop,configuratore,colore_titoli_schede
+1 Zlin Aviation Intranet - &copy; Dynamicad #efefef #ffffff #FFE477 #FFE477 #FFF5A6 #FFAC41 #FFAC41 #535E72 #e8e8e8 #535E72 80 1 1 #FFFFFF
+
++++++++++
+zlin_zlinaero - dotazioni:(0)
+id_prodotto,tabella,tabella_e
+
++++++++++
+zlin_zlinaero - famiglie_description:(74)
+id_famiglia,language_id,titolo,descrizione
+1 1 Engine area
+1 2 Engine area
+1 3 Engine area
+2 1 Engines
+3 2 Cabin
+2 2 Engines
+2 3
+2 4
+1 4 Engine area
+3 3
+
++++++++++
+zlin_zlinaero - famiglie_optionals:(19)
+id,pos,nome,nome_e,descrizione,descrizione_e,tipo
+1 2 0
+2 1 1
+3 8 0
+4 12 0
+5 13 1
+6 14 0
+7 15 1
+8 16 1
+9 17 0
+10 3 1
+
++++++++++
+zlin_zlinaero - faq:(21)
+id,pos,domanda,risposta,domanda_e,risposta_e
+1 1 Why did you decide to call it ''Savage''? Isn't that rather an aggressive name for an aircraft? Because it stems from a ''pure'' passion for a type of flying that is easy-going, calm and goes against the current trend. Today the market is oriented towards low-wing designs, side-by-side seating and front-wheel tricycle undercarriages. The Savage rebels against that approach and challenges it! Don't forget that this plane can really land in wild and remote areas. See our videos or the special accessories list, and you will understand why we consider our product really ''savage''. It is definitely all about the ownership and exciting flying experience that you get with it, which is really Savage! You get really involved and in love with this aircraft… And it is also about the “savage” places you can reach with it, which cannot even count as emergency places for landing with other aircrafts. Why did you decide to call it ''Savage''? Isn't that rather an aggressive name for an aircraft? Because it stems from a ''pure'' passion for a type of flying that is easy-going, calm and goes against the current trend. Today the market is oriented towards low-wing designs, side-by-side seating and front-wheel tricycle undercarriages. The Savage rebels against that approach and challenges it! Don't forget that this plane can really land in wild and remote areas. See our videos or the special accessories list, and you will understand why we consider our product really ''savage''. It is definitely all about the ownership and exciting flying experience that you get with it, which is really Savage! You get really involved and in love with this aircraft… And it is also about the “savage” places you can reach with it, which cannot even count as emergency places for landing with other aircrafts.
+2 2 How does the Savage handle? Inspired by one of the timeless legends of aviation, the Piper Cub, it consequently features many of its characteristics: excellent STOL performance, superb all-round visibility (even downwards with the optional transparent flooring), comfort, good handling and easy emergency landing thanks to its tough undercarriage and a ''flare'' at around 65 km/h. Much slower if equipped with our Vortex generators Kit, which today comes actually as a standard. Fast-steep climb rate and cruise performance are excellent thanks to contained weight and a low-drag cross-section. It is, then, a reasonably fast cruise machine that is also at home on small airfields with difficult, obstructed approaches. How does the Savage handle? Inspired by one of the timeless legends of aviation, the Piper Cub, it consequently features many of its characteristics: excellent STOL performance, superb all-round visibility (even downwards with the optional transparent flooring), comfort, good handling and easy emergency landing thanks to its tough undercarriage and a ''flare'' at around 65 km/h. Much slower if equipped with our Vortex generators Kit, which today comes actually as a standard. Fast-steep climb rate and cruise performance are excellent thanks to contained weight and a low-drag cross-section. It is, then, a reasonably fast cruise machine that is also at home on small airfields with difficult, obstructed approaches.
+3 3 What are the real difficulties with a ''taildragger'' undercarriage? A lot has been said about this: that it is difficult during taxiing because forward visibility is impaired, that propeller torque is difficult to contrast on take-off, that landing requires expert skills, that it is easy to flip over and is unmanageable in crosswinds and so on. These statements are often made by pilots with no direct experience of this type of aircraft who do not distinguish between different versions. Of course, pilots flying ''taildragger'' aircraft must always be fully aware of their particular characteristics because, on the one hand, while they require only short runways to give secure off-field landings, they do, on the other, require greater precision. With the Savage a pilot who is 1.65 m tall can see ahead perfectly without having to zigzag. Special devices which limit the effects of torque mean it is no longer necessary to ''pedal'' the aircraft this way to keep it under control. As it is high off the ground it cannot flip over, even when brakes hard on grass. With crosswinds, in addition to effectuating a classic ''U'' approach, it is advisable to set down the main undercarriage first gently and then let the tail drop to dissipate speed gradually: the brakes and powerful rudder do the rest. Finally, the real difference in landing lies in setting the correct approach speed, thanks to which the Savage almost automatically performs a ''3-point'' touchdown. What are the real difficulties with a ''taildragger'' undercarriage? A lot has been said about this: that it is difficult during taxiing because forward visibility is impaired, that propeller torque is difficult to contrast on take-off, that landing requires expert skills, that it is easy to flip over and is unmanageable in crosswinds and so on. These statements are often made by pilots with no direct experience of this type of aircraft who do not distinguish between different versions. Of course, pilots flying ''taildragger'' aircraft must always be fully aware of their particular characteristics because, on the one hand, while they require only short runways to give secure off-field landings, they do, on the other, require greater precision. With the Savage a pilot who is 1.65 m tall can see ahead perfectly without having to zigzag. Special devices which limit the effects of torque mean it is no longer necessary to ''pedal'' the aircraft this way to keep it under control. As it is high off the ground it cannot flip over, even when brakes hard on grass. With crosswinds, in addition to effectuating a classic ''U'' approach, it is advisable to set down the main undercarriage first gently and then let the tail drop to dissipate speed gradually: the brakes and powerful rudder do the rest. Finally, the real difference in landing lies in setting the correct approach speed, thanks to which the Savage almost automatically performs a ''3-point'' touchdown.
+4 4 Which is the best engine for the Savage? A good option is the 80 HP Rotax 912 UL, however the most delivered and requested is the Rotax 912 S (100hp). If the aircraft is to be used under certain conditions there are two turbo versions available (Rotax 914 115hp or our own turbo tuning with mechanical air compressor rated 120hp). BMW, LIMBACH and SUBARU engines have also been installed by private customers. Some Jabiru engines were also installed and are flying regularly. Some Smarts diesel engines are operated by few planes too. In addition to the mainstream Rotax range, we are offering the new CUB-S with a choice of Lycoming powerplants particularly suited to the high end LSA market: on one side the beautiful IO233 rated 115hp at 2800rpm, both in carburetor and fuel injected versions, and on the other side a special tuned and reworked lighter version of the IO320, with electronic ignition, and boosting 172hp for the most extreme STOL performance: it actually represents an industry record in power to weight ratio for an LSA, and there will be a lot going around this new aircraft in the next future. Which is the best engine for the Savage? A good option is the 80 HP Rotax 912 UL, however the most delivered and requested is the Rotax 912 S (100hp). If the aircraft is to be used under certain conditions there are two turbo versions available (Rotax 914 115hp or our own turbo tuning with mechanical air compressor rated 120hp). BMW, LIMBACH and SUBARU engines have also been installed by private customers. Some Jabiru engines were also installed and are flying regularly. Some Smarts diesel engines are operated by few planes too. In addition to the mainstream Rotax range, we are offering the new CUB-S with a choice of Lycoming powerplants particularly suited to the high end LSA market: on one side the beautiful IO233 rated 115hp at 2800rpm, both in carburetor and fuel injected versions, and on the other side a special tuned and reworked lighter version of the IO320, with electronic ignition, and boosting 172hp for the most extreme STOL performance: it actually represents an industry record in power to weight ratio for an LSA, and there will be a lot going around this new aircraft in the next future.
+5 5 What experience is needed to put the kit together? We only produce very advanced kits. All welding and covering have already been carried out. No special tools are required, the wings are already complete, ailerons and flaps are fully constructed. The controls are ready to be fitted (already powder-coated). Painting aside, some 450 to 550 working hours will be required for persons of average manual ability. Less if the kit is assembled by experienced professionals. What experience is needed to put the kit together? We only produce very advanced kits. All welding and covering have already been carried out. No special tools are required, the wings are already complete, ailerons and flaps are fully constructed. The controls are ready to be fitted (already powder-coated). Painting aside, some 450 to 550 working hours will be required for persons of average manual ability. Less if the kit is assembled by experienced professionals.
+6 6 What about cruising speed? And how much space is really required for take-off and landing? With some experience, the 100hp Rotax 912 and a fixed-pitch propeller you can take off in about 75 m (temperature 25°C, no wind, MTOW 472,5 kg). Above all, you can stop in less than 70 m. And thanks to the low-profile cross-section real cruising speed is 160 km/h! (Depends on the engine and prop). A simple Rotax 80 hp, with a good variable propeller (described in our options list) can cruise at 150-155 km/h with about 4.300 rpm. Rotax 100 hp with similar propeller will fly at 170km/h with about 4.350 rpm. Our best performance with VGs installed and standard propeller and atmosphere was (single pilot 85 kg) : take off 38 mt, and landing less than 30 mt. What about cruising speed? And how much space is really required for take-off and landing? With some experience, the 100hp Rotax 912 and a fixed-pitch propeller you can take off in about 75 m (temperature 25°C, no wind, MTOW 472,5 kg). Above all, you can stop in less than 70 m. And thanks to the low-profile cross-section real cruising speed is 160 km/h! (Depends on the engine and prop). A simple Rotax 80 hp, with a good variable propeller (described in our options list) can cruise at 150-155 km/h with about 4.300 rpm. Rotax 100 hp with similar propeller will fly at 170km/h with about 4.350 rpm. Our best performance with VGs installed and standard propeller and atmosphere was (single pilot 85 kg) : take off 38 mt, and landing less than 30 mt.
+7 7 Can the wings be folded? A special coupling at the wing-fuselage attachment point allows them to be disassembled in about 30 minutes for easy in-hangar storage or trailer transport. Some of our long time customers do it in around 20 minutes. It is not however a one-man operation. Can the wings be folded? A special coupling at the wing-fuselage attachment point allows them to be disassembled in about 30 minutes for easy in-hangar storage or trailer transport. Some of our long time customers do it in around 20 minutes. It is not however a one-man operation.
+8 8 Being a tandem design, how does it perform when the passenger is on the heavy side? The CG range allows the aircraft to be flown without having to make any significant trim modifications even with passengers as heavy as 125 kg! On the CUB-S, the new “PiperCub” style trim system affecting the angle of the whole stabilizer, is tremendously effective and comfortable to use, and makes it possible to manage effortless greater CG variations, for example when using at full load the extra large baggage compartment. Being a tandem design, how does it perform when the passenger is on the heavy side? The CG range allows the aircraft to be flown without having to make any significant trim modifications even with passengers as heavy as 125 kg! On the CUB-S, the new “PiperCub” style trim system affecting the angle of the whole stabilizer, is tremendously effective and comfortable to use, and makes it possible to manage effortless greater CG variations, for example when using at full load the extra large baggage compartment.
+9 9 Can small damage to the structure be repaired easily? The reticular chromo-molybdenum steel structure is extremely strong, yet there is nothing to stop you cutting, replacing and re-welding a damaged airframe part without having to send it back to the factory, as long as the operation is backed with technical competence. For covering, materials and how-to instructions are easily available. Cheap covering “starter kits” represent a valuable purchase for small fabric repairs. With the previous premise, we can say that repair costs are kept low in comparison to composite structures, and the repair process is normally easier to manage. Can small damage to the structure be repaired easily? The reticular chromo-molybdenum steel structure is extremely strong, yet there is nothing to stop you cutting, replacing and re-welding a damaged airframe part without having to send it back to the factory, as long as the operation is backed with technical competence. For covering, materials and how-to instructions are easily available. Cheap covering “starter kits” represent a valuable purchase for small fabric repairs. With the previous premise, we can say that repair costs are kept low in comparison to composite structures, and the repair process is normally easier to manage.
+10 10 What about the float version? Savage aircrafts are perfect for float operations, and they are being operated this way since years in several countries of the world. All the necessary bushings for a float conversion are already welded into the fuselage, as standard. Some early models might require those fittings to be riveted to the structure. It is possible (only for the Classic and the Cruiser) to order the second door (left). The real non plus ultra as a pure seaplane however, is the Bobber! Can you imagine your flying sensation sitting on its open air tubular structure in full control of your aircraft, jumping around some remote islands or fiords, in full contact with the nature? We are pretty excited to see soon some great pictures of a Bobber used in this environment! What about the float version? Savage aircrafts are perfect for float operations, and they are being operated this way since years in several countries of the world. All the necessary bushings for a float conversion are already welded into the fuselage, as standard. Some early models might require those fittings to be riveted to the structure. It is possible (only for the Classic and the Cruiser) to order the second door (left). The real non plus ultra as a pure seaplane however, is the Bobber! Can you imagine your flying sensation sitting on its open air tubular structure in full control of your aircraft, jumping around some remote islands or fiords, in full contact with the nature? We are pretty excited to see soon some great pictures of a Bobber used in this environment!
+
++++++++++
+zlin_zlinaero - inout:(3)
+id,userid,pass,cognome,nome,permessi,vedimodi,expertmode,progettista,disegnatore,costo,attivo
+1 tiziano 210559 Ferrari Tiziano D 5 0 1 1 0.00 1
+3 asdpasquale tizrusso Russo Pasquale D 5 0 0 0 0.00 1
+4 leandro corradini Corradini Leandro D 5 1 0 0 0.00 1
+
++++++++++
+zlin_zlinaero - languages:(5)
+languages_id,name,code,short_code,image,attivo
+1 Italiano it i f-it.gif 0
+2 Inglese en e f-uk.gif 1
+3 Francese fr f f-fr.gif 0
+4 Tedesco de d f-de.gif 0
+5 Spagnolo es s f-es.gif 0
+
++++++++++
+zlin_zlinaero - lavori:(250)
+id,data,titolo,descrizione,link,note
+8 1216504800 Do you like the snow? The new retractable system will allow you to take off from your airfield and land easily into the snow.<br>Tested for one year are now available as a retrofit kit. The owner of this specific plane is the famous Italian pilot Cesare Balbis...The engine (Rotax 100 hp) is equipped with an injection kit built in Germany. More news asap.<br>Visit his website: http://www.cesarebalbis.com/index2.php
+9 1214949600 New paint scheme.. We developed with the magical help of Aircraft Studio Design a new paint scheme. Named Bush.<br>Adapted to the sweet look of the Savage Cruiser, it  will add an aggressive and elegant appeal to your plane.<br>Available for new orders only.
+7 1205103600 New Vortex generators kit Since last Summer are officially available for all the models, the new VGs kits. Add fantastic perfomances and improve the handling capabilities with this easy to install kit...Now available as standard at no charge (if requested) on the Savage Cruiser.
+5 1222984800 New cover on Aviation Deportiva-Spain This month we got more than one cover around the World. This last one came from Spain.  Ten pages and lots of interesting info about the Savage equipped with the bushwheels (for mountain flying)...More details from the Spanish Dealer...
+6 1220306400 Landing on a truck.... Tom Huber, our German Dealer made another fantastic performace with his Savage Classic.<br>He simply landed on a truck...and later, made a perfect take off....<br>See the video: click the Link inside this news. http://www.youtube.com/watch?v=WekJ0XawEf0
+1 1221861600 New report on Pilot Magazine-England Nice article on Pilot. British magazine. The title says: Best looking LSA....The Savage Cruiser was tested in Usa during last 2008 Oshkosh exibition.. Take a look..  Only the prices are wrong...Check our configurator for more precise infos.
+2 1222725600 New cover on Aviation Pilote-France Another nice test and report from France,this time. <br>http://aviation-pilote.com/<br>Welcome to a new entry in France. A second Dealer<br>is since last August ,available in France. Check for details into the Dealer's page.
+3 1222898400 New Models soon on the market? Zlin Aviation s.r.o. is glad to announce that during next Spring two new versions of the Savage planes, will be introduced into the market.<br>Stay tuned or ask more details to your Dealer..
+10 1200092400 Do you need a special vehicle? If you need to land into very special spots, start to consider the new Bushwheel kit. Available as a retrofit kit, it will transform your plane into a really versatile aircraft. Cool.. http://www.youtube.com/watch?feature=related&v=6o3RK-RpJmY
+11 1213048800 Full Lotus system Our Finnish Dealer installed and flown the first Savage Cruiser with the Full Lotus float system.<br>Light and soft..A good alternative to our CZAW amphibious system.<br>
+93 1272232800 First Savage Cub video on line In cooperation with our great Spanish dealer, we can finally show a new video.The plane is based in Spain and the video was introduced at last Friedrichshafen event . Take a look on youtube just clicking on the attached link. A new video, more focused on bushflying and off airport operations is under work.Keep in touch.. http://www.youtube.com/watch?v=U2bczTjHc0c
+94 1273442400 Sit inside a Savage Cub..360° View. Available also for your iphone.Click on the link and take a look inside the cabin. A 360° picture to understand better how it looks inside from the point of view of the Pilot...<br>This 360° pic was taken in Germany during the last Aero 2010. We hope to offer an air to air 360° pic soon. http://www.zlinaero.com/images/savage/aero2010/cockpit.html
+95 1273874400 New deliveries.. Two new Savage Cubs have been delivered last week in North of Italy. Another one will be delivered in the city of Caorle next week (Italy) . And a 4th Savage Cub will be also delivered next week in Spain.<br>We can officially admit that even if with some delay, we are delivering lots of planes in this period. From now up to the end of July are planned not less than 11 new deliveries. Five Cruiser and six Cub.<br>We want to thank all the customers waiting for their planes.Very soon they will get their new ship...
+96 1274479200 New Video by Scuola Volo Brescia Fabio Guerra and his team established the first Italian bushflying school operating several Savage Classic.<br>They just released a nice video showing the Savage Classic with extended landing gear and 29" Alaskan Bushwheel. <br>There will be many news in the next 3/4 weeks. About new dealers and technical aspects. We will keep you informed.<br>Enjoy the link..<br> http://www.youtube.com/watch?v=ln2cUXK1Vks
+97 1275343200 COMING SOON....... "No Second Chances" ........As wrote last 22 May on this webpage, many news will be announced soon.  The first today and we are "honoured"..<br>The new video of Lony Habertsetzer is arriving..<br>Take a look on the first preview just shared on you tube by Donald C. Martin  few minutes ago. Great job Don...Great job Loni... http://www.youtube.com/watch?v=eDBxX-DrXNc
+98 1274652000 First Savage Cruiser Turbo The first Savage Cruiser equipped with a Rotax 914 turbo has flown. Compliments to the owner, Mr. Paolo R. for his beautiful plane. Performances are absolutely interesting. We will make soon a flight report.
+99 1274997600 ulmadventure.com Trips and Courses .A simple way to describe the new project of our Spanish Dealer. Pls check the link attached, and discover the programs. The next trip is really getting close.<br>To get more informations contact directly the Spanish Dealer and his organization. <br>Next departure? : 09 July. Enjoy this new adventure.. http://www.ulmadventure.com/web/
+100 1276552800 New Iranian Dealer Welcome today to our new Iranian Dealer (asap the details).<br>According to our development plans, we are glad to announce a new Dealer today. And a new announcement about a new delaership will be officially unveiled in the next hours too.<br>And just to help to understand how strong we are pushing in the marketing area, we are close to finalize other two dealerships: Uk and Brasil. Keep in touch if interested.
+101 1277416800 New iCub press release We are glad to introduce the new iCub (a special version of our Savage Cub  at the moment available as LSA, only for the Usa ) and the new American Dealer SportairUSA,LC.<br>(http://icub.aero/).All the informations in the pdf link attached below. We will present this new model at AirVenture 2010 (booth will be located on site #62).An interesting article can be found here: http://light-sport-hangar-flyin.blogspot.com/ http://www.sportair.aero/press/icub/iCubPR-intro.pdf
+102 1277762400 EAA's Coverage of the 2010 Valdez STOL Competition How to fly slow and low...taking off as short as possible and landing with the same idea in mind...<br>Enjoy the video.. Will be there one day a Savage Cub or iCub with more than 135 hp and probably the best ratio hp/lps on LSA market?<br>Follow our next developments to discover the future programs of Zlin Aviation. http://www.youtube.com/watch?v=o0G0HdF3w1Y
+
++++++++++
+zlin_zlinaero - livree:(12)
+id,pos,codice,famiglia,note,prezzo,prezzo_usd
+1 1 LIV-00001 0 0.00 0.00
+2 2 LIV-00002 0 0.00 0.00
+3 3 LIV-00003 0 0.00 0.00
+4 4 LIV-00004 0 0.00 0.00
+5 5 LIV-00005 0 0.00 0.00
+6 6 LIV-00006 0 0.00 0.00
+7 7 LIV-00007 0 0.00 0.00
+8 8 LIV-00008 0 0.00 0.00
+9 9 LIV-00009 0 0.00 0.00
+10 10 LIV-00010 0 0.00 0.00
+
++++++++++
+zlin_zlinaero - livree_description:(44)
+id_optional,language_id,titolo,descrizione
+1 1 Standard colour :Yellow Savage (no charge)
+1 2 Standard colour :Yellow Savage (no charge)
+1 3
+1 4
+2 1 Standard colour: White Savage (no charge)
+2 2 Standard colour: White Savage (no charge)
+2 3
+2 4
+3 1 Red Savage (optional)
+3 2 Red Savage (optional)
+
++++++++++
+zlin_zlinaero - livree_prezzi:(13)
+id_optional,id_currency,prezzo
+1 1 0.00
+1 2 0.00
+2 1 0.00
+3 1 300.00
+4 1 2700.00
+5 1 1100.00
+6 1 2300.00
+7 1 2700.00
+8 1 2700.00
+9 1 2300.00
+
++++++++++
+zlin_zlinaero - menu_principale:(13)
+id,posizione,titolo,link,target,w_name,w_width,w_height,w_status,w_scrollbars,w_resize,alternate_text,color_over,color_out,auth
+15 8 SHOP # dati 0 0 0 1 1 #FFCC00 #535E72 0
+2 1 NOTIZIE notizie/dati_lavori.php dati 0 0 1 1 Vai alla gestione delle Notizie #FFCC00 #535E72 0
+3 5 PA - ALERTS - BULLETTINS note/dati_lavori.php dati 0 0 0 1 1 Vai alla gestione delle Note di Manutenzione #FFCC00 #535E72 0
+4 2 PRODOTTI & OPTIONALS # 0 0 0 1 1 #FFCC00 #535E72 0
+5 100 UTILITA' # 0 0 0 1 1 #FFCC00 #535E72 0
+6 6 DOWNLOADS # dati 0 0 0 1 1 #FFCC00 #535E72 0
+7 7 PRESS RELEASE press/dati_pressrelease.php dati 0 0 0 1 1 #FFCC00 #535E72 100
+10 4 OFFERTE WEB offerte/dati-preventivi.php dati 0 0 0 1 1 #FFCC00 #535E72 0
+11 10 EMAIL DEALERS emaildealers/dati.php dati 0 0 0 1 1 #FFCC00 #535E72 100
+12 3 CONFIGURATORI ON / OFF attivazione/dati.php dati 0 0 0 1 1 #FFCC00 #535E72 0
+
++++++++++
+zlin_zlinaero - nazioni:(243)
+codice,nazione,currency
+IT Italy 0
+AF Afghanistan 0
+AL Albania 0
+DZ Algeria 0
+AS American Samoa 0
+AD Andorra 0
+AO Angola 0
+AI Anguilla 0
+AQ Antartica 0
+AG Antigua and Barbuda 0
+GT Guatemala 0
+GG Guernsey 0
+GN Guinea 0
+GW Guinea-Bissau 0
+GY Guyana 0
+HT Haiti 0
+HM Heard and McDonald Islands 0
+VA Holy See (City Vatican State) 0
+HN Honduras 0
+HK Hong Kong 0
+
++++++++++
+zlin_zlinaero - nazioni_dealers_email:(243)
+nazione,nome_nazione,email_dealer,nome_dealer
+IT Italy
+AF Afghanistan
+AL Albania
+DZ Algeria
+AS American Samoa
+AD Andorra
+AO Angola
+AI Anguilla
+AQ Antartica
+AG Antigua and Barbuda
+GT Guatemala
+GG Guernsey
+GN Guinea
+GW Guinea-Bissau
+GY Guyana
+HT Haiti
+HM Heard and McDonald Islands
+VA Holy See (City Vatican State)
+HN Honduras
+HK Hong Kong
+
++++++++++
+zlin_zlinaero - note_manutenzione:(25)
+id,data,link,tipo,note
+22 1189029600 0
+21 1165964400 0
+3 1191189600 1
+4 1194908400 4
+23 1189029600 0
+7 1190152800 1
+8 1214604000 1
+27 1358895600 2
+10 1215295200 1
+11 1222898400 1
+
++++++++++
+zlin_zlinaero - note_manutenzione_description:(52)
+id_nota,language_id,titolo,descrizione
+1 1 AD2 Filtro benzina in vetro Descrizione della prima prova di alert di manutenzione.
+1 2 AD2 Glass fuel filter
+5 1 AD4 pinze freno
+2 1 AD3 Tenditori pedaliera
+2 2 AD3 Replacement of rudder’s turnbuckles
+3 1 SB2 Pompa meccanica del carburante
+3 2 SB2 Mechanic fuel pump
+4 1 Manutenzione Savage
+4 2 Savage maintenance
+5 2 AD4 brake callipers Only for Savages serial number 120, 121, 122, 124, 125, 129
+
++++++++++
+zlin_zlinaero - optionals:(108)
+id,pos,codice,famiglia,note,prezzo,prezzo_usd
+2 1 02 1 0.00 0.00
+1 1 01 2 0.00 0.00
+121 3 IP6B 12 0.00 0.00
+46 3 04 10 0.00 0.00
+5 7 05 1 0.00 0.00
+6 2 06 1 0.00 0.00
+7 3 07 1 0.00 0.00
+8 4 08 1 0.00 0.00
+9 6 09 11 0.00 0.00
+10 7 10 11 0.00 0.00
+110 3 6 0.00 0.00
+111 1 5 0.00 0.00
+112 38 11 0.00 0.00
+113 3 2 0.00 0.00
+114 4 2 0.00 0.00
+115 5 10 0.00 0.00
+116 6 10 0.00 0.00
+117 8 1 0.00 0.00
+118 9 1 0.00 0.00
+119 10 1 0.00 0.00
+
++++++++++
+zlin_zlinaero - optionals_description:(358)
+id_optional,language_id,titolo,descrizione
+1 2 Rotax 912 s -100hp (with clutch and reinforced electric starter)
+1 3
+2 1 Pressurized engine mount with gauge
+2 1 Pressurized engine mount with gauge Questa &egrave; la descrizione fatta con l'editor.
+121 2 Radio Filser-ATR 833-2K-LCD  with antenna and intercom (installed)
+2 2 Pressurized engine mount with gauge
+1 4
+1 1 Rotax 912 s -100hp (with clutch and reinforced electric starter)
+2 2 Pressurized engine mount with gauge
+2 3
+29 2 Attitude gyro electric
+29 3
+29 4
+31 1 Strobes and navigation lights (installed)
+31 2 Strobes and navigation lights LED
+31 3
+31 4
+32 1 Instrument panel for copilot (asi-alt-slip ind.)
+32 2 Instrument panel for copilot (asi-alt-slip ind.)
+32 3
+
++++++++++
+zlin_zlinaero - optionals_obbligatori:(0)
+id_padre,id_figlio
+
++++++++++
+zlin_zlinaero - optionals_prezzi:(100)
+id_optional,id_currency,prezzo
+2 1 450.00
+1 1 1800.00
+121 1 1755.00
+11 1 1550.00
+12 1 1550.00
+13 1 180.00
+14 1 325.00
+16 1 300.00
+21 1 800.00
+17 1 300.00
+120 1 980.00
+111 1 2599.00
+112 1 550.00
+113 1 29900.00
+115 1 750.00
+116 1 2650.00
+117 1 700.00
+118 1 450.00
+119 1 800.00
+114 1 19900.00
+
++++++++++
+zlin_zlinaero - ordini:(2)
+id_utente,id_sessione,tipo,codice,fam_cod,s_fam_cod,descrizione,quantita,prezzo
+0 a994bdaa3cea14e6724f590bf4475a7d I 1 1 1 Test product 1 20.00
+0 a994bdaa3cea14e6724f590bf4475a7d I 2 1 1 Savage Cruiser Hat 1 15.00
+
++++++++++
+zlin_zlinaero - ordini_testate:(1)
+id,id_sessione,data,anno,societa,nome,cognome,indirizzo,cap,citta,stato,nazione,email,telefono,pagamento_data,pagamento_orderid,pagamento_total,pagamento_status,pagamento_approval_code,pagamento_authresponse,pagamento_cardname,pagamento_nameoncard,pagamento_cardstreet,pagamento_cardcity,pagamento_cardstate,pagamento_cardzip,pagamento_cardcountry,pagamento_email,chiuso
+1 a994bdaa3cea14e6724f590bf4475a7d 1208268496 2008 Tiziano Ferrari Via Carlo Cattaneo 94 41100 Modena MO IT t.ferrari@tin.it 39 059 2929536 0.00 0 0
+
++++++++++
+zlin_zlinaero - photo:(0)
+id_photogallery,photo,testo,testo_e
+
++++++++++
+zlin_zlinaero - photogallery:(16)
+id,data,titolo,testo,copyright,prodotto
+1 1221429600 ''Savage Classic'' official photogallery Zlin Aviation s.r.o. 0
+2 1220220000 ''Savage Cruiser'' official photogallery Zlin Aviation s.r.o. 0
+3 1224021600 Mountain Pilot (Arturo Polo Ena-Spanish Dealer) Zlin Aviation s.r.o. 0
+4 1222812000 Versatile Pilots (Tom and Hilde - German Dealers) Zlin Aviation s.r.o. 0
+5 1239055200 Friedrichshafen 2009 0
+6 1263164400 Cub Gallery (1st part) Zlin Aviation s.r.o. 0
+7 1265065200 Cub Gallery (2th part) zlin Aviation s.r.o. 0
+8 1270504800 Cub Gallery (3th part) Zlin Aviation s.r.o. 0
+9 1271455200 Friedrichshafen Gallery Pic zlin Aviation s.r.o. 0
+10 1271628000 First bushflying courses with Loni Habertsetzer Zlin Aviation s.r.o. 0
+
++++++++++
+zlin_zlinaero - pressrelease:(1)
+id,data,note
+1 1198062000
+
++++++++++
+zlin_zlinaero - pressrelease_description:(1)
+id_pressrelease,language_id,titolo,descrizione
+1 1 Testata di prova
+
++++++++++
+zlin_zlinaero - preventivi:(2451)
+id,numero,codice,anno,data,cognome_cliente,nome_cliente,email_cliente,telefono_cliente,nome_file,nome_velivolo,totale
+1 1 WEB-2008-1 2008 1225238400 Ronzani Paolo WEB-2008-1.pdf Savage Classic 40900.00
+2 2 WEB-2008-2 2008 1225238400 Ferrari Tiziano WEB-2008-2.pdf Savage Classic 43330.00
+3 3 WEB-2008-3 2008 1225238400 Ronzani Paolo WEB-2008-3.pdf Savage Classic 46210.00
+4 4 WEB-2008-4 2008 1225238400 kjxcv jch WEB-2008-4.pdf Savage Cruiser 59030.00
+5 5 WEB-2008-5 2008 1225238400 kjbdsvòIJDSB ka WEB-2008-5.pdf Savage Classic 54500.00
+6 6 WEB-2008-6 2008 1225324800 renna guido WEB-2008-6.pdf Savage Cruiser 59470.00
+7 7 WEB-2008-7 2008 1225324800 òzl odsjkfvn WEB-2008-7.pdf Savage Classic 43650.00
+8 8 WEB-2008-8 2008 1225324800 giunta salvatore WEB-2008-8.pdf Savage Classic 117735.00
+9 9 WEB-2008-9 2008 1225324800 polo arturo WEB-2008-9.pdf Savage Cruiser 63270.00
+10 10 WEB-2008-10 2008 1225324800 Polo Ena Arturo WEB-2008-10.pdf Savage Classic 84550.00
+91 7 WEB-2009-7 2009 1231545600 Edes Imre WEB-2009-7.pdf Savage Classic 55360.00
+92 8 WEB-2009-8 2009 1231545600 Edes Imre WEB-2009-8.pdf Savage Classic 56560.00
+93 9 WEB-2009-9 2009 1231545600 Chamorro Humberto WEB-2009-9.pdf Savage Classic 69180.00
+94 10 WEB-2009-10 2009 1231545600 Craig Andrew WEB-2009-10.pdf Savage Cruiser 63860.00
+95 11 WEB-2009-11 2009 1231632000 Maziarz Zbigniew WEB-2009-11.pdf Savage Classic 50990.00
+96 12 WEB-2009-12 2009 1231718400 Morales Jose WEB-2009-12.pdf Savage Classic 74950.00
+97 13 WEB-2009-13 2009 1231804800 sweeney steve WEB-2009-13.pdf Savage Cruiser 62970.00
+98 14 WEB-2009-14 2009 1231891200 ANAR Sinan WEB-2009-14.pdf Savage Cruiser 99785.00
+99 15 WEB-2009-15 2009 1231977600 zavaritt riccardo WEB-2009-15.pdf Savage Cruiser 59440.00
+100 16 WEB-2009-16 2009 1232064000 Cardarelli Francesco WEB-2009-16.pdf Savage Cruiser 77655.00
+491 407 WEB-2009-407 2009 1257206400 Tronci Michele WEB-2009-407.pdf Savage Cub 57530.00
+492 408 WEB-2009-408 2009 1257292800 Montalti Angelo WEB-2009-408.pdf Savage Cub 64890.00
+493 409 WEB-2009-409 2009 1257379200 PERDOMO-SPINOLA MOLERO AGUSTIN LORENZO WEB-2009-409.pdf Savage Cub 81675.00
+494 410 WEB-2009-410 2009 1257465600 xxxx Mr. Csaba WEB-2009-410.pdf Savage Cub 72130.00
+495 411 WEB-2009-411 2009 1257724800 Polgár Csaba WEB-2009-411.pdf Savage Cruiser 67500.00
+496 412 WEB-2009-412 2009 1257984000 ROULET Raphaël WEB-2009-412.pdf Savage Cub 71780.00
+497 413 WEB-2009-413 2009 1257984000 ROULET Raphaël WEB-2009-413.pdf Savage Classic 46340.00
+498 414 WEB-2009-414 2009 1258416000 giardino bruno WEB-2009-414.pdf Savage Classic 52270.00
+499 415 WEB-2009-415 2009 1258502400 eduard OLOERU WEB-2009-415.pdf Savage Cruiser 81550.00
+500 416 WEB-2009-416 2009 1258675200 Priebe Martin WEB-2009-416.pdf Savage Cruiser 70170.00
+991 106 WEB-2011-106 2011 1302476400 Lederer Ivo WEB-2011-106.pdf Savage Cub 52740.00
+992 107 WEB-2011-107 2011 1302562800 EL OUADI SOUF AERO CLUB WEB-2011-107.pdf Savage Cub 61045.00
+993 108 WEB-2011-108 2011 1302735600 paolacci dimitri WEB-2011-108.pdf Savage Cub 48150.00
+994 109 WEB-2011-109 2011 1302822000 GILLES HAUSKNOST WEB-2011-109.pdf Savage Cub 55750.00
+995 110 WEB-2011-110 2011 1302822000 RICHARD TOURNIER WEB-2011-110.pdf Savage Cub 63310.00
+996 111 WEB-2011-111 2011 1302822000 ZANIN Pascal WEB-2011-111.pdf Savage Classic 50510.00
+997 112 WEB-2011-112 2011 1302908400 Mohamed MATAOUI WEB-2011-112.pdf Savage Classic 66730.00
+998 113 WEB-2011-113 2011 1302908400 Vögele Tobias WEB-2011-113.pdf Savage Cub 90850.00
+999 114 WEB-2011-114 2011 1302908400 Härmä Raoul WEB-2011-114.pdf Savage Cub 74170.00
+1000 115 WEB-2011-115 2011 1302994800 Huefner Gerald WEB-2011-115.pdf Savage Classic 59760.00
+1991 220 WEB-2013-220 2013 1375570800 Caruso Fabrizio WEB-2013-220.pdf Savage Cub 63410.00
+1992 221 WEB-2013-221 2013 1375570800 Borchers William Gerd WEB-2013-221.pdf Savage Cruiser 76940.00
+1993 222 WEB-2013-222 2013 1375657200 Lang Craig WEB-2013-222.pdf Savage Classic 51380.00
+1994 223 WEB-2013-223 2013 1375743600 bartoccini fabio WEB-2013-223.pdf Savage Classic 60530.00
+1995 224 WEB-2013-224 2013 1375743600 Borchers William Gerd WEB-2013-224.pdf Savage Cruiser 58630.00
+1996 225 WEB-2013-225 2013 1375830000 Rimediotti Claudio WEB-2013-225.pdf Savage Bobber RC 5570.00
+1997 226 WEB-2013-226 2013 1375916400 Pascal BARLIER WEB-2013-226.pdf Savage Bobber 59430.00
+1998 227 WEB-2013-227 2013 1375916400 Børresen Gard WEB-2013-227.pdf Savage Cub S 89360.00
+1999 228 WEB-2013-228 2013 1376002800 Xantus Aron WEB-2013-228.pdf Savage Bobber 109040.00
+2000 229 WEB-2013-229 2013 1376089200 Wager Philipp WEB-2013-229.pdf Savage Classic 76045.00 
++++++++++
+zlin_zlinaero - prodotti:(12)
+id,modello,versione,codice,descrizione,note,prezzo,prezzo_usd,famiglia,pubblicato
+3 Savage Classic 001 0.00 0.00 0 0
+4 Savage Cub 003 0.00 0.00 0 0
+2 Savage Cruiser 002 0.00 0.00 0 0
+6 Savage Bobber 004 0.00 0.00 0 0
+7 Savage Cub S 005 0.00 0.00 0 0
+8 Savage Bobber RC 006 0.00 0.00 0 0
+9 Savage Classic Quick-build Kit 0.00 0 0
+10 Savage Bobber Quick-build Kit 0.00 0 0
+11 Savage Cruiser Quick-build Kit 0.00 0 0
+12 Savage Cub Quick-build Kit 0.00 0 0
+
++++++++++
+zlin_zlinaero - prodotti_livree:(23)
+id_prodotto,id_optional
+3 4
+2 2
+3 1
+3 2
+2 1
+3 3
+2 3
+3 5
+3 6
+7 1
+
++++++++++
+zlin_zlinaero - prodotti_optionals:(403)
+id_prodotto,id_optional
+3 2
+3 1
+2 2
+2 1
+3 4
+2 4
+3 5
+2 5
+3 6
+2 6
+2 3
+3 10
+3 47
+2 47
+2 48
+3 49
+3 50
+2 50
+3 51
+2 51
+
++++++++++
+zlin_zlinaero - prodotti_optionals_new:(338)
+id_prodotto,id_optional,id_famiglia,pos
+2 1 2 1
+2 2 1 1
+2 5 1 2
+2 6 1 3
+2 7 1 4
+2 8 1 5
+2 9 11 1
+2 10 11 2
+2 11 12 1
+2 12 12 2
+3 35 3 5
+3 36 3 6
+3 37 3 7
+3 39 3 8
+3 40 3 9
+3 41 3 10
+3 44 3 11
+3 45 3 12
+3 46 10 1
+3 47 4 1
+
++++++++++
+zlin_zlinaero - prodotti_prezzi:(204)
+id_prodotto,id_nazione,prezzo
+3 GB 0.00
+3 IT 44800.00
+3 AE 0.00
+3 DE 46800.00
+3 AD 0.00
+3 BG 0.00
+3 AU 0.00
+3 CH 0.00
+3 CA 0.00
+3 CZ 0.00
+3 AT 0.00
+3 SK 0.00
+2 BR 0.00
+4 BR 0.00
+4 AT 0.00
+4 AE 0.00
+4 BE 0.00
+4 FI 0.00
+4 LU 0.00
+4 LV 0.00
+
++++++++++
+zlin_zlinaero - products:(0)
+products_id,products_quantity,products_model,products_image,products_price,products_date_added,products_last_modified,products_date_available,products_weight,products_status,products_tax_class_id,manufacturers_id,products_ordered,products_waited,min_quantity,ultimi_arrivi
+
++++++++++
+zlin_zlinaero - products_description:(0)
+products_id,language_id,products_name,products_description,products_url,products_viewed
+
++++++++++
+zlin_zlinaero - products_to_categories:(0)
+products_id,categories_id
+
++++++++++
+zlin_zlinaero - sottomenu_principale:(14)
+id,menu,posizione,titolo,link,target,color_over,color_out,alternate_text
+1 4 1 Gestione Prodotti (Aerei) prodotti/dati_lavori.php dati #ffffff #e1e2e3
+2 4 2 Gestione Famiglie di Optionals famiglie/dati_lavori.php dati #ffffff #e1e2e3
+3 4 3 Gestione Optionals optionals/dati_lavori.php dati #ffffff #e1e2e3
+4 5 1 Backup Database backup/dati-backup.php dati #ffffff #e1e2e3
+5 13 1 Gestione Utenti del CMS anagrafiche/dati-anagrafiche.php dati #ffffff #e1e2e3
+6 6 1 Gestione Photo Galleries photogalleries/dati_lavori.php dati #ffffff #e1e2e3
+7 6 2 Gestione Video YouTube videogalleries/dati_lavori.php dati #ffffff #e1e2e3
+8 4 4 Gestione Livree livree/dati_lavori.php dati #ffffff #e1e2e3
+9 13 3 Gestione Nazioni anagrafiche/dati-nazioni.php dati #ffffff #e1e2e3
+10 13 4 Gestione Valute anagrafiche/dati-valute.php dati #ffffff #e1e2e3
+
++++++++++
+zlin_zlinaero - testimonial:(25)
+id,pos,link,note,business,aerobatic,pubblicato
+2 2 0 0 1
+1 1 0 0 1
+3 3 0 0 1
+4 4 0 0 1
+5 5 0 0 1
+6 6 0 0 1
+7 7 0 0 1
+8 8 0 0 1
+9 9 0 0 1
+10 10 0 0 1
+
++++++++++
+zlin_zlinaero - testimonial_description:(25)
+id_lavoro,language_id,titolo,descrizione
+1 2 Hilde Huber (GER)
+2 2 Elisa Fernandez Esparza (ESP)
+3 2 Susana Quintana (ESP)
+4 2 Marta Labal (ESP)
+5 2 Roberta Cattoni (ITA)
+6 2 Patricia Collomb (FRA)
+7 2 Marianna Feltrinelli (ITA)
+8 2 Julie Hartlaub (USA)
+9 2 Guido Renna (ITA)
+10 2 Jurgen Schelling (GER)
+
++++++++++
+zlin_zlinaero - testimonial_images:(56)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+2 1 0 2 2.jpg Hilde's daughter: next generation SAVAGE lady! Alredy 20 hours logged in dual training!
+1 1 0 1 1.JPG Hilde: &quot;the SAVAGE is most save bush ULM, nicest also! 150hours of flight
+time in verious aeras: Sahara, mountain, riverbed and also just for fun
+cruising.&quot;
+3 2 0 1 1.jpg Flying from year 2000, ppl, ulm flying instructor and trike pilot, more than 800 hours in aircreation, coyote,  skyranger, ct, a22, cessna ...
+I discovered the Savage recently and I fell in love because makes me feel safer even flying much lower, because I know I could land everywhere if I need to.  As I can fly lower, view is much better and nicer, so I really have rediscovered the flight! I also have to say that its easier as most pilots think tail draggers are. Its absolutly amazing how short can take off,  distance landings depends on practice...  in fact  its the perfect plane if you like mountain flying.
+From my plane I really like the old classic style, the extra fuel tanks with 90 liters, and the 31&quot; bushweels, I only would rather prefer the 35&quot;....
+4 2 0 2 2.jpg Me and my red Cub...:-)
+5 3 0 1 1.jpg What I do like best of my Savage is that I feel really comfortable ... Safe ! Probably because its really strong. I always wanted to fly a tail dragger, and I made it!  From my Savage I like everything !!
+I decided to get one after flying with Arturo (Spain) and see how short can the take offs and landings be.
+I feel that the plane has the perfect size for me and it was equipped for make it the more easy and comfortable as possible. I love the wheel size and the vortex and  that I can fly really slow
+She has flown about 400 hours also in Bingo,Eurostar,Mistral,Aeroprat A-22,Coyote,Zenair...
+6 4 0 1 1.jpg Flying from 2000, Tecnam, Zenair, CT, A22. About 300 hours flying, 150 in Savage.
+Often pilots beginers look for fast planes. This was not my case, as I was looking for a classic plane, a tail dragger in order to land in short mountain runways, any kind of terrain and to make short take offs and landings, to make me feel safe, also strongtness was one the most important facts.. I would say that its the 4x4 of the ulm planes.
+7 4 0 2 2.jpg
+8 3 0 2 2.jpg
+10 5 0 1 2.jpg &quot;Not many things in the real life can let you feel as much satisfied as when you are able to land, in a very soft way, with a Savage plane&quot;..This is a way to feel really connected with the pure sensation of flying, forgetting all the instruments...
+13 5 0 2 3.jpg &quot;Poche cose nella vita ti danno tanta soddisfazione come un atterraggio di velluto con il Savage, dove diventi tutt'uno con la sensazione del volo e dimentichi tutti gli strumenti&quot;.
+
++++++++++
+zlin_zlinaero - videogallery:(9)
+id,data,titolo,link,copyright
+1 1212271200 Landing on a German glacier http://www.youtube.com/watch?v=TBwtzQO3pHo Zlin Aviation S.r.o.
+3 1215208800 Amphibious floats http://www.youtube.com/watch?v=OOvjOE0BXYw Zlin Aviation S.r.o.
+4 1207778400 Savage on skies http://www.youtube.com/watch?v=cvdZs-OzTl4 Zlin Aviation S.r.o.
+5 1272232800 Savage Cub Video http://www.youtube.com/watch?v=U2bczTjHc0c Zlin Aviation s.r.o.
+6 1283551200 `Savage Cub videoclip` http://www.youtube.com/watch?v=LxRR6-pD4IQ `Zlin Aviation s.r.o.`
+7 1294182000 `landing on Pyrenees` http://www.youtube.com/watch?v=fTjdXlMaj4Q `Zlin Aviation s.r.o.`
+8 1294182000 `First Flight of 2011` http://www.youtube.com/watch?v=YsoTk_JBkcI `Zlin Aviation s.r.o.`
+9 1298156400 `Aero Club Dassault` http://www.youtube.com/watch?v=hDJyOUh89sg ```zlin```
+10 1298156400 ``AeroclubARC`` http://www.youtube.com/watch?v=UwPJPeNhYuQ ``zlin``
+
++++++++++
+
+ 
+zlin_zlinaero13 - auth:(2)
+id,userid,pass,cognome,nome,permessi,vedimodi,expertmode,progettista,disegnatore,costo,attivo
+1 tizio tizio Ferrari Tiziano D 1 0 0 0 0.00 1
+2 zlin zlin Zlin Aviation D 1 0 0 0 0.00 1
+
++++++++++
+zlin_zlinaero13 - categories:(0)
+categories_id,categories_image,parent_id,sort_order,date_added,last_modified
+
++++++++++
+zlin_zlinaero13 - categories_description:(4)
+categories_id,language_id,categories_name
+1 1 cappellini
+1 2 hats
+2 1 abbigliamento
+2 2 apparel
+
++++++++++
+zlin_zlinaero13 - continents:(7)
+code,name,pos
+AF Africa 6
+AS Asia 5
+EU Europe 1
+NA North America 2
+SA South America 3
+OC Oceania 4
+AN Antarctica 7
+
++++++++++
+zlin_zlinaero13 - countries:(247)
+code,name,full_name,iso3,number,continent_code
+AF Afghanistan Islamic Republic of Afghanistan AFG 004 AS
+AX &Aring;land Islands Åland Islands ALA 248 EU
+AL Albania Republic of Albania ALB 008 EU
+DZ Algeria People's Democratic Republic of Algeria DZA 012 AF
+AS American Samoa American Samoa ASM 016 OC
+AD Andorra Principality of Andorra AND 020 EU
+AO Angola Republic of Angola AGO 024 AF
+AI Anguilla Anguilla AIA 660 NA
+AQ Antarctica Antarctica (the territory South of 60 deg S) ATA 010 AN
+AG Antigua and Barbuda Antigua and Barbuda ATG 028 NA
+GG Guernsey Bailiwick of Guernsey GGY 831 EU
+GN Guinea Republic of Guinea GIN 324 AF
+GW Guinea-Bissau Republic of Guinea-Bissau GNB 624 AF
+GY Guyana Co-operative Republic of Guyana GUY 328 SA
+HT Haiti Republic of Haiti HTI 332 NA
+HM Heard Island and McDonald Islands Heard Island and McDonald Islands HMD 334 AN
+VA Holy See (Vatican City State) Holy See (Vatican City State) VAT 336 EU
+HN Honduras Republic of Honduras HND 340 NA
+HK Hong Kong Hong Kong Special Administrative Region of China HKG 344 AS
+HU Hungary Republic of Hungary HUN 348 EU
+
++++++++++
+zlin_zlinaero13 - currency:(2)
+id,nome,sigla,default_currency
+1 EURO € 0
+2 United States Dollar USD 0
+
++++++++++
+zlin_zlinaero13 - dealers:(62)
+id,country_code,dealer_country_code,dealer_specification,name,specifica,person,phone_person,person_1,phone_person_1,address,zip,city,state_province,phone,phone_1,mobile,fax,skype,url,url_1,email,email_1,note,dealer,service,latitude,longitude,pubblicato
+1 DE AT TOM HUBER Steinbachweg 1 D-82387 Antdorf +49 8856 804 874 0 +49 160 978 10 628 +49 8856 804 874 1 http://www.spassvogeln.de tom@spassvogeln.de 1 0 47.56 15.05 1
+2 AU AU Craft Air Australia Pty Ltd Mr. Leo Moras +61431956181 Mr. Jordan Moras +61407282785 info@craftair.com.au 1 0 -37.216615 144.433333 1
+4 NL BE Dutch CAC HOLLAND Nijverheidsterrein 8 1645 VX Ursem +31 72 5720523 +31 6 53215561 +31 72 5722295 http://www.cacholland.nl info@cacholland.nl 1 0 52.6331463 4.8935838 1
+5 BR BR EurocomAero Vila Velha - ES http://www.eurocomaero.com.br savagebrazil@gmail.com 1 0 -20.3584677 -40.3163138 0
+6 BG BG AVIOTECH Ltd. 229, “Botevgradsko shose” blvd. - Office Center “Jessica”, Fl. 7, Office 10 1517 Sofia +359 2 9487060 +359 2 9487066 http://www.aviotec.eu info@aviotec.eu 1 0 42.7028143 23.3822374 1
+7 CA CA Tony Cianfarani 85 Strathburn Blvd. M9M 2L2 Weston Ontario tcianfarani@hotmail.com 1 0 43.7245486 -79.5345445 1
+9 CZ CZ Marek Hyka Uzka 194 27742 Obristvi http://www.savageaircraft.cz info@marekhyka.cz info@zlinaero.cz 1 1 50.295260 14.477649 1
+10 NO DK Savage Aircraft Scandinavia AS Mr. Sigvart +4795766811 Mr. Kjetil +4790653311 1860 Trøgstad savage.scandinavia@gmail.com 1 0 59.633914 11.323514 1
+11 FI FI TRADEAID Oy. Ltd. +358 (0)400 25 99808 info@tradeaid.fi 1 0 0
+12 FR FR Finesse Max Christian Stuck Rue Maryse Bastiè Aerodrome 67500 Haguenau +33 (0)3 88 06 04 31 http://www.finesse-max.com christian@finesse-max.com 1 0 48.79407 7.81528 1
+
++++++++++
+zlin_zlinaero13 - defaults:(1)
+id,intranet_title,body_bgcolor,menu_text_color,ba_1,rss_1,rcs_1,tit_1,ba_2,rss_2,rcs_2,tit_2,a_capo,diviso_y_pop,configuratore,colore_titoli_schede
+1 Zlin Aviation Intranet - &copy; Dynamicad #efefef #ffffff #FFE477 #FFE477 #FFF5A6 #FFAC41 #FFAC41 #535E72 #e8e8e8 #535E72 80 1 1 #FFFFFF
+
++++++++++
+zlin_zlinaero13 - famiglie_description:(91)
+id_famiglia,language_id,titolo,descrizione
+1 1 Engine area
+1 2 Engine compartment and accessories
+1 3 Engine area
+2 1 Engines
+3 2 Cabin and equipment
+2 2 Engines
+2 3
+2 4
+1 4 Engine area
+3 3
+30 2 Shock absorbers (Shock Cub style) <p>Front landing gear shock absorbers. The standard triangular Savage landing gear with bungee system will be substituded by the &quot;shock absorber&quot; landing gear adopted by the Shock Cub.</p>
+
++++++++++
+zlin_zlinaero13 - famiglie_optionals:(17)
+id,pos,nome,nome_e,descrizione,descrizione_e,tipo
+1 3 0
+2 1 1
+3 5 0
+4 9 0
+25 11 0
+26 13 0
+10 4 1
+11 6 0
+23 2 1
+16 7 0
+
++++++++++
+zlin_zlinaero13 - famiglie_prodotti:(2)
+id,pos,tipo
+1 1 0
+2 2 0
+
++++++++++
+zlin_zlinaero13 - famiglie_prodotti_description:(4)
+id_famiglia,language_id,titolo,descrizione
+1 1 Aerei
+1 2 Aircrafts
+2 1 Modelli
+2 2 Models
+
++++++++++
+zlin_zlinaero13 - faq:(21)
+id,pos,domanda,risposta,domanda_e,risposta_e,pubblicato
+1 3
+2 1
+3 4 What are the real difficulties with a ''taildragger'' undercarriage? A lot has been said about this: that it is difficult during taxiing because forward visibility is impaired, that propeller torque is difficult to contrast on take-off, that landing requires expert skills, that it is easy to flip over and is unmanageable in crosswinds and so on. These statements are often made by pilots with no direct experience of this type of aircraft who do not distinguish between different versions. Of course, pilots flying ''taildragger'' aircraft must always be fully aware of their particular characteristics because, on the one hand, while they require only short runways to give secure off-field landings, they do, on the other, require greater precision. With the Savage a pilot who is 1.65 m tall can see ahead perfectly without having to zigzag. Special devices which limit the effects of torque mean it is no longer necessary to ''pedal'' the aircraft this way to keep it under control. As it is high off the ground it cannot flip over, even when brakes hard on grass. With crosswinds, in addition to effectuating a classic ''U'' approach, it is advisable to set down the main undercarriage first gently and then let the tail drop to dissipate speed gradually: the brakes and powerful rudder do the rest. Finally, the real difference in landing lies in setting the correct approach speed, thanks to which the Savage almost automatically performs a ''3-point'' touchdown. What are the real difficulties with a ''taildragger'' undercarriage? A lot has been said about this: that it is difficult during taxiing because forward visibility is impaired, that propeller torque is difficult to contrast on take-off, that landing requires expert skills, that it is easy to flip over and is unmanageable in crosswinds and so on. These statements are often made by pilots with no direct experience of this type of aircraft who do not distinguish between different versions. Of course, pilots flying ''taildragger'' aircraft must always be fully aware of their particular characteristics because, on the one hand, while they require only short runways to give secure off-field landings, they do, on the other, require greater precision. With the Savage a pilot who is 1.65 m tall can see ahead perfectly without having to zigzag. Special devices which limit the effects of torque mean it is no longer necessary to ''pedal'' the aircraft this way to keep it under control. As it is high off the ground it cannot flip over, even when brakes hard on grass. With crosswinds, in addition to effectuating a classic ''U'' approach, it is advisable to set down the main undercarriage first gently and then let the tail drop to dissipate speed gradually: the brakes and powerful rudder do the rest. Finally, the real difference in landing lies in setting the correct approach speed, thanks to which the Savage almost automatically performs a ''3-point'' touchdown. 1
+4 2
+5 9
+6 6 What about cruising speed? And how much space is really required for take-off and landing? With some experience, the 100hp Rotax 912 and a fixed-pitch propeller you can take off in about 75 m (temperature 25<sup style="font-size:6pt;margin-top:-10px">o</sup>C, no wind, MTOW 472,5 kg). Above all, you can stop in less than 70 m. And thanks to the low-profile cross-section real cruising speed is 160 km/h! (Depends on the engine and prop). A simple Rotax 80 hp, with a good variable propeller (described in our options list) can cruise at 150-155 km/h with about 4.300 rpm. Rotax 100 hp with similar propeller will fly at 170km/h with about 4.350 rpm. Our best performance with VGs installed and standard propeller and atmosphere was (single pilot 85 kg) : take off 38 mt, and landing less than 30 mt. What about cruising speed? And how much space is really required for take-off and landing? With some experience, the 100hp Rotax 912 and a fixed-pitch propeller you can take off in about 75 m (temperature 25°C, no wind, MTOW 472,5 kg). Above all, you can stop in less than 70 m. And thanks to the low-profile cross-section real cruising speed is 160 km/h! (Depends on the engine and prop). A simple Rotax 80 hp, with a good variable propeller (described in our options list) can cruise at 150-155 km/h with about 4.300 rpm. Rotax 100 hp with similar propeller will fly at 170km/h with about 4.350 rpm. Our best performance with VGs installed and standard propeller and atmosphere was (single pilot 85 kg) : take off 38 mt, and landing less than 30 mt. 1
+7 7
+8 5
+9 8
+10 10 What about the float version? Savage aircrafts are perfect for float operations, and they are being operated this way since years in several countries of the world. All the necessary bushings for a float conversion are already welded into the fuselage, as standard. Some early models might require those fittings to be riveted to the structure. It is possible (only for the Classic and the Cruiser) to order the second door (left). The real non plus ultra as a pure seaplane however, is the Bobber! Can you imagine your flying sensation sitting on its open air tubular structure in full control of your aircraft, jumping around some remote islands or fiords, in full contact with the nature? We are pretty excited to see soon some great pictures of a Bobber used in this environment! What about the float version? Savage aircrafts are perfect for float operations, and they are being operated this way since years in several countries of the world. All the necessary bushings for a float conversion are already welded into the fuselage, as standard. Some early models might require those fittings to be riveted to the structure. It is possible (only for the Classic and the Cruiser) to order the second door (left). The real non plus ultra as a pure seaplane however, is the Bobber! Can you imagine your flying sensation sitting on its open air tubular structure in full control of your aircraft, jumping around some remote islands or fiords, in full contact with the nature? We are pretty excited to see soon some great pictures of a Bobber used in this environment! 1
+
++++++++++
+zlin_zlinaero13 - faq_description:(42)
+id_lavoro,language_id,titolo,descrizione
+1 1 Why did you decide to call it ''Savage''? Isn't that rather an aggressive name for an aircraft? <p>Because it stems from a ''pure'' passion for a type of flying that is easy-going, calm and goes against the current trend. Today the market is oriented towards low-wing designs, side-by-side seating and front-wheel tricycle undercarriages. The Savage rebels against that approach and challenges it! Don't forget that this plane can really land in wild and remote areas. See our videos or the special accessories list, and you will understand why we consider our product really ''savage''. It is definitely all about the ownership and exciting flying experience that you get with it, which is really Savage! You get really involved and in love with this aircraft&hellip; And it is also about the &ldquo;savage&rdquo; places you can reach with it, which cannot even count as emergency places for landing with other aircrafts.</p>
+1 2 Why did you decide to call it ''Savage''? Isn't that rather an aggressive name for an aircraft? <p>Because it all started from a pure, autentic and &quot;savage&quot; passion (which means deep, strong...) for a type of flying that is easy-going, calm and goes against the current trend. Today the market is oriented towards low-wing designs, side-by-side seating and front-wheel tricycle undercarriages. The Savage rebels against that approach and challenges it! Don't forget that this plane can really land in wild and remote areas. See our videos or the special accessories list, and you will understand why we consider our product really ''savage'' (in the &quot;unconventional&quot;, &quot;uneducated&quot; meaning...).</p>
+<p>It is definitely also about the ownership and exciting flying experience that you get with it, which is really &quot;Savage&quot;! You get really involved and in love with this aircraft&hellip; And it is also about the &ldquo;savage&rdquo; places you can reach with it, which cannot even count as emergency places for landing with other aircrafts.</p>
+2 1 How does the Savage handle? <p>Inspired by one of the timeless legends of aviation, the Piper Cub, it consequently features many of its characteristics: excellent STOL performance, superb all-round visibility (even downwards with the optional transparent flooring), comfort, good handling and easy emergency landing thanks to its tough undercarriage and a ''flare'' at around 65 km/h. Much slower if equipped with our Vortex generators Kit, which today comes actually as a standard. Fast-steep climb rate and cruise performance are excellent thanks to contained weight and a low-drag cross-section. It is, then, a reasonably fast cruise machine that is also at home on small airfields with difficult, obstructed approaches.</p>
+2 2 How does the Savage handle? <p>Inspired by one of the timeless legends of aviation, the Piper Cub, it consequently features many of its characteristics: excellent STOL performance, superb all-round visibility (even downwards with the optional transparent flooring), comfort, good handling and easy emergency landing thanks to its tough undercarriage and a ''flare'' at around 65 km/h. Much slower if equipped with our Vortex generators upgrade, which is really an effective and almost must-have feature. Fast-steep climb rate and cruise performance are excellent thanks to contained weight and a low-drag cross-section. It is, then, a reasonably fast cruise machine that is also at home on small airfields with difficult, obstructed approaches.</p>
+3 1 What are the real difficulties with a ''taildragger'' undercarriage? A lot has been said about this: that it is difficult during taxiing because forward visibility is impaired, that propeller torque is difficult to contrast on take-off, that landing requires expert skills, that it is easy to flip over and is unmanageable in crosswinds and so on. These statements are often made by pilots with no direct experience of this type of aircraft who do not distinguish between different versions. Of course, pilots flying ''taildragger'' aircraft must always be fully aware of their particular characteristics because, on the one hand, while they require only short runways to give secure off-field landings, they do, on the other, require greater precision. With the Savage a pilot who is 1.65 m tall can see ahead perfectly without having to zigzag. Special devices which limit the effects of torque mean it is no longer necessary to ''pedal'' the aircraft this way to keep it under control. As it is high off the ground it cannot flip over, even when brakes hard on grass. With crosswinds, in addition to effectuating a classic ''U'' approach, it is advisable to set down the main undercarriage first gently and then let the tail drop to dissipate speed gradually: the brakes and powerful rudder do the rest. Finally, the real difference in landing lies in setting the correct approach speed, thanks to which the Savage almost automatically performs a ''3-point'' touchdown.
+3 2 What are the real difficulties with a ''taildragger'' undercarriage? A lot has been said about this: that it is difficult during taxiing because forward visibility is impaired, that propeller torque is difficult to contrast on take-off, that landing requires expert skills, that it is easy to flip over and is unmanageable in crosswinds and so on. These statements are often made by pilots with no direct experience of this type of aircraft who do not distinguish between different versions. Of course, pilots flying ''taildragger'' aircraft must always be fully aware of their particular characteristics because, on the one hand, while they require only short runways to give secure off-field landings, they do, on the other, require greater precision. With the Savage a pilot who is 1.65 m tall can see ahead perfectly without having to zigzag. Special devices which limit the effects of torque mean it is no longer necessary to ''pedal'' the aircraft this way to keep it under control. As it is high off the ground it cannot flip over, even when brakes hard on grass. With crosswinds, in addition to effectuating a classic ''U'' approach, it is advisable to set down the main undercarriage first gently and then let the tail drop to dissipate speed gradually: the brakes and powerful rudder do the rest. Finally, the real difference in landing lies in setting the correct approach speed, thanks to which the Savage almost automatically performs a ''3-point'' touchdown.
+4 1 Which is the best engine for the Savage? <p>A good option is the 80 HP Rotax 912 UL, however the most delivered and requested is the Rotax 912 S (100hp). If the aircraft is to be used under certain conditions there are two turbo versions available (Rotax 914 115hp or our own turbo tuning with mechanical air compressor rated 120hp). BMW, LIMBACH and SUBARU engines have also been installed by private customers. Some Jabiru engines were also installed and are flying regularly. Some Smarts diesel engines are operated by few planes too. In addition to the mainstream Rotax range, we are offering the new CUB-S with a choice of Lycoming powerplants particularly suited to the high end LSA market: on one side the IO233 rated 115hp at 2800rpm, both in carburetor and fuel injected versions, and on the other side two powerful alternatives. One is a special tuned and reworked lighter version of the IO320, with electronic ignition, and boosting 172hp. The other one is the ECI 340 fuel injected boosting 180hp. Equipped with this last one, the aircraft actually represents an industry record in power to weight ratio for an LSA.</p>
+4 2 Which is the best engine for the Savage? <p>A good option is the 80 HP Rotax 912 UL, however the most delivered and requested is the Rotax 912 S (100hp). If the aircraft is to be used under certain conditions there are two turbo versions available (Rotax 914 115hp or our own turbo tuning with mechanical air compressor rated 120hp). BMW, LIMBACH and SUBARU engines have also been installed by private customers. Some Jabiru engines were also installed and are flying regularly. Some Smarts diesel engines are operated by few planes too. In addition to the mainstream Rotax range, we are offering the new CUB-S with a choice of Lycoming powerplants particularly suited to the high end LSA market: on one side the IO233 rated 115hp at 2800rpm, both in carburetor and fuel injected versions, and on the other side two powerful alternatives. One is a special tuned and reworked lighter version of the IO320, with electronic ignition, and boosting 172hp. The other one is the ECI 340 fuel injected boosting 180hp. Equipped with this last one, the aircraft actually represents an industry record in power to weight ratio for an LSA.</p>
+5 1 What experience is needed to put the kit together? <p>We only produce very advanced kits. All welding and covering have already been carried out. No special tools are required, the wings are already complete, ailerons and flaps are fully constructed. The controls are ready to be fitted (already powder-coated). Painting aside, some 450 to 550 working hours will be required for persons of average manual ability. Less if the kit is assembled by experienced professionals.</p>
+5 2 What experience is needed to put the kit together? <p>We only produce very advanced kits. All welding and covering have already been carried out. No special tools are required, the wings are already complete, ailerons and flaps are fully constructed. The controls are ready to be fitted (already powder-coated). Painting aside, some 450 to 550 working hours will be required for persons of average manual ability. Less if the kit is assembled by experienced professionals.</p>
+
++++++++++
+zlin_zlinaero13 - friends:(5)
+id,pos,nome,link,pubblicato
+1 1 Cubdriver 749er L.L.C. http://cubdriver749er.com/ 1
+2 2 Savage Owner Group http://glide.intercom.it/sowg.htm 1
+3 3 Amilpies http://www.amilpies.com/ 1
+4 4 Gaid http://www.gaid.it/ 1
+5 5 Scuola Volo Brescia http://www.volobrescia.it/ 1
+
++++++++++
+zlin_zlinaero13 - inout:(2)
+id,userid,pass,cognome,nome,permessi,vedimodi,expertmode,progettista,disegnatore,costo,attivo
+1 tiziano_asd Thburlow#1 Ferrari Tiziano D 1 0 1 1 0.00 1
+3 pasrus_asd 9_Kjt*3WwaQ2 Russo Pasquale D 5 0 1 1 0.00 1
+
++++++++++
+zlin_zlinaero13 - languages:(5)
+languages_id,name,code,short_code,long_code,image,attivo,pos
+1 Italiano it i Ita f-it.gif 0 1
+2 English en e Eng f-uk.gif 1 1
+3 Francais fr f Fra f-fr.gif 0 1
+4 Deutsch de d Deu f-de.gif 0 1
+5 Espanol es s Esp f-es.gif 0 1
+
++++++++++
+zlin_zlinaero13 - lavori:(333)
+id,data,link,note,pubblicato
+8 1216504800 1
+9 1214949600 1
+5 1222984800 1
+6 1220306400 http://www.youtube.com/watch?v=WekJ0XawEf0 1
+1 1221861600 1
+2 1222725600 1
+3 1222898400 1
+227 1370124000 1
+228 1370210400 1
+11 1213048800 1
+92 1271628000 http://www.zlinaero.com/eng/gallery.php?what=pg#menu 1
+93 1272232800 http://www.youtube.com/watch?v=U2bczTjHc0c 1
+94 1273442400 http://www.zlinaero.com/images/savage/aero2010/cockpit.html 1
+95 1273874400 1
+96 1274479200 http://www.youtube.com/watch?v=ln2cUXK1Vks 1
+97 1275343200 http://www.youtube.com/watch?v=eDBxX-DrXNc 1
+98 1274652000 1
+99 1274997600 http://www.ulmadventure.com/web/ 1
+100 1276552800 1
+101 1277416800 http://www.sportair.aero/press/icub/iCubPR-intro.pdf 1
+
++++++++++
+zlin_zlinaero13 - lavori_description:(402)
+id_lavoro,language_id,titolo,yellow,descrizione,user_id,last_modified
+1 2 New report on Pilot Magazine-England Nice article on Pilot. British magazine. The title says: Best looking LSA....The Savage Cruiser was tested in Usa during last 2008 Oshkosh exibition.. Take a look..  Only the prices are wrong...Check our configurator for more precise infos. 1 1364288881
+2 2 New cover on Aviation Pilote-France Another nice test and report from France,this time. <br>http://aviation-pilote.com/<br>Welcome to a new entry in France. A second Dealer<br>is since last August ,available in France. Check for details into the Dealer's page. 1 1364288881
+3 2 New Models soon on the market? Zlin Aviation s.r.o. is glad to announce that during next Spring two new versions of the Savage planes, will be introduced into the market.<br>Stay tuned or ask more details to your Dealer.. 1 1364288881
+5 2 New cover on Aviation Deportiva-Spain This month we got more than one cover around the World. This last one came from Spain.  Ten pages and lots of interesting info about the Savage equipped with the bushwheels (for mountain flying)...More details from the Spanish Dealer... 1 1364288881
+6 2 Landing on a truck.... Tom Huber, our German Dealer made another fantastic performace with his Savage Classic.<br>He simply landed on a truck...and later, made a perfect take off....<br>See the video: click the Link inside this news. 1 1364288881
+8 2 Do you like the snow? The new retractable system will allow you to take off from your airfield and land easily into the snow.<br>Tested for one year are now available as a retrofit kit. The owner of this specific plane is the famous Italian pilot Cesare Balbis...The engine (Rotax 100 hp) is equipped with an injection kit built in Germany. More news asap.<br>Visit his website: http://www.cesarebalbis.com/index2.php 1 1364288881
+9 2 New paint scheme.. We developed with the magical help of Aircraft Studio Design a new paint scheme. Named Bush.<br>Adapted to the sweet look of the Savage Cruiser, it  will add an aggressive and elegant appeal to your plane.<br>Available for new orders only. 1 1364288881
+224 1 1 1402047769
+224 2 Rotax Alert Service Bulletin <p>We inform all customers that Rotax has recently issued an Alert Service Bulletin instructing to perform a check of the cylinder head assy 2/3 for Rotax engine Type 912 and 914 Series.</p> 1 1402047769
+11 2 Full Lotus system Our Finnish Dealer installed and flown the first Savage Cruiser with the Full Lotus float system.<br>Light and soft..A good alternative to our CZAW amphibious system.<br> 1 1364288881
+93 2 First Savage Cub video on line In cooperation with our great Spanish dealer, we can finally show a new video.The plane is based in Spain and the video was introduced at last Friedrichshafen event . Take a look on youtube just clicking on the attached link. A new video, more focused on bushflying and off airport operations is under work.Keep in touch.. 1 1364288881
+94 2 Sit inside a Savage Cub..360° View. Available also for your iphone.Click on the link and take a look inside the cabin. A 360° picture to understand better how it looks inside from the point of view of the Pilot...<br>This 360° pic was taken in Germany during the last Aero 2010. We hope to offer an air to air 360° pic soon. 1 1364288881
+95 2 New deliveries.. Two new Savage Cubs have been delivered last week in North of Italy. Another one will be delivered in the city of Caorle next week (Italy) . And a 4th Savage Cub will be also delivered next week in Spain.<br>We can officially admit that even if with some delay, we are delivering lots of planes in this period. From now up to the end of July are planned not less than 11 new deliveries. Five Cruiser and six Cub.<br>We want to thank all the customers waiting for their planes.Very soon they will get their new ship... 1 1364288881
+96 2 New Video by Scuola Volo Brescia Fabio Guerra and his team established the first Italian bushflying school operating several Savage Classic.<br>They just released a nice video showing the Savage Classic with extended landing gear and 29" Alaskan Bushwheel. <br>There will be many news in the next 3/4 weeks. About new dealers and technical aspects. We will keep you informed.<br>Enjoy the link..<br> 1 1364288881
+97 2 COMING SOON....... "No Second Chances" ........As wrote last 22 May on this webpage, many news will be announced soon.  The first today and we are "honoured"..<br>The new video of Lony Habertsetzer is arriving..<br>Take a look on the first preview just shared on you tube by Donald C. Martin  few minutes ago. Great job Don...Great job Loni... 1 1364288881
+98 2 First Savage Cruiser Turbo The first Savage Cruiser equipped with a Rotax 914 turbo has flown. Compliments to the owner, Mr. Paolo R. for his beautiful plane. Performances are absolutely interesting. We will make soon a flight report. 1 1364288881
+99 2 ulmadventure.com Trips and Courses .A simple way to describe the new project of our Spanish Dealer. Pls check the link attached, and discover the programs. The next trip is really getting close.<br>To get more informations contact directly the Spanish Dealer and his organization. <br>Next departure? : 09 July. Enjoy this new adventure.. 1 1364288881
+100 2 New Iranian Dealer Welcome today to our new Iranian Dealer (asap the details).<br>According to our development plans, we are glad to announce a new Dealer today. And a new announcement about a new delaership will be officially unveiled in the next hours too.<br>And just to help to understand how strong we are pushing in the marketing area, we are close to finalize other two dealerships: Uk and Brasil. Keep in touch if interested. 1 1364288881
+101 2 New iCub press release We are glad to introduce the new iCub (a special version of our Savage Cub  at the moment available as LSA, only for the Usa ) and the new American Dealer SportairUSA,LC.<br>(http://icub.aero/).All the informations in the pdf link attached below. We will present this new model at AirVenture 2010 (booth will be located on site #62).An interesting article can be found here: http://light-sport-hangar-flyin.blogspot.com/ 1 1364288881
+102 2 EAA's Coverage of the 2010 Valdez STOL Competition How to fly slow and low...taking off as short as possible and landing with the same idea in mind...<br>Enjoy the video.. Will be there one day a Savage Cub or iCub with more than 135 hp and probably the best ratio hp/lps on LSA market?<br>Follow our next developments to discover the future programs of Zlin Aviation. 1 1364288881
+
++++++++++
+zlin_zlinaero13 - lavori_images_description:(1)
+id_image,language_id,description,user_id,last_modified
+83 1 1 1364321897
+
++++++++++
+zlin_zlinaero13 - lavori_videogallery:(7)
+id,id_padre,pos,data,titolo_e,titolo_d,link,copyright,tipo,utente_vimeo,pubblicato
+1 212 1 1364252400 http://www.youtube.com/watch?v=0qxO_85mc_U ZlinAviation 1 1
+2 212 2 1364252400 http://www.youtube.com/watch?v=auUGAixADDs 1 1
+3 212 3 1367964000 https://vimeo.com/50318283 Non è attinente non pubblicare! 2 0
+4 217 1 1369173600 http://www.youtube.com/watch?v=2NiFqf-Z5C0 ultralightnews 1 0
+5 261 1 1416524400 https://www.youtube.com/watch?v=sCipVfLqpLw 1 0
+6 262 1 1416956400 http://youtu.be/sCipVfLqpLw 1 0
+7 305 1 1486076400 https://www.youtube.com/watch?v=tcVer4kS-sw Zlin Aviation 1 0
+
++++++++++
+zlin_zlinaero13 - lavori_videogallery_description:(13)
+id_lavoro,language_id,titolo,descrizione,user_id,last_modified
+1 1 Test di video 1 1364317000
+1 2 Video Test 1 1364317000
+2 1 Secondo Test di video 1 1364318242
+2 2 Video second test 1 1364318242
+3 1 Test Vimeo 1 1367996114
+3 2 Vimeo test 1 1367996114
+4 1 Bobber, Savage Bobber light sport aircraft from icub.aero 1 1369207416
+4 2 Bobber, Savage Bobber light sport aircraft from icub.aero 1 1369207416
+5 1 5 1416564907
+5 2 5 1416564907
+
++++++++++
+zlin_zlinaero13 - livree:(10)
+id,pos,codice,famiglia,note,prezzo,prezzo_usd
+1 0 LIV-00001 0 0.00 0.00
+2 2 LIV-00002 0 0.00 0.00
+3 3 LIV-00003 0 0.00 0.00
+4 0 LIV-00004 0 0.00 0.00
+5 5 LIV-00005 0 0.00 0.00
+6 6 LIV-00006 0 0.00 0.00
+7 7 LIV-00007 0 0.00 0.00
+8 8 LIV-00008 0 0.00 0.00
+9 9 LIV-00009 0 0.00 0.00
+10 10 LIV-00010 0 0.00 0.00
+
++++++++++
+zlin_zlinaero13 - livree_description:(40)
+id_optional,language_id,titolo,descrizione
+1 1 Standard colour: Yellow Savage
+1 2 Standard colour: Yellow Savage
+1 3
+1 4
+2 1 Standard colour: White Savage
+2 2 Standard colour: White Savage
+2 3
+2 4
+3 1 Standard colour: Red Savage
+3 2 Standard colour: Red Savage
+
++++++++++
+zlin_zlinaero13 - livree_images:(0)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+
++++++++++
+zlin_zlinaero13 - livree_images_description:(0)
+id_image,language_id,description,user_id,last_modified
+
++++++++++
+zlin_zlinaero13 - livree_prezzi:(11)
+id_optional,id_currency,prezzo
+1 1 0.00
+1 2 0.00
+2 1 0.00
+3 1 0.00
+4 1 2700.00
+5 1 1100.00
+6 1 2300.00
+7 1 2700.00
+8 1 2700.00
+9 1 2300.00
+
++++++++++
+zlin_zlinaero13 - menu_principale:(12)
+id,posizione,titolo,link,target,w_name,w_width,w_height,w_status,w_scrollbars,w_resize,alternate_text,color_over,color_out,auth
+15 10 SHOP # dati 0 0 0 1 1 #FFCC00 #535E72 100
+2 1 NOTIZIE notizie/dati_lavori.php dati 0 0 1 1 Vai alla gestione delle Notizie #FFCC00 #535E72 0
+3 5 TECH DOCUMENTS note/dati_lavori.php dati 0 0 0 1 1 Vai alla gestione delle Note di Manutenzione #FFCC00 #535E72 0
+4 2 PRODOTTI & OPTIONALS # dati 0 0 0 1 1 #FFCC00 #535E72 0
+5 100 UTILITA' # dati 0 0 0 1 1 #FFCC00 #535E72 0
+6 6 MEDIA # dati 0 0 0 1 1 #FFCC00 #535E72 0
+10 4 CONFIGURAZIONI WEB offerte/dati-preventivi.php dati 0 0 0 1 1 #FFCC00 #535E72 0
+18 9 LINKS (FRIENDS) friends/dati.php dati 0 0 0 1 1 0
+12 3 CONFIGURATORI ON / OFF attivazione/dati.php dati 0 0 0 1 1 #FFCC00 #535E72 0
+13 50 TABELLE ANAGRAFICHE # dati 0 0 0 1 1 #FFCC00 #535E72 0
+
++++++++++
+zlin_zlinaero13 - nazioni:(243)
+codice,nazione,currency
+IT Italy 0
+AF Afghanistan 0
+AL Albania 0
+DZ Algeria 0
+AS American Samoa 0
+AD Andorra 0
+AO Angola 0
+AI Anguilla 0
+AQ Antartica 0
+AG Antigua and Barbuda 0
+GT Guatemala 0
+GG Guernsey 0
+GN Guinea 0
+GW Guinea-Bissau 0
+GY Guyana 0
+HT Haiti 0
+HM Heard and McDonald Islands 0
+VA Holy See (City Vatican State) 0
+HN Honduras 0
+HK Hong Kong 0
+
++++++++++
+zlin_zlinaero13 - news_allegati:(11)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+1 212 0 1 datasheet_B25R.pdf
+2 212 0 2 prestazioni_B25R.pdf
+3 224 0 1 Rotax912_914s_2013_03_05.pdf
+4 231 0 1 d05681.pdf
+5 174 0 1 comunicato stampa Wild.pdf
+6 167 0 1 ASB-912-059_914-052_UL_English.pdf
+7 154 0 1 All Clear 10 cover.pdf
+8 130 0 1 48-52_aprendiendo_a_volar.pdf
+9 113 0 1 Reisebereicht Madagaskar 2010.pdf
+10 109 0 1 savage-meeting-2010.pdf
+
++++++++++
+zlin_zlinaero13 - news_images:(365)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+1 10 0 1 10.jpg
+2 14 0 1 14.jpg
+3 13 0 1 13.jpg
+4 7 0 1 7.jpg
+5 15 0 1 15.jpg
+6 12 0 1 12.jpg
+7 11 0 1 11.jpg
+8 9 0 1 9.jpg
+9 8 0 1 8.jpg
+10 6 0 1 6.jpg
+91 201 0 1 201.jpg
+92 197 0 1 197.jpg
+93 196 0 1 196.jpg
+94 193 0 1 193.jpg
+95 192 0 1 192.jpg
+96 190 0 1 190.jpg
+192 189 0 1 189.jpg
+193 188 0 1 188.jpg
+197 184 0 1 184.jpg
+199 182 0 1 182.jpg
+
++++++++++
+zlin_zlinaero13 - note_manutenzione:(23)
+id,data,link,tipo,note,pubblicato
+22 1189029600 0 1
+21 1165964400 0 1
+3 1191189600 1 1
+4 1194908400 1 1
+23 1189029600 0 1
+7 1190152800 1 1
+8 1214604000 1 1
+27 1358895600 1 1
+10 1215295200 1 1
+11 1222898400 1 1
+
++++++++++
+zlin_zlinaero13 - note_manutenzione_allegati:(26)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+1 3 0 1 Zlin_ServiceBulletin_02.pdf
+2 4 0 1 TA1.pdf
+3 7 0 1 Zlin_ServiceBulletin_01.pdf
+4 8 0 1 Zlin_ServiceBulletin_03.pdf
+5 11 0 1 Zlin_ServiceBulletin_05.pdf
+6 12 0 1 Zlin_ServiceBulletin_06.pdf
+7 14 0 1 Vortex Generator Installation Addendum Rev 2 Oct 08.pdf
+8 15 0 1 TM Rakete Rev 2 englisch.pdf
+27 16 0 1 QAP-AMM-Rev02_2013 con BOB e new ES e FS.pdf
+10 19 0 1 Zlin-Form-ASTM-F2384-337-Rev-10-.pdf
+
++++++++++
+zlin_zlinaero13 - note_manutenzione_description:(62)
+id_nota,language_id,titolo,descrizione
+1 1 AD2 Filtro benzina in vetro Descrizione della prima prova di alert di manutenzione.
+1 2 AD2 Glass fuel filter
+5 1 AD4 pinze freno
+2 1 AD3 Tenditori pedaliera
+2 2 AD3 Replacement of rudder’s turnbuckles
+3 1 SB2 Pompa meccanica del carburante
+3 2 SB2 Mechanic fuel pump
+4 1 Manutenzione Savage
+4 2 Savage maintenance
+5 2 AD4 brake callipers Only for Savages serial number 120, 121, 122, 124, 125, 129
+
++++++++++
+zlin_zlinaero13 - note_manutenzione_images:(0)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+
++++++++++
+zlin_zlinaero13 - note_manutenzione_images_description:(0)
+id_image,language_id,description,user_id,last_modified
+
++++++++++
+zlin_zlinaero13 - optionals:(114)
+id,pos,codice,famiglia,note,prezzo_base,prezzo_ita,prezzo_usa
+2 1 EN1 2 2900.00 2900.00 2900.00
+121 3 IP6B 11 1850.00 0.00 0.00
+5 2 EO2 1 100.00 0.00 0.00
+6 7 06 1 650.00 0.00 0.00
+8 3 EO3 1 150.00 0.00 0.00
+13 1 HS1 0 360.00 0.00 0.00
+15 1 IP4 11 2900.00 0.00 0.00
+21 1 PT1 0 800.00 0.00 0.00
+23 2 PT2 0 490.00 0.00 0.00
+71 2 LG03 16 1350.00 0.00 0.00
+214 14 PS18 23 3800.00 0.00 0.00
+215 15 PS19 23 3800.00 3800.00 3800.00
+216 2 IP4B 11 3100.00 0.00 0.00
+217 1 IP10 0 0.00 0.00 0.00
+218 2 IP11 0 0.00 0.00 0.00
+219 3 IP12 0 0.00 0.00 0.00
+220 4 IP13 0 0.00 0.00 0.00
+221 5 IP14 0 0.00 0.00 0.00
+222 6 IP15 0 0.00 0.00 0.00
+223 7 IP16L 0 0.00 0.00 0.00
+
++++++++++
+zlin_zlinaero13 - optionals_description:(271)
+id_optional,language_id,titolo,descrizione
+2 1
+153 2 Extra fuel tank (92 l) Standard on CUB-S with Lycoming 172hp or more
+121 2 Radio Filser ATR833-2K-LCD  with antenna and intercom
+149 1
+149 2 Upgrade to Ligthweight LiFePO4 Battery 13,2V/2,3Ah 50A/150A, weights only 450gr! Direct replacement to standard battery for Rotax powered aircrafts
+2 2 Rotax 912 S - 100 hp (with clutch and reinforced electric starter) <p>Basic aircraft is equipped with Rotax 912 UL 80hp engine. Choose this option to upgrade to the Rotax 912 ULS 100hp.</p>
+2 3
+2 4
+5 1 Oil inspection door installed
+5 2 Oil inspection door installed
+148 1
+80 1 De Luxe Leather Seats hand made
+80 2 De Luxe Italian Leather Seats hand made
+80 3
+80 4
+243 1
+85 1 Belly Pod Cargo
+85 2 Belly Cargo Pod
+85 3
+85 4
+
++++++++++
+zlin_zlinaero13 - optionals_images:(73)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+1 1 0 1 212.jpg
+2 105 0 1 bobber rc 3.jpg
+3 148 0 1 pitch trim cloche.JPG
+4 11 0 1 radio-funkwerk-filser-atr833-vhf-ecran-lcd.jpg
+5 149 0 1 superb2600.JPG
+6 111 0 1 ekp5.JPG
+7 120 0 1 ack elt.JPG
+8 109 0 1 hme110pj.JPG
+9 110 0 1 david clark.JPG
+10 112 0 1 ameriking.JPG
+
++++++++++
+zlin_zlinaero13 - optionals_images_description:(2)
+id_image,language_id,description,user_id,last_modified
+1 1 1 1365673072
+2 2 Italian 5 1403775552
+
++++++++++
+zlin_zlinaero13 - optionals_obbligatori:(0)
+id_padre,id_figlio
+
++++++++++
+zlin_zlinaero13 - optionals_prezzi:(37)
+id_optional,id_currency,prezzo
+2 1 450.00
+121 1 1755.00
+13 1 180.00
+21 1 800.00
+5 1 100.00
+6 1 580.00
+8 1 150.00
+15 1 2800.00
+23 1 490.00
+32 1 880.00
+
++++++++++
+zlin_zlinaero13 - ordini:(2)
+id_utente,id_sessione,tipo,codice,fam_cod,s_fam_cod,descrizione,quantita,prezzo
+0 a994bdaa3cea14e6724f590bf4475a7d I 1 1 1 Test product 1 20.00
+0 a994bdaa3cea14e6724f590bf4475a7d I 2 1 1 Savage Cruiser Hat 1 15.00
+
++++++++++
+zlin_zlinaero13 - ordini_testate:(1)
+id,id_sessione,data,anno,societa,nome,cognome,indirizzo,cap,citta,stato,nazione,email,telefono,pagamento_data,pagamento_orderid,pagamento_total,pagamento_status,pagamento_approval_code,pagamento_authresponse,pagamento_cardname,pagamento_nameoncard,pagamento_cardstreet,pagamento_cardcity,pagamento_cardstate,pagamento_cardzip,pagamento_cardcountry,pagamento_email,chiuso
+1 a994bdaa3cea14e6724f590bf4475a7d 1208268496 2008 Tiziano Ferrari Via Carlo Cattaneo 94 41100 Modena MO IT t.ferrari@tin.it 39 059 2929536 0.00 0 0
+
++++++++++
+zlin_zlinaero13 - photo:(13)
+id_photogallery,photo,testo,testo_e
+1 1 Prova di didascalia per la prima foto della prima Galleria fotografica Note test for the first photo in the first Photogallery
+1 2 Note test for the second photo in the first Photogallery
+1 3
+1 4
+1 5
+1 6
+1 7
+1 8
+1 9
+1 10
+
++++++++++
+zlin_zlinaero13 - photogallery:(17)
+id,data,titolo,testo,copyright,prodotto,pubblicato
+2 1224021600 Arturo Polo Ena 0 1
+1 1222812000 Zlin Aviation S.r.o. 0 1
+3 1239055200 Zlin Aviation S.r.o. 0 1
+4 1271455200 Zlin Aviation S.r.o. 0 1
+5 1271628000 Zlin Aviation S.r.o. 0 1
+6 1282773600 Zlin Aviation S.r.o. 0 1
+7 1303768800 Zlin Aviation S.r.o. 0 1
+8 1335304800 Zlin Aviation S.r.o. 0 1
+9 1367964000 Zlin Aviation S.r.o. 0 1
+10 1399500000 Zlin Aviation S.r.o. 0 1
+
++++++++++
+zlin_zlinaero13 - photogallery_description:(35)
+id_lavoro,language_id,titolo,yellow,descrizione,user_id,last_modified
+2 1 1 1411044121
+2 2 Mountain Pilot (Arturo Polo Ena-Spanish Dealer) 1 1411044121
+1 1 1 1411043675
+1 2 Versatile Pilots (Tom and Hilde - German Dealers) 1 1411043675
+1 1 1 1411043675
+1 2 Versatile Pilots (Tom and Hilde - German Dealers) 1 1411043675
+2 1 1 1411044121
+2 2 Mountain Pilot (Arturo Polo Ena-Spanish Dealer) 1 1411044121
+3 1 1 1411044509
+3 2 Friedrichshafen 2009 1 1411044509
+
++++++++++
+zlin_zlinaero13 - photogallery_images:(292)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+1 1 0 1 1.JPG
+2 1 0 2 2.jpg
+3 1 0 4 3.JPG
+4 1 0 3 4.JPG
+5 1 0 5 5.jpg
+6 1 0 6 6.JPG
+7 1 0 7 7.jpg
+8 1 0 8 8.JPG
+9 1 0 9 9.JPG
+10 1 0 10 10.jpg
+98 6 0 3 3.jpg
+99 6 0 1 4.jpg
+100 6 0 5 5.jpg
+101 6 0 6 6.jpg
+102 6 0 7 7.jpg
+103 6 0 8 8.jpg
+104 6 0 9 9.jpg
+105 6 0 10 10.jpg
+106 6 0 11 11.jpg
+107 6 0 12 12.jpg
+
++++++++++
+zlin_zlinaero13 - photogallery_images_description:(1)
+id_image,language_id,description,user_id,last_modified
+300 2 511 0 1493936148
+
++++++++++
+zlin_zlinaero13 - pressrelease:(1)
+id,pos,mese,anno,titolo_e,titolo_d,testata,pubblicato,dealerlan
+1 1 0 2013 Newspaper test 1 0
+
++++++++++
+zlin_zlinaero13 - pressrelease_description:(2)
+id_calendario,language_id,titolo,descrizione
+1 1 Titolo di test <p>Testo di test.</p>
+1 2 Test title <p>Test text.</p>
+
++++++++++
+zlin_zlinaero13 - pressrelease_images:(0)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+
++++++++++
+zlin_zlinaero13 - pressrelease_images_description:(0)
+id_image,language_id,description,user_id,last_modified
+
++++++++++
+zlin_zlinaero13 - preventivi:(4404)
+id,numero,codice,anno,data,cognome_cliente,nome_cliente,email_cliente,telefono_cliente,nome_file,nome_velivolo,totale,consenso
+1 1 WEB-2008-1 2008 1225238400 Ronzani Paolo WEB-2008-1.pdf Savage Classic 40900.00 0
+2 2 WEB-2008-2 2008 1225238400 Ferrari Tiziano WEB-2008-2.pdf Savage Classic 43330.00 0
+3 3 WEB-2008-3 2008 1225238400 Ronzani Paolo WEB-2008-3.pdf Savage Classic 46210.00 0
+4 4 WEB-2008-4 2008 1225238400 kjxcv jch WEB-2008-4.pdf Savage Cruiser 59030.00 0
+5 5 WEB-2008-5 2008 1225238400 kjbdsvòIJDSB ka WEB-2008-5.pdf Savage Classic 54500.00 0
+6 6 WEB-2008-6 2008 1225324800 renna guido WEB-2008-6.pdf Savage Cruiser 59470.00 0
+7 7 WEB-2008-7 2008 1225324800 òzl odsjkfvn WEB-2008-7.pdf Savage Classic 43650.00 0
+8 8 WEB-2008-8 2008 1225324800 giunta salvatore WEB-2008-8.pdf Savage Classic 117735.00 0
+9 9 WEB-2008-9 2008 1225324800 polo arturo WEB-2008-9.pdf Savage Cruiser 63270.00 0
+10 10 WEB-2008-10 2008 1225324800 Polo Ena Arturo WEB-2008-10.pdf Savage Classic 84550.00 0
+91 7 WEB-2009-7 2009 1231545600 Edes Imre WEB-2009-7.pdf Savage Classic 55360.00 0
+92 8 WEB-2009-8 2009 1231545600 Edes Imre WEB-2009-8.pdf Savage Classic 56560.00 0
+93 9 WEB-2009-9 2009 1231545600 Chamorro Humberto WEB-2009-9.pdf Savage Classic 69180.00 0
+94 10 WEB-2009-10 2009 1231545600 Craig Andrew WEB-2009-10.pdf Savage Cruiser 63860.00 0
+95 11 WEB-2009-11 2009 1231632000 Maziarz Zbigniew WEB-2009-11.pdf Savage Classic 50990.00 0
+96 12 WEB-2009-12 2009 1231718400 Morales Jose WEB-2009-12.pdf Savage Classic 74950.00 0
+97 13 WEB-2009-13 2009 1231804800 sweeney steve WEB-2009-13.pdf Savage Cruiser 62970.00 0
+98 14 WEB-2009-14 2009 1231891200 ANAR Sinan WEB-2009-14.pdf Savage Cruiser 99785.00 0
+99 15 WEB-2009-15 2009 1231977600 zavaritt riccardo WEB-2009-15.pdf Savage Cruiser 59440.00 0
+100 16 WEB-2009-16 2009 1232064000 Cardarelli Francesco WEB-2009-16.pdf Savage Cruiser 77655.00 0
+491 407 WEB-2009-407 2009 1257206400 Tronci Michele WEB-2009-407.pdf Savage Cub 57530.00 0
+492 408 WEB-2009-408 2009 1257292800 Montalti Angelo WEB-2009-408.pdf Savage Cub 64890.00 0
+493 409 WEB-2009-409 2009 1257379200 PERDOMO-SPINOLA MOLERO AGUSTIN LORENZO WEB-2009-409.pdf Savage Cub 81675.00 0
+494 410 WEB-2009-410 2009 1257465600 xxxx Mr. Csaba WEB-2009-410.pdf Savage Cub 72130.00 0
+495 411 WEB-2009-411 2009 1257724800 Polgár Csaba WEB-2009-411.pdf Savage Cruiser 67500.00 0
+496 412 WEB-2009-412 2009 1257984000 ROULET Raphaël WEB-2009-412.pdf Savage Cub 71780.00 0
+497 413 WEB-2009-413 2009 1257984000 ROULET Raphaël WEB-2009-413.pdf Savage Classic 46340.00 0
+498 414 WEB-2009-414 2009 1258416000 giardino bruno WEB-2009-414.pdf Savage Classic 52270.00 0
+499 415 WEB-2009-415 2009 1258502400 eduard OLOERU WEB-2009-415.pdf Savage Cruiser 81550.00 0
+500 416 WEB-2009-416 2009 1258675200 Priebe Martin WEB-2009-416.pdf Savage Cruiser 70170.00 0
+991 106 WEB-2011-106 2011 1302476400 Lederer Ivo WEB-2011-106.pdf Savage Cub 52740.00 0
+992 107 WEB-2011-107 2011 1302562800 EL OUADI SOUF AERO CLUB WEB-2011-107.pdf Savage Cub 61045.00 0
+993 108 WEB-2011-108 2011 1302735600 paolacci dimitri WEB-2011-108.pdf Savage Cub 48150.00 0
+994 109 WEB-2011-109 2011 1302822000 GILLES HAUSKNOST WEB-2011-109.pdf Savage Cub 55750.00 0
+995 110 WEB-2011-110 2011 1302822000 RICHARD TOURNIER WEB-2011-110.pdf Savage Cub 63310.00 0
+996 111 WEB-2011-111 2011 1302822000 ZANIN Pascal WEB-2011-111.pdf Savage Classic 50510.00 0
+997 112 WEB-2011-112 2011 1302908400 Mohamed MATAOUI WEB-2011-112.pdf Savage Classic 66730.00 0
+998 113 WEB-2011-113 2011 1302908400 Vögele Tobias WEB-2011-113.pdf Savage Cub 90850.00 0
+999 114 WEB-2011-114 2011 1302908400 Härmä Raoul WEB-2011-114.pdf Savage Cub 74170.00 0
+1000 115 WEB-2011-115 2011 1302994800 Huefner Gerald WEB-2011-115.pdf Savage Classic 59760.00 0
+1991 220 WEB-2013-220 2013 1375570800 Caruso Fabrizio WEB-2013-220.pdf Savage Cub 63410.00 0
+1992 221 WEB-2013-221 2013 1375570800 Borchers William Gerd WEB-2013-221.pdf Savage Cruiser 76940.00 0
+1993 222 WEB-2013-222 2013 1375657200 Lang Craig WEB-2013-222.pdf Savage Classic 51380.00 0
+1994 223 WEB-2013-223 2013 1375743600 bartoccini fabio WEB-2013-223.pdf Savage Classic 60530.00 0
+1995 224 WEB-2013-224 2013 1375743600 Borchers William Gerd WEB-2013-224.pdf Savage Cruiser 58630.00 0
+1996 225 WEB-2013-225 2013 1375830000 Rimediotti Claudio WEB-2013-225.pdf Savage Bobber RC 5570.00 0
+1997 226 WEB-2013-226 2013 1375916400 Pascal BARLIER WEB-2013-226.pdf Savage Bobber 59430.00 0
+1998 227 WEB-2013-227 2013 1375916400 Børresen Gard WEB-2013-227.pdf Savage Cub S 89360.00 0
+1999 228 WEB-2013-228 2013 1376002800 Xantus Aron WEB-2013-228.pdf Savage Bobber 109040.00 0
+2000 229 WEB-2013-229 2013 1376089200 Wager Philipp WEB-2013-229.pdf Savage Classic 76045.00 0 
++++++++++
+zlin_zlinaero13 - prodotti:(14)
+id,modello,versione,codice,descrizione,note,prezzo_base,prezzo_ita,prezzo_usa,famiglia,pos,venduto,pubblicato
+3 Savage Classic 3 53500.00 53500.00 58500.00 1 3 0 1
+4 Savage Cub 4 61500.00 61500.00 67000.00 1 5 1 1
+2 Savage Cruiser 2 58000.00 58000.00 63500.00 1 4 1 1
+6 Savage Bobber 6 51000.00 51000.00 54000.00 1 2 1 1
+7 Savage Cub-S 7 73500.00 73500.00 79500.00 1 6 0 1
+9 Savage Classic Quick-build Kit 0.00 0.00 1 5 1 0
+10 Savage Bobber Quick-build Kit 0.00 0.00 1 8 1 0
+11 Savage Cruiser Quick-build Kit 0.00 0.00 1 6 1 0
+12 Savage Cub Quick-build Kit 0.00 0.00 1 7 1 0
+13 Savage Bobber RC Kit 1:3 13 4900.00 4900.00 4900.00 2 2 1 1
+
++++++++++
+zlin_zlinaero13 - prodotti_description:(63)
+id_lavoro,language_id,titolo,yellow,descrizione,user_id,last_modified
+3 1 5 1417516278
+3 2 <p>The Savage Classic, being the first aircraft that we designed back in 1997, and having been the only model in production for a certain amount of years, it is still today the most popular Savage around. The one that has trained hundreds of pilots, and the one that you can find at airfields around half the globe.</p>
+<p><br />
+The Savage Classic represents the foundations on top of which we have created our successful range of aircrafts. It embodies the main features that have made our products so popular and appreciated, as the strong 4130 fuselage, robust landing gear, very good visibility and exquisite handling qualities. It is possibly one of the easiest and more docile taildragger airplanes in the market today, being the reason of being so popular and appreciated among flight schools.</p>
+<p><br />
+Still today, it is very appreciated in certain markets, both because it is our entry level aircraft in the range of the fully enclosed ones, representing a very good value for the money, and also because it still is the lightest aircraft of our range (Bobber and Agilis apart of course).</p>
+<p><br />
+Build quality of the Savage Classic has no compromise, and performance wise is also very similar to its new successors that we have introduced.</p>
+<p><br />
+The Savage Classic is a very good and well proven performer, a sound investment, and a very easy to fly aircraft that guarantees many years of satisfaction and a great ownership experience, still keeping a very high resale value after years of service.</p>
+<p><br />
+In few words, it is a Classic, but still very actual!<br />
+&nbsp;</p> 5 1417516278
+3 3 5 1417516278
+3 4 5 1417516278
+3 5 5 1417516278
+2 1 0 1461607184
+2 2 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The Savage Cruiser has been our first intensive restyling effort carried on in 2005 on the Savage Classic. Restyling is in fact the good word for explaining it, as it all goes around that: new engine cowling and panel housing design, new bottom fuselage and tail shape, and new wing tips and aileron shape. Also the landing gear has been redesigned and got a very streamlined shape, with aerodynamic wheel covers. Side windows also went through the drawing board again. <br />
+All those design details have given, together with an array of wonderful paint schemes, a unique look and character to the Savage Cruiser, a very beloved aircraft with a classic, stylish and vintage feel to it. <br />
+In fact is not only about style and look, but the streamlined cowling has given that little extra aerodynamic qualities to the aircraft that allow for a better cruise speed over his other brothers, thus making the name &ldquo;Cruiser&rdquo; also very good fit to the aircraft.<br />
+Without any doubt, this is the aircraft for cruising with style and get noticed at airfields!</p> 0 1461607184
+2 3 0 1461607184
+2 4 0 1461607184
+2 5 0 1461607184
+
++++++++++
+zlin_zlinaero13 - prodotti_images:(267)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+134 6 0 2 1.JPG
+213 6 0 31 20140621_182549.jpg
+136 6 0 1 4.jpg
+18 13 0 8 Per tasto menu IMG_3821 2.JPG
+6 13 0 2 bobber rc 3.jpg
+7 13 0 3 bobber rc 4.jpg
+8 13 0 1 bobber rc 5.jpg
+9 13 0 4 bobber rc 6.jpg
+10 13 0 5 IMG_1082bis.JPG
+11 13 0 6 IMG_1131 (3) pic web.jpg
+183 4 0 31 20130724_113624.jpg
+115 4 0 11 71.jpg
+116 4 0 12 72.jpg
+117 4 0 13 73.jpg
+118 4 0 14 74.jpg
+119 4 0 15 75.jpg
+120 4 0 16 76.jpg
+121 4 0 17 77.jpg
+122 4 0 18 78.jpg
+123 4 0 19 79.jpg
+
++++++++++
+zlin_zlinaero13 - prodotti_images_description:(3)
+id_image,language_id,description,user_id,last_modified
+9 2 Valach engine 5 1403772902
+13 2 1 meter and 2 meters Bobbers foam park flyiers 5 1403776982
+176 2 Titan ECI 340 5 1412762551
+
++++++++++
+zlin_zlinaero13 - prodotti_livree:(15)
+id_prodotto,id_optional
+3 4
+2 2
+3 1
+3 2
+2 1
+3 3
+2 3
+3 5
+3 6
+2 7
+
++++++++++
+zlin_zlinaero13 - prodotti_livree_images:(20)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+12 3 0 1 classic1.png
+13 3 0 2 classic2.png
+21 6 0 1 bobber1.png
+9 2 0 1 cruiser1.png
+10 2 0 2 cruiser2.png
+11 2 0 3 cruiser3.png
+14 3 0 3 classic3.png
+15 4 0 1 cub1.png
+16 4 0 2 cub2.png
+17 4 0 3 cub3.png
+
++++++++++
+zlin_zlinaero13 - prodotti_livree_images_description:(0)
+id_image,language_id,description,user_id,last_modified
+
++++++++++
+zlin_zlinaero13 - prodotti_optionals:(711)
+id_prodotto,id_optional,id_famiglia,pos
+2 1 2 1
+2 2 1 1
+2 6 1 3
+2 7 1 4
+2 9 11 1
+2 10 11 2
+2 11 12 1
+2 12 12 2
+2 13 14 1
+2 14 14 2
+3 40 3 9
+3 41 3 10
+3 44 3 11
+3 45 3 12
+3 46 10 1
+3 47 4 1
+3 49 16 1
+3 50 16 2
+3 51 16 3
+3 53 16 4
+2 164 3 15
+3 164 3 15
+4 165 3 18
+2 165 3 16
+3 165 3 16
+16 261 2 1
+7 167 3 18
+4 167 3 19
+2 167 3 17
+3 167 3 17
+
++++++++++
+zlin_zlinaero13 - prodotti_optionals_old:(129)
+id_prodotto,id_optional,id_famiglia,pos
+2 65
+3 1
+2 2
+3 2
+3 68
+3 5
+2 5
+3 6
+2 1
+3 8
+2 48
+3 49
+3 50
+2 50
+3 51
+2 51
+3 52
+2 52
+3 53
+2 53
+
++++++++++
+zlin_zlinaero13 - prodotti_prezzi:(204)
+id_prodotto,id_nazione,prezzo
+3 GB 0.00
+3 IT 44500.00
+3 AE 0.00
+3 DE 46500.00
+3 AD 0.00
+3 BG 0.00
+3 AU 0.00
+3 CH 0.00
+3 CA 0.00
+3 CZ 0.00
+3 AT 0.00
+3 SK 0.00
+2 BR 0.00
+4 BR 0.00
+4 AT 0.00
+4 AE 0.00
+4 BE 0.00
+4 FI 0.00
+4 LU 0.00
+4 LV 0.00
+
++++++++++
+zlin_zlinaero13 - prodotti_videogallery:(35)
+id,id_padre,pos,data,titolo_e,titolo_d,link,copyright,tipo,utente_vimeo,pubblicato
+6 16 1 1416524400 https://www.youtube.com/watch?v=sCipVfLqpLw 1 1
+7 7 1 1416870000 https://www.youtube.com/watch?v=0qxO_85mc_U 1 1
+8 7 2 1416783600 https://www.youtube.com/watch?v=UW2B4mPHaFU 1 1
+5 15 1 1403733600 https://www.youtube.com/watch?v=_7pcezlYS2E 1 1
+10 2 1 1416956400 http://youtu.be/V3BQe3sO640 1 1
+9 3 1 1416870000 https://www.youtube.com/watch?v=OOvjOE0BXYw 1 1
+11 2 2 1416956400 http://youtu.be/0iEHYUsRguY Arturo Polo Ena 1 0
+30 15 2 1416956400 http://youtu.be/1J4I0Vv0mFk 1 1
+12 6 1 1416956400 http://youtu.be/KPAj9vfB8AM 1 1
+13 6 2 1416956400 http://youtu.be/ZMTRYGYtNME 1 1
+
++++++++++
+zlin_zlinaero13 - prodotti_videogallery_description:(69)
+id_lavoro,language_id,titolo,descrizione,user_id,last_modified
+9 2 5 1416927871
+6 1 5 1416565774
+6 2 5 1416565774
+7 1 5 1416927640
+7 2 5 1416927640
+8 1 5 1416927674
+8 2 5 1416927674
+9 1 5 1416927871
+5 1 5 1403777099
+5 2 5 1403777099
+
++++++++++
+zlin_zlinaero13 - sottomenu_principale:(17)
+id,menu,posizione,titolo,link,target,color_over,color_out,alternate_text
+1 4 2 Prodotti prodotti/dati_lavori.php dati #ffffff #e1e2e3
+2 4 3 Famiglie & Optionals famiglie/dati_lavori.php dati #ffffff #e1e2e3
+3 255 4 Optionals (da rimuovere) optionals/dati_lavori.php dati #ffffff #e1e2e3
+4 5 1 Backup Database backup/dati-backup.php dati #ffffff #e1e2e3
+5 13 1 Gestione Utenti del CMS anagrafiche/dati-anagrafiche.php dati #ffffff #e1e2e3
+6 6 1 Gestione Photo Galleries photogalleries/dati_lavori.php dati #ffffff #e1e2e3
+7 6 2 Gestione Video videogalleries/dati_lavori.php dati #ffffff #e1e2e3
+8 4 5 Livree livree/dati_lavori.php dati #ffffff #e1e2e3
+9 130 3 Gestione Nazioni anagrafiche/dati-nazioni.php dati #ffffff #e1e2e3
+10 130 4 Gestione Valute anagrafiche/dati-valute.php dati #ffffff #e1e2e3
+
++++++++++
+zlin_zlinaero13 - tabelle_elementi:(417)
+id,id_prodotto,id_tabella,id_tabella_sub_prodotto,pos
+1 3 1 1 1
+2 3 1 1 2
+3 3 1 1 3
+4 3 1 1 4
+5 3 1 1 5
+6 3 1 1 6
+7 3 1 1 7
+8 3 1 1 8
+9 3 1 1 9
+10 3 1 1 10
+91 2 4 7 16
+92 2 4 7 17
+93 2 4 7 18
+94 2 4 7 19
+95 2 4 7 20
+96 2 4 7 21
+97 2 4 7 22
+98 2 4 7 23
+99 2 4 7 24
+100 2 4 7 25
+
++++++++++
+zlin_zlinaero13 - tabelle_elementi_description:(777)
+id_elemento,language_id,titolo,descrizione
+1 1 Fusoliera completa rinforzata 4130 saldata a "Tig"
+1 2 Complete reinforced 4130 "Tig" welded fuselage
+2 1 Cabina larga: larghezza 72cm (28.5 pollici) alle spalle del pilota
+2 2 Large Cabin: 72cm (28.5 inch) wide at shoulder for pilot
+3 1 Posizione frontale del pilota quando vola solo
+3 2 Front position for pilot when flying solo
+4 1
+4 2 Powder coated (black or grey) controls and engine mount
+5 1
+5 2 Reinforced engine mount
+44 2 Cht
+45 1
+45 2 Key starter with magnetos switches
+46 1
+46 2 Master switch
+47 1
+47 2 Circuit brakers
+48 1
+48 2 Chocke control
+49 1
+280 2 Undercarriage gauge with Al.Bw 29" and extended l. gear 200 cm (78.7 in)
+281 1
+281 2 Undercarriage gauge with Al.Bw 29" and extended l. gear 200 cm (78.7 in)
+282 1
+282 2 Max take-off weight 472.5 kg (1041 lbs) - 560 kg (1234 lbs) [depends on the market]
+283 1
+283 2 Weight unloaded ULM-LSA 270 kg (594 lbs)
+284 1
+284 2 Wing span 935 cm (368 in)
+285 1
+
++++++++++
+zlin_zlinaero13 - tabelle_prodotto:(26)
+id,pos,id_prodotto,pubblicato
+1 1 3 1
+2 2 3 1
+3 3 3 1
+4 1 2 1
+5 2 2 1
+6 3 2 1
+7 4 2 1
+8 1 4 1
+9 2 4 0
+10 3 4 1
+
++++++++++
+zlin_zlinaero13 - tabelle_prodotto_description:(48)
+id_tabelle_prodotto,language_id,titolo
+1 1 Dotazione di Serie
+1 2 Standard Equipment
+2 1 Caratteristiche (con motore Rotax 912 S 100hp)
+2 2 Characteristics (with Rotax 912 S 100hp)
+3 1
+3 2 Performances - Max take-off weight (560 Kg)
+4 1
+4 2 Standard Equipment
+5 1
+5 2 Differences between Cruiser and Classic
+
++++++++++
+zlin_zlinaero13 - tabelle_sub_prodotto:(49)
+id,id_tabella,id_prodotto,pos
+1 1 3 1
+2 1 3 2
+3 2 3 1
+4 2 3 2
+5 2 3 3
+6 3 3 1
+7 4 2 1
+8 4 2 2
+9 5 2 1
+10 6 2 1
+
++++++++++
+zlin_zlinaero13 - tabelle_sub_prodotto_description:(98)
+id_tabelle_sub_prodotto,language_id,titolo
+1 1 Cellula e Interni
+1 2 Airframe and Interior
+2 1 Pannello di Serie
+2 2 Standard Panel
+3 1
+3 2
+4 1 Dimensioni
+4 2 Dimensions
+5 1 Pesi
+5 2 Weights
+93 2
+94 2 Dimensions
+95 2 Weights
+96 2
+97 2
+98 2 Dimensions
+99 2 Weights
+100 2
+
++++++++++
+zlin_zlinaero13 - testimonial:(25)
+id,pos,link,note,business,aerobatic,pubblicato
+2 2 0 0 1
+1 1 0 0 1
+3 3 0 0 1
+4 4 0 0 1
+5 5 0 0 1
+6 6 0 0 1
+7 7 0 0 1
+8 8 0 0 1
+9 9 0 0 1
+10 10 0 0 1
+
++++++++++
+zlin_zlinaero13 - testimonial_description:(25)
+id_lavoro,language_id,titolo,descrizione
+1 2 Hilde Huber (GER)
+2 2 Elisa Fernandez Esparza (ESP)
+3 2 Susana Quintana (ESP)
+4 2 Marta Labal (ESP)
+5 2 Roberta Cattoni (ITA)
+6 2 Patricia Collomb (FRA)
+7 2 Marianna Feltrinelli (ITA)
+8 2 Julie Hartlaub (USA)
+9 2 Guido Renna (ITA)
+10 2 Jurgen Schelling (GER)
+
++++++++++
+zlin_zlinaero13 - testimonial_images:(56)
+id,id_padre,tipo,pos,file,descrizione_e,descrizione_d
+2 1 0 2 2.jpg Hilde's daughter: next generation SAVAGE lady! Alredy 20 hours logged in dual training!
+1 1 0 1 1.JPG Hilde: &quot;the SAVAGE is most save bush ULM, nicest also! 150hours of flight
+time in verious aeras: Sahara, mountain, riverbed and also just for fun
+cruising.&quot;
+3 2 0 1 1.jpg Flying from year 2000, ppl, ulm flying instructor and trike pilot, more than 800 hours in aircreation, coyote,  skyranger, ct, a22, cessna ...
+I discovered the Savage recently and I fell in love because makes me feel safer even flying much lower, because I know I could land everywhere if I need to.  As I can fly lower, view is much better and nicer, so I really have rediscovered the flight! I also have to say that its easier as most pilots think tail draggers are. Its absolutly amazing how short can take off,  distance landings depends on practice...  in fact  its the perfect plane if you like mountain flying.
+From my plane I really like the old classic style, the extra fuel tanks with 90 liters, and the 31&quot; bushweels, I only would rather prefer the 35&quot;....
+4 2 0 2 2.jpg Me and my red Cub...:-)
+5 3 0 1 1.jpg What I do like best of my Savage is that I feel really comfortable ... Safe ! Probably because its really strong. I always wanted to fly a tail dragger, and I made it!  From my Savage I like everything !!
+I decided to get one after flying with Arturo (Spain) and see how short can the take offs and landings be.
+I feel that the plane has the perfect size for me and it was equipped for make it the more easy and comfortable as possible. I love the wheel size and the vortex and  that I can fly really slow
+She has flown about 400 hours also in Bingo,Eurostar,Mistral,Aeroprat A-22,Coyote,Zenair...
+6 4 0 1 1.jpg Flying from 2000, Tecnam, Zenair, CT, A22. About 300 hours flying, 150 in Savage.
+Often pilots beginers look for fast planes. This was not my case, as I was looking for a classic plane, a tail dragger in order to land in short mountain runways, any kind of terrain and to make short take offs and landings, to make me feel safe, also strongtness was one the most important facts.. I would say that its the 4x4 of the ulm planes.
+7 4 0 2 2.jpg
+8 3 0 2 2.jpg
+10 5 0 1 2.jpg &quot;Not many things in the real life can let you feel as much satisfied as when you are able to land, in a very soft way, with a Savage plane&quot;..This is a way to feel really connected with the pure sensation of flying, forgetting all the instruments...
+13 5 0 2 3.jpg &quot;Poche cose nella vita ti danno tanta soddisfazione come un atterraggio di velluto con il Savage, dove diventi tutt'uno con la sensazione del volo e dimentichi tutti gli strumenti&quot;.
+
++++++++++
+zlin_zlinaero13 - testimonial_images_description:(35)
+id_image,language_id,description,user_id,last_modified
+1 2 Hilde: "the SAVAGE is most save bush ULM, nicest also! 150hours of flight
+time in verious aeras: Sahara, mountain, riverbed and also just for fun
+cruising." 1 1366363709
+2 2 Hilde's daughter: next generation SAVAGE lady! Alredy 20 hours logged in dual training!
+3 2 Flying from year 2000, ppl, ulm flying instructor and trike pilot, more than 800 hours in aircreation, coyote,  skyranger, ct, a22, cessna ...
+I discovered the Savage recently and I fell in love because makes me feel safer even flying much lower, because I know I could land everywhere if I need to.  As I can fly lower, view is much better and nicer, so I really have rediscovered the flight! I also have to say that its easier as most pilots think tail draggers are. Its absolutly amazing how short can take off,  distance landings depends on practice...  in fact  its the perfect plane if you like mountain flying.
+From my plane I really like the old classic style, the extra fuel tanks with 90 liters, and the 31&quot; bushweels, I only would rather prefer the 35&quot;....
+4 2 Me and my red Cub...:-)
+5 2 What I do like best of my Savage is that I feel really comfortable ... Safe ! Probably because its really strong. I always wanted to fly a tail dragger, and I made it!  From my Savage I like everything !!
+6 2 Flying from 2000, Tecnam, Zenair, CT, A22. About 300 hours flying, 150 in Savage.
+Often pilots beginers look for fast planes. This was not my case, as I was looking for a classic plane, a tail dragger in order to land in short mountain runways, any kind of terrain and to make short take offs and landings, to make me feel safe, also strongtness was one the most important facts.. I would say that its the 4x4 of the ulm planes.
+10 2 &quot;Not many things in the real life can let you feel as much satisfied as when you are able to land, in a very soft way, with a Savage plane&quot;..This is a way to feel really connected with the pure sensation of flying, forgetting all the instruments...
+11 2 The first time I saw this Savage I felt in love...... and I'm like a child with his wonderful toy !!!! exploring a new way of flying :-)
+
+Happy landings !!!!
+12 2 The first time I saw this Savage I felt in love...... and I'm like a child with his wonderful toy !!!! exploring a new way of flying :-)
+13 2 &quot;Poche cose nella vita ti danno tanta soddisfazione come un atterraggio di velluto con il Savage, dove diventi tutt'uno con la sensazione del volo e dimentichi tutti gli strumenti&quot;.
+
++++++++++
+zlin_zlinaero13 - videogallery:(20)
+id,pos,data,titolo,link,copyright,tipo,pubblicato
+17 12 1421622000 http://vimeo.com/116846803 Massimo Uberti 2 1
+18 13 1434405600 http://vimeo.com/130632043 Massimo Uberti 2 1
+16 11 1420671600 http://vimeo.com/116228503 Massimo Uberti 2 1
+6 1 1416956400 http://vimeo.com/76171480 Massimo Uberti 2 0
+7 2 1417042800 http://vimeo.com/97539321 Massimo Uberti 2 1
+8 3 1417129200 http://vimeo.com/96788843 Massimo Uberti 2 1
+9 4 1417129200 http://vimeo.com/96788843 Massimo Uberti 2 1
+10 5 1417129200 http://youtu.be/LxRR6-pD4IQ Arturo Polo Ena 1 1
+11 6 1417129200 http://youtu.be/U2bczTjHc0c Arturo Polo Ena 1 1
+12 7 1417129200 http://vimeo.com/97331700 Massimo Uberti 2 1
+
++++++++++
+zlin_zlinaero13 - videogallery_description:(33)
+id_lavoro,language_id,titolo,descrizione,user_id,last_modified
+18 1 Pradellez 2015-2 3 1434641224
+18 2 Pradellez 2015-2 3 1434641224
+16 1 5 1420732124
+16 2 Savage floatplane instructional video featuring Fabio Guerra 5 1420732124
+17 1 5 1421658243
+17 2 Second Savage seaplane video with practical tips for water river landing 5 1421658243
+6 1 5 1417017454
+6 2 Bush Pilot Episode 7 - Formation Flying 5 1417017454
+7 1 5 1417074558
+7 2 BUSH PILOT EPISODE 20 - River Hang Out 5 1417074558
+
++++++++++
+
+ 

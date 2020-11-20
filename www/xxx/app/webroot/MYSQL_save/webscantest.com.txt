@@ -1,0 +1,79 @@
+www.webscantest.com/datastore/search_get_by_id.php?id=4
+ 
+webscantest - accounts:(2)
+id,uname,passwd,fname,lname
+1 admin 21232f297a57a5a743894a0e4a801fc3 Admin King
+2 testuser 179ad45c6ce2cb97cf1029e212046e81 Test User
+
++++++++++
+webscantest - inventory:(9)
+id,name,description,price
+1 Rake clean up leaves 50
+2 Shovel Dig away 45
+3 Broom Sweep it up 40
+4 Deluxe Rake Premuim quality leave cleaneruper 75
+5 Economy Rake Cheapy rake 20
+6 Deluxe Shovel dig better 70
+7 Economy Shovel Make digging harder 15
+8 Deluxe Broom Clean faster, better, easier 65
+9 Economy Broom Dirtier when you are done than when you started 20
+
++++++++++
+webscantest - orders:(0)
+id,products,shipping_firstname,shipping_lastname,shipping_address,shipping_city,shipping_state,shipping_zip,shipping_email,billing_firstname,billing_lastname,billing_address,billing_city,billing_state,billing_zip,billing_email,billing_CC_number,billing_CC_expire,billing_CC_CVV
+
++++++++++
+webscantest - products:(221)
+id,name,description,price,photo
+1 Fancy Mop A really fancy Mop 100 http://www.krogerkrazy.com/wp-content/uploads/2011/11/rubbermaid-mop.jpg
+175678 John%27 data 20
+3 Rainbow Towels Towels in the assortment of rainbow 10 http://www.towelstorm.com/image/cache/data/bath-towel/BT01/bt-800x800.jpg
+175680 John%c0%a7 data 20
+175431
+175682 John%25%32%37 data 20
+175433
+175676 .example.com/ data 20
+175435
+175674 gopher://example.com/ data 20
+175517
+175711 %0d%0ax7ghg3w5: x7ghg3w5 data 20
+175519
+175713 John;/etc/passwd data 20
+175521
+175715 John|/bin/cat /etc/passwd| data 20
+175523
+175717 John|/bin/cat /etc/hosts data 20
+175525
+175526
+175917 0
+175918 0
+175919 0
+175920 0
+175921 0
+175922 0
+175923 0
+175924 0
+175925 0
+175926 0
+176417 0
+176418 0
+176419 0
+176420 0
+176421 0
+176422 0
+176424
+176425
+176426 0
+177417 0
+177418
+177419 0
+177420 0
+177421 0
+177422 0
+177423 0
+177424 0
+177425 0
+177426 0 
++++++++++
+
+ 

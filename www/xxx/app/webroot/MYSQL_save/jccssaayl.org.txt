@@ -1,0 +1,64 @@
+www.jccssaayl.org/talk.php?rid=10
+ 
+jccssaa?db -  :()
+
++++++++++
+
+ 
+jccssaa_db - aa_admin:(5)
+name,password
+chairman ch
+vicechairman1 vi
+vicechairman2 vi
+designer de
+forum_admin fo
+
++++++++++
+jccssaa_db - aa_database:(1385)
+db_id,name_c,name_e,yr_leave,e_mail,class_leave,contact_no,update,status
+
++++++++++
+jccssaa_db - aa_forum_topic:(4)
+topic_id,time,name,content,title
+
++++++++++
+jccssaa_db - aa_gallery_library:(6)
+pic_link,no_of_photo,id,title,list_file_link
+gallery/4r01/00g.jpg 213 1 30周年校慶聚餐 01.lst
+gallery/4r02/00g.jpg 355 2 2006校友會周年聚餐 02.lst
+gallery/4r04/00g.jpg 68 4 城門燒遙遊
+gallery/4r05/00g.jpg 124 5 2008校友會周年聚餐
+gallery/4r06/00g.jpg 174 6 2009校友會周年聚餐
+
++++++++++
+jccssaa_db - aa_milestone:(4)
+ms_id,year,month,day,event_t,gid,link1,link2,link3,link4t,link4
+
++++++++++
+jccssaa_db - aa_movie:(0)
+pv_pic_link,title,movie_link
+
++++++++++
+jccssaa_db - aa_news:(33)
+news_pic_link,bar_color,news_title,news_content,date,link_to_full,news_id
+
++++++++++
+jccssaa_db - aa_news_detail:(19)
+news_detail_id,html_content,title,time,id
+
++++++++++
+jccssaa_db - aa_talk:(30107)
+talk_id,content,name,time,id
+10 ip70_2000@yahoo.com 楊家榮 2009-01-14 10:53:58 74
+10 91年1Ca,2Ca,3Ba,3Cp TANG HON PUN 2009-03-14 20:14:05 76
+10 en3170@msn.com TANG HON PUN 2009-03-15 21:04:11 77
+0 3654
+
++++++++++
+
+ 
+test -  :()
+
++++++++++
+
+ 

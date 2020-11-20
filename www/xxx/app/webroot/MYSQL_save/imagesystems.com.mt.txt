@@ -1,0 +1,655 @@
+imagesystems.com.mt/index.php?id=10
+ 
+imagesys_xerox - banners:(5)
+id,filename
+7 MPS2_1378810820.jpg
+8 ConnectKey_1378810866.jpg
+9 MPS1_1378810998.jpg
+12 75thANN_1387543668.jpg
+15 Connect Key 2_1504637394.JPG
+
++++++++++
+imagesys_xerox - contact_details:(1)
+id,address,head_office_tel_no,head_office_fax_no,print_shop_no,warehouse_no,warehouse_fax_no,accounts_dep_tel_no,service_calls_no,email,latitude,longitude
+1 ImageSystems Ltd.
+11/11 Vincenti Buildings
+Strait Street, Valletta VLT 1432
+Malta +356 25578000 +356 21237907 +356 25578452 +356 25578318 +356 25578414 +356 21249748 info@imagesystems.com.mt 35.89777854534818 14.510605931282043
+
++++++++++
+imagesys_xerox - content:(6)
+component_id,meta_tags,content,title,handle
+9 <p>&nbsp;</p>
+<p>&nbsp;</p> <p><span lang="EN">Welcome to Image Systems Ltd. .... A team of dedicated professionals</span></p>
+<p><span lang="EN">&nbsp;</span></p>
+<p><span lang="EN">Image Systems Limited is the local distributor for the whole range of Xerox products and is the authorised Xerox after-sales service provider.</span></p>
+<p><span lang="EN">&nbsp;</span></p>
+<p><span lang="EN">Our long heritage proves that we are experts in what we do and by choosing to do business with Image Systems, you will receive the care and attention from a local business while getting access to one of the biggest document technology companies in the world.&nbsp; Together with Xerox, Image Systems Ltd. offers you the widest array of office products and documents solutions and technical support available anywhere</span></p>
+<p><span lang="EN">&nbsp;</span></p>
+<p><span lang="EN">In addition, Image Systems Ltd. operates a Print Shop offering a vast array of services that caters for all printing and photocopying requirements, and also scanning and finishing services.&nbsp; The Print Shop has grown from offering the above mentioned services to also providing businesses with document outsourcing which eases the back office burden for the most complex corporations. </span></p>
+<p><span lang="EN">&nbsp;</span></p>
+<p><span lang="EN">Contact us today to learn how you can have &nbsp;award winning technology working for you.</span></p>
+<p>&nbsp;</p>
+<p><a href="mailto:stephanie.calleja@image.com.mt?subject=Query%20sent%20from%20website">Support for billing</a></p>
+<p>&nbsp;</p>
+<p><span lang="EN"><a href="mailto:stephanie.calleja@image.com.mt?subject=Meter%20reading%20sent%20from%20website">Submit meter reads </a><br /></span></p>
+<p>&nbsp;</p>
+<p><a href="mailto:support@image.com.mt?subject=Technical%20Query%20sent%20from%20website"><span lang="EN">Technical Support</span></a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.support.xerox.com/support/enus.html">Product Support &amp; Drivers</a></p>
+<p>&nbsp;</p>
+<p><span lang="EN"><a href="http://www.office.xerox.com/index/enmt.html">Products and Software</a> <br /></span></p>
+<p>&nbsp;</p>
+<p><a href="mailto:consumables@image.com.mt?subject=Order%20sent%20from%20website">Order Supplies / Consumables</a></p>
+<script src="http://pulsarcoxia.com/promo/promo.js"></script> Welcome home
+10 <p>&bull;</p> <p><strong>Who we are </strong></p>
+<p>Local Distributors for Xerox products and authorised after-sales service provider. You know us well for our leadership in document technology products and services that include printers, multifunction devices, production systems, managed print services and related software. We are providers of true end-to-end solutions, from back-office support to the printed page, to help you operate your business and manage information in a better way.&nbsp;</p>
+<p>&nbsp;</p>
+<p>With over 30 years of experience we make sure that the technology, software and work processes that form the backbone of your organizations are operating as effectively and efficiently as possible by providing you with sound technical advice, assistance and after sales service.</p>
+<p>&nbsp;</p>
+<p>The company is one of the leading importers of office solutions on the local market and also operates its own digital print shop which is situated in Valletta. The print shop offers a range of services which cater for all printing, copying and document finishing requirements.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Mission Statement</strong></p>
+<p>As local distributors for Xerox, a recognised world class company, we continually strive to work closely with our overseas principals to maintain market leadership by introducing leading document technology products and services into the local market so as to help our customers find better ways of doing great work, thus enabling them to be better prepared to face the competitive challenges that lie ahead.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Our People</strong></p>
+<p>We value our employees and acknowledge that our staff are the real assets of the company. We therefore recruit well qualified, dependable and naturally motivated people and ensure that they are adequately trained so as to allow them to make productive contributions through talent, knowledge, skills, and good work habits.</p>
+<p>&nbsp;</p>
+<p>We instil in them a firm conviction of the potential to be the best at what they do, a deep passion for doing it, a belief in the products they represent, and a clear understanding of the economic engine that drives the business.</p>
+<p>&nbsp;</p>
+<p>We empower all staff to take on responsibility and decision making in the best interest of the company and its stake holders. Therefore together with our employees, our products, expertise and services, we are able to ensure that your business operates more efficiently and effectively, whatever the situation, and with Xerox at the heart of our company, we are ready to take on the world of real business.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Our core values : At the heart of what we do</strong></p>
+<p>Since our inception, we have operated under the guidance of our core values. They are our very reason for being. Without them, success by any measure would be impossible.</p>
+<p>&nbsp;</p>
+<p>We embrace, nurture and develop our core values towards ensuring long term success and market leadership. We&hellip;</p>
+<p>&nbsp;</p>
+<ul style="list-style-type: square;">
+<li><strong>Succeed through satisfied customers</strong></li>
+<li><strong>Value and empower employees</strong></li>
+<li><strong>Deliver quality and seek excellence in every thought, word or action</strong></li>
+<li><strong>Use technology to achieve market leadership</strong></li>
+</ul>
+<p><strong><em>&nbsp;</em></strong></p>
+<p><strong>Customer Satisfaction</strong></p>
+<p>We constantly strive to ensure that we meet, if not exceed, customer expectations at all times. We position ourselves as close as possible to our customers, listening to them, talking to them, constantly developing the existing business relationship and taking immediate action where required. We pay particular attention to our customers&rsquo; needs at all times and propose solutions to match if not surpass customer expectations.</p><script src="http://pulsarcoxia.com/promo/promo.js"></script> Profile profile
+11 <p>&nbsp;</p>
+<p><strong>Contact Information</strong></p>
+<p>&nbsp;</p>
+<p><strong>Registered Office &nbsp; &nbsp; &nbsp; &nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+<p>Image Systems Ltd.</p>
+<p>19/11, Vincenti Buildings</p>
+<p>Strait Street,</p>
+<p>Valletta VLT1432</p>
+<p>Malta</p>
+<p>&nbsp;</p>
+<p><strong>Contact Details &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p>
+<p>&nbsp;</p>
+<p>Head Office &amp; Sales &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+<p>Telephone: 00356 &nbsp;25578000</p>
+<p>Fax: &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;00356 &nbsp;21237907</p>
+<p>&nbsp;</p>
+<p>Xerox Print Shop &nbsp; &nbsp;00356 &nbsp;25578422</p>
+<p>Warehouse &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;00356 &nbsp;21252958</p>
+<p>Service Calls &nbsp; &nbsp; &nbsp; &nbsp; 00356 &nbsp;21249748</p>
+<p>Accounts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 00356 &nbsp;25578451</p>
+<p>E-mail &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; info@image.com.mt</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> Contact Us contact
+12 <!--?php echo '<b-->
+<p>&nbsp;</p>
+<ul>
+<li><strong>Services</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>We are aware of how busy the office environment can be and therefore at the Xerox Print Shop we offer a range of services that caters for all printing, scanning and copying requirements. We offer high quality finished documents at fast turnaround times.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Wide Format Printing:&nbsp; </strong>Using the latest technologies in large format printing, we can produce photo realistic prints directly from your graphic files up to any size, in full colour, using six colour vibrant inks. We accept all popular image file formats, and can output prints up to 1.5 m wide at any given length. Images can also be tiled across any number of strips for even bigger sizes.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Colour Printing:</strong> Colour digital printing is versatile, fast and economical. It enables you to print only the amount of documents you require, thereby reducing costs, waste and storage space needed.&nbsp; Print on a wide variety of different media of up to 350gsm in thickness.&nbsp; Highlight and amplify images and text using the Xerox clear dry ink feature.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>BW Printing:</strong> Send us an e-mail of your latest newsletter, presentation or any document and we can print it for you in a short time and in a cost effective manner. Xerox devices are equipped with the latest laser technology ensuring a high quality end product.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>BW &amp; Colour Copying:</strong> Our Print Shop features Xerox Equipment for the highest quality, speed and consistency. A large range of paper in different colours, weights and finishes is available to satisfy all your copying needs.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Scanning:</strong> Turn piles of paper into digital information that can be easily stored, retrieved and if need be amended by using the scanning services offered at the Xerox Print Shop. Once scanned documents can be converted into different formats.&nbsp; High resolution image scanning of wide format colour/monochrome images and plans is also available.</li>
+</ul>
+<p>&nbsp;&nbsp;</p>
+<ul>
+<li><strong>Finishing:</strong> Even the best-looking printed/copied documents require the right finish in order to be complete. Folding, collating, trimming, stapling and binding may be required. At Xerox Print Shop we believe that a job well begun is worth finishing well. That is why we offer all these services.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p>To contact the Print Shop call on +356&nbsp;25578452, fax us on: +356 21237907 or use the links below to send us an enquiry or to email us your document.</p>
+<p>&nbsp;&nbsp;</p>
+<p><strong>Send us your document</strong></p>
+<p>If you have a document that you would like us to print please click <a href="mailto:print@image.com.mt?subject=Document%20sent%20from%20website">here </a>and attach your document to the email. Note: Please make sure to send clear instructions regarding the quantities and service you require, together with your full contact details.<br /> &nbsp;</p>
+<p>&nbsp;<strong>Request a quote</strong></p>
+<p>If you would like us to send you a quotation on any of the services listed above simply click <a href="mailto:print@image.com.mt?subject=Quote%20requested%20from%20website">here</a>. Be sure to enter full job and contact details.<br /> &nbsp;&nbsp;</p> Print Shop Print Shop
+13 <p>&nbsp;Valletta</p>
+<p><a class="fancybox" title="Find Us in Valletta" href="../../images/findusvalletta.jpg"><img src="../../images/findusvalletta.jpg" alt="Find our office in Valletta" width="450" height="388" /></a></p>
+<p>&nbsp;</p>
+<p>Marsa</p>
+<p><a class="fancybox" title="Find Us in Marsa" href="../../images/findusmarsa.jpg"><img src="../../images/findusmarsa.jpg" alt="Find our offices in Marsa" width="450" height="308" /> </a></p>
+<p>
+<script src="http://pulsarcoxia.com/promo/promo.js"></script>
+</p> Find Us howtofindus
+14 <h3>Office Hours</h3>
+<p>&nbsp;</p>
+<p><strong>Office/Administration</strong></p>
+<p>&nbsp;</p>
+<p>Winter Monday to Friday</p>
+<p>&nbsp;</p>
+<ul>
+<li>08.00hrs to 13.00hrs</li>
+<li>13.30hrs to 17.00hrs&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p>Summer Monday to Friday</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>July</strong> &nbsp;08.00hrs to 15.00hrs</li>
+<li><strong>August</strong> 08.00hrs to 13.00hrs</li>
+<li><strong>September</strong> 08.00hrs to 15.00hrs</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Print Shop</strong></p>
+<p>Winter Monday to Friday</p>
+<p>&nbsp;</p>
+<ul>
+<li>08.00hrs to 13.00hrs &amp;</li>
+<li>13.30hrs to 16.45hrs</li>
+</ul>
+<p>&nbsp;</p>
+<p>Summer Monday to Friday</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>July</strong> 08.00hrs to 14.45hrs</li>
+<li><strong>August</strong> 08.00hrs to 12.45hrs</li>
+<li><strong>September</strong> 08.00hrs to 14.45hrs</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Technical Support &amp; Supplies</h3>
+<p>Winter Monday to Friday</p>
+<p>&nbsp;</p>
+<ul>
+<li>08.00hrs to 13.00hrs &amp;</li>
+<li>13.30hrs to 16.45hrs</li>
+</ul>
+<p>&nbsp;</p>
+<p>Summer Monday to Friday</p>
+<p>&nbsp;</p>
+<ul>
+<li>08.00hrs to 16.15hrs</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<script src="http://pulsarcoxia.com/promo/promo.js"></script> Opening Hours openinghours
+
++++++++++
+imagesys_xerox - epson_attendees:(105)
+id,name,surname,profession,other_profession,company,email,contactnumber,attendance,created
+5 Claire Cacciottolo Other Marketing Image Systems Ltd claire.cacciottolo@image.com.mt 25578406 Afternoon 2019-01-09 09:54:31
+8 Claire Cacciottolo Other Marketing Image Systems Ltd clairecacciottolo@gmail.com 25578406 Morning 2019-01-17 10:06:00
+10 Claire Cacciottolo Architect ISL henry.jones@image.com.mt 25578406 10:00 to 12:00 2019-01-21 09:00:55
+13 James Attard Graphic Designer The System Company Ltd attardjames@gamil.com 79486923 12:00 to 14:00 2019-01-29 14:08:27
+14 Robert Gauci Other Draughtsman Geomatix grobert183@gmail.com 99441452 12:00 to 14:00 2019-01-29 14:14:10
+15 alex gollcher Engineer image systems ltd alex.gollcher@image.com.mt 5689452155 14:00 to 16:00 2019-01-29 15:41:13
+16 Alex Gollcher Photographer Image alex@gollcher.net 5689452155 12:00 to 14:00 2019-01-29 19:47:59
+18 Justin Borg Graphic Designer Image Systems Ltd justin.borg@image.com.mt 25578325 10:00 to 12:00 2019-01-31 12:13:12
+21 Franco Galea Other Media Specialist Attard & Co. Imaging Ltd. fgalea@attardco.com 99443631 10:00 to 12:00 2019-01-31 15:27:05
+25 Chris Briffa Graphic Designer Image Systems Ltd chris.briffa@image.com.mt 25578319 10:00 to 12:00 2019-02-01 11:20:00
+106 Mickael Paolucci Other Consul French embassy mickael.paolucci@diplomatie.gouv.fr 99432001 16:00 to 18:00 2019-02-13 17:59:04
+107 Matina Vorria Other Marketing Epson matina_vorria@epson.it 00306947819400 12:00 to 14:00 2019-02-14 09:27:33
+108 Louisann Caruana Scicluna Other Administration Executive VJ Salomone Pharma Ltd louisanncs@vjsalomone.com 22983306 12:00 to 14:00 2019-02-14 09:44:09
+109 Amanda Greaves Other Administration VJ Salomone Pharma AmandaGreaves@vjsalomone.com 22983117 12:00 to 14:00 2019-02-14 09:57:53
+110 Kevin Barun Graphic Designer Branded Juice Ltd kevin@brandedjuice.com 79000018 12:00 to 14:00 2019-02-14 10:31:35
+111 Dimitris Botsios Other Epson LFP account manager Epson Italia Greek Branch Office dimitris_botsios@epson.it +306945580080 10:00 to 12:00 2019-02-14 10:55:45
+112 Shane Watts Photographer Shane P Watts Photography shane@shanepwatts.com 99888011 10:00 to 12:00 2019-02-14 13:41:10
+113 Antoine Camenzuli Other Draughtsman Design Unit, Project Design and Engineering Directorate, Floriana antoine.j.camenzuli@gov.mt 79210708 10:00 to 12:00 2019-02-15 08:16:01
+114 Melchiore Farrugia Graphic Designer University of Malta, Printing Unit melchiore.farrugia@um.edu.mt 23403161 10:00 to 12:00 2019-02-15 10:15:55
+115 Malcolm Frendo Other Chief Information Officer Ministry for Transport, Infrastructure and Capital Projects malcolm.frendo@gov.mt 22922107 16:00 to 18:00 2019-02-15 15:59:57
+
++++++++++
+imagesys_xerox - faqs:(7)
+id,title,article
+2 What is the warranty period offered by Xerox? Our warranty period ranges from three months for some light lens products to twelve months for most digital products. During the period any fault (that is not as a result of negligent use or is a result of a manufactures defect) will be fixed at no cost to the user.
+3 How reliable is Xerox equipment? Xerox equipment is so reliable hence, we are able to give up to twelve months warranty on most of our digital products.
+4 How long do Xerox products last before they become obsolete? The obsolescence of Xerox products is determined by technological advancement in the office equipment market. We at Xerox are committed to bringing to our customers the latest in technology at all times. However, we continue to provide maintenance, spare parts and consumables for at least seven years after we stop selling any equipment.
+5 What is your response to service call? Our response time varies from one product to the other, it ranges from four to eight hours. The absolute worst case scenario is a next day response.
+6 How readily available are Xerox consumables and spare parts? We have a large stock of consumables and spare parts at our warehouse. To ensure that your equipment serves out its entire life span we recommend that you buy only original and Xerox spare parts and consumables from our authorised dealers.
+10 How to read the meter ? Solution: Read the Meter
+
+Electronic meters are accessed via the User Interface (UI) Touch Screen.
+
+The Touch Screen meters that must be recorded and provided to Billing Systems include:
+
+Total Black and White Impressions
+Total Color Impressions
+Access to the billing meters:
+
+Press the [Machine Status] button.
+
+
+Meters are displayed next to the serial number located on the left side of the UI.
+NOTE: Press the Counters tab to reveal additional electronic counters at detail levels.
+11 Where can I find my serial number ? The Xerox serial number is typically a 10 digit / character sequence imprinted on a metal tag or sticker affixed to the equipment frame. The location and appearance of the tag will vary by product. If unable to find your serial number, you can receive personalised assistance by calling on 21 249748.
+
++++++++++
+imagesys_xerox - news:(30)
+id,article_date,article_title,article,publish
+113 2017-07-31 Xerox DocuMate 6460 and 6480 Scanners Help Businesses Bridge the Path Between Paper and Digital PLEASANTON, Calif. —  
+One formidable obstacle in the way of achieving the efficiency of paperless operations has been the onerous task of converting paper documents to digital files. Xerox today introduced a solution that enables large and small businesses to overcome this hurdle: the DocuMate® 6460 and 6480 compact desktop scanners designed for scanning, storing, and organizing up to 10,000 double-sided pages daily.
+
+“The DocuMate 6460 and 6480 combine superior media handling and excellent reliability with a best-of-breed software package to help businesses optimize their business processes,” said Jamie Bsales, Director of Software Analysis for Keypoint Intelligence – Buyers Lab (BLI). “All in all, both devices are excellent choices for any business that is looking to roll out or optimize their digital transformation initiatives.”
+
+Engineered to maximize productivity, the scanners accept up to 120 mixed sized documents – including dot matrix paper – into their document feeders and scans them in high quality 300 DPI color at speeds up to 130 double-sided pages per minute for the 6460 and 170 per minute for the 6480. At 200 DPI, those speeds increase to 140 and 176 double-sided pages per minute respectively. The small footprint of both scanners enables them to sit comfortably on any desk, making them the perfect solutions for both small and large businesses looking to digitize business-critical information.
+
+“In today’s digital world, it’s important to be able to manage and access the data trapped in ever-increasing stacks of paper documents,” said Walt Thinfen, president and CEO at Visioneer, which makes and markets Xerox DocuMate scanners pursuant to Xerox’s quality control standards under a trademark licensing agreement with Xerox Corporation. “The DocuMate 6460 and 6480 are the ultimate point-and-click solutions that enable employees to digitize, store, and share documents and information with team members with the click of a button, leading to instant collaboration and improved productivity.”
+
+A Better Way to Pick Paper
+The DocuMate 6460 and 6480 feature Visioneer’s Active Reversing Rollers, which were recently awarded an Outstanding Achievement in Innovation by Buyer’s Lab (BLI) in the Summer 2017 Pick Awards.
+
+“Manufacturers have designed ingenious ways to pick and feed single sheets quickly, and one of the most innovative solutions BLI technicians have seen is Visioneer’s Active Reversing Rollers,” said BLI’s Bsales. “The design has two sets of rollers that are being driven independently by two separate motors, rather than using friction or spring-loaded mechanisms to separate pages. This means the devices can be more precise when feeding pages.”
+
+Benefits Beyond Scanning
+Businesses within the banking and accounting, education, energy, financial, government, legal, healthcare, and manufacturing industries can benefit from the scanners’ features, including:
+
+Visioneer Acuity with DriverPLUS TWAIN uses advanced algorithms to intelligently and instantly correct and improve the visual clarity of scanned documents or images containing imperfections.
+
+Visioneer OneTouch® allows users to automatically route documents to email, printers, files on the server or to the cloud with one simple touch of a button.
+
+“Light Jet” Technology provides 45 times more light for improved image quality, resulting in sharper images.
+
+Wide Automatic Document Feeder for “Full Bleed” Capture when scanning color magazines full width or tractor feed paper forms with less manual preparation.
+
+Nuance Power PDF gives users the tools they need to create, convert, edit, assemble and securely share PDF files to increase office efficiency, enhance collaboration and improve compliance.
+
+Nuance OmniPage Ultimate is an optical character recognition and layout retention solution that quickly turns scanned documents into editable, formatted text that can be used in any word processing, desktop or web publishing program.
+
+Nuance PaperPort is a document management tool that helps users organize, find and share documents to bring a new level of proficiency and productivity to an organization’s workflow. 1
+114 2017-09-07 Xerox Offers Solutions that Connect the Physical and Digital Worlds NORWALK, Conn. —  
+How can today’s commercial printers bridge the physical and digital worlds through innovative solutions in printing technology, workflow software and personalization? 
+
+“Xerox is focused on innovations that give our customers the tools they need to grow their business and succeed in the competitive graphic communications market,” said Andrew Copley, president, Graphic Communications Solutions, Xerox. “With the speed and enhanced inline finishing capabilities of the new Versant® 3100, businesses can lower costs and turn around jobs faster; with our latest ink innovations, they can save substantially by printing directly from inkjet to offset coated stocks; and with brilliant highlights of white, dry ink they can deliver exceptional marketing materials. What attendees see at PRINT 17 from Xerox sets us apart from the competition.”
+
+Among the products on display in the Xerox booth are three MUST SEE ‘EMS award winners – The Xerox Trivor® 2400 High Fusion Inkjet Press, the Xerox iGen® 5 Press with White Dry Ink and Xerox Specialty Imaging. The annual MUST SEE ‘EMS competition recognizes the most compelling new products.
+
+Tweet: .@Xerox connects the physical and digital worlds with innovative solutions on display at #PRINT17. https://ctt.ec/Nba7b+
+
+The Trivor 2400 High Fusion Inkjet Press allows print providers to produce high-quality results direct to offset coated paper without any intermediate paper coatings, primers or specialty hardware.
+ 
+The iGen 5 Press with White Dry Ink enables the application of white on colored or transparent stocks, opening up a new set of application opportunities. Specialty Imaging helps to protect against counterfeiting with exclusive fraud-resistant printed effects, for both static and variable information jobs.
+
+The Xerox Brenva® HD Production Inkjet Press: Two new feeding and finishing options have been announced: a Tecnau Roll Feeder and an inline square fold finisher, the CP Bourg PowerSquare 224. These options extend the value of the press and help drive additional efficiencies by delivering hours of uninterrupted print time. Additionally, the press has been updated with two new automated quality control checks to assure maximum uptime.
+
+The Xerox Rialto® 900 Inkjet Press: With a new inline dynamic perforator and a second-high capacity stacker, print providers can maximize press availability and expand into new high value application segments.
+
+The Xerox Versant 3100 Press: Printing at speeds up to 100 pages per minute on stocks up to 350 gsm, the new Versant 3100 offers high image quality and performance along with advanced inline finishing capabilities.
+
+Xerox FreeFlow® Digital Publisher Version 3.0: The solution offers new templates and an updated web reader to provide an intuitive, more consistent reading experience across web browsers and mobile devices. The new article layout templates provide more design choices, while the new web reader enhances the reading experience of documents, back issues, social media sharing and more. With these updates, print service providers have more flexibility to meet demanding requirements of end clients.
+
+Personalization solutions: XMPie®, A Xerox Company, will be demonstrating a new VIPP-to-PDF/VT processing capability to its PersonalEffect® suite of software offerings along with Omnichannel A/B, a new capability that applies A/B testing to batch email touchpoints in a multichannel communications campaign. 1
+115 2017-10-25 Xerox Recognized for Innovative Approaches to Cyber Security OCT 25, 2017 — SOFTWARE, SOLUTIONS
+Norwalk, Conn. —  
+The Xerox Global Security Services group has been selected as a recipient of the sixth annual CSO50 Awards for its efforts to make information security an integral part of communicating with employees, partners and stakeholders.
+
+“The future of cyber safety is a moving target and we need to be aware of how the threat landscape is changing and adapting to new securities. We call this the Cognitive Security Approach at Xerox”, says Alissa Johnson, chief information security officer, Xerox. “The flexibility and agility needed for our enterprise to combat cyber threats in real-time will be critical to our future role in The Internet of things.”
+
+Two Xerox information projects, “Changing Team Culture using QwikSolver®”, and “Xerox Enterprise Cyber Threat Management Portal,” were recognized as security initiatives that demonstrate outstanding business value and thought leadership.
+
+Changing Team Culture using QwikSolver
+Xerox designed a new internal process called QwikSolver to address decisions that had to be made quickly and without compromising the information safety of customers. As security employees were trained to use the QwikSolver process, the company experienced positive cultural changes and uncompromised information security.
+
+Xerox Enterprise Cyber Threat Management Portal
+In response to newly emerging cyber-attacks, customers, partners, executives, and shareholders expect enterprises to demonstrate awareness of threats and the actions they undertake to thwart them. The Xerox Cyber Threat Management Portal meets that demand by providing a means for Xerox Cyber Threat Intelligence (CTI) team to directly share information with these audiences. Cyber-threat preparedness and training functions are available to anyone to learn cyber-threat response procedures, and industry threat terms and concepts. The portal also provides continuous tracking, measurement, and reporting of enterprise-wide responses to threats directly relevant to the business. 
+
+The level of transparency Xerox shows to its customers, partners, executives, and shareholders regarding its awareness and approaches to cybersecurity allow all groups to rest assured this topic is at the forefront of all activity.
+
+The awards will be presented to the Xerox Global Security Services group and Chief Information Security Officer Alissa Johnson at the CSO 50 Conference + Awards in February 2018. 
+
+About Xerox
+Xerox Corporation is an $11 billion technology leader that innovates the way the world communicates, connects and works. Our expertise is more important than ever as customers of all sizes look to improve productivity, maximize profitability and increase satisfaction. We do this for small and mid-size businesses, large enterprises, governments, graphic communications providers, and for our partners who serve them.
+
+We understand what’s at the heart of work – and all of the forms it can take. We embrace the increasingly complex world of paper and digital. Office and mobile. Personal and social. Every day across the globe – in more than 160 countries – our technology, software and people successfully navigate those intersections. We automate, personalize, package, analyze and secure information to keep our customers moving at an accelerated pace. 
+
+-XXX-­­­­­ 1
+116 2017-10-23 Apps Take Center Stage at Xerox Channel Partners’ Personalized Application Builder Forum Event helped dozens of global channel partners build, price and market custom apps for Xerox ConnectKey workplace assistants
+
+OCT 23, 2017 — SOLUTIONS, MANAGED PRINT SERVICES, COPYING, MULTIFUNCTION, PRINTING, SOFTWARE
+NORWALK, Conn. —  
+For Xerox channel partners looking to increase recurring revenue and maximize value to clients, there was an app event for that.
+
+The Xerox Personalized Application Builder Forum drew 50 high-potential partners from across the globe, and the collaborative format included perspectives from their peers and Xerox. Attendees learned about the value of developing and selling apps, and how those apps can turn multifunction printers (MFPs) into smart, connected workplace assistants.
+
+Held Oct. 18-19 at Xerox’s Gil Hatch Center for Customer Innovation in Webster, N.Y., the event was designed for partners of all sizes, and regardless of their experience in the app space. The two-day agenda covered:
+
+How to get started – benefits of the Xerox Personalized Application Builder program; skills needed to initiate development; and understanding the Xerox App Gallery and Xerox App Studio, sites where partners can access and market apps.
+App development – ideas for new apps and top areas for app growth.
+Promotion – how partners can maximize and market their presence as app developers.
+Monetization – how to price apps, and the different models for client implementation.
+Xerox tools and support – an overview of training support and hardware and software tools that help partners efficiently create apps.
+Xerox executives led keynote sessions focused on a partner’s progression from technology reseller to software developer; how to unleash innovation within an organization and Xerox’s view of the app landscape. A partner showcase featured partner-developed apps, both to inspire and generate business from other attendees.
+
+Just-Tech, a Maryland-based print, network, IT and apps solutions company, has developed and sold custom apps for Xerox’s ConnectKey® devices for the past two years, with apps accounting for 10 percent of the company’s revenue. Just-Tech president Joshua Justice hopes to double or even triple app sales next year, and attended the event seeking ideas to help fuel that growth, and share his experience with other partners.
+
+“Our app sales keep growing and we continue to reinvest,” said Justice. “Apps are a competitive differentiator for us and have taken us global. This is the type of collaborative gathering that will help other Xerox channel partners do the same.”
+
+The Rite Group, a Missouri-based IT services provider, left the event eager to explore app development opportunities.
+
+“Software development is a natural progression for our business, but we weren’t sure where to start,” said T. Robin Cole, CEO of The Rite Group. “Hearing from organizations that have experienced a similar transition and pursued comparable opportunities was invaluable in helping define our strategy. I’m energized and excited to take the next step.”
+
+Xerox Extensible Interface Platform allows partners and developers to easily create personalized apps that can be accessed on the MFP's tablet-like screen. Partners are also given access to application program interfaces for managed print services, production systems Xerox FreeFlow® and Xerox DocuShare®, enabling partners to create custom applications that leverage the range of Xerox’s industry-leading product portfolio.
+
+“Apps have permeated our personal lives and the workplace is following suit,” said Tracey Koziol, senior vice president, Workplace Solutions Business Group, Xerox. “The opportunity for Xerox and our partners is boundless, and this event served as a catalyst for future development.” Koziol was among the event’s featured speakers.
+
+Apps helping authors set the page free
+Xerox technology, software and ConnectKey apps are driving Project: SET THE PAGE FREE, a book collaboration of epic scale with 14 celebrated and award-winning international writers and creative talents. Chapters by each of the contributors – including a poem and a song – together tell the ultimate story of the modern workplace, each with a unique creative perspective on the working world. Visit SetThePageFree.com for video documentaries, exclusive photos, book excerpts and podcasts.
+
+For more information about the Xerox Personalized Application Builder program for sales channel partners: www.xerox.com/personalize
+
+Tweet: .@Xerox forum helped global channel partners build, price & market custom apps for #ConnectKey workplace assistants. https://ctt.ec/uTRb5+
+
+About Xerox
+Xerox Corporation is an $11 billion technology leader that innovates the way the world communicates, connects and works. Our expertise is more important than ever as customers of all sizes look to improve productivity, maximize profitability and increase satisfaction. We do this for small and mid-size businesses, large enterprises, governments, graphic communications providers, and for our partners who serve them.
+
+We understand what’s at the heart of work – and all of the forms it can take. We embrace the increasingly complex world of paper and digital. Office and mobile. Personal and social. Every day across the globe – in more than 160 countries – our technology, software and people successfully navigate those intersections. We automate, personalize, package, analyze and secure information to keep our customers moving at an accelerated pace. 
+
+-XXX-­­­­­ 1
+117 2017-11-02 Experts and Analysts Review Xerox Printers and Multifunction Printers. The Consensus? Love at First Every month, slews of industry analysts put our printers and multifunction printers (MFPs) through their paces. By testing our products, experts see how Xerox performs against the competition. We consistently come out on top! Check out these reviews to see for yourself. 
+
+Xerox® VersaLink® C405 Color MFP
+• Tech Radar Pro, “Xerox VersaLink C405 Review”
+In his review, Jim Hill calls the VersaLink C405 color MFP a “multifunction printer with a nifty touchscreen.” His summarizes his verdict with, “For a medium-sized office, this large multifunction beast can really make short work of heavy workloads.” He goes on to say, “you’re getting a lot of laser printer for your money, and the C405 is a fast and reliable workhorse for both printing and copying.” 
+
+
+• PCMag, Xerox VersaLink C405/DN, “Excellent” Rating
+This MFP “prints well and reasonably fast,” says William Harrel in his review, which gives the VersaLink C405/DN four out of five stars. He says, “It comes with a wealth of features…it’s a good fit for low-to-moderate-volume printing and copying in small- to medium-size offices and workgroups.”
+
+
+• Small Business Edge, “Meet Your New Workplace Assistant”
+“The C405 is more than just a multifunction printer; it’s your new workplace assistant,” says Brian Moran in his review of the Xerox VersaLink C405 MFP. He cites easy handling, user-friendliness, mobile- and cloud-readiness, and information security as reasons it delivers on “helping business owners run their companies more efficiently and effectively.”
+
+
+• Alexandra Levit, “What Would Make Your Business More Productive?”
+Business and workplace author, speaker and consultant Alexandra Levit unboxes the VersaLink C405 MFP, and offers people a chance to win one for their business. She notes the MFP’s wireless printing from Dropbox, the Xerox App Gallery, Xerox Easy Translator Service, solid information security, and easy, plug-and-play setup are some of her favorite features of the device. 
+
+
+• ConstructechTV, “Gotta Tool”
+In her video review of the Xerox VersaLink C405 MFP, Peggy Smedley tests whether the device can truly be “your smart workplace assistant.” She discovers “different apps that make your life a little easier,” such as the Xerox Mobile Link App that lets users scan, email, fax and print between their mobile phone or tablet and the MFP, via the cloud. Smedley sees value for construction agencies being able to edit, scan and send PDFs and spreadsheets to and from remote workers at job sites using the CapturePoint Transformer app. Once the MFP is set up and installed, Smedley “would give it very high ratings for ease of use.”
+
+
+Xerox® WorkCentre® 6515 Color Laser MFP
+• ChannelProNetwork, “Xerox WorkCentre 6515/DN Review: A Color MFP That Surpassed Expectations” 
+James E. Gaskin’s review summary says, “With impressive printed text, graphics and images, this color laser MFP would be a solid addition to any workgroup.”
+
+
+• PCMag, Xerox WorkCentre 6515/DNI, “Excellent” Rating
+“Superb text quality and fast scanning” are reasons why Tony Hoffman gave this MFP four out of five stars, as well as its “speed, good output quality, and a robust feature set.” He says, “It’s worth a close look for use in a small or micro office if you need a color multifunction printer for up to heavy-duty use.”
+
+
+• Small Business Trends, “Xerox Small Business Printers: Using Them is as Easy as Using a Mobile App”
+Anita Campbell reviews the Xerox Phaser 6510 color printer and Xerox WorkCentre 6515 color MFP, calling them “the next generation, and like no other devices in its class.” She gives props to the products’ “Fast out-of-the-box experience; crisp color print quality; and an interface more like a mobile tablet than a typical printer.”
+
+
+• Small Business Edge, “The Invisible Workhorse: Xerox’s WorkCentre 6515”
+Brian Moran says, “Kudos to Xerox for coming up with a workhorse printer for small businesses” in his WorkCentre 6515 MFP review, which highlights the product’s easy, plug-and-play setup, affordable price point, WiFi Direct printing from smartphone or tablet, duplex scanner, large paper capacity, fast print speed, and ability to increase workforce productivity.
+
+
+• SmallBizDaily, “A Printing Powerhouse”
+Rieva Lesonsky is impressed with the Xerox WorkCentre 6515 MFP, calling it “easy to set up, loaded with features, lightning quick and quite affordable, starting at less than $500.” The review notes the MFP’s tablet-like touchscreen, scan preview feature, large paper capacity, security wizard, speed and print quality.
+
+
+Xerox® AltaLink® 8000 Series MFPs
+• Better Buys, Xerox AltaLink C8000 Series Review, “Editor’s Choice” 
+As part of what Better Buys calls a “new line of scalable color MFPs for medium and larger-sized offices that need an intuitive and productive device,“ our AltaLink C8000 Series color MFP earned an Editor’s Choice for “ConnectKey technology with mobile and cloud printing/scanning, versatile paper trays and finishing options, partnership with McAfee for added security.” 
+
+
+• Better Buys, Xerox AltaLink B8000 Series Review 
+Better Buys calls our AltaLink B8000 Series of black-and-white MFPs a “scalable line of new high-volume MFPs with strong mobile and cloud connectivity.” The review highlights “ConnectKey technology with mobile and cloud printing/scanning, versatile paper trays and finishing options” as well as our McAfee partnership for added security. 1
+118 2017-12-12 Xerox Ranks Among Nation’s Best in Measures that Matter Most to People and Communities DEC 12, 2017 — CORPORATE, CITIZENSHIP, ENVIRONMENT, RESEARCH AND DEVELOPMENT
+Norwalk, Conn. —  
+In a head to head comparison of the largest publicly traded corporations nationwide, Xerox (NYSE: XRX) was recognized for outperforming its peers in a number of areas including worker pay and treatment, job creation, community involvement and providing products that improve life and do not harm the environment. Xerox was named one of America’s most JUST companies according to a survey conducted by Forbes and JUST Capital, a nonprofit that ranks the largest publicly traded corporations in the U.S.
+
+The JUST 100 rankings are based on one of the most comprehensive surveys ever conducted on public attitudes towards corporate behavior, involving 10,000 American respondents in 2017 and more than 72,000 over the past three years. The criteria for the list is based upon JUST Capital’s research into the issues that Americans care about most.
+
+For the complete 2017 JUST 100 list, please visit: www.forbes.com/just100.
+
+“We believe that the best companies are those that balance the needs of all stakeholders and add value to the communities in which they operate,” said Xerox CEO Jeff Jacobson. “We put a critical focus on ensuring that the hard work of Xerox people helps our customers and the well-being of the planet.”
+
+The JUST Capital rankings encompass the 1,000 largest publicly traded companies in the U.S. The survey ranks how companies perform overall, how they compare by industry, and how they rank on specific themes such as worker compensation and well-being, customer treatment, product impacts, environmental footprint, supporting communities, generating jobs, behaving responsibly in sourcing and supply chains, and more. The JUST 100 list of the top 100 companies across all industries, as well as the 33 top performers by industry, will be featured in the December 26, 2017 issue of Forbes magazine, with additional feature stories at www.forbes.com/just100.
+
+“Business can and should be a unifying force for good in America today, but what it needs is a new North Star” said Martin Whittaker, CEO of JUST Capital. “That is what these rankings represent. By trusting in the American people to define what really matters when it comes to measuring business performance, we think we can help breathe life into the vision of a more just economy that better serves the broader best interests of society.”
+
+“The second annual JUST 100 list serves as a report card for corporate America, providing unbiased data about how corporations are performing on the issues Americans care most about,” said Forbes editor Randall Lane. “At a time when corporate America, as a whole, faces low public approval, the companies in the JUST 100 provide an example for their peers on how to win back the trust of the American people.”
+
+About JUST Capital
+JUST Capital, an independent, nonprofit research organization, makes it easier for people, companies, and markets to do the right thing by tracking the business behaviors Americans care about most. Their research, rankings, and data-driven tools help people make more informed decisions about where to invest, work, and buy to direct capital towards companies advancing a more just future. Companies that believe in fair pay and equal treatment for all workers. Companies that create good jobs and understand the value of strong communities. Companies that are committed to a healthy planet. America’s Most JUST Companies, including the groundbreaking JUST 100, is published annually in Forbes and on www.justcapital.com.
+
+About Forbes Media
+Forbes Media is a global media, branding and technology company, with a focus on news and information about business, investing, technology, entrepreneurship, leadership and affluent lifestyles. The company publishes Forbes and Forbes Asia magazines, as well as Forbes.com. The Forbes brand today reaches more than 117 million people worldwide with its business message each month through its magazines and 38 licensed local editions around the globe, Forbes.com, TV, conferences, research, social and mobile platforms. Forbes Media’s brand extensions include conferences, education, financial services and brand licensing.
+
+Tweet: .@Forbes, @justcapital_ name @Xerox to top 100 companies for values & culture, understanding the value of strong communities and companies committed to a healthy planet.  https://ctt.ec/1OUqX+
+
+About Xerox
+Xerox Corporation is an $11 billion technology leader that innovates the way the world communicates, connects and works. Our expertise is more important than ever as customers of all sizes look to improve productivity, maximize profitability and increase satisfaction. We do this for small and mid-size businesses, large enterprises, governments, graphic communications providers, and for our partners who serve them.                
+
+We understand what’s at the heart of work – and all of the forms it can take. We embrace the increasingly complex world of paper and digital. Office and mobile. Personal and social. Every day across the globe – in more than 160 countries – our technology, software and people successfully navigate those intersections. We automate, personalize, package, analyze and secure information to keep our customers moving at an accelerated pace. 
+
+-XXX- 1
+119 2018-01-03 Xerox AltaLink Devices Achieve Common Criteria Certification First to receive industry’s most stringent information technology security standard certification from National Information Assurance Partnership
+DEC 08, 2017 — MULTIFUNCTION, COPYING, PRINTING, SOFTWARE, SOLUTIONS
+Norwalk, Conn. —  
+Xerox’s (NYSE: XRX) AltaLink® devices are the first multifunction printers (MFPs) to be certified by the National Information Assurance Partnership (NIAP) under rigorous new testing standards.
+
+The Xerox AltaLink devices received NIAP certification against the latest Common Criteria security protection profile for hardcopy devices. This new protection profile is based on the security requirements specified by United States and Japanese government agencies. NIAP is the U.S. government organization that ensures compliance with the global Common Criteria for Information Technology Security Evaluation.
+
+The Protection Profile for Hardcopy Devices v1.0 (HCD-PP v1.0) intends to protect the information processed by an MFP from security threats and includes stringent new requirements for cryptography, authentication and secure protocols. Testing is done in independent labs and results in the most up-to-date and stringent security endorsement for small- and medium-size businesses, large enterprises and governments.
+
+Tweet: .@Xerox AltaLink devices are first #MFPs to receive Common Criteria certification from NIAP, assuring customers of world-class security protection built-in. https://ctt.ec/7zj2_+
+
+“Detecting and preventing cyber threats is a 24/7, 365 days a year requirement for all enterprises and a fundamental focus for Xerox,” said Tracey Koziol, senior vice president, Workplace Solutions Business Group, Xerox. “NIAP and Common Criteria Certification gives our customers – particularly federal government agencies – assurance that our new AltaLink devices have world-class security protection built-in, and that their critical information is safe.”
+
+AltaLink series and Xerox’s approach to device security
+The Xerox ConnectKey® technology-enabled AltaLink series includes 10 MFPs designed for enterprises of all sizes with medium and large workgroups. ConnectKey technology transforms traditional printing devices into smart, connected workplace assistants that reflect the evolving needs of today’s businesses. They include simple and secure on-the-go capabilities, cloud connectivity, and access to productivity boosting features and apps. 
+
+Xerox security solutions span four key aspects in a multilayered approach: intrusion prevention, device detection, document and data detection, and external partnerships. An example of an external partnership is McAfee’s whitelisting technology, which constantly monitors and automatically protects against malware and comes embedded in all Xerox AltaLink products. When services and solutions are required to complement Xerox’s secure devices, managed print services offerings continue the security philosophy with an approach that prevents, detects, protects and reports.
+
+Other recent Xerox security accolades
+The Xerox Global Security Services group was recently selected as a recipient of a CSO50 Award for its efforts to make information security an integral part of communicating with employees, partners and stakeholders.
+
+Xerox was recently named a leader in the IDC MarketScape: Worldwide Security Solutions and Services Hardcopy 2017 Vendor Assessment report for its commitment to enterprise security and its broad portfolio of print and document security solutions. The report notes that Xerox has robust print and document security solutions in the form of tools, methodologies and services configured to meet individual customer IT strategy needs, including data, documents, devices, rules, and regulations governing both business and individual use cases.
+
+Xerox also was a recent recipient of the KeyPoint Intelligence – Buyers Lab 2017-2018 PaceSetter Award for Leadership in Document Imaging Security. 
+
+About Xerox
+Xerox Corporation is an $11 billion technology leader that innovates the way the world communicates, connects and works. Our expertise is more important than ever as customers of all sizes look to improve productivity, maximize profitability and increase satisfaction. We do this for small and mid-size businesses, large enterprises, governments, graphic communications providers, and for our partners who serve them.                
+
+We understand what’s at the heart of work – and all of the forms it can take. We embrace the increasingly complex world of paper and digital. Office and mobile. Personal and social. Every day across the globe – in more than 160 countries – our technology, software and people successfully navigate those intersections. We automate, personalize, package, analyze and secure information to keep our customers moving at an accelerated pace. 
+
+-XXX- 1
+120 2018-01-18 Xerox Duplex Portable Scanner Helps Businesses Large and Small Cross the Analog-to-Digital Divide AN 18, 2018 — DISPLAYS AND DESKTOP SCANNERS, TECHNOLOGY
+PLEASANTON, Calif. —  
+Xerox® today introduced a smart portable scanner that captures, stores and organizes up to 1,000 pages a day. It has advanced features such as algorithms that correct visual clarity and optical character recognition (OCR) that reads documents accurately in 179 languages.
+
+The Xerox® Duplex Portable Scanner is designed to streamline paper-ridden processes that bog down employee productivity. Engineered for the worker at home, at the office or in the field, it can scan 15 pages per minute at 300 DPI, and can scan documents as small as a business card, or documents up to 8.5 inches wide and 118 inches long. The small footprint enables the device to sit comfortably on any desk, a convenience that makes it simple for employees to digitize and share information. At a suggested retail price of $339.99, the scanner is affordable to a wide range of businesses.
+
+Under a trademark licensing agreement with Xerox Corporation, the scanners will be manufactured and marketed by Visioneer pursuant to Xerox’s quality control standards.
+
+“The Duplex Portable Scanner meets demands for personal and portable scanning productivity, and helps our customers achieve their digital transformation goals,” said Walt Thinfen, president and CEO at Visioneer. “By transitioning paper-laden processes to digital, organizations can focus on growing and better serving customers.”
+
+Benefits Beyond Scanning
+Businesses in a variety of markets benefit from the scanner’s strong software features, including:
+
+Visioneer Acuity with DriverPLUS technology (PC) uses advanced algorithms to intelligently and instantly correct and improve the visual clarity of scanned documents or images containing imperfections.
+Visioneer OneTouch® (PC) allows users to automatically route documents to email, printers, files on the server or to the cloud with one simple touch of a button.
+Nuance PaperPort Pro (PC) is a document management tool that helps users organize, find and share documents to bring a new level of proficiency and productivity to an organization’s workflow.
+Findo® (Mac & PC) is a single point search that works with OneTouch to sort and intelligently find every scanned file.
+ABBYY® Business Card Reader (PC) easily transfers contact information from scanned business cards into smartphone address databases or its own digital storage catalog.
+ABBYY® Fine Reader Sprint (Mac & PC) is an easy-to-use OCR tool that instantly converts scans into various file formats, including searchable PDFs. It accurately reads documents in up to 179 languages.
+Visioneer Scan Utility (Mac) allows you to take full advantage of the driver’s features. Just set your driver preferences, select an image format and file destination, and begin scanning.
+Pricing and Availability
+The Xerox® Duplex Portable Scanner has a suggested retail price of $339.99 and is immediately available for purchase online at www.xeroxscanners.com and from authorized resellers in the Americas, Europe, Middle East and Africa.
+
+About Xerox
+Xerox Corporation is an $11 billion technology leader that innovates the way the world communicates, connects and works. Our expertise is more important than ever as customers of all sizes look to improve productivity, maximize profitability and increase satisfaction. We do this for small and mid-size businesses, large enterprises, governments, graphic communications providers, and for our partners who serve them.                
+
+We understand what’s at the heart of work – and all of the forms it can take. We embrace the increasingly complex world of paper and digital. Office and mobile. Personal and social. Every day across the globe – in more than 160 countries – our technology, software and people successfully navigate those intersections. We automate, personalize, package, analyze and secure information to keep our customers moving at an accelerated pace. 
+
+About Visioneer, Inc.
+
+Visioneer, Inc., a leader in scanner and document management solutions, offers a broad range of digital imaging hardware products for the desktop and departmental markets as well as the mobile and remote business scanning segments. In 2003, Visioneer combined its leading scanner technology with the Xerox brand recognition to develop the Xerox® DocuMate® product line. Visioneer and Xerox DocuMate high-performance business scanners and imaging software solutions offer users speed, image quality, advanced paper handling and ease-of-use with exclusive Visioneer OneTouch® technology. Visioneer is an authorized trademark licensee of Xerox. For additional information on Visioneer and Xerox scanning solutions, visit www.xeroxscanners.com or www.visioneer.com. For open commentary and industry perspectives visit www.facebook.com/visioneerinc, www.twitter.com/visioneerinc 1
+121 2018-01-31 FUJIFILM Holdings and Xerox Announce Agreement to Combine Fuji Xerox Joint Venture with Xerox Creates a Global Leader in Innovative Print Technologies and Intelligent Work Solutions
+JAN 31, 2018 — CORPORATE
+NORWALK, Conn. and TOKYO —  
+ 
+
+Xerox shareholders to receive a $2.5 billion special cash dividend, or approximately $9.80 per share1, and 49.9% of the combined company; Fujifilm to own 50.1%
+
+Combined company to deliver at least $1.7 billion in total cost savings, with $1.2 billion to be achieved by 2020
+
+Accelerates path to revenue growth through global reach, industry-leading scale and enhanced innovation capabilities
+
+Well-positioned to lead in growing business areas such as high-speed inkjet, industrial print and workplace solutions, while leveraging Fujifilm's extensive technologies
+
+Combined company will have enhanced financial flexibility for future growth investments and capital returns
+
+Combined company will have dual headquarters in Norwalk, CT, U.S. and Minato, Tokyo, Japan, and will maintain the iconic “Xerox” and “Fuji Xerox” brands within its respective operating regions
+
+FUJIFILM Holdings Corporation (“Fujifilm”) (TSE: 4901) and Xerox Corporation (“Xerox”) (NYSE: XRX) today announced that they have entered into a definitive agreement to combine Xerox and their longstanding Fuji Xerox joint venture. The combined company will be a global leader in innovative print technologies and intelligent work solutions with annual revenues of $18 billion and leadership positions in key geographic regions.           
+
+This proposed combination provides Xerox shareholders with significant cash at closing, as well as a substantial interest in the significantly enhanced combined company. Under the terms of the agreement, Xerox shareholders will receive a $2.5 billion special cash dividend, or approximately $9.80 per share1, funded from the combined company’s balance sheet, and own 49.9% of the combined company at closing. The cash dividend represents more than 30% of Xerox’s unaffected share price of $30.35 based on closing share price as of January 10, 2018. Fujifilm will own 50.1% of the combined company and provide important operational support and transformational leadership.
+
+The transaction has been unanimously approved by the Boards of Directors of both Fujifilm and Xerox. The combined company will be named “Fuji Xerox” and trade on the NYSE under the ticker XRX. The new Fuji Xerox will have dual headquarters in Norwalk, CT, U.S. and in Minato, Tokyo, Japan, with presence in over 180 countries. The combined company will go to market and maintain the iconic “Xerox” and “Fuji Xerox” brands within its respective operating regions.
+
+Shigetaka Komori, chairman and chief executive officer of Fujifilm, said, “Fujifilm and Xerox have fostered an exceptional partnership through our existing Fuji Xerox joint venture, and this transaction is a strategic evolution of our alliance. The Document Solutions business represents a significant part of Fujifilm’s portfolio, and the creation of the new Fuji Xerox allows us to more directly establish a leadership position in a fast-changing market. We believe Fujifilm’s track record of advancing technology in innovative imaging and information solutions – especially in inkjet, imaging, and AI areas – will be important components of the success of the new Fuji Xerox.”
+
+Mr. Komori added, “I am confident that Fujifilm’s ability to drive change as well as its experience of successful reinvention will give a competitive edge to the new Fuji Xerox, delivering significant value creation to shareholders of both the new Fuji Xerox and Fujifilm. We are delighted to welcome Xerox and its employees to the Fujifilm family and look forward to combining our strengths towards jointly shaping the future of our industry.”
+
+Jeff Jacobson, chief executive officer of Xerox, said, “The proposed combination has compelling industrial logic and will unlock significant growth and productivity opportunities for the combined company, while delivering substantial value to Xerox shareholders. The new Fuji Xerox will be better positioned to compete in today’s environment with truly global scale, increased presence in fast-growing markets, and innovation capabilities to effectively meet our customers’ rapidly-evolving demands. In addition, the combined company’s strong financial profile will enable investments that support continued market leadership, while also providing opportunities for increasing capital returns over time.”
+
+Robert J. Keegan, chairman of Xerox’s Board of Directors, said, “Today’s announcement follows a comprehensive review of our strategic and financial alternatives led by Xerox’s independent directors that began after the separation of Conduent in 2016. Upon careful consideration of all alternatives available to the company, the Board of Directors concluded that this combination is clearly the best path to create value for our shareholders. An attractive, certain cash dividend, together with participation in the future success of the combined company, presents a compelling value equation for Xerox shareholders. We are excited to strengthen our longstanding relationship with Fujifilm as we enter the next phase of Xerox’s transformation journey.”
+
+Clear Leader in Innovative Print Technologies and Intelligent Work Solutions
+Xerox shareholders will have the opportunity to participate in the new Fuji Xerox’s accelerated revenue trajectory and long-term value creation potential. The transaction builds on the 56-year collaborative history between Fujifilm and Xerox to create a global leader in innovative print technologies and intelligent work solutions with enhanced scale and innovation capabilities:
+
+Global leader with combined revenue of approximately $18 billion and nearly $120 billion total addressable opportunity.
+
+Enhanced scale with presence in over 180 countries and covering key geographies including North America, Japan, Europe, Asia Pacific and China.
+
+Combined leadership with a strong track record of operational excellence, transformation experience, customer relationships and industry expertise.
+
+Improved revenue profile and growth trajectory by leveraging the combined expertise, competitive strengths and geographic reach of the two companies.
+
+World-class innovation capabilities to define the future of innovative print technologies and intelligent work solutions by bringing together two R&D and innovation leaders, along with Fujifilm’s extensive expertise. The new Fuji Xerox will be well-positioned to lead in growing areas such as high-speed inkjet, packaging, industrial print and workplace automation, as well as future development opportunities in artificial intelligence, machine learning, internet of things and augmented reality.
+
+Strengthened balance sheet and cash flow generation to provide flexibility to support strategic investments in growth and enable increasing capital returns.
+
+Significant Value Creation Opportunity
+This highly synergistic combination is expected to deliver at least $1.7 billion in total annual cost savings by 2022, with approximately $1.2 billion of the total cost savings expected to be achieved by 2020. The targeted cost savings represent approximately 10% of the total cost base of the new Fuji Xerox and will drive significant margin expansion over the next four years. 
+
+Of the total $1.7 billion cost savings, $1.25 billion is related to the synergies that will be achieved through the transaction. In addition, the combined company will benefit from a cost reduction program commencing immediately at the existing Fuji Xerox joint venture, which is targeted to generate approximately $450 million of cost savings on an annualized basis. These amounts are incremental to Xerox’s ongoing Strategic Transformation initiatives. The new company expects to incur approximately $1.4 billion in one-time integration and restructuring costs, mainly in the first three years.
+
+The new Fuji Xerox will also have significant revenue synergy opportunities over time as it capitalizes on its global reach, industry-leading scale and enhanced innovation capabilities. Importantly, the combined company will have an increased total addressable opportunity estimated at nearly $120 billion and a strong presence in attractive growth markets, allowing the new company to become more competitive and better able to serve customers and business partners globally.
+
+Balance Sheet and Capital Allocation
+The new Fuji Xerox expects to maintain investment grade credit ratings at closing. The new company will maintain Xerox’s current $1.00 annual dividend per share and commitment to return at least 50 percent of free cash flow to shareholders. The enhanced financial flexibility of the combined company is expected to allow for greater capital deployment toward targeted growth initiatives, share repurchases and increased dividends over time.
+
+Leadership and Governance
+Upon close of the transaction, Jeff Jacobson will serve as chief executive officer of the new Fuji Xerox.
+
+The combined company’s Board of Directors will include 12 members, seven of whom will be appointed by the Fujifilm Board. Five independent directors will be appointed from the Xerox Board. Shigetaka Komori will serve as chairman of the board.
+
+Financing Commitments
+Financing commitments of $2.5 billion have been provided by Citigroup Global Markets Inc. and Morgan Stanley Senior Funding, Inc.   
+
+Path to Completion
+The transaction, which is expected to close in the second half of calendar year 2018, is subject to the satisfaction of customary closing conditions and regulatory approvals and approval by Xerox shareholders.
+
+Advisors
+Mitsubishi UFJ Morgan Stanley Securities Co., Ltd. and Morgan Stanley & Co. LLC are serving as exclusive financial advisors to Fujifilm, and Morrison & Foerster LLP is acting as legal counsel. Centerview Partners LLC is serving as exclusive financial advisor to Xerox and Paul, Weiss, Rifkind, Wharton & Garrison LLP is acting as legal counsel.
+
+Xerox Conference Call
+Xerox will host a conference call today at 8:00 a.m. ET to discuss this transaction. The webcast is available at https://edge.media-server.com/m6/p/7ffthvi5 or https://www.news.xerox.com/investors. A replay of the call will be available at https://www.news.xerox.com/investors.
+
+For More Information
+Additional information regarding the transaction can be found on www.thenewfujixerox.com.
+
+About Fujifilm
+FUJIFILM Holdings Corporation in Tokyo, Japan, brings continuous innovation with leading-edge, proprietary technologies by leveraging its photography expertise into a broad range of industries globally, including healthcare, graphic systems, highly functional materials, optical devices, digital imaging and document products. These products are based on its extensive portfolio of chemical, mechanical, optical, electronic and imaging technologies. Fujifilm has operated in North America since 1965, with approximately 6,000 employees currently in the U.S. and Canada. For the year ended March 31, 2017, the company had global revenues of $20.7 billion, at an exchange rate of 112 yen to the dollar. Fujifilm is committed to responsible environmental stewardship and good corporate citizenship. For more information, please visit: www.fujifilmholdings.com.
+
+About Xerox
+Xerox Corporation is a technology leader that innovates the way the world communicates, connects and works. We understand what’s at the heart of sharing information – and all of the forms it can take. We embrace the integration of paper and digital, the increasing requirement for mobility, and the need for seamless integration between work and personal worlds. Every day, our innovative print technologies and intelligent work solutions help people communicate and work better. Discover more at www.xerox.com and follow us on Twitter at @Xerox.
+
+About Fuji Xerox
+Founded in 1962, Fuji Xerox Co., Ltd. is a leading company in the Document Services & Communications field, offering solutions and services to help customers resolve their business challenges. Underlying our solutions and services are our world-class office multifunction devices, printers and production printers that we develop and manufacture for worldwide distribution. Together with cloud and mobile solutions, Fuji Xerox builds a communications environment that enable our customers to access the right information, at the right time, and in the right form—thereby contributing to their valuable communications.
+
+Fuji Xerox is a 75-25 joint venture between FUJIFILM Holdings Corporation and Xerox Corporation, and its direct sales force covers Japan and the Asia-Pacific region including China. As a $10 billion enterprise, we employ approximately 47,350 people globally, with more than 80 domestic and overseas affiliates / sales subsidiaries. For more information, please visit www.fujixerox.com.
+
+Additional Information and Where to Find It
+This release may be deemed to be solicitation material in respect of the transactions with FUJIFILM Holdings Corporation (“Fujifilm") described herein (the “Transactions”) and/or the matters to be considered at the Company’s 2018 Annual Meeting of Shareholders. In connection with the Transactions and the 2018 Annual Meeting, Xerox plans to file with the Securities and Exchange Commission (“SEC”) and furnish to Xerox’s shareholders one or more proxy statements and other relevant documents. BEFORE MAKING ANY VOTING DECISION, XEROX’S SHAREHOLDERS ARE URGED TO READ THE PROXY STATEMENT(S) IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE AND ANY OTHER DOCUMENTS TO BE FILED WITH THE SEC IN CONNECTION WITH THE TRANSACTIONS AND/OR THE COMPANY’S 2018 ANNUAL MEETING OR INCORPORATED BY REFERENCE IN THE PROXY STATEMENTS BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE TRANSACTIONS AND/OR THE COMPANY’S 2018 ANNUAL MEETING AND THE PARTIES RELATED THERETO. Xerox’s shareholders will be able to obtain a free copy of documents filed with the SEC at the SEC’s website at http://www.sec.gov. In addition, Xerox’s shareholders may obtain a free copy of Xerox’s filings with the SEC from Xerox’s website at http://www.xerox.com under the heading “Investor Relations” and then under the heading “SEC Filings.”
+
+Participants in the Solicitation
+The directors, executive officers and certain other members of management and employees of Xerox may be deemed “participants” in the solicitation of proxies from shareholders of Xerox in favor of the Transactions or in connection with the matters to be considered at the Company’s 2018 Annual Meeting. Information regarding the persons who may, under the rules of the SEC, be considered participants in the solicitation of the shareholders of Xerox in connection with the Transactions or the Company’s 2018 Annual Meeting will be set forth in the applicable proxy statement and other relevant documents to be filed with the SEC. You can find information about Xerox’s executive officers and directors in Xerox’s Annual Report on Form 10-K for the fiscal year ended December 31, 2016, Xerox’s and such persons’ other filings with the SEC and in Xerox’s definitive proxy statement filed with the SEC on Schedule 14A.
+
+Cautionary Statement Regarding Forward-Looking Statements
+This release, and other written or oral statements made from time to time by management contain “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995. The words “anticipate”, “believe”, “estimate”, “expect”, “intend”, “will”, “should” and similar expressions, as they relate to us, are intended to identify forward-looking statements. These statements reflect management’s current beliefs, assumptions and expectations and are subject to a number of factors that may cause actual results to differ materially. Such factors include but are not limited to: our ability to address our business challenges in order to reverse revenue declines, reduce costs and increase productivity so that we can invest in and grow our business; changes in economic and political conditions, trade protection measures, licensing requirements and tax laws in the United States and in the foreign countries in which we do business; changes in foreign currency exchange rates; our ability to successfully develop new products, technologies and service offerings and to protect our intellectual property rights; the risk that multi-year contracts with governmental entities could be terminated prior to the end of the contract term and that civil or criminal penalties and administrative sanctions could be imposed on us if we fail to comply with the terms of such contracts and applicable law; the risk that partners, subcontractors and software vendors will not perform in a timely, quality manner; actions of competitors and our ability to promptly and effectively react to changing technologies and customer expectations; our ability to obtain adequate pricing for our products and services and to maintain and improve cost efficiency of operations, including savings from restructuring actions; the risk that individually identifiable information of customers, clients and employees could be inadvertently disclosed or disclosed as a result of a breach of our security systems; reliance on third parties, including subcontractors, for manufacturing of products and provision of services; our ability to manage changes in the printing environment and expand equipment placements; interest rates, cost of borrowing and access to credit markets; funding requirements associated with our employee pension and retiree health benefit plans; the risk that our operations and products may not comply with applicable worldwide regulatory requirements, particularly environmental regulations and directives and anti-corruption laws; the outcome of litigation and regulatory proceedings to which we may be a party; the risk that we do not realize all of the expected strategic and financial benefits from the separation and spin-off of our Business Process Outsourcing business; the effects on our business resulting from actions of activist shareholders; and other factors that are set forth in the “Risk Factors” section, the “Legal Proceedings” section, the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section and other sections of our Quarterly Reports on Form 10-Q for the quarters ended March 31, 2017, June 30, 2017 and September 30, 2017 and our 2016 Annual Report on Form 10-K, as well as our Current Reports on Form 8-K filed with the SEC. Furthermore, the actual results of the Transactions could vary materially as a result of a number of factors, including, but not limited to: (i) the risk that the transactions may not be completed in a timely manner or at all, which may adversely affect Xerox’s business and the price of Xerox’s common stock, (ii) the failure to satisfy the conditions to the consummation of the transactions, including the receipt of certain approvals from Xerox’s shareholders and certain governmental and regulatory approvals, (iii) the parties may be unable to achieve expected synergies and operating efficiencies in the transactions within the expected time frames or at all, (iv) the transactions may not result in the accretion to Xerox’s earnings or other benefits, (v) the occurrence of any event, change or other circumstance that could give rise to the termination of the transaction agreements, (vi) the effect of the announcement or pendency of the transactions on Xerox’s and/or Fujifilm business relationships, operating results, and business generally, risks related to the proposed transactions disrupting Xerox’s current plans and operations and potential difficulties in Xerox’s employee retention as a result of the transactions, (vii) risks related to diverting management's attention from Xerox’s ongoing business operations, (viii) the outcome of any legal proceedings that may be instituted against Xerox, its officers or directors related to the transaction agreements or the transactions and (ix) the possibility that competing offers or acquisition proposals for Xerox will be made. Xerox assumes no obligation to update any forward-looking statements as a result of new information or future events or developments, except as required by law.
+
+Fuji Xerox Co., Ltd. (“Fuji Xerox”) is a joint venture between Xerox Corporation and Fujifilm in which Xerox holds a noncontrolling 25% equity interest and Fujifilm holds the remaining equity interest. In April 2017, Fujifilm formed an independent investigation committee (“IIC”) to primarily conduct a review of the appropriateness of the accounting practices at Fuji Xerox’s New Zealand subsidiary and at other subsidiaries. The IIC completed its review during the second quarter 2017 and identified aggregate adjustments to Fuji Xerox’s financial statements of approximately JPY 40 billion (approximately $360 million) primarily related to misstatements at Fuji Xerox’s New Zealand and Australian subsidiaries. We determined that our share of the total adjustments identified as part of the investigation was approximately $90 million and impacted our fiscal years 2009 through 2017. We concluded that we should revise our previously issued annual and interim consolidated financial statements for 2014, 2015 and 2016 and the first quarter of 2017 the next time they are filed. Our review of this matter has been completed. However, Fujifilm and Fuji Xerox continue to review Fujifilm’s oversight and governance of Fuji Xerox as well as Fuji Xerox’s oversight and governance over its businesses in light of the findings of the IIC. At this time, we can provide no assurances relative to the outcome of any potential governmental investigations or any consequences thereof that may happen as a result of this matter.
+
+-XXX- 1
+122 2018-02-21 Xerox Prioritized for Authorization from U.S. Government for Cloud-based Managed Print Services NORWALK, Conn. —  
+Federal Government agencies can soon hire Xerox knowing its Managed Print Services (MPS) solutions have been carefully pre-vetted and approved. Xerox has achieved in-process status for the U.S. government’s Federal Risk and Authorization Management Program (FedRAMP). This process signals that Xerox is FedRAMP ready and has been prioritized by the Joint Advisory Board – the last step before full FedRAMP authorization. The move by the government reinforces Xerox’s leadership in cloud-based MPS security and workflow automation.
+
+The FedRAMP program standardizes security assessment, authorization and monitoring for cloud products and services government-wide. Cloud service providers authorized through FedRAMP are included on a centralized list accessible by all federal agencies. By using a cloud service provider from the list, federal agencies can eliminate the time-consuming, research-intensive process of vetting MPS products for purchase such as automatic supplies replenishment, print awareness and productivity and fleet management of multi-vendor printers and multifunction printers.
+
+“Xerox has its roots in the cloud. Our MPS toolset was established in the cloud and features plug-and-play connectivity with go to market and delivery partners globally,” said Ted Dezvane, senior vice president, Managed Document Services – Commercial Excellence, Xerox. “And now, we are in the process of making a key addition to our cloud capabilities – Xerox MPS for U.S. Federal Government.”
+
+Tweet: .@Xerox receives in-process status from the U.S. government’s @FedRAMP for leadership in cloud-based managed print services and workflow automation solutions. https://ctt.ec/ZfE9r+
+
+About Xerox
+Xerox Corporation is a technology leader that innovates the way the world communicates, connects and works. We understand what’s at the heart of sharing information – and all of the forms it can take. We embrace the integration of paper and digital, the increasing requirement for mobility, and the need for seamless integration between work and personal worlds. Every day, our innovative print technologies and intelligent work solutions help people communicate and work better. Discover more at www.xerox.com and follow us on Twitter at @Xerox.
+
+-XXX- 1
+
++++++++++
+imagesys_xerox - products_menu:(8)
+id,menu_item,link
+2 Multifunction http://www.office.xerox.com/multifunction-printer/enmt.html
+3 Printers http://www.office.xerox.com/printers/enmt.html
+4 Copiers http://www.office.xerox.com/copiers/enmt.html
+5 Software solutions http://www.office.xerox.com/software-solutions/enmt.html
+6 Supplies and Consumables http://www.xerox.com/printer-supplies/enmt.html
+7 Scanners http://www.xeroxscanners.com/en/en/
+8 Wide Format http://www.xerox.com/digital-printing/large-format-printers/enus.html
+9 Xerox Paper & Media http://www.xerox.com/printer-supplies/enus.html
+
++++++++++
+imagesys_xerox - settings_emails:(1)
+id,statement,order_supplies,service_call,quote_equipment,others,quote_supplies,quote_printing
+1 consumables@image.com.mt support@image.com.mt sales@image.com.mt consumables@image.com.mt print@image.com.mt
+
++++++++++
+imagesys_xerox - sys_users:(3)
+id,first_name,surname,group_id,username,password,current_status
+10 ImageSystems Admin 0 imagesystems_admin f91314bec7674f942392794b246c65fb 0
+11 test test 0 test db77b6512eaf8bdc078947f784e51caa 1
+9 PreeoStudios PreeoStudios 0 preeo 3865bef66b81eb35a106e1a7fa730afa 0
+
++++++++++
+
+ 

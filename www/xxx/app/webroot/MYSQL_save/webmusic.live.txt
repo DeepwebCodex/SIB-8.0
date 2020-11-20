@@ -1,0 +1,1077 @@
+webmusic.live/music/mobile/hindi/index.php?id=j
+ 
+mysql - columns_priv:(0)
+Host,Db,User,Table_name,Column_name,Timestamp,Column_priv
+
++++++++++
+mysql - db:(0)
+Host,Db,User,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Create_tmp_table_priv,Lock_tables_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Execute_priv,Event_priv,Trigger_priv
+
++++++++++
+mysql - event:(0)
+db,name,body,definer,execute_at,interval_value,interval_field,created,modified,last_executed,starts,ends,status,on_completion,sql_mode,comment,originator,time_zone,character_set_client,collation_connection,db_collation,body_utf8
+
++++++++++
+mysql - func:(0)
+name,ret,dl,type
+
++++++++++
+mysql - general_log:(0)
+event_time,user_host,thread_id,server_id,command_type,argument
+
++++++++++
+mysql - help_category:(39)
+help_category_id,name,parent_category_id,url
+1 Geographic 0
+2 Polygon properties 34
+3 WKT 34
+4 Numeric Functions 38
+5 Plugins 35
+6 MBR 34
+7 Control flow functions 38
+8 Transactions 35
+9 Help Metadata 35
+10 Account Management 35
+
++++++++++
+mysql - help_keyword:(464)
+help_keyword_id,name
+0 JOIN
+1 HOST
+2 REPEAT
+3 SERIALIZABLE
+4 REPLACE
+5 AT
+6 SCHEDULE
+7 RETURNS
+8 STARTS
+9 MASTER_SSL_CA
+90 ROLLBACK
+91 PROCEDURE
+92 TIMESTAMP
+93 IMPORT
+94 AGAINST
+95 CHECKSUM
+96 COUNT
+97 LONGBINARY
+98 THEN
+99 INSERT
+
++++++++++
+mysql - help_relation:(1028)
+help_topic_id,help_keyword_id
+1 0
+356 0
+473 1
+232 2
+447 3
+3 4
+130 4
+421 4
+89 5
+89 6
+463 39
+468 39
+468 40
+472 40
+376 41
+463 42
+468 42
+212 43
+421 43
+468 43
+463 217
+291 218
+356 219
+3 220
+36 220
+48 220
+83 220
+104 220
+130 220
+421 220
+361 444
+384 444
+433 444
+497 445
+185 446
+199 447
+36 448
+134 448
+294 448
+347 448
+
++++++++++
+mysql - help_topic:(508)
+help_topic_id,name,help_category_id,description,example,url
+0 MIN 16 Syntax:
+MIN([DISTINCT] expr)
+
+Returns the minimum value of expr. MIN() may take a string argument; in
+such cases, it returns the minimum string value. See
+http://dev.mysql.com/doc/refman/5.5/en/mysql-indexes.html. The DISTINCT
+keyword can be used to find the minimum of the distinct values of expr,
+however, this produces the same result as omitting DISTINCT.
+
+MIN() returns NULL if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html mysql> SELECT student_name, MIN(test_score), MAX(test_score)
+    ->        FROM student
+    ->        GROUP BY student_name; http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html
+1 JOIN 27 MySQL supports the following JOIN syntaxes for the table_references
+part of SELECT statements and multiple-table DELETE and UPDATE
+statements:
+
+table_references:
+    table_reference [, table_reference] ...
+
+table_reference:
+    table_factor
+  | join_table
+
+table_factor:
+    tbl_name [[AS] alias] [index_hint_list]
+  | table_subquery [AS] alias
+  | ( table_references )
+  | { OJ table_reference LEFT OUTER JOIN table_reference
+        ON conditional_expr }
+
+join_table:
+    table_reference [INNER | CROSS] JOIN table_factor [join_condition]
+  | table_reference STRAIGHT_JOIN table_factor
+  | table_reference STRAIGHT_JOIN table_factor ON conditional_expr
+  | table_reference {LEFT|RIGHT} [OUTER] JOIN table_reference join_condition
+  | table_reference NATURAL [{LEFT|RIGHT} [OUTER]] JOIN table_factor
+
+join_condition:
+    ON conditional_expr
+  | USING (column_list)
+
+index_hint_list:
+    index_hint [, index_hint] ...
+
+index_hint:
+    USE {INDEX|KEY}
+      [FOR {JOIN|ORDER BY|GROUP BY}] ([index_list])
+  | IGNORE {INDEX|KEY}
+      [FOR {JOIN|ORDER BY|GROUP BY}] (index_list)
+  | FORCE {INDEX|KEY}
+      [FOR {JOIN|ORDER BY|GROUP BY}] (index_list)
+
+index_list:
+    index_name [, index_name] ...
+
+A table reference is also known as a join expression.
+
+The syntax of table_factor is extended in comparison with the SQL
+Standard. The latter accepts only table_reference, not a list of them
+inside a pair of parentheses.
+
+This is a conservative extension if we consider each comma in a list of
+table_reference items as equivalent to an inner join. For example:
+
+SELECT * FROM t1 LEFT JOIN (t2, t3, t4)
+                 ON (t2.a=t1.a AND t3.b=t1.b AND t4.c=t1.c)
+
+is equivalent to:
+
+SELECT * FROM t1 LEFT JOIN (t2 CROSS JOIN t3 CROSS JOIN t4)
+                 ON (t2.a=t1.a AND t3.b=t1.b AND t4.c=t1.c)
+
+In MySQL, JOIN, CROSS JOIN, and INNER JOIN are syntactic equivalents
+(they can replace each other). In standard SQL, they are not
+equivalent. INNER JOIN is used with an ON clause, CROSS JOIN is used
+otherwise.
+
+In general, parentheses can be ignored in join expressions containing
+only inner join operations. MySQL also supports nested joins (see
+http://dev.mysql.com/doc/refman/5.5/en/nested-join-optimization.html).
+
+Index hints can be specified to affect how the MySQL optimizer makes
+use of indexes. For more information, see
+http://dev.mysql.com/doc/refman/5.5/en/index-hints.html.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/join.html SELECT left_tbl.*
+  FROM left_tbl LEFT JOIN right_tbl ON left_tbl.id = right_tbl.id
+  WHERE right_tbl.id IS NULL; http://dev.mysql.com/doc/refman/5.5/en/join.html
+2 HEX 37 Syntax:
+HEX(str), HEX(N)
+
+For a string argument str, HEX() returns a hexadecimal string
+representation of str where each character in str is converted to two
+hexadecimal digits. The inverse of this operation is performed by the
+UNHEX() function.
+
+For a numeric argument N, HEX() returns a hexadecimal string
+representation of the value of N treated as a longlong (BIGINT) number.
+This is equivalent to CONV(N,10,16). The inverse of this operation is
+performed by CONV(HEX(N),16,10).
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/string-functions.html mysql> SELECT 0x616263, HEX('abc'), UNHEX(HEX('abc'));
+        -> 'abc', 616263, 'abc'
+mysql> SELECT HEX(255), CONV(HEX(255),16,10);
+        -> 'FF', 255 http://dev.mysql.com/doc/refman/5.5/en/string-functions.html
+3 REPLACE 27 Syntax:
+REPLACE [LOW_PRIORITY | DELAYED]
+    [INTO] tbl_name [(col_name,...)]
+    {VALUES | VALUE} ({expr | DEFAULT},...),(...),...
+
+Or:
+
+REPLACE [LOW_PRIORITY | DELAYED]
+    [INTO] tbl_name
+    SET col_name={expr | DEFAULT}, ...
+
+Or:
+
+REPLACE [LOW_PRIORITY | DELAYED]
+    [INTO] tbl_name [(col_name,...)]
+    SELECT ...
+
+REPLACE works exactly like INSERT, except that if an old row in the
+table has the same value as a new row for a PRIMARY KEY or a UNIQUE
+index, the old row is deleted before the new row is inserted. See [HELP
+INSERT].
+
+REPLACE is a MySQL extension to the SQL standard. It either inserts, or
+deletes and inserts. For another MySQL extension to standard SQL---that
+either inserts or updates---see
+http://dev.mysql.com/doc/refman/5.5/en/insert-on-duplicate.html.
+
+Note that unless the table has a PRIMARY KEY or UNIQUE index, using a
+REPLACE statement makes no sense. It becomes equivalent to INSERT,
+because there is no index to be used to determine whether a new row
+duplicates another.
+
+Values for all columns are taken from the values specified in the
+REPLACE statement. Any missing columns are set to their default values,
+just as happens for INSERT. You cannot refer to values from the current
+row and use them in the new row. If you use an assignment such as SET
+col_name = col_name + 1, the reference to the column name on the right
+hand side is treated as DEFAULT(col_name), so the assignment is
+equivalent to SET col_name = DEFAULT(col_name) + 1.
+
+To use REPLACE, you must have both the INSERT and DELETE privileges for
+the table.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/replace.html http://dev.mysql.com/doc/refman/5.5/en/replace.html
+4 CONTAINS 30 Contains(g1,g2)
+
+Returns 1 or 0 to indicate whether g1 completely contains g2. This
+tests the opposite relationship as Within().
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/functions-for-testing-spatial-relations-between-geometric-objects.html#functions-that-test-spatial-relationships-between-geometries http://dev.mysql.com/doc/refman/5.5/en/functions-for-testing-spatial-relations-between-geometric-objects.html#functions-that-test-spatial-relationships-between-geometries
+5 SRID 36 SRID(g)
+
+Returns an integer indicating the Spatial Reference System ID for the
+geometry value g.
+
+In MySQL, the SRID value is just an integer associated with the
+geometry value. All calculations are done assuming Euclidean (planar)
+geometry.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/geometry-property-functions.html#general-geometry-property-functions mysql> SELECT SRID(GeomFromText('LineString(1 1,2 2)',101));
++-----------------------------------------------+
+| SRID(GeomFromText('LineString(1 1,2 2)',101)) |
++-----------------------------------------------+
+|                                           101 |
++-----------------------------------------------+ http://dev.mysql.com/doc/refman/5.5/en/geometry-property-functions.html#general-geometry-property-functions
+6 CURRENT_TIMESTAMP 31 Syntax:
+CURRENT_TIMESTAMP, CURRENT_TIMESTAMP()
+
+CURRENT_TIMESTAMP and CURRENT_TIMESTAMP() are synonyms for NOW().
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html
+7 SHOW CONTRIBUTORS 26 Syntax:
+SHOW CONTRIBUTORS
+
+The SHOW CONTRIBUTORS statement displays information about the people
+who contribute to MySQL source or to causes that we support. For each
+contributor, it displays Name, Location, and Comment values.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/show-contributors.html http://dev.mysql.com/doc/refman/5.5/en/show-contributors.html
+8 VARIANCE 16 Syntax:
+VARIANCE(expr)
+
+Returns the population standard variance of expr. This is an extension
+to standard SQL. The standard SQL function VAR_POP() can be used
+instead.
+
+VARIANCE() returns NULL if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html
+9 DROP SERVER 39 Syntax:
+DROP SERVER [ IF EXISTS ] server_name
+
+Drops the server definition for the server named server_name. The
+corresponding row within the mysql.servers table will be deleted. This
+statement requires the SUPER privilege.
+
+Dropping a server for a table does not affect any FEDERATED tables that
+used this connection information when they were created. See [HELP
+CREATE SERVER].
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/drop-server.html http://dev.mysql.com/doc/refman/5.5/en/drop-server.html
+90 ABS 4 Syntax:
+ABS(X)
+
+Returns the absolute value of X.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html mysql> SELECT ABS(2);
+        -> 2
+mysql> SELECT ABS(-32);
+        -> 32 http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html
+91 POLYFROMWKB 32 PolyFromWKB(wkb[,srid]), PolygonFromWKB(wkb[,srid])
+
+Constructs a POLYGON value using its WKB representation and SRID.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/creating-spatial-values.html#gis-wkb-functions http://dev.mysql.com/doc/refman/5.5/en/creating-spatial-values.html#gis-wkb-functions
+92 NOT LIKE 37 Syntax:
+expr NOT LIKE pat [ESCAPE 'escape_char']
+
+This is the same as NOT (expr LIKE pat [ESCAPE 'escape_char']).
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html
+93 SPACE 37 Syntax:
+SPACE(N)
+
+Returns a string consisting of N space characters.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/string-functions.html mysql> SELECT SPACE(6);
+        -> '      ' http://dev.mysql.com/doc/refman/5.5/en/string-functions.html
+94 MBR DEFINITION 6 Its MBR (Minimum Bounding Rectangle), or Envelope. This is the bounding
+geometry, formed by the minimum and maximum (X,Y) coordinates:
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/gis-class-geometry.html ((MINX MINY, MAXX MINY, MAXX MAXY, MINX MAXY, MINX MINY)) http://dev.mysql.com/doc/refman/5.5/en/gis-class-geometry.html
+95 GEOMETRYCOLLECTION 24 GeometryCollection(g1,g2,...)
+
+Constructs a GeometryCollection.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/creating-spatial-values.html#gis-mysql-specific-functions http://dev.mysql.com/doc/refman/5.5/en/creating-spatial-values.html#gis-mysql-specific-functions
+96 MAX 16 Syntax:
+MAX([DISTINCT] expr)
+
+Returns the maximum value of expr. MAX() may take a string argument; in
+such cases, it returns the maximum string value. See
+http://dev.mysql.com/doc/refman/5.5/en/mysql-indexes.html. The DISTINCT
+keyword can be used to find the maximum of the distinct values of expr,
+however, this produces the same result as omitting DISTINCT.
+
+MAX() returns NULL if there were no matching rows.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html mysql> SELECT student_name, MIN(test_score), MAX(test_score)
+    ->        FROM student
+    ->        GROUP BY student_name; http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html
+97 CREATE FUNCTION UDF 21 Syntax:
+CREATE [AGGREGATE] FUNCTION function_name RETURNS {STRING|INTEGER|REAL|DECIMAL}
+    SONAME shared_library_name
+
+A user-defined function (UDF) is a way to extend MySQL with a new
+function that works like a native (built-in) MySQL function such as
+ABS() or CONCAT().
+
+function_name is the name that should be used in SQL statements to
+invoke the function. The RETURNS clause indicates the type of the
+function's return value. DECIMAL is a legal value after RETURNS, but
+currently DECIMAL functions return string values and should be written
+like STRING functions.
+
+shared_library_name is the basename of the shared object file that
+contains the code that implements the function. The file must be
+located in the plugin directory. This directory is given by the value
+of the plugin_dir system variable. For more information, see
+http://dev.mysql.com/doc/refman/5.5/en/udf-compiling.html.
+
+To create a function, you must have the INSERT privilege for the mysql
+database. This is necessary because CREATE FUNCTION adds a row to the
+mysql.func system table that records the function's name, type, and
+shared library name. If you do not have this table, you should run the
+mysql_upgrade command to create it. See
+http://dev.mysql.com/doc/refman/5.5/en/mysql-upgrade.html.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/create-function-udf.html http://dev.mysql.com/doc/refman/5.5/en/create-function-udf.html
+98 * 4 Syntax:
+*
+
+Multiplication:
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html mysql> SELECT 3*5;
+        -> 15
+mysql> SELECT 18014398509481984*18014398509481984.0;
+        -> 324518553658426726783156020576256.0
+mysql> SELECT 18014398509481984*18014398509481984;
+        -> 0 http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html
+99 TIMESTAMP 22 TIMESTAMP
+
+A timestamp. The range is '1970-01-01 00:00:01' UTC to '2038-01-19
+03:14:07' UTC. TIMESTAMP values are stored as the number of seconds
+since the epoch ('1970-01-01 00:00:00' UTC). A TIMESTAMP cannot
+represent the value '1970-01-01 00:00:00' because that is equivalent to
+0 seconds from the epoch and the value 0 is reserved for representing
+'0000-00-00 00:00:00', the "zero" TIMESTAMP value.
+
+Unless specified otherwise, the first TIMESTAMP column in a table is
+defined to be automatically set to the date and time of the most recent
+modification if not explicitly assigned a value. This makes TIMESTAMP
+useful for recording the timestamp of an INSERT or UPDATE operation.
+You can also set any TIMESTAMP column to the current date and time by
+assigning it a NULL value, unless it has been defined with the NULL
+attribute to permit NULL values. The automatic initialization and
+updating to the current date and time can be specified using DEFAULT
+CURRENT_TIMESTAMP and ON UPDATE CURRENT_TIMESTAMP clauses, as described
+in
+http://dev.mysql.com/doc/refman/5.5/en/timestamp-initialization.html.
+
+*Note*: The TIMESTAMP format that was used prior to MySQL 4.1 is not
+supported in MySQL 5.5; see MySQL 3.23, 4.0, 4.1 Reference Manual for
+information regarding the old format.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/date-and-time-type-overview.html http://dev.mysql.com/doc/refman/5.5/en/date-and-time-type-overview.html
+490 LN 4 Syntax:
+LN(X)
+
+Returns the natural logarithm of X; that is, the base-e logarithm of X.
+If X is less than or equal to 0, then NULL is returned.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html mysql> SELECT LN(2);
+        -> 0.69314718055995
+mysql> SELECT LN(-2);
+        -> NULL http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html
+491 RETURN 23 Syntax:
+RETURN expr
+
+The RETURN statement terminates execution of a stored function and
+returns the value expr to the function caller. There must be at least
+one RETURN statement in a stored function. There may be more than one
+if the function has multiple exit points.
+
+This statement is not used in stored procedures, triggers, or events.
+The LEAVE statement can be used to exit a stored program of those
+types.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/return.html http://dev.mysql.com/doc/refman/5.5/en/return.html
+492 SHOW COLLATION 26 Syntax:
+SHOW COLLATION
+    [LIKE 'pattern' | WHERE expr]
+
+This statement lists collations supported by the server. By default,
+the output from SHOW COLLATION includes all available collations. The
+LIKE clause, if present, indicates which collation names to match. The
+WHERE clause can be given to select rows using more general conditions,
+as discussed in
+http://dev.mysql.com/doc/refman/5.5/en/extended-show.html. For example:
+
+mysql> SHOW COLLATION LIKE 'latin1%';
++-------------------+---------+----+---------+----------+---------+
+| Collation         | Charset | Id | Default | Compiled | Sortlen |
++-------------------+---------+----+---------+----------+---------+
+| latin1_german1_ci | latin1  |  5 |         |          |       0 |
+| latin1_swedish_ci | latin1  |  8 | Yes     | Yes      |       0 |
+| latin1_danish_ci  | latin1  | 15 |         |          |       0 |
+| latin1_german2_ci | latin1  | 31 |         | Yes      |       2 |
+| latin1_bin        | latin1  | 47 |         | Yes      |       0 |
+| latin1_general_ci | latin1  | 48 |         |          |       0 |
+| latin1_general_cs | latin1  | 49 |         |          |       0 |
+| latin1_spanish_ci | latin1  | 94 |         |          |       0 |
++-------------------+---------+----+---------+----------+---------+
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/show-collation.html http://dev.mysql.com/doc/refman/5.5/en/show-collation.html
+493 LOG 4 Syntax:
+LOG(X), LOG(B,X)
+
+If called with one parameter, this function returns the natural
+logarithm of X. If X is less than or equal to 0, then NULL is returned.
+
+The inverse of this function (when called with a single argument) is
+the EXP() function.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html mysql> SELECT LOG(2);
+        -> 0.69314718055995
+mysql> SELECT LOG(-2);
+        -> NULL http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html
+494 SET SQL_LOG_BIN 8 Syntax:
+SET sql_log_bin = {0|1}
+
+The sql_log_bin variable controls whether logging to the binary log is
+done. The default value is 1 (do logging). To change logging for the
+current session, change the session value of this variable. The session
+user must have the SUPER privilege to set this variable.
+
+Beginning with MySQL 5.5.5, it is no longer possible to set
+@@session.sql_log_bin within a transaction or subquery. (Bug #53437)
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/set-sql-log-bin.html http://dev.mysql.com/doc/refman/5.5/en/set-sql-log-bin.html
+495 != 18 Syntax:
+<>, !=
+
+Not equal:
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html mysql> SELECT '.01' <> '0.01';
+        -> 1
+mysql> SELECT .01 <> '0.01';
+        -> 0
+mysql> SELECT 'zapp' <> 'zappp';
+        -> 1 http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html
+496 WHILE 23 Syntax:
+[begin_label:] WHILE search_condition DO
+    statement_list
+END WHILE [end_label]
+
+The statement list within a WHILE statement is repeated as long as the
+search_condition expression is true. statement_list consists of one or
+more SQL statements, each terminated by a semicolon (;) statement
+delimiter.
+
+A WHILE statement can be labeled. For the rules regarding label use,
+see [HELP labels].
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/while.html CREATE PROCEDURE dowhile()
+BEGIN
+  DECLARE v1 INT DEFAULT 5;
+
+  WHILE v1 > 0 DO
+    ...
+    SET v1 = v1 - 1;
+  END WHILE;
+END; http://dev.mysql.com/doc/refman/5.5/en/while.html
+497 AES_DECRYPT 12 Syntax:
+AES_DECRYPT(crypt_str,key_str)
+
+This function decrypts data using the official AES (Advanced Encryption
+Standard) algorithm. For more information, see the description of
+AES_ENCRYPT().
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html
+498 DAYNAME 31 Syntax:
+DAYNAME(date)
+
+Returns the name of the weekday for date. The language used for the
+name is controlled by the value of the lc_time_names system variable
+(http://dev.mysql.com/doc/refman/5.5/en/locale-support.html).
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html mysql> SELECT DAYNAME('2007-02-03');
+        -> 'Saturday' http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html
+499 COERCIBILITY 17 Syntax:
+COERCIBILITY(str)
+
+Returns the collation coercibility value of the string argument.
+
+URL: http://dev.mysql.com/doc/refman/5.5/en/information-functions.html mysql> SELECT COERCIBILITY('abc' COLLATE latin1_swedish_ci);
+        -> 0
+mysql> SELECT COERCIBILITY(USER());
+        -> 3
+mysql> SELECT COERCIBILITY('abc');
+        -> 4 http://dev.mysql.com/doc/refman/5.5/en/information-functions.html
+
++++++++++
+mysql - host:(0)
+Host,Db,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Create_tmp_table_priv,Lock_tables_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Execute_priv,Trigger_priv
+
++++++++++
+mysql - ndb_binlog_index:(0)
+Position,File,epoch,inserts,updates,deletes,schemaops
+
++++++++++
+mysql - plugin:(0)
+name,dl
+
++++++++++
+mysql - proc:(0)
+db,name,type,specific_name,language,sql_data_access,is_deterministic,security_type,param_list,returns,body,definer,created,modified,sql_mode,comment,character_set_client,collation_connection,db_collation,body_utf8
+
++++++++++
+mysql - procs_priv:(0)
+Host,Db,User,Routine_name,Routine_type,Grantor,Proc_priv,Timestamp
+
++++++++++
+mysql - proxies_priv:(2)
+Host,User,Proxied_host,Proxied_user,With_grant,Grantor,Timestamp
+localhost root 1 2019-05-06 07:28:24
+centos-s-1vcpu-2gb-tor1-01 root 1 2019-05-06 07:28:24
+
++++++++++
+mysql - servers:(0)
+Server_name,Host,Db,Username,Password,Port,Socket,Wrapper,Owner
+
++++++++++
+mysql - slow_log:(0)
+start_time,user_host,query_time,lock_time,rows_sent,rows_examined,db,last_insert_id,insert_id,server_id,sql_text
+
++++++++++
+mysql - tables_priv:(0)
+Host,Db,User,Table_name,Grantor,Timestamp,Table_priv,Column_priv
+
++++++++++
+mysql - time_zone:(0)
+Time_zone_id,Use_leap_seconds
+
++++++++++
+mysql - time_zone_leap_second:(0)
+Transition_time,Correction
+
++++++++++
+mysql - time_zone_name:(0)
+Name,Time_zone_id
+
++++++++++
+mysql - time_zone_transition:(0)
+Time_zone_id,Transition_time,Transition_type_id
+
++++++++++
+mysql - time_zone_transition_type:(0)
+Time_zone_id,Transition_type_id,Offset,Is_DST,Abbreviation
+
++++++++++
+mysql - user:(4)
+Host,User,Password,Select_priv,Insert_priv,Update_priv,Delete_priv,Create_priv,Drop_priv,Reload_priv,Shutdown_priv,Process_priv,File_priv,Grant_priv,References_priv,Index_priv,Alter_priv,Show_db_priv,Super_priv,Create_tmp_table_priv,Lock_tables_priv,Execute_priv,Repl_slave_priv,Repl_client_priv,Create_view_priv,Show_view_priv,Create_routine_priv,Alter_routine_priv,Create_user_priv,Event_priv,Trigger_priv,Create_tablespace_priv,ssl_type,ssl_cipher,x509_issuer,x509_subject,max_questions,max_updates,max_connections,max_user_connections,plugin,authentication_string
+localhost root *8D8775A21CD5FC867D8AE5A507987A7CF306D0AA Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+127.0.0.1 root *8D8775A21CD5FC867D8AE5A507987A7CF306D0AA Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+::1 root *8D8775A21CD5FC867D8AE5A507987A7CF306D0AA Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 0 0 0 0
+% webmusic_userdb *8D8775A21CD5FC867D8AE5A507987A7CF306D0AA Y Y Y Y Y Y N N N Y N N Y Y N N Y N Y N N Y Y Y Y N Y Y N 0 0 0 0
+
++++++++++
+
+ 
+performance_schema - cond_instances:(0)
+NAME,OBJECT_INSTANCE_BEGIN
+
++++++++++
+performance_schema - events_waits_current:(0)
+THREAD_ID,EVENT_ID,EVENT_NAME,SOURCE,TIMER_START,TIMER_END,TIMER_WAIT,SPINS,OBJECT_SCHEMA,OBJECT_NAME,OBJECT_TYPE,OBJECT_INSTANCE_BEGIN,NESTING_EVENT_ID,OPERATION,NUMBER_OF_BYTES,FLAGS
+
++++++++++
+performance_schema - events_waits_history:(0)
+THREAD_ID,EVENT_ID,EVENT_NAME,SOURCE,TIMER_START,TIMER_END,TIMER_WAIT,SPINS,OBJECT_SCHEMA,OBJECT_NAME,OBJECT_TYPE,OBJECT_INSTANCE_BEGIN,NESTING_EVENT_ID,OPERATION,NUMBER_OF_BYTES,FLAGS
+
++++++++++
+performance_schema - events_waits_history_long:(0)
+THREAD_ID,EVENT_ID,EVENT_NAME,SOURCE,TIMER_START,TIMER_END,TIMER_WAIT,SPINS,OBJECT_SCHEMA,OBJECT_NAME,OBJECT_TYPE,OBJECT_INSTANCE_BEGIN,NESTING_EVENT_ID,OPERATION,NUMBER_OF_BYTES,FLAGS
+
++++++++++
+performance_schema - events_waits_summary_by_instance:(0)
+EVENT_NAME,OBJECT_INSTANCE_BEGIN,COUNT_STAR,SUM_TIMER_WAIT,MIN_TIMER_WAIT,AVG_TIMER_WAIT,MAX_TIMER_WAIT
+
++++++++++
+performance_schema - events_waits_summary_by_thread_by_event_name:(0)
+THREAD_ID,EVENT_NAME,COUNT_STAR,SUM_TIMER_WAIT,MIN_TIMER_WAIT,AVG_TIMER_WAIT,MAX_TIMER_WAIT
+
++++++++++
+performance_schema - events_waits_summary_global_by_event_name:(0)
+EVENT_NAME,COUNT_STAR,SUM_TIMER_WAIT,MIN_TIMER_WAIT,AVG_TIMER_WAIT,MAX_TIMER_WAIT
+
++++++++++
+performance_schema - file_instances:(0)
+FILE_NAME,EVENT_NAME,OPEN_COUNT
+
++++++++++
+performance_schema - file_summary_by_event_name:(0)
+EVENT_NAME,COUNT_READ,COUNT_WRITE,SUM_NUMBER_OF_BYTES_READ,SUM_NUMBER_OF_BYTES_WRITE
+
++++++++++
+performance_schema - file_summary_by_instance:(0)
+FILE_NAME,EVENT_NAME,COUNT_READ,COUNT_WRITE,SUM_NUMBER_OF_BYTES_READ,SUM_NUMBER_OF_BYTES_WRITE
+
++++++++++
+performance_schema - mutex_instances:(0)
+NAME,OBJECT_INSTANCE_BEGIN,LOCKED_BY_THREAD_ID
+
++++++++++
+performance_schema - performance_timers:(5)
+TIMER_NAME,TIMER_FREQUENCY,TIMER_RESOLUTION,TIMER_OVERHEAD
+CYCLE
+NANOSECOND
+MICROSECOND
+MILLISECOND
+TICK
+
++++++++++
+performance_schema - rwlock_instances:(0)
+NAME,OBJECT_INSTANCE_BEGIN,WRITE_LOCKED_BY_THREAD_ID,READ_LOCKED_BY_COUNT
+
++++++++++
+performance_schema - setup_consumers:(8)
+NAME,ENABLED
+events_waits_current YES
+events_waits_history YES
+events_waits_history_long YES
+events_waits_summary_by_thread_by_event_name YES
+events_waits_summary_by_event_name YES
+events_waits_summary_by_instance YES
+file_summary_by_event_name YES
+file_summary_by_instance YES
+
++++++++++
+performance_schema - setup_instruments:(0)
+NAME,ENABLED,TIMED
+
++++++++++
+performance_schema - setup_timers:(1)
+NAME,TIMER_NAME
+wait CYCLE
+
++++++++++
+performance_schema - threads:(0)
+THREAD_ID,PROCESSLIST_ID,NAME
+
++++++++++
+
+ 
+webmusic_userdb - artist:(3577)
+id,artist,artist_id
+1 A R Rahman 100012
+2 Abhijeet Bhattacharya 100013
+3 Abhijeet Sawant 100014
+4 Adnan Sami 100015
+5 Agam Kumar Nigam 100016
+6 Altaf Raja 100017
+7 Amit Sana 100018
+8 Anuradha Paudwal 100019
+9 Anvi 100020
+10 Aryans 100021
+92 Roop Kumar Rathod 100102
+93 Instrumental 100103
+94 Sadhana Sargam 100104
+95 Anu Malik 100105
+96 Anupama Deshpande 100106
+97 Abbu Malik 100107
+98 Krish Malik 100108
+99 Richa Sharma 100109
+100 Amit Kumar 100110
+101 Kavita Seth 100111
+492 Sandesh Shandilya 100502
+493 Richard Clayderman 100503
+494 Papon 100504
+495 Shafqat Amanat Ali 100505
+496 Ustad Hamid Ali Khan 100506
+497 Bhaswati Ghosh 100507
+498 Sneha Suresh 100508
+499 Shravan Suresh 100509
+500 Rakhi Gulzar 100510
+501 Sujatha Mohan 100511
+992 Farhad Bhiwandiwala 101002
+993 Hitesh Modak 101003
+994 K.S.Krishnan 101004
+995 Colin Terence 101005
+996 Bindu Nambiar 101006
+997 Prashant Pillai 101007
+998 Chandan Shive 101008
+999 Preeti Pillai 101009
+1000 Suman Sridhar 101010
+1001 Gagan Sidhu 101011
+1992 Sadhna Singh 102002
+1993 Gajendra Verma 102003
+1994 Chintu Bhosle 102004
+1995 KMMC Sufi Ensemble 102005
+1996 Aanchal Sethi 102006
+1997 A.V. Pooja 102007
+1998 Wajhi Farooki 102008
+1999 Kunal Avanti 102009
+2000 Arpita Chakraborty 102010
+2001 Meena Mishra 102011 
++++++++++
+webmusic_userdb - bd_movie:(2)
+id,movie,year,type,artist,artist_2,band,url,tag_1,tag_2,tag_3,host,128,320,mobile_below,artist_id,cd
+1 Ferari Mon 1996 album Ayub Bachchu artist/a/ayub_bachchu/ferari_mon http://26.webmusic.pw 128 320
+2 Popular Songs 2014 pop pop_remix/2014/p/popular_songs http://36.webmusic.pw 128 320
+
++++++++++
+webmusic_userdb - bd_songs:(2)
+id,movie,file,name,artist,size,cd,lyrics,music_director
+1 2 Freddie-Aguilar-Anak-(original-Version)_(webmusic.in).mp3 Anak - Chole Gecho Tate Ki (Original Philippines Version) 4.44
+2 2 Chole-Gecho-Tate-Ki_(webmusic.in).mp3 Chole Gecho Tate Ki 6.79
+
++++++++++
+webmusic_userdb - bengali_artist:(87)
+id,artist,artist_id
+1 Abhijeet Bhattacharya 100013
+2 Amit Kumar 100012
+3 Amrik Singh Arora 102903
+4 Anjan Dutta 100014
+5 Antara Chowdhury 100015
+6 Anupam Roy 100016
+7 Arati Mukherjee 100427
+8 Asha Bhosle 100018
+9 Babul Supriyo 100019
+10 Begum Akhtar 100020
+
++++++++++
+webmusic_userdb - bengali_movie:(2524)
+id,movie,year,type,artist,artist_2,band,url,tag_1,tag_2,tag_3,host,128,320,mobile_below,artist_id,cd,loc_320,label
+1 Friend 2009 movies/2009/f/friend 128 320
+2 Antaheen 2009 movies/2009/a/antaheen 128 320
+3 Amar Sangi 2009 movies/2009/a/amar_sangi 128 320
+4 Amar Valolaga Amar Valobasa 2009 movies/2009/a/amar_valolaga_amar_valobasa 128 320
+5 Brake Fail 2009 movies/2009/b/brake_fail 128 320
+6 Bhalobasa Zindabad 2009 movies/2009/b/bhalobasa_zindabad 128 320
+7 Bhalobasa Bhalobasa 2009 movies/2009/b/bhalobasa_bhalobasa 128 320
+8 Badla 2009 movies/2009/b/badla 128 320
+9 Bish 2009 movies/2009/b/bish 128 320
+10 Chawa Pawa 2009 movies/2009/c/chawa_pawa 128 320
+91 Tara 2010 movies/2010/t/tara 128 320
+92 Thana Theke Aschi 2010 movies/2010/t/thana_theke_aschi 128 320
+93 U Turn 2010 movies/2010/u/u_turn 128 320
+94 Wanted 2010 movies/2010/w/wanted 128 320
+96 Agni Pariksha 1954 movies/1954/a/agni_pariksha 128 320
+97 Shap Mochon 1955 movies/1955/s/shap_mochon 128 320
+98 Sabar Upore 1955 movies/1955/s/sabar_upore 128 320
+99 Saptapadi 1961 movies/1961/s/saptapadi 128 320 1
+100 Deya Neya 1963 movies/1963/d/deya_neya 128 320
+101 Antony Firingi 1967 movies/1967/a/antony_firingi 128 320
+752 Aamar Bhalolaga Aamar Bhalobasa 2009 movies/2009/a/aamar_bhalolaga_aamar_bhalobasa http://26.webmusic.pw 128 320
+753 Balidan 1990 movies/1990/b/balidan http://26.webmusic.pw 128 320
+754 Agnipath 2005 movies/2005/a/agnipath http://26.webmusic.pw 128 320
+755 Aparadhi 2009 movies/2009/a/aparadhi http://26.webmusic.pw 128 320
+756 Badsha The King 2004 movies/2004/b/badsha_the_king http://26.webmusic.pw 128 320
+757 Birodh 1994 movies/1994/b/birodh http://26.webmusic.pw 128 320
+758 Biswasghatak 2003 movies/2003/b/biswasghatak http://26.webmusic.pw 128 320
+759 Chore Chore Mastuto Bhai 2005 movies/2005/c/chore_chore_mastuto_bhai http://26.webmusic.pw 128 320
+760 Dui Bhai 1961 movies/1961/d/dui_bhai http://26.webmusic.pw 128 320
+761 Dadar Adesh 2005 movies/2005/d/dadar_adesh http://26.webmusic.pw 128 320 1
+1252 Celebrity Cricket League 2013 pop pop_remix/2013/c/celebrity_cricket_league http://35.webmusic.pw 128 320
+1253 Akasher Mukhomukhi album Shreya Ghoshal artist/s/shreya_ghoshal/akasher_mukhomukhi http://35.webmusic.pw 128 320 100048
+1254 Jete Dao Amay album Shreya Ghoshal artist/s/shreya_ghoshal/jete_dao_amay http://35.webmusic.pw 128 320 100048
+1255 Ekti Katha album Shreya Ghoshal artist/s/shreya_ghoshal/ekti_katha http://35.webmusic.pw 128 320 100048
+1256 Banomali Re 2007 album Shreya Ghoshal artist/s/shreya_ghoshal/banomali_re http://35.webmusic.pw 128 320 100048
+1257 Mukhor Porag album Shreya Ghoshal artist/s/shreya_ghoshal/mukhor_porag http://35.webmusic.pw 128 320 100048
+1258 O Tota Pakhi Re album Shreya Ghoshal artist/s/shreya_ghoshal/o_tota_pakhi_re http://35.webmusic.pw 128 320 100048
+1259 Rim Jhim album Shreya Ghoshal artist/s/shreya_ghoshal/rim_jhim http://35.webmusic.pw 128 320 100048
+1260 Ruposhi Raate album Shreya Ghoshal artist/s/shreya_ghoshal/ruposhi_raate http://35.webmusic.pw 128 320 100048
+1261 Swapner Pakha 2003 album Shreya Ghoshal artist/s/shreya_ghoshal/swapner_pakha http://35.webmusic.pw 128 320 100048
+2252 Mor Bhabonarey 2016 album Somlata Acharyya Chowdhury artist/s/somlata_acharyya_chowdhury/mor_bhabonarey http://37.webmusic.pw 128 320 102610
+2253 Chawlochitro Circus 2017 movies/2017/c/chawlochitro_circus http://37.webmusic.pw 128 320 <span style="background:#FFFF00"><a href="http://bengali.video9.info/index.php?movieid=410"><b>Chawlochitro Circus Video Song</b></a> </span>
+2254 Shrestha Bangali 2017 movies/2017/s/shrestha_bangali http://37.webmusic.pw 128 320 1
+2255 Bhuli Kemone 2014 album Indrani Sen artist/i/indrani_sen/bhuli_kemone http://37.webmusic.pw 128 320 102777
+2256 Oporadhi 2017 pop pop_remix/2017/o/oporadhi http://37.webmusic.pw 128 320
+2257 Mayar Badhon 2017 serial Star Jalsha seial/star_jalsha/2017/mayar_badhon http://37.webmusic.pw 128 320
+2258 Khoka Babu 2017 serial Star Jalsha seial/s/2017/khoka_babu http://37.webmusic.pw 128 320
+2259 Ogo Nirupama 2017 album Abhijeet Bhattacharya artist/a/abhijeet_bhattacharya/ogo_nirupama http://37.webmusic.pw 128 320 100013
+2260 Jontrona 2016 pop James,Ayub Bacchu pop_remix/2016/j/jontrona http://37.webmusic.pw 128 320 100372,102895
+2261 Screw Drivers 2016 pop James,Ayub Bacchu pop_remix/2016/s/screw_drivers http://37.webmusic.pw 128 320 100372,102895 
++++++++++
+webmusic_userdb - bengali_songs:(19694)
+id,movie,file,name,artist,size,cd,lyrics,music_director,file_320,size_320
+1 1 (webmusic.in)_Shakalaka-Boom.mp3 Shakalaka Boom 3.72
+2 1 (webmusic.in)_Amader-Happy-Family.mp3 Amader Happy Family 2.93
+3 1 (webmusic.in)_Tomar-Chobi.mp3 Tomar Chobi 4.02
+4 1 (webmusic.in)_Bhalobashi-Bhalobashi.mp3 Bhalobashi Bhalobashi 1.97
+5 1 (webmusic.in)_Deshi-Murgi.mp3 Deshi Murgi 3.01
+6 1 (webmusic.in)_Papa-I-Love-You-(Female).mp3 Papa I Love You (Female) 2.84
+7 1 (webmusic.in)_Papa-I-Love-You-(Male).mp3 Papa I Love You (Male) 2.84
+8 1 (webmusic.in)_Tomai-Bhebey.mp3 Tomai Bhebey 3.92
+9 2 (webmusic.in)_Ferari-Maan.mp3 Ferari Maan 6.1
+10 2 (webmusic.in)_Jao_Pakhi_Balo.mp3 Jao Pakhi Balo 4.8
+94 15 webmusic.in.03.mp3 Piya Re Piya Re Zubeen Garg 4.38
+95 15 webmusic.in.02.mp3 Batashe Gungun Jeet Ganguly And Jun Banerjee 4.76
+96 15 webmusic.in.04.mp3 Pante Tali Jeet Ganguly And Chorus 3.84
+97 15 webmusic.in.01.mp3 Oh Laa Laa Jeet Ganguly 3.84
+98 15 webmusic.in.05.mp3 Oh Laa Laa Jun Banerjee 3.86
+99 15 webmusic.in.06.mp3 Jhiri Jhiri Jun Banerjee 5.28
+100 16 webmusic.in.03.mp3 Kar Chokhe Chokh 4.44
+101 16 webmusic.in.02.mp3 Ek Tukro Hasi 4.64
+102 16 webmusic.in.04.mp3 Jibone Ki Pabona - Rama Ho 3.32
+103 16 webmusic.in.01.mp3 Dujane 3.15
+495 75 (webmusic.in)_Mon-Je-Kore-Uru-Uru.mp3 Mon Je Kore Uru Uru 3.78
+496 75 (webmusic.in)_Tor-Pirite.mp3 Tor Pirite 4.03
+497 75 (webmusic.in)_My-Heart.mp3 My Heart 3.63
+498 75 (webmusic.in)_Na-Jene-Mon.mp3 Na Jene Mon 4.33
+499 75 (webmusic.in)_O-Mon-Pakhi.mp3 O Mon Pakhi 3.88
+500 76 (webmusic.in)_Title-Music.mp3 Title Music 1.39
+501 76 (webmusic.in)_Somoy-Gele-Sadhan-Hobe-Na.mp3 Somoy Gele Sadhan Hobe Na 4.93
+502 76 (webmusic.in)_Akashta-Kapchilo-Kaan.mp3 Akashta Kapchilo Kaan 3.5
+503 76 (webmusic.in)_Aar-Amare-Marisne-Maa.mp3 Aar Amare Marisne Maa 4.81
+504 76 (webmusic.in)_Amar-Mattor-Duikhan-Chaka.mp3 Amar Mattor Duikhan Chaka 1.53
+1001 157 (webmusic.in)_Ram-Lakkhan_-_Sad.mp3 Ram Lakkhan - Sad 0.82
+1002 157 (webmusic.in)_Tik-Tik-Gharir-Sathe.mp3 Tik Tik Gharir Sathe 4.21
+15039 158 O-Bandhure-Bandhure-Tor_(webmusic.in).mp3 O Bandhure Bandhure Tor Zubeen Garg 6.22
+15038 158 Mone-Rekho-Amar-Ea-Gaan-(M)_(webmusic.in).mp3 Mone Rekho Amar Ea Gaan Sonu Nigam 6.15
+15037 158 Mone-Rekho-Amar-Ea-Gaan-(F)_(webmusic.in).mp3 Mone Rekho Amar Ea Gaan Shreya Ghoshal 6.21
+15036 158 Jar-Chabi-Eai-Mon-Enke-Jai_(webmusic.in).mp3 Jar Chabi Eai Mon Enke Jai Sonu Nigam & Sadhana Sargam 6.38
+15035 158 Eaki-Sathe-Eaki-Pathe_(webmusic.in).mp3 Eaki Sathe Eaki Pathe Shaan & Zubeen 5.16
+1009 159 webmusic.in.09.mp3 Bidhi Re - II 2.48
+1010 159 webmusic.in.03.mp3 Bidhi Re - II 4.4
+1011 159 webmusic.in.02.mp3 Tumi Chara Je Sunno Lage 3.6
+2021 308 Introduction_(webmusic.in).mp3 Introduction Kishore Kumar 1.38
+2022 308 Jani-Jekhanei-Thako_(webmusic.in).mp3 Jani Jekhanei Thako Kishore Kumar 2.27
+2023 308 Jibon-Koto-Modhur_(webmusic.in).mp3 Jibon Koto Modhur Kishore Kumar 3.14
+2024 308 Jhokon-Ami-Onek-Dure_(webmusic.in).mp3 Jhokon Ami Onek Dure Kishore Kumar 5.74
+2025 308 Jodi-Hoi-Chorkanta_(webmusic.in).mp3 Jodi Hoi Chorkanta Kishore Kumar 2.32
+2026 308 Jodi-Tare-Nai-Chini-Go_(webmusic.in).mp3 Jodi Tare Nai Chini Go Kishore Kumar 2.89
+2027 308 Jodi-Tor-Dak-Suney_(webmusic.in).mp3 Jodi Tor Dak Suney Kishore Kumar 3.63
+2028 308 Joriey-Dharechi_(webmusic.in).mp3 Joriey Dharechi Kishore Kumar 2.98
+2029 308 Karo-Keu-Noiko-Ami_(webmusic.in).mp3 Karo Keu Noiko Ami Kishore Kumar 4.27
+2030 308 Kee-Kore-Bujhai-Toder_(webmusic.in).mp3 Kee Kore Bujhai Toder Kishore Kumar 3.65 
++++++++++
+webmusic_userdb - english_artist:(103)
+id,artist,artist_id
+1 50 Cent 100011
+2 Akon 100012
+3 Aqua 100013
+4 Backstreet Boys 100014
+5 Black Eyed Peas 100015
+6 Blue 100016
+7 Bon Jovi 100017
+8 Britney Spears 100018
+9 Bryan Adams 100019
+10 Chris Brown 100020
+91 Miley Cyrus 100101
+92 Ariana Grande 100102
+93 Avicii 100103
+94 Big Sean 100104
+95 Jay-Z 100105
+96 Ellie Goulding 100106
+97 Akcent 100107
+98 Kelly Clarkson 100108
+99 Avril Lavigne 100109
+100 R. Kelly 100110
+
++++++++++
+webmusic_userdb - english_movie:(387)
+id,movie,year,type,artist,url,tag_1,tag_2,tag_3,artist_id,host,mobile_below,128,320,loc_320
+1 18 Til I Die album Bryan Adams artist/b/bryan_adams/18_til_i_die 100019 128 320 0
+2 Bryan Adams album Bryan Adams artist/b/bryan_adams/bryan_adams 100019 128 320 0
+3 Cuts Like A Knife album Bryan Adams artist/b/bryan_adams/cuts_like_a_knife 100019 128 320 0
+4 Into The Fire album Bryan Adams artist/b/bryan_adams/into_the_fire 100019 128 320 0
+5 Reckless album Bryan Adams artist/b/bryan_adams/reckless 100019 128 320 0
+6 So Far So Good album Bryan Adams artist/b/bryan_adams/so_far_so_good 100019 128 320 0
+7 You Want It You Got It album Bryan Adams artist/b/bryan_adams/you_want_it_you_got_it 100019 128 320 0
+8 Unbreakable album Backstreet Boys artist/b/backstreet_boys/unbreakable 100014 128 320 0
+9 Millennium album Backstreet Boys artist/b/backstreet_boys/millennium 100014 128 320 0
+10 Backstreets Back album Backstreet Boys artist/b/backstreet_boys/backstreets_back 100014 128 320 0
+91 Taylor Swift album Taylor Swift artist/t/taylor_swift/taylor_swift 100047 128 320 0
+92 Fearless album Taylor Swift artist/t/taylor_swift/fearless 100047 128 320 0
+93 Speak Now album Taylor Swift artist/t/taylor_swift/speak_now 100047 128 320 0
+94 Recovery album Eminem artist/e/eminem/recovery 100021 128 320 0
+95 Relapse album Eminem artist/e/eminem/relapse 100021 128 320 0
+96 Encore album Eminem artist/e/eminem/encore 100021 128 320 0
+97 8701 album Usher artist/u/usher/8701 100049 128 320 0
+98 Usher album Usher artist/u/usher/usher 100049 128 320 0
+99 My Way album Usher artist/u/usher/my_way 100049 128 320 0
+100 Confessions album Usher artist/u/usher/confessions 100049 128 320 0
+
++++++++++
+webmusic_userdb - english_songs:(5414)
+id,movie,file,name,artist,size,lyrics,music_director
+1 1 (webmusic.in)_18-Til-I-Die.mp3 18 Til I Die Bryan Adams
+2 1 (webmusic.in)_Black-Pearl.mp3 Black Pearl Bryan Adams
+3 1 (webmusic.in)_Do-to-You.mp3 Do To You Bryan Adams
+4 1 (webmusic.in)_Have-You-Ever-Really-Loved-a-Woman.mp3 Have You Ever Really Loved A Woman Bryan Adams
+5 1 (webmusic.in)_I-Think-About-You.mp3 I Think About You Bryan Adams
+6 1 (webmusic.in)_I-Wanna-Be_-_Your-Underwear.mp3 I Wanna Be - Your Underwear Bryan Adams
+7 1 (webmusic.in)_I_ll-Always-Be-Right-There.mp3 I Ll Always Be Right There Bryan Adams
+8 1 (webmusic.in)_It-Ain_t-a-Party-If-You-Can_t-Come-Round.mp3 It Ain T A Party If You Can T Come Round Bryan Adams
+9 1 (webmusic.in)_Let_s-Make-a-Night-to-Remember.mp3 Let S Make A Night To Remember Bryan Adams
+10 1 (webmusic.in)_Star.mp3 Star Bryan Adams
+91 8 (webmusic.in)_Unmistakable.mp3 Unmistakable Backstreet Boys
+92 8 (webmusic.in)_Unsuspecting-Sunday-Afternoon.mp3 Unsuspecting Sunday Afternoon Backstreet Boys
+93 8 (webmusic.in)_You-Can-Let-Go.mp3 You Can Let Go Backstreet Boys
+94 9 (webmusic.in)_Dont-Want-You-Back.mp3 Dont Want You Back Backstreet Boys
+95 9 (webmusic.in)_The-Perfect-Fan.mp3 The Perfect Fan Backstreet Boys
+96 9 (webmusic.in)_Spanish-Eyes.mp3 Spanish Eyes Backstreet Boys
+97 9 (webmusic.in)_Back-to-Your-Heart.mp3 Back To Your Heart Backstreet Boys
+98 9 (webmusic.in)_Dont-Wanna-Lose-You-Now.mp3 Dont Wanna Lose You Now Backstreet Boys
+99 9 (webmusic.in)_I-Need-You-Tonight.mp3 I Need You Tonight Backstreet Boys
+100 9 (webmusic.in)_I-Want-It-That-Way.mp3 I Want It That Way Backstreet Boys
+491 37 What-It-Feels-Like-For-A-Girl_(webmusic.in).mp3 What It Feels Like For A Girl Madonna
+492 37 Amazing_(webmusic.in).mp3 Amazing Madonna
+493 37 American-Pie_(webmusic.in).mp3 American Pie Madonna
+494 37 Beautiful-Stranger_(webmusic.in).mp3 Beautiful Stranger Madonna
+495 37 Cyberraga-(Bonus-Track)_(webmusic.in).mp3 Cyberraga (Bonus Track) Madonna
+496 37 Dont-Tell-Me_(webmusic.in).mp3 Dont Tell Me Madonna
+497 37 Gone_(webmusic.in).mp3 Gone Madonna
+498 37 Impressive-Instant_(webmusic.in).mp3 Impressive Instant Madonna
+499 37 I-Deserve-It_(webmusic.in).mp3 I Deserve It Madonna
+500 37 Music-_(webmusic.in).mp3 Music Madonna
+991 70 (webmusic.in)_Stay.mp3 Stay Jay Sean
+992 70 (webmusic.in)_Stay_-_Boy-Better-Know-Remix.mp3 Stay - Boy Better Know Remix Jay Sean
+993 70 (webmusic.in)_Stuck-In-The-Middle.mp3 Stuck In The Middle Jay Sean
+994 70 (webmusic.in)_Tonight.mp3 Tonight Jay Sean
+995 70 (webmusic.in)_Used-To-Love-Her.mp3 Used To Love Her Jay Sean
+996 70 (webmusic.in)_Waiting.mp3 Waiting Jay Sean
+997 71 (webmusic.in)_Junkie.mp3 Junkie James
+998 71 (webmusic.in)_The-Shining.mp3 The Shining James
+999 71 (webmusic.in)_Alaskan-Pipeline.mp3 Alaskan Pipeline James
+1000 71 (webmusic.in)_Falling-Down.mp3 Falling Down James
+1991 144 (webmusic.in)_Be-With-You.mp3 Be With You Akon
+1992 144 (webmusic.in)_Birthmark.mp3 Birthmark Akon
+1993 144 (webmusic.in)_We-Don_t-Care.mp3 We Don T Care Akon
+1994 144 (webmusic.in)_Clap-Again.mp3 Clap Again Akon
+1995 144 (webmusic.in)_Beautiful.mp3 Beautiful Akon
+1996 144 (webmusic.in)_Right-Now.mp3 Right Now Akon
+1997 144 (webmusic.in)_Holla-Holla.mp3 Holla Holla Akon
+1998 144 (webmusic.in)_Over-the-Edge.mp3 Over The Edge Akon
+1999 144 (webmusic.in)_Sunny-Day.mp3 Sunny Day Akon
+2000 144 (webmusic.in)_Keep-You-Much-Longer.mp3 Keep You Much Longer Akon 
++++++++++
+webmusic_userdb - hindi_artist:(59)
+id,artist,artist_id
+1 A R Rahman 100012
+2 Abhijeet Bhattacharya 100013
+3 Abhijeet Sawant 100014
+4 Adnan Sami 100015
+5 Agam Kumar Nigam 100016
+6 Altaf Raja 100017
+7 Amit Sana 100018
+8 Anuradha Paudwal 100019
+9 Anvi 100020
+10 Aryans 100021
+
++++++++++
+webmusic_userdb - hindi_songs:(41200)
+id,movie,file,name,artist,size,cd,lyrics,music_director,file_320,size_320
+3 6 (webmusic.in)_Dum-Bhar-Jo-Udhar-Moon-Phere.mp3 Dum Bhar Jo Udhar Moon Phere Mukesh/100071,Lata Mangeshkar/100050 4.24
+4 6 (webmusic.in)_Ghar-Aaya-Mera-Pardesi.mp3 Ghar Aaya Mera Pardesi Lata Mangeshkar/100050 4.17
+5 6 (webmusic.in)_Ab-Raat-Guzarnewaali-Hai.mp3 Ab Raat Guzarnewaali Hai Lata Mangeshkar/100050 3.54
+6 6 (webmusic.in)_Ek-Do-Teen.mp3 Ek Do Teen Shamshad Begum/100129 2.63
+7 6 (webmusic.in)_Ek-Bewafaa-Se-Pyaar-Kiya.mp3 Ek Bewafaa Se Pyaar Kiya Lata Mangeshkar/100050 2.37
+8 6 (webmusic.in)_Naiya-Teri-Manjhdhar.mp3 Naiya Teri Manjhdhar Mohammed Rafi/100055 2.5
+9 6 (webmusic.in)_Jab-Se-Balam-Ghar-Aaye.mp3 Jab Se Balam Ghar Aaye Lata Mangeshkar/100050 2.61
+10 6 (webmusic.in)_Awaara-Hoon.mp3 Awaara Hoon Mukesh/100071 2.81
+11 6 (webmusic.in)_Tere-Bina-Aag-Yeh-Chandni.mp3 Tere Bina Aag Yeh Chandni Lata Mangeshkar/100050,Manna Dey/100089 3.27
+12 6 (webmusic.in)_Hum-Tumse-Mohabbat-Karke-Sanam.mp3 Hum Tumse Mohabbat Karke Sanam Mukesh/100071 3.35
+94 16 (webmusic.in)_O-Balliye_-_Lata_Usha-Mangeshkar.mp3 O Balliye Lata Mangeshkar/100050,Usha Mangeshkar/100328 3.48
+95 16 (webmusic.in)_Kabhi-Khamosh_-_Lata-Mangeshkar.mp3 Kabhi Khamosh Lata Mangeshkar/100050 3.69
+96 16 (webmusic.in)_Kitna-Haseen-Hai-Mausam.mp3 Kitna Haseen Hai Mausam Lata Mangeshkar/100050 3.51
+97 16 (webmusic.in)_Kitni-Jawan-Hai-Raat_-_Lata-Mangeshkar.mp3 Kitni Jawan Hai Raat Lata Mangeshkar/100050 3.03
+98 17 (webmusic.in)_Shaam-Gai-Raat-Aai.mp3 Shaam Gai Raat Aai Lata Mangeshkar/100050 3.26
+99 17 (webmusic.in)_O-Janewale.mp3 O Janewale Lata Mangeshkar/100050 2.07
+100 17 (webmusic.in)_Ichak-Dana-Bechak-Daana.mp3 Ichak Dana Bechak Daana Lata Mangeshkar/100050,Mukesh/100071 4.19
+101 17 (webmusic.in)_Dil-Ka-Haal-Sune-Dilwala.mp3 Dil Ka Haal Sune Dilwala Manna Dey/100089 4.57
+102 17 (webmusic.in)_Mera-Joota-Hai-Japani.mp3 Mera Joota Hai Japani Mukesh/100071 4.18
+103 17 (webmusic.in)_Mud-Mud-Ke-Na-Dekh.mp3 Mud Mud Ke Na Dekh Asha Bhosle/100022,Manna Dey/100089 5.33
+522 76 (webmusic.in)_Yeh-Dil-Fareb-Soorat.mp3 Yeh Dil Fareb Soorat Usha Khanna/100415,Manna Dey/100089 5.43
+524 76 (webmusic.in)_Mere-Sanam-Tu-Jo-Nahin.mp3 Mere Sanam Tu Jo Nahin Lata Mangeshkar/100050 5.21
+525 76 (webmusic.in)_Tera-Bhi-Kisi-Pe-Dil-Aaye.mp3 Tera Bhi Kisi Pe Dil Aaye Mohammed Rafi/100055 3.58
+526 77 (webmusic.in)_Tum-Jao-Kahin.mp3 Tum Jao Kahin Lata Mangeshkar/100050 4.73
+527 77 (webmusic.in)_Chhalkaye-Jaam.mp3 Chhalkaye Jaam Mohammed Rafi/100055 4.54
+528 77 (webmusic.in)_Chalo-Sajna-Jahan-Tak.mp3 Chalo Sajna Jahan Tak Lata Mangeshkar/100050 4.49
+529 77 (webmusic.in)_Allah-Yeh-Ada-Kaisi.mp3 Allah Yeh Ada Kaisi Lata Mangeshkar/100050 6.7
+530 77 (webmusic.in)_Hui-Sham-Unka-Khayal.mp3 Hui Sham Unka Khayal Mohammed Rafi/100055 4.23
+531 77 (webmusic.in)_Hamen-To-Ho-Gaya.mp3 Hamen To Ho Gaya Lata Mangeshkar/100050 3.7
+532 77 (webmusic.in)_Na-Ja-Kahin-Ab-Na-Ja.mp3 Na Ja Kahin Ab Na Ja Mohammed Rafi/100055 5.88
+1039 157 (webmusic.in)_Gumsum-Kyon-Hai-Sanam.mp3 Gumsum Kyon Hai Sanam Asha Bhosle/100022 4.2
+1040 157 (webmusic.in)_Mile-Jo-Kadi-Kadi-Ik-Zangeer-Bane.mp3 Mile Jo Kadi Kadi Ik Zangeer Bane Kishore Kumar/100064,Asha Bhosle/100022,Mohammed Rafi/100055 5.34
+1041 158 (webmusic.in)_O-Saathi-Re.mp3 O Saathi Re Kishore Kumar/100064 4.14
+1042 158 (webmusic.in)_Salaam-e-Ishq.mp3 Salaam E Ishq Lata Mangeshkar/100050,Kishore Kumar/100064 5.34
+1043 158 (webmusic.in)_Wafa-Jo-Na-Ki-To.mp3 Wafa Jo Na Ki To Hemlata/100075 2.9
+1044 158 (webmusic.in)_O-Saathi-Re_-_Female.mp3 O Saathi Re Asha Bhosle/100022 5.14
+1045 158 (webmusic.in)_Dil-To-Hai-Dil.mp3 Dil To Hai Dil Lata Mangeshkar/100050 3.81
+1046 158 (webmusic.in)_Rote-Hue-Aate-Hain.mp3 Rote Hue Aate Hain Kishore Kumar/100064 4.9
+1047 158 (webmusic.in)_Pyaar-Zindagi-Hai.mp3 Pyaar Zindagi Hai Lata Mangeshkar/100050,Asha Bhosle/100022,Mahendra Kapoor/100130 6.81
+1048 158 (webmusic.in)_Zindagi-To-Bewafaa-Hai.mp3 Zindagi To Bewafaa Hai Mohammed Rafi/100055 2.44
+2134 327 (webmusic.in)_Jaam-Woh-Hai-Jo-Bhar-Ke-Chalakta-Hai.mp3 Jaam Woh Hai Jo Bhar Ke Chalakta Hai Kumar Sanu/100065 4.76
+2135 327 (webmusic.in)_Kitni-Hasrat-Hai-Humein.mp3 Kitni Hasrat Hai Humein Kumar Sanu/100065,Sadhana Sargam/100104 6
+2136 328 (webmusic.in)_Ye-Mera-Dil-To-Paagal-Hai.mp3 Ye Mera Dil To Paagal Hai S. P. Balasubrahmanyam/100176,Asha Bhosle/100022 4.55
+2137 328 (webmusic.in)_Baadal-Jo-Barse-To.mp3 Baadal Jo Barse To Asha Bhosle/100022 3.32
+2138 328 (webmusic.in)_Aai-Mere-Deewano.mp3 Aai Mere Deewano S. P. Balasubrahmanyam/100176,Asha Bhosle/100022 4.65
+2139 328 (webmusic.in)_Hum-Na-Samjhe-The.mp3 Hum Na Samjhe The S. P. Balasubrahmanyam/100176 4.18
+2140 328 (webmusic.in)_Rang-Rangeeli-Raat-Gaye.mp3 Rang Rangeeli Raat Gaye S. P. Balasubrahmanyam/100176,Asha Bhosle/100022 6.57
+2141 328 (webmusic.in)_Tum-Jo-Mile-Humko.mp3 Tum Jo Mile Humko Asha Bhosle/100022,M. G. Sreekumar/100229 4.59
+2142 329 (webmusic.in)_Yeh-Waqt-Hamara-Hai.mp3 Yeh Waqt Hamara Hai Kumar Sanu/100065,Sudesh Bhonsle/100152,Alka Yagnik/100052 5.21
+2143 329 (webmusic.in)_Kachi-Kali-Kache-Naarke.mp3 Kachi Kali Kache Naarke Kumar Sanu/100065,Asha Bhosle/100022 4.71 
++++++++++
+webmusic_userdb - movie:(5524)
+id,movie,year,type,artist,url,tag_1,tag_2,tag_3,128,320,artist_id,desc,host,mobile_below,cd,loc_320,label
+
++++++++++
+
+ 

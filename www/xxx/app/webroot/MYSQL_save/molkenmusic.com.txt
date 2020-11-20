@@ -1,0 +1,898 @@
+molkenmusic.com/store/shop/details.php?id=50
+ 
+db416633010 - admin_emails:(0)
+mail_id,name,type,from,body,additional_headers
+
++++++++++
+db416633010 - admin_settings:(0)
+settings_id,store_id,web_root,secure_web_root,file_root,cookie_name,send_mail_on_shipment_created,send_mail_on_shipment_logged
+
++++++++++
+db416633010 - categories:(8)
+category_id,short_name,name,description,image,status
+1 cds CDs active
+2 downloads Music Downloads active
+3 dvds DVDs active
+4 preorder Pre-Order preorder active
+5 apparel Apparel / Merch active
+6 events Events inactive
+7 vinyl Vinyl active
+8 gear Gear active
+
++++++++++
+db416633010 - coupons:(0)
+coupon_id,store_id,category_id,subcategory_id,date_created,date_modified,name,code,discount_price,discount_percentage,email,product_status,item_status,minimum_purchase,quantity,description,date_in,date_out,status
+
++++++++++
+db416633010 - coupons_used:(0)
+coupon_id,order_id,store_id,category_id,subcategory_id,date_created,date_modified,name,code,discount_amount,discount_price,discount_percentage,email,minimum_purchase,quantity,description,date_in,date_out,status
+
++++++++++
+db416633010 - item_coupons:(0)
+item_coupon_id,store_code,category_id,sub_category_id,product_id,date_created,date_modified,name,item_name,code,discount_amount,discount_percent,minimum_purchase,quantity,description,date_in,date_out,is_digital,status
+
++++++++++
+db416633010 - items:(59)
+item_id,product_id,shipping_class_id,created,modified,upc,item_number,model_number,image,file_download,name,price,sale_price,actual_cost,quantity,weight,overview,description,status,date_in,date_out,allow_coupon,is_digital,active
+4 3 1 2008-05-06 11:38:13 2010-10-06 18:03:40 MM1001 CD 13.98 0 0 57 0 active 2008-05-06 00:00:00 2020-05-06 00:00:00 no yes
+5 4 19 2008-06-11 12:24:04 2008-12-05 14:56:06 MM505 MM505_Songs from the Closet.zip Download 11.99 0 0 936 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes yes
+6 5 1 2008-06-11 12:33:58 2013-02-17 23:53:35 MM1002 CD 16.98 0 0 126 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes
+7 6 19 2008-06-11 12:41:28 2013-02-17 11:38:31 MM506 MM506_Tacklebox.zip Download 14.99 9.99 0 895 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes yes
+8 7 1 2008-06-11 12:49:15 2014-06-08 17:39:28 MM1003 CD 16.98 0 0 324 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes
+9 8 19 2008-06-11 12:54:24 2008-12-05 14:57:20 MM507 MM507_Live & Live Some More_Dallas '94.zip Download 14.99 0 0 696 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes
+10 9 1 2008-06-11 12:58:29 2019-04-22 11:55:04 MM1004 CD 13.98 0 0 59 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes
+11 10 19 2008-06-11 13:04:58 2008-11-13 22:56:51 MM508 MM508_Xenu_2.zip Download 11.99 0 0 891 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes yes
+12 11 19 2008-06-11 13:10:23 2008-12-05 14:57:52 MM503 MM503_Naomi's Solar Pumpkin.zip Download 6.99 0 0 915 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes yes
+13 12 19 2008-06-11 13:15:00 2008-12-05 14:58:46 MM501 MM501_Rehearsal CD Vol_1.zip Download 7.99 0 0 856 0 active 2008-06-11 00:00:00 2020-06-11 00:00:00 no yes yes
+
++++++++++
+db416633010 - lists:(0)
+list_id,uuid,date_created,date_modified,name,product_ids
+
++++++++++
+db416633010 - news:(4)
+news_id,post_author,post_location,post_issue_date,post_mod_date,post_status,post_content,post_title,post_urltitle,post_url,post_category,post_word_count,post_comments,post_sticky
+3 0 mm 2008-12-05 22:10:07 2011-03-30 12:03:04 Draft <p>We are proud to announce the release of <strong>Ty Tabor</strong>&#39;s brand-new solo album, <strong><em>&quot;Balance.&quot;&nbsp; </em></strong>This is Ty&#39;s 5th solo album and his first of all new material on Molken Music. It is available on CD and MP3 download. Promotional video commercial coming soon!</p><p><a href="http://molkenmusic.com/store/Ads_Flyers/ty%20tabor%20balance/Balance%20Flyer%202_72dpi.jpg" target="_blank"></a></p><p><a href="http://molkenmusic.com/store/Ads_Flyers/ty%20tabor%20balance/Balance%20Flyer%202_72dpi.jpg" target="_blank"><img src="http://molkenmusic.com/store/images/products/coverpreview1.jpg" alt="BALANCE" width="200" height="200" align="bottom" /></a></p><p>&nbsp;</p><p>Ty&#39;s comments on &quot;Balance&quot; --&nbsp;</p><p><em>&quot;For a while, I was more focused on songwriting than guitar playing. My friends told me I should &#39;let loose&#39; on my recordings like I do when l play live. I started feeling the same way around the time I started recording </em><u>Balance</u><em>. Before recording, I tried to get back in touch with the things that make me happiest about guitar playing. I felt inspired to simply do whatever I felt and let it be whatever it was. This was my only self-imposed rule in the old days and was my only self-imposed rule with </em><u>Balance</u><em>. The album goes all over the place on guitar but it all fits together somehow. It&#39;s not a show-off solo-fest, although I did more soloing than in a very long time, but it&#39;s deeper than that. It&#39;s adventurous on many levels for me. I really enjoyed making this one. I hope you will like it!&quot;&nbsp;&nbsp;</em></p><p>&nbsp;</p><p>In other news, the&nbsp;first live <strong>King&#39;s X</strong> DVD, <strong><em>&quot;Gretchen Goes to London,&quot;</em></strong>&nbsp; which arrived&nbsp; Nov. 22, 2008 is a monster.&nbsp; First week sales have been tremendous and the customer feedback has been equally as amazing. We thank you so much for your support! </p><p>Promotional video available now (click the &quot;Multimedia&quot; link at <a href="http://www.molkenmusic.com/"><font color="#0000ff">www.molkenmusic.com</font></a>, click the &quot;Video&quot; tab, and then select the video). </p><p><a href="http://molkenmusic.com/store/Ads_Flyers/KX%20London/KX%20Gretchen%20DVD_REV_72dpi.jpg" target="_blank" title="CLICK TO SEE FLYER"><img src="http://molkenmusic.com/store/images/products/COVER6revised4_smaller%20for%20web.jpg" alt="King's X DVD" width="143" height="200" align="bottom" /></a></p><p>&nbsp;</p><p>All the best,</p><p>&nbsp;</p><p>Molken Music</p> Ty Tabor's BALANCE and New King's X DVD test test 0 288 open no
+4 0 mm 2009-07-30 21:40:22 2011-03-30 12:03:17 Draft <p>We are proud to announce the release of <strong>KING&#39;S X &quot;The Bigger Picture (4th Album Pre-Production Recordings)&quot;</strong> on CD and MP3 download.&nbsp;Both versions are now available!</p><p>&nbsp;</p><p><a href="http://molkenmusic.com/store/Ads_Flyers/ty%20tabor%20balance/Balance%20Flyer%202_72dpi.jpg" target="_blank"></a></p><p><img src="http://molkenmusic.com/images/BIGGER%20PICTURE%20cover%204%20web.jpg" alt="Bigger Picture" width="288" height="288" /></p><p>&nbsp;</p><p>All the best,</p><p>&nbsp;</p><p>Molken Music</p> KING'S X - test test 0 37 open no
+5 0 mm 2009-12-22 12:33:26 2009-12-22 12:12:38 Draft <p>The new, 2-disc live album&nbsp;<strong>KING&#39;S X &quot;Tales from the Empire: Cleveland 6.26.92&quot;</strong> is now available on CD and MP3 download.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p> KING'S X newrelease 0 20 open no
+7 0 mm 2011-03-30 12:45:12 0000-00-00 00:00:00 Published <div style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-color: #ffffff; font: normal normal normal 1em/normal Tahoma, sans-serif; line-height: 1.1em; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: #454545; padding: 0px; margin: 0px"><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px">We just received some stock on the <strong>Tres Mts.</strong> (Tres Mountains) CD, featuring <strong>dUg</strong> on vocals and guitar, <strong>Jeff Ament</strong> (Pearl Jam) on bass and <strong>Richard Stuverud</strong> (The Fastbacks) on drums. Click the &quot;CDs&quot; tab and order today! Shipping now!</p><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px">&nbsp;</p><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px"><a style="color: #e0691a; background: inherit" href="http://molkenmusic.com/store/Ads_Flyers/ty%20tabor%20balance/Balance%20Flyer%202_72dpi.jpg" target="_blank"></a></p><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px"><img src="http://molkenmusic.com/store/images/products/Tres%20Mts.jpg" alt="Tres Mts." width="288" height="288" /></p></div> Tres Mts. test 0 116 open no
+
++++++++++
+db416633010 - order_flags:(5)
+order_flag_id,name,short_name,light_color,dark_color
+1 No Flag no_flag #fff #fff
+2 Waiting Customer Response waiting_response #AFED87 #AFED87
+3 Waiting Information waiting_info #E1EB70 #E1EB70
+4 Pending pending #F4CE80 #F4CE80
+5 Immediate Attention immediate_attention #FF7D81 #FF7D81
+
++++++++++
+db416633010 - order_items:(18544)
+order_item_id,date_created,date_modified,order_id,cookie_id,ip_address,product_id,item_id,product_name,item_name,item_upc,item_price,quantity,coupon_code,download_code,download_count,file_download,option1,option2,is_digital,status
+11 0000-00-00 00:00:00 0000-00-00 00:00:00 7 SsC4zlTFjW5X3Lp1 64.91.214.126 0 4 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" CD 13.98 1 0 no active
+12 0000-00-00 00:00:00 0000-00-00 00:00:00 8 SsC4zlTFjW5X3Lp1 64.91.214.126 0 4 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" CD 13.98 1 0 no active
+13 0000-00-00 00:00:00 0000-00-00 00:00:00 8 SsC4zlTFjW5X3Lp1 64.91.214.126 4 0 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" 11.99 1 0 yes active
+14 0000-00-00 00:00:00 0000-00-00 00:00:00 9 SsC4zlTFjW5X3Lp1 64.91.214.126 10 0 Xenuphobe - "2.0: Electrolux" 11.99 1 0 yes active
+15 0000-00-00 00:00:00 0000-00-00 00:00:00 9 SsC4zlTFjW5X3Lp1 64.91.214.126 6 0 Ty Tabor - "Tacklebox (Ty Tabor Demos Vol. 1 & 2)" 14.99 1 0 yes active
+16 0000-00-00 00:00:00 0000-00-00 00:00:00 9 SsC4zlTFjW5X3Lp1 64.91.214.126 11 0 Ty Tabor - "Naomi's Solar Pumpkin (2005 Remastered)" 6.99 1 0 yes active
+17 0000-00-00 00:00:00 0000-00-00 00:00:00 10 SsC4zlTFjW5X3Lp1 64.91.214.126 4 0 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" 11.99 1 0 yes active
+18 0000-00-00 00:00:00 0000-00-00 00:00:00 10 SsC4zlTFjW5X3Lp1 64.91.214.126 0 4 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" CD 13.98 1 0 no active
+19 0000-00-00 00:00:00 0000-00-00 00:00:00 11 SsC4zlTFjW5X3Lp1 64.91.214.126 4 0 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" 11.99 1 0 yes active
+20 0000-00-00 00:00:00 0000-00-00 00:00:00 11 SsC4zlTFjW5X3Lp1 64.91.214.126 12 0 King's X - "Rehearsal CD Vol. 1" 7.99 1 0 yes active
+101 0000-00-00 00:00:00 0000-00-00 00:00:00 60 WySm45JDqlpI29rf 99.254.195.110 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+102 0000-00-00 00:00:00 0000-00-00 00:00:00 61 tvKlk7bwOsRVMU9n 84.212.54.135 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+103 0000-00-00 00:00:00 0000-00-00 00:00:00 62 83lk9JxVBcyRTOQM 24.128.36.128 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+104 0000-00-00 00:00:00 0000-00-00 00:00:00 63 hQScW9jRItGdEFrD 84.13.134.247 12 0 King's X - "Rehearsal CD Vol. 1" (MP3) 7.99 1 0 yes active
+105 0000-00-00 00:00:00 0000-00-00 00:00:00 63 hQScW9jRItGdEFrD 84.13.134.247 14 0 Xenuphobe - "1.0" (MP3) 9.99 1 0 yes active
+106 0000-00-00 00:00:00 0000-00-00 00:00:00 64 NwOUPEQKlY0VnymD 68.109.160.237 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+107 0000-00-00 00:00:00 0000-00-00 00:00:00 65 WjSKPwCOUy5tDhEM 165.134.155.157 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 2 0 no active
+108 0000-00-00 00:00:00 0000-00-00 00:00:00 65 WjSKPwCOUy5tDhEM 165.134.155.157 0 8 King's X - "Live & Live Some More: Dallas '94" (2-CD) CD 16.98 1 0 no active
+109 0000-00-00 00:00:00 0000-00-00 00:00:00 66 MD1sKxZ9ywYSp2zg 67.235.81.85 0 10 Xenuphobe - "2.0: Electrolux" (CD) CD 13.98 1 0 no active
+110 0000-00-00 00:00:00 0000-00-00 00:00:00 66 MD1sKxZ9ywYSp2zg 67.235.81.85 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+501 0000-00-00 00:00:00 0000-00-00 00:00:00 372 wlWVvQ1SBE5hT8z9 80.86.216.172 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+502 0000-00-00 00:00:00 0000-00-00 00:00:00 372 wlWVvQ1SBE5hT8z9 80.86.216.172 0 8 King's X - "Live & Live Some More: Dallas '94" (2-CD) CD 16.98 1 0 no active
+503 0000-00-00 00:00:00 0000-00-00 00:00:00 373 9VnKNj71LtXHD8bJ 86.0.118.18 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+504 0000-00-00 00:00:00 0000-00-00 00:00:00 374 bmq7324wBXHUcdhn 98.19.165.98 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+505 0000-00-00 00:00:00 0000-00-00 00:00:00 375 FLy4AvjlXUzRrm5b 209.6.13.67 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+506 0000-00-00 00:00:00 0000-00-00 00:00:00 376 rGKMnkdp9DWQ8Nb2 67.163.241.124 0 22 Ty Tabor - "Balance" CD PRE-ORDER PRE-ORDER 14.98 1 0 no active
+507 0000-00-00 00:00:00 0000-00-00 00:00:00 377 Q6HCz8OK5IVjYtUT 96.227.225.130 0 22 Ty Tabor - "Balance" CD PRE-ORDER PRE-ORDER 14.98 1 0 no active
+508 0000-00-00 00:00:00 0000-00-00 00:00:00 377 Q6HCz8OK5IVjYtUT 96.227.225.130 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+509 0000-00-00 00:00:00 0000-00-00 00:00:00 378 6MX8BFwrlWb9KILc 70.132.16.243 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+510 0000-00-00 00:00:00 0000-00-00 00:00:00 379 STxrqt0zJwYUZLAp 173.24.55.177 0 22 Ty Tabor - "Balance" CD PRE-ORDER PRE-ORDER 14.98 1 0 no active
+1001 0000-00-00 00:00:00 0000-00-00 00:00:00 727 3Iv6zQ0NHpgAMlO5 12.5.10.153 0 19 Ty Tabor - "Balance" (CD) CD 822567063522 14.98 1 0 no active
+1002 0000-00-00 00:00:00 0000-00-00 00:00:00 728 MrIXpYKSg7fUTqmV 98.197.22.230 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+1003 0000-00-00 00:00:00 0000-00-00 00:00:00 728 MrIXpYKSg7fUTqmV 98.197.22.230 0 19 Ty Tabor - "Balance" (CD) CD 822567063522 14.98 1 0 no active
+1004 0000-00-00 00:00:00 0000-00-00 00:00:00 729 HTV0jIQOSt3gMwrR 68.94.234.171 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 2 0 no active
+1005 0000-00-00 00:00:00 0000-00-00 00:00:00 729 HTV0jIQOSt3gMwrR 68.94.234.171 0 19 Ty Tabor - "Balance" (CD) CD 822567063522 14.98 1 0 no active
+1006 0000-00-00 00:00:00 0000-00-00 00:00:00 730 IO4SW5KEJXV2gGHT 204.248.24.161 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+1007 0000-00-00 00:00:00 0000-00-00 00:00:00 731 06lzZjIr5GNJnAxp 90.211.115.203 0 19 Ty Tabor - "Balance" (CD) CD 822567063522 14.98 1 0 no active
+1008 0000-00-00 00:00:00 0000-00-00 00:00:00 731 06lzZjIr5GNJnAxp 90.211.115.203 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+1009 0000-00-00 00:00:00 0000-00-00 00:00:00 732 pDRkgQBKtTFCNq5h 69.37.164.254 15 0 The Jibbs - "Burns in the Rain" (MP3) 1.49 1 0 yes active
+1010 0000-00-00 00:00:00 0000-00-00 00:00:00 733 vSIF08hnTNMKRP6A 24.227.222.98 18 0 Ty Tabor - "Balance" (MP3) 12.99 1 0 yes active
+2001 0000-00-00 00:00:00 0000-00-00 00:00:00 1401 cgqLbDNTPd86VRUF 24.115.4.224 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+2002 0000-00-00 00:00:00 0000-00-00 00:00:00 1402 If7MgzUVwndsBqOZ 76.19.234.105 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+2003 0000-00-00 00:00:00 0000-00-00 00:00:00 1403 1gK9nCZzGOY3XV68 75.65.174.172 18 0 Ty Tabor - "Balance" (MP3) 12.99 1 0 yes active
+2004 0000-00-00 00:00:00 0000-00-00 00:00:00 1404 U7CG9kfDgSAQXjwZ 84.57.51.224 0 19 Ty Tabor - "Balance" (CD) CD 822567063522 14.98 1 0 no active
+2005 0000-00-00 00:00:00 0000-00-00 00:00:00 1404 U7CG9kfDgSAQXjwZ 84.57.51.224 0 6 Ty Tabor - "Tacklebox (Ty Tabor Demos Vol. 1 & 2)" (2-CD) CD 16.98 1 0 no active
+2006 0000-00-00 00:00:00 0000-00-00 00:00:00 1405 XLyTOK7RcvV0tHUP 90.149.212.19 18 0 Ty Tabor - "Balance" (MP3) 12.99 1 0 yes active
+2007 0000-00-00 00:00:00 0000-00-00 00:00:00 1406 GnCOWcLhE3DB78IX 74.215.61.43 11 0 Ty Tabor - "Naomi's Solar Pumpkin (2005 Remastered)" (MP3) 6.99 1 0 yes active
+2008 0000-00-00 00:00:00 0000-00-00 00:00:00 1407 Q4lZ7LY8yOxSXqGI 90.199.169.122 0 19 Ty Tabor - "Balance" (CD) CD 822567063522 14.98 1 0 no active
+2009 0000-00-00 00:00:00 0000-00-00 00:00:00 1408 IDGr9R4lPSf1ngwB 76.110.12.110 0 18 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 822567062198 18.98 1 0 no active
+2010 0000-00-00 00:00:00 0000-00-00 00:00:00 1408 IDGr9R4lPSf1ngwB 76.110.12.110 0 19 Ty Tabor - "Balance" (CD) CD 822567063522 14.98 1 0 no active 
++++++++++
+db416633010 - order_notes:(879)
+order_note_id,date,order_id,note
+1 2008-05-27 14:14:12 6 test note
+2 2008-05-27 14:17:17 6 test
+3 2008-11-10 12:42:27 12 This is a note.
+4 2008-11-15 13:26:19 57
+5 2008-11-15 13:26:43 57 Yo' shit is shipping on Friday. 
+
+wf
+6 2008-11-15 20:22:02 56 Thanks for your purchase. We just launched the new site ordering system – our site mistakenly added Texas sales tax to your order. Please accept our apology and the refunded amount for the tax.
+
+Many thanks,
+
+Molken Music
+7 2008-11-16 08:52:26 34 Thanks for your purchase. We just launched the new site ordering system – our site mistakenly added Texas sales tax to your order. Please accept our apology and the refunded amount for the tax.
+
+Many thanks,
+
+Molken Music
+8 2008-11-16 09:00:07 51 Thanks for your purchase. We just launched the new site ordering system – our site mistakenly added Texas sales tax to your order. Please accept our apology and the refunded amount for the tax.
+
+Many thanks,
+
+Molken Music
+9 2008-11-16 09:13:30 18 Thanks for your purchase. We just launched the new site ordering system – our site mistakenly added Texas sales tax to your order. Please accept our apology and the refunded amount for the tax.
+
+Many thanks,
+
+Molken Music
+10 2008-11-16 09:17:58 42 Thanks for your purchase. We just launched the new site ordering system – our site mistakenly added Texas sales tax to your order. Please accept our apology and the refunded amount for the tax.
+
+Many thanks,
+
+Molken Music
+91 2009-02-04 14:57:25 1364 should not have been charged sales tax -- refunded $1.24
+92 2009-02-04 15:02:26 1372 should not have been charged sales tax -- refunded $1.07
+93 2009-02-11 13:34:35 1431 refunded $1.07 -- should not have been charged sales tax
+94 2009-02-11 13:41:57 1409 wanted CD version -- paid $6.94 for difference (including shipping) on 2/11/09.
+95 2009-02-15 14:06:53 1463 combine shipping with # 1464
+96 2009-02-15 14:07:33 1464 refunded $3.95 to combine shipping with order # 1463
+97 2009-02-16 16:16:02 1480 refunded $1.64 -- should not have been charged sales tax
+98 2009-02-17 13:40:35 1498 refunded $1.19 -- should not have been charged sales tax
+99 2009-02-19 15:12:47 1505 refunded $1.07 -- should not have been charged sales tax
+100 2009-02-21 10:53:31 1524 refunded #3.29 -- should not have been charged sales tax -- customer is in FL, not TX
+491 2011-03-20 14:06:39 5757 refunded $4.95 shipping fees
+492 2011-03-24 11:45:33 5763 refunded $0.82 -- should not have been charged sales tax
+493 2011-03-24 11:50:14 5764 refunded $1.19 -- should not have been charged sales tax
+494 2011-03-29 14:30:04 5783 refunded $0.49 -- should not have been charged sales tax
+495 2011-03-29 19:32:25 5785 we were out of this shirt. I talked to Bryan on the phone and substituted it for an XL WEXVTS1 green shirt.
+496 2011-03-29 20:13:51 5786 refunded $1.07 -- should not have been charged sales tax
+497 2011-03-29 20:16:45 5787 refunded $1.07 -- should not have been charged sales tax
+498 2011-04-03 17:57:36 5833 refunded $1.07 -- should not have been charged sales tax
+499 2011-04-06 13:57:51 5840 refunded $1.07 -- should not have been charged sales tax
+500 2011-04-10 12:39:16 5854 refunded $0.21 -- should not have been charged sales tax
+
++++++++++
+db416633010 - order_shipments:(7464)
+order_shipment_id,order_id,shipment_date,shipment_logged,service,type,size,tracking_number,weight_lbs,weight_oz,delivery_confirm,signature_confirm,cost
+1 12 2008-11-10 12:44:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9382493284234234 0 6 true
+2 14 2008-11-13 20:10:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 123456 0 6 true
+3 15 2008-11-13 22:27:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 4564645646456 0 7 true
+4 12 2008-11-14 03:11:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907918498438 0 7 true
+5 26 2008-11-21 17:01:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907982532274 0 6 true
+6 19 2008-11-21 17:04:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907993466056 0 6 true
+7 31 2008-11-21 17:09:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907950987952 0 6 true
+8 28 2008-11-21 18:05:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907846596312 0 6 true
+9 20 2008-11-21 18:17:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907993194560 0 6 true
+10 24 2008-11-21 18:27:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907972550721 0 13 true
+93 108 2008-11-21 09:15:00 0000-00-00 00:00:00 USPS International Airmail Par LC591565215US 0 6
+94 117 2008-11-21 09:31:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907897542917 0 6 true
+95 115 2008-11-21 09:34:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907845236974 0 6 true
+96 116 2008-11-21 09:38:00 0000-00-00 00:00:00 USPS International Airmail Par LC591565207US 0 6
+97 114 2008-11-21 09:45:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907981308726 0 6 true
+98 113 2008-11-21 10:24:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907002369897 0 6 true
+99 118 2008-11-21 14:02:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907909206318 0 6 true
+100 119 2008-11-21 14:37:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907898935541 0 6 true
+101 121 2008-11-21 14:43:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907857117964 0 6 true
+102 122 2008-11-21 15:54:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907909815664 0 6 true
+508 592 2008-12-08 15:58:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907007636628 0 12 true
+501 594 2008-12-08 15:18:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907080829535 0 10 true
+502 595 2008-12-08 15:25:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907049577002 0 6 true
+503 566 2008-12-08 15:33:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907060267548 0 10 true
+504 596 2008-12-08 15:37:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907143541886 0 6 true
+505 565 2008-12-08 15:43:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907007349849 0 6 true
+506 564 2008-12-08 15:46:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907112248471 0 6 true
+507 597 2008-12-08 15:57:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907007636628 0 12 true
+509 562 2008-12-08 16:09:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907154030201 0 10 true
+510 561 2008-12-08 16:14:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907143667296 0 6 true
+1006 1194 2009-01-27 00:51:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907215801757 0 10 true
+1007 1193 2009-01-27 00:52:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907310214414 0 6 true
+1008 1200 2009-01-27 00:54:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907289324848 0 6 true
+1009 1199 2009-01-27 01:05:00 0000-00-00 00:00:00 USPS International Airmail Par LC704373925US 0 12
+1010 1201 2009-01-27 01:07:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907247381913 0 7 true
+1011 1205 2009-01-27 01:09:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907215965480 0 10 true
+1012 1204 2009-01-27 01:12:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907215965572 0 13 true
+1013 1203 2009-01-27 01:15:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907195034893 0 6 true
+1014 1202 2009-01-27 01:16:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907268435268 0 10 true
+1015 1210 2009-01-27 01:18:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907184549216 0 6 true
+2008 2506 2009-11-16 01:31:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907938732307 0 8 true
+2009 2507 2009-11-16 01:33:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907917801628 0 7 true
+2010 2509 2009-11-16 01:39:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907865413768 0 6 true
+2011 2510 2009-11-16 01:42:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907970271406 0 6 true
+2012 2511 2009-11-16 01:45:00 0000-00-00 00:00:00 USPS International Airmail Par LC920027316US 1 0
+2013 2512 2009-11-16 09:45:00 0000-00-00 00:00:00 USPS International Airmail Par LC920027302US 1 0
+2014 2513 2009-11-16 11:25:00 0000-00-00 00:00:00 USPS International Airmail Par LC920027293US 0 12
+2015 2514 2009-11-17 15:05:00 0000-00-00 00:00:00 USPS Priority Mail 9101805213907951629585 2 0 true
+2016 2518 2009-11-20 20:56:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907889127276 0 7 true
+2017 2519 2009-11-20 21:08:00 0000-00-00 00:00:00 USPS First Class Mail Parcel 9101805213907004593580 0 11 true 
++++++++++
+db416633010 - orders:(15182)
+order_id,cookie_id,ip_address,user_id,order_date,modified_date,store_code,amount_total,amount_shipping,amount_tax,charge_total,charge_shipping,charge_tax,actual_cost,actual_shipping,customer_comments,store_comments,billing_first_name,billing_last_name,billing_email,billing_address1,billing_address2,billing_city,billing_state,billing_zip,billing_country,billing_country_code,billing_phone,billing_address_status,customer_email,shipping_name,shipping_first_name,shipping_last_name,shipping_address1,shipping_address2,shipping_city,shipping_state,shipping_country,shipping_country_code,shipping_zip,shipping_phone,shipping_address_status,shipping_option,shipping_option_charge,receipt_prints,download_token,flag_id,transaction_type,order_status,order_pending_reason,payment_status,payment_pending_reason,payment_type,ship_status,ship_pending_reason
+7 SsC4zlTFjW5X3Lp1 64.91.214.126 0 2008-09-11 00:31:01 2008-11-10 12:39:11 mm 20.08 4.95 1.15 20.08 4.95 1.15 0 0 Andrew Johnston sale@drewjoh.com TX United States US sale@drewjoh.com Andrew Johnston Andrew Johnston 6117 Magnolia Katy TX United States US 77493 Standard Shipping 0 2 5RZM8EPW 0 Web Store Canceled Paid PayPal Processing
+8 SsC4zlTFjW5X3Lp1 64.91.214.126 0 2008-09-11 00:42:51 2008-11-10 12:39:17 mm 33.06 4.95 2.14 33.06 4.95 2.14 0 0 Andrew Johnston sale@drewjoh.com TX United States US sale@drewjoh.com Andrew Johnston Andrew Johnston 6117 Magnolia Katy TX United States US 77493 Standard Shipping 0 1 AKGR9ZLN 0 Web Store Canceled Paid PayPal Processing
+9 SsC4zlTFjW5X3Lp1 64.91.214.126 0 2008-09-11 01:19:17 0000-00-00 00:00:00 mm 36.77 0 2.8 36.77 0 2.8 0 0 Andrew Johnston sale@drewjoh.com TX United States US sale@drewjoh.com Andrew Johnston Andrew Johnston 6117 Magnolia Katy TX United States US 77493 Standard Shipping 0 2 MCADTV2E 0 Web Store Canceled Paid PayPal No Shipment
+10 SsC4zlTFjW5X3Lp1 64.91.214.126 0 2008-09-11 02:23:33 2008-09-11 02:43:22 mm 33.47 4.95 2.55 33.47 4.95 2.55 0 0 Andrew Johnston sale@drewjoh.com TX United States US sale@drewjoh.com Andrew Johnston Andrew Johnston 6117 Magnolia Katy TX United States US 77493 Standard Shipping 0 1 H4EACPXL 0 Web Store Canceled Paid PayPal Processing
+11 SsC4zlTFjW5X3Lp1 64.91.214.126 0 2008-09-11 02:34:22 2008-09-11 02:34:22 mm 21.63 0 1.65 21.63 0 1.65 0 0 Andrew Johnston sale@drewjoh.com 6117 Magnolia Katy TX 77493 United States US 2813918469 sale@drewjoh.com Andrew Johnston Andrew Johnston 6117 Magnolia Katy TX United States US 77493 Standard Shipping 0 1 LPFMYAXJ 0 Web Store Canceled Paid Credit Card No Shipment
+12 SsC4zlTFjW5X3Lp1 64.91.214.126 0 2008-09-11 02:38:49 2008-11-14 03:12:24 mm 36.71 5.95 2.8 36.71 5.95 2.8 0 0 Andrew Johnston sale@drewjoh.com 6117 Magnolia Katy TX 77493 United States US 2813918469 sale@drewjoh.com Andrew Johnston Andrew Johnston 6117 Magnolia Katy TX United States US 77493 Standard Shipping 0 1 N6YWMST2 0 Web Store Canceled Refunded Credit Card No Shipment
+13 SsC4zlTFjW5X3Lp1 64.91.214.126 0 2008-09-11 02:55:00 2008-09-11 02:55:00 mm 12.98 0 0.99 12.98 0 0.99 0 0 Andrew Johnston sale@drewjoh.com 6117 Magnolia Katy TX 77493 United States US 2813918469 sale@drewjoh.com Andrew Johnston Andrew Johnston Johnston 6117 Magnolia Katy TX United States US 77493 Standard Shipping 0 3 T7JU4RXG 0 Web Store Canceled Paid PayPal No Shipment
+14 sd3LmHcOwt4k2p9W 98.198.199.61 0 2008-11-12 09:31:25 2008-11-13 20:11:22 mm 174.59 7.95 13.31 174.59 7.95 13.31 0 0 Wally Farkas wallyfarkas@gmail.com 6626 Rolla Street Houston TX 77055 United States US 2813006407 wallyfarkas@gmail.com Wally Farkas Wally Farkas 6626 Rolla Street Houston TX United States US 77055 Standard Shipping 0 25 2PUSKCZX 0 Web Store Canceled Refunded Credit Card Not Shipped
+15 sd3LmHcOwt4k2p9W 98.198.199.61 0 2008-11-13 21:36:45 2008-11-13 22:28:03 mm 124.86 4.95 9.52 124.86 4.95 9.52 0 0 THIS IS ONLY A TEST! Wally Farkas wallyfarkas@gmail.com 6626 Rolla St. Houston TX 77055 United States US 281-300-6407 wallyfarkas@gmail.com Wally Farkas Wally Farkas 6626 Rolla St. Houston TX United States US 77055 Standard Shipping 0 1 S6E7ATN2 0 Web Store Canceled Refunded Credit Card Not Shipped
+16 Md0c97hOv5ZJW8KC 72.179.45.57 0 2008-11-14 02:21:16 2008-11-14 18:57:57 mm 25.9 4.95 1.97 25.9 4.95 1.97 0 0 Timothy Harold paypalthings@timothyharold.com TX United States US paypalthings@timothyharold.com Timothy Harold Timothy Harold 3820-A Duval Street Austin TX United States US 78751 Standard Shipping 0 1 TRK54CZP 0 Web Store Completed Paid PayPal Shipped Complete
+97 H1G5YZv4Kt9U3X6z 76.0.133.255 0 2008-11-17 20:28:36 2008-11-18 03:10:07 mm 41.91 5.95 0 41.91 5.95 0 0 0 neil leach glasseye76@embarqmail.com SC United States US glasseye76@embarqmail.com neil leach neil leach 236 hardwood loop greenwood SC United States US 29646 Standard Shipping 0 1 X38WRH2U 0 Web Store Completed Paid PayPal Shipped Complete
+98 NRWl8CFzy0qZbG3t 207.63.113.97 0 2008-11-17 22:20:14 2008-11-18 00:34:03 mm 23.93 4.95 0 23.93 4.95 0 0 0 Theodore Giebel tedig7679@hotmail.com P.O. Box 46 Kaneville IL 60144 United States US 5636504211 tedig7679@hotmail.com Theodore Giebel Theodore Giebel P.O. Box 46 Kaneville IL United States US 60144 Standard Shipping 0 1 VLMTRKU9 0 Web Store Completed Paid Credit Card Shipped Complete
+99 V7dRsv5yCIm2Hc0N 75.161.237.130 0 2008-11-17 22:57:53 2008-11-18 03:14:44 mm 41.91 5.95 0 41.91 5.95 0 0 0 Timothy E Andrews timandrews99@gmail.com MN United States US timandrews99@gmail.com Timothy E Andrews Timothy E Andrews 5656 21st Ave S Minneapolis MN United States US 55417 Standard Shipping 0 1 JAPSE7LV 0 Web Store Completed Paid PayPal Shipped Complete
+100 DAW3nBXRMrP18JVC 82.25.72.223 0 2008-11-18 05:29:22 2008-11-18 21:48:58 mm 27.43 8.45 0 27.43 8.45 0 0 0 Tim Clark mothclark@ntlworld.com TX United Kingdom GB mothclark@ntlworld.com Tim Clark Tim Clark 18 Newland Close Eynsham Witney Oxfordshire United Kingdom GB OX29 4LE Standard Shipping 0 1 X8A5L69F 0 Web Store Completed Paid PayPal Shipped Complete
+101 WE9QID5KyczGhq1X 65.54.154.24 0 2008-11-18 05:34:37 2008-11-18 21:41:22 mm 40.4 5.95 0 40.4 5.95 0 0 0 Angelo Scanzelli Gamerocker@msn.com TX United States US Gamerocker@msn.com Angelo Scanzelli Angelo Scanzelli 303 Poplar Street Catasauqua PA United States US 18032 Standard Shipping 0 1 X8V6DLA2 0 Web Store Completed Paid PayPal Shipped Complete
+102 YRt035DqUwEzyxBG 192.229.17.103 0 2008-11-18 10:27:44 2008-11-18 21:54:23 mm 27.43 8.45 0 27.43 8.45 0 0 0 Neil Ruff neil.ruff@btinternet.com 2 Oak Corner Beare Green Dorking Surrey RH5 4SG United Kingdom GB +44 7717 747 47 neil.ruff@btinternet.com Neil Ruff Neil Ruff Ruff 2 Oak Corner Beare Green Dorking Surrey United Kingdom GB RH5 4SG Standard Shipping 0 1 XRNZP5HY 0 Web Store Completed Paid PayPal Shipped Complete
+103 gcG8Z3SCrA4hPkyQ 65.40.152.219 0 2008-11-18 12:30:54 2008-11-18 19:45:01 mm 23.93 4.95 0 23.93 4.95 0 0 0 Peter Russell peterbagel@hotmail.com 8740 Country View Ave Las Vegas NV 89129 United States US 702-767-2189 peterbagel@hotmail.com Peter  Russell Peter Russell 8740 Country View Ave Las Vegas NV United States US 89129 Standard Shipping 0 1 TSYDX1N2 0 Web Store Completed Paid Credit Card Shipped Complete
+104 ZnQwjK7xUOJBLk5F 90.221.233.41 0 2008-11-18 12:56:30 2008-11-18 22:22:39 mm 27.43 8.45 0 27.43 8.45 0 0 0 Jonathan Casey jonathan@casey3007.fsnet.co.uk 34, Hampton Street Bartonsham Hereford Herefordshire HR1 2RA United Kingdom GB 01432344362 jonathan@casey3007.fsnet.co.uk Jonathan Casey Jonathan Casey 34, Hampton Street Bartonsham Hereford Herefordshire United Kingdom GB HR1 2RA Standard Shipping 0 1 A627SMGW 0 Web Store Completed Paid Credit Card Shipped Complete
+105 RAH7kn582BxTO4Qz 81.152.73.152 0 2008-11-18 13:03:48 2008-11-19 08:58:08 mm 45.41 9.45 0 45.41 9.45 0 0 0 Justin Spinney spinneyjunior@gmail.com 6 Hart Road Dorking Surrey RH4 1JS United Kingdom GB 01306 888750 spinneyjunior@gmail.com Justin Spinney Justin Spinney 6 Hart Road Dorking Surrey United Kingdom GB RH4 1JS Standard Shipping 0 1 N45C81TE 0 Web Store Completed Paid Credit Card Shipped Complete
+106 rP8A5Fs7Wt0Ln4cX 83.193.106.16 0 2008-11-18 15:13:02 2008-11-19 09:06:00 mm 43.41 9.45 0 43.41 9.45 0 0 0 philippe brocas brocas.philippe@orangr.fr TX France FR brocas.philippe@orangr.fr philippe brocas philippe brocas route d'ahetze maison sagardian st.pée sur nivelle France FR 64310 Standard Shipping 0 1 EDLANGM4 0 Web Store Completed Paid PayPal Shipped Complete
+497 Gm067KlIFjhDgy2d 87.217.183.120 0 2008-12-05 17:20:56 2008-12-05 18:20:18 mm 43.41 9.45 0 43.41 9.45 0 0 0 Enrique Verdion Mora keykeywwr@gmail.com TX Spain ES keykeywwr@gmail.com Enrique Verdion Mora Enrique Verdion Mora Calle Isla de Cerdena 1. 3 a Caceres Caceres Spain ES 10001 Standard Shipping 0 1 FWK2N91D 0 Web Store Completed Paid PayPal Shipped Complete
+498 8mhwkCIyXMfB2z4J 66.81.246.157 0 2008-12-05 17:34:40 2008-12-05 18:25:18 mm 23.93 4.95 0 23.93 4.95 0 0 0 William McDowell wildbill866@earthlink.net 8204 Caminito Sonoma La Jolla CA 92037 United States US wildbill866@earthlink.net William McDowell William McDowell 8204 Caminito Sonoma La Jolla CA United States US 92037 Standard Shipping 0 1 LAZKNWYD 0 Web Store Completed Paid Credit Card Shipped Complete
+499 XmfLrJj9v28bUGNR 71.173.245.159 0 2008-12-05 18:02:58 2008-12-05 18:27:58 mm 19.93 4.95 0 19.93 4.95 0 0 0 Greg Distefano gstef66@hotmail.com 2010 William Penn Way Lancaster PA 17601 United States US gstef66@hotmail.com Greg Distefano Greg Distefano 2010 William Penn Way Lancaster PA United States US 17601 Standard Shipping 0 1 64L8G3T7 0 Web Store Completed Paid Credit Card Shipped Complete
+500 4MC3vcBOh6JVGRqr 68.12.78.147 0 2008-12-05 18:28:00 2008-12-05 18:30:45 mm 19.93 4.95 0 19.93 4.95 0 0 0 jack hearn jack.hearn@cox.net OK United States US jack.hearn@cox.net jack hearn jack hearn 2315 N.W. 36th oklahoma city OK United States US 73112 Standard Shipping 0 1 8YR1K2H9 0 Web Store Completed Paid PayPal Shipped Complete
+501 X9qGlpcKzWHL8sS0 98.194.113.183 0 2008-12-05 18:31:01 2008-12-05 18:37:16 mm 21.57 4.95 1.64 21.57 4.95 1.64 0 0 george fedee gfedeejr2000@yahoo.com 18234 noble forest dr humble TX 77346 United States US gfedeejr2000@yahoo.com george fedee george fedee fedee 18234 noble forest dr humble TX United States US 77346 Standard Shipping 0 1 NRVEK5XP 0 Web Store Completed Paid PayPal Shipped Complete
+502 Ad4bLMFh7DGOE9Tw 210.10.173.4 0 2008-12-05 18:37:46 2008-12-05 18:47:06 mm 59.39 10.45 0 59.39 10.45 0 0 0 ben keyzer benkeyzer@yahoo.com.au TX Australia AU benkeyzer@yahoo.com.au ben keyzer ben keyzer 19 Gurwood ST WAGGA WAGGA New South Wales Australia AU 2650 Standard Shipping 0 1 3EAL9WYR 0 Web Store Completed Paid PayPal Shipped Complete
+503 cts3wqh8ZKb5Pm6R 170.35.224.63 0 2008-12-05 18:44:55 2008-12-05 18:55:17 mm 23.93 4.95 0 23.93 4.95 0 0 0 Dean Horne chefdean22@msn.com 1290 Tricia Dr Fayetteville NC 28314 United States US 9107289190 chefdean22@msn.com Ashley  Coggin Ashley Coggin 724 Hay St Fayetteville NC United States US 28301 Standard Shipping 0 1 CP1FNW6Y 0 Web Store Completed Paid Credit Card Shipped Complete
+504 Ad4bLMFh7DGOE9Tw 210.10.173.4 0 2008-12-05 18:50:12 2008-12-05 18:50:12 mm 1.49 0 0 1.49 0 0 0 0 ben keyzer benkeyzer@yahoo.com.au TX Australia AU benkeyzer@yahoo.com.au ben keyzer ben keyzer 19 Gurwood ST WAGGA WAGGA New South Wales Australia AU 2650 Standard Shipping 0 1 PDEVZYBC 0 Web Store Completed Paid PayPal No Shipment
+505 A1M4QUj8rzBZ69pP 67.224.6.61 0 2008-12-05 20:12:34 2008-12-10 11:04:07 mm 39.91 5.95 0 39.91 5.95 0 0 0 Mark Skaar mas50436@hotmail.com TX United States US mas50436@hotmail.com Mark Skaar Mark Skaar 118 College Drive Forest City IA United States US 50436 Standard Shipping 0 1 5NEHYRBF 0 Web Store Completed Paid echeck PayPal Shipped Complete
+506 G9HzZOpTVXtJAd7N 76.25.143.33 0 2008-12-05 20:37:10 2008-12-05 20:53:33 mm 23.93 4.95 0 23.93 4.95 0 0 0 Dan Gutchess classicarcaderesource@comcast.net 909 S. Ames St. Lakewood CO 80226 United States US classicarcaderesource@comcast.net Dan Gutchess Dan Gutchess Gutchess 909 S. Ames St. Lakewood CO United States US 80226-4815 Standard Shipping 0 1 RZSWUJHM 0 Web Store Completed Paid PayPal Shipped Complete
+997 ZHlncOvVM4AptBG5 67.84.101.53 0 2008-12-23 14:25:46 2008-12-23 14:32:54 mm 54.89 6.95 0 54.89 6.95 0 0 0 Sterling Nealy lance@nealy.net NJ United States US lance@nealy.net Sterling Nealy Sterling Nealy PO Box 687 Hoboken NJ United States US 07030 Standard Shipping 0 1 1FDS5EKT 0 Web Store Completed Paid PayPal Shipped Complete
+998 F4lr2AE7OP0YJ1Tk 129.7.89.129 0 2008-12-23 16:21:56 2008-12-23 21:36:12 mm 21.57 4.95 1.64 21.57 4.95 1.64 0 0 Met Ty on Saturday night and he told me to come here and by Balance. :) William Little willflittle@msn.com 2541 Du Lac Trace Seabrook TX 77586 United States US 2819232078 willflittle@msn.com William Little William Little Little 2541 Du Lac Trace Seabrook TX United States US 77586 Standard Shipping 0 1 BXT6M8PS 0 Web Store Completed Paid PayPal Shipped Complete
+999 E1ITPDYFMKG4LBfs 66.82.162.18 0 2008-12-23 18:33:59 2008-12-24 00:13:29 mm 39.91 5.95 0 39.91 5.95 0 0 0 diane phillips deewoodrow@hughes.net 2297 allison mill rd. talladgea AL 35160 United States US 2563626820 deewoodrow@hughes.net diane phillips diane phillips 2297 allison mill rd. talladgea AL United States US 35160 Standard Shipping 0 1 5671DJRH 0 Web Store Completed Paid Credit Card Shipped Complete
+1000 EjWr8K2ZtmAf4klC 69.239.204.130 0 2008-12-23 20:10:09 2008-12-23 20:10:09 mm 14.06 0 0 14.06 0 0 0 0 Ed Alonzo artguy2000@hotmail.com 1300 W. Kaweah Ave Visalia CA 93277 United States US 559-734-1522 artguy2000@hotmail.com Ed Alonzo Ed Alonzo 1300 W. Kaweah Ave Visalia CA United States US 93277 Standard Shipping 0 1 VLT13BR9 0 Web Store Completed Partial Refund Credit Card No Shipment
+1001 KdXQwLhVWp928CAJ 68.35.29.36 0 2008-12-23 22:07:13 2008-12-24 00:18:23 mm 41.91 5.95 0 41.91 5.95 0 0 0 Jennifer Hopper blueskies117@hotmail.com 2350 Saturn Circle Las Cruces NM 88012 United States US 575-202-7200 blueskies117@hotmail.com Jennifer Hopper Jennifer Hopper 2350 Saturn Circle Las Cruces NM United States US 88012 Standard Shipping 0 1 BK3C2ZGY 0 Web Store Completed Paid Credit Card Shipped Complete
+1002 cgA312kTRptjmhOZ 75.111.114.32 0 2008-12-24 00:03:06 2008-12-24 00:03:06 mm 12.99 0 0 12.99 0 0 0 0 William P Borden info@billyborden.com TX United States US info@billyborden.com William P Borden William P Borden 1316 Sheldon Clovis NM United States US 88101 Standard Shipping 0 1 ZP6KDW8E 0 Web Store Completed Paid PayPal No Shipment
+1003 GYs58CbhUIMvpKJq 24.243.20.241 0 2008-12-24 01:00:36 2008-12-24 08:58:06 mm 54.56 4.95 4.16 54.56 4.95 4.16 0 0 William Labbe will@instant.net TX United States US will@instant.net William Labbe William Labbe 12222 Vance Jackson Rd Apt. 1521 San Antonio TX United States US 78230 Standard Shipping 0 1 9GLFNXZ8 0 Web Store Completed Paid PayPal Shipped Complete
+1004 45VjPkTYUERs9qcA 24.98.50.227 0 2008-12-24 03:55:40 2008-12-24 09:03:38 mm 35.91 5.95 0 35.91 5.95 0 0 0 steve halm halmster@hotmail.com 1390 jefferson ave east point GU 30344 United States US halmster@hotmail.com steve halm steve halm 1390 jefferson ave east point GU United States US 30344 Standard Shipping 0 1 39E7LUVP 0 Web Store Completed Paid Credit Card Shipped Complete
+1005 gvl93ftLjAyhRHIO 98.217.20.67 0 2008-12-24 13:47:18 2008-12-26 13:38:03 mm 19.93 4.95 0 19.93 4.95 0 0 0 Mark Fields xMetalMarkx@gmail.com TX United States US xMetalMarkx@gmail.com Mark Fields Mark Fields 53 Highland Street Avon MA United States US 02322-1308 Standard Shipping 0 1 5L76ZGN1 0 Web Store Completed Paid PayPal Shipped Complete
+1006 3zXRUOrGKxf4qSTY 62.224.173.168 0 2008-12-24 16:14:14 2008-12-24 16:14:14 mm 1.49 0 0 1.49 0 0 0 0 atakan celik touchme-imsick@gmx.net TX Germany DE touchme-imsick@gmx.net atakan celik atakan celik paul-gerhardtstr.3 heilbronn Germany DE 74078 Standard Shipping 0 1 XGLENYRW 0 Web Store Completed Paid PayPal No Shipment
+1997 QSnKmpy07wN28sIZ 69.204.251.104 0 2009-06-14 16:24:03 2009-06-15 12:13:34 mm 23.93 4.95 0 23.93 4.95 0 0 0 Neal Davis roscopeeco@mac.com NY United States US roscopeeco@mac.com Neal Davis Neal Davis Davis 355 South End Avenue Apt 24D New York NY United States US 10280 Standard Shipping 0 1 GVL8F9AC 0 Web Store Completed Paid PayPal Shipped Complete
+1998 RkCr2NGPs3QTbhd4 69.203.2.148 0 2009-06-14 22:28:12 2009-06-14 22:28:12 mm 27.46 0 0 27.46 0 0 0 0 elmer colon lagares@gmail.com NY United States US lagares@gmail.com elmer colon elmer colon 143 Avenue B Apt.6C New York NY United States US 10009 Standard Shipping 0 1 V7JCL1N5 0 Web Store Completed Paid PayPal No Shipment
+1999 3l9GvZx5WHESyjRD 68.193.5.56 0 2009-06-14 22:35:12 2009-06-15 12:22:16 mm 23.93 4.95 0 23.93 4.95 0 0 0 Dan merchan Dmerchan30@aol.com 120 kanouse st. Boonton NJ 07005 United States US 9734521628 Dmerchan30@aol.com edward merchan edward merchan 120 kanouse st. Boonton NJ United States US 07005 Standard Shipping 0 1 5AZJBS1K 0 Web Store Completed Paid Credit Card Shipped Complete
+2000 OcSUqN2lKYEVy1z0 192.75.95.127 0 2009-06-15 10:57:12 2009-06-15 13:00:39 mm 21.93 4.95 0 21.93 4.95 0 0 0 Jim Rice ad092@chebucto.ns.ca TX Canada CA ad092@chebucto.ns.ca Jim Rice Jim Rice 19 Deepwood Crescent Halifax NS Canada CA B3M 2Y5 Standard Shipping 0 1 T128EL3N 0 Web Store Completed Paid PayPal Shipped Complete
+2001 5xpZSHVYPksDUIE3 77.86.62.202 0 2009-06-15 15:39:01 2009-06-15 15:39:02 mm 12.99 0 0 12.99 0 0 0 0 Gencer Hassan email@gencerhassan.co.uk 28 Northdale Park Swanland North Ferriby Humberside HU143RH United Kingdom GB +447748470314 email@gencerhassan.co.uk Gencer Hassan Gencer Hassan 28 Northdale Park Swanland North Ferriby Humberside United Kingdom GB HU143RH Standard Shipping 0 1 F246PKD1 0 Web Store Completed Paid Credit Card No Shipment
+2002 VnNrRH8G9Ip2bXPB 204.114.1.20 0 2009-06-15 16:20:03 2009-06-18 23:39:40 mm 19.93 4.95 0 19.93 4.95 0 0 0 Nick Ferrara nferrara@pdcn.org 956 Second Ave Franklin Square NY 11010 United States US 516-352-1774 nferrara@pdcn.org Nick Ferrara Nick Ferrara 956 Second Ave Franklin Square NY United States US 11010 Standard Shipping 0 1 KFP1957A 0 Web Store Completed Paid Credit Card Shipped Complete
+2003 FQkVcXTNhv6pxr79 72.213.54.10 0 2009-06-15 22:07:14 2009-06-18 23:44:57 mm 39.91 5.95 0 39.91 5.95 0 0 0 Brian Harrison brianharrison@cox.net NE United States US brianharrison@cox.net Brian Harrison Brian Harrison 7804 Lakeview ST Ralston NE United States US 68127 Standard Shipping 0 1 CTK2RA17 0 Web Store Completed Paid PayPal Shipped Complete
+2004 RDdxl6q5WbV01PS9 12.69.3.250 0 2009-06-16 07:32:31 2009-06-18 23:48:43 mm 25.9 4.95 1.97 25.9 4.95 1.97 0 0 Brian Terrell brianterrell@ymail.com 2626 Lombardy Dr. Port Arthur TX 77642 United States US (409) 454-2090 brianterrell@ymail.com Brian Terrell Brian Terrell 2626 Lombardy Dr. Port Arthur TX United States US 77642 Standard Shipping 0 1 C869EY3A 0 Web Store Completed Paid Credit Card Shipped Complete
+2005 NnIVjySbHqGPmrU5 70.243.110.208 0 2009-06-16 18:20:13 2009-06-16 18:20:13 mm 16.23 0 0 16.23 0 0 0 0 Jeff Reed jeffreed01@yahoo.com 1974 E. Stoneridge Drive Springfield MO 65803 United States US 417-833-5520 jeffreed01@yahoo.com Jeff Reed Jeff Reed 1974 E. Stoneridge Drive Springfield MO United States US 65803 Standard Shipping 0 1 HP4UV3ZG 0 Web Store Completed Partial Refund Credit Card No Shipment
+2006 5IFgmvds6tpnLyVP 99.157.205.46 0 2009-06-16 20:06:17 2009-06-18 23:56:36 mm 19.93 4.95 0 19.93 4.95 0 0 0 Matthew Prophet matthewprophet@gmail.com 1434 Homans Ave. San Leandro CA 94577 United States US matthewprophet@gmail.com Matthew Prophet Matthew Prophet 1434 Homans Ave. San Leandro CA United States US 94577 Standard Shipping 0 1 L4683NZD 0 Web Store Completed Paid Credit Card Shipped Complete 
++++++++++
+db416633010 - pages:(5)
+page_id,page_author,page_location,date_created,date_modified,begin_date,expire_date,page_status,title,url_title,content
+1 1 mm 2008-04-24 13:18:02 2008-04-28 16:33:47 2008-04-24 00:00:00 2030-04-24 00:00:00 Welcome Page welcome_page Welcome!
+2 1 mm 2008-04-24 13:21:15 2010-11-25 15:06:53 2008-04-24 00:00:00 2030-04-24 00:00:00 Shipping Information first_time_buyer <p>&nbsp;</p><p><strong><u>U.S. Orders:</u></strong></p><p>&nbsp;</p><p>All orders placed within the United States are shipped USPS First Class with delivery confirmation.</p><p>&nbsp;</p><p><strong><u>Orders Placed Outside the U.S.:</u></strong></p><p>&nbsp;</p><p><strong><font color="#0000ff"><u>All international orders</u></font></strong> are shipped via United States Postal Service. However, shipments to your country are not insured and <strong><font color="#ff0000"><u>are sent at your own risk</u></font></strong>, as uninsured postal shipments cannot be tracked.</p><p>&nbsp;</p><p>International orders are shipped out promptly, but can take up to several weeks to arrive. Any customs/import duties are to be paid by the buyer. Molken Music is not responsible for any import duties or additional fees on the receiving end of the transaction.</p><p>&nbsp;</p><p><strong><u class="redbox"><font color="#0000ff">Molken Music is not responsible for international orders lost in transit.</font></u></strong></p><p>&nbsp;</p><p>All prices shown are in USD.&nbsp;</p><p align="justify">&nbsp;</p><p><strong><u>Texas Sales Tax:</u></strong></p><p>&nbsp;</p><p>All orders&nbsp;in Texas will be subject to 8.25% sales tax. (This also&nbsp;applies to MP3&nbsp;download orders.)</p><p>&nbsp;</p><p>&nbsp;</p>
+3 1 mm 2008-04-28 14:27:39 2008-11-13 20:57:16 2008-04-28 00:00:00 2030-04-28 00:00:00 Frequently Asked Questions FAQ <h2>What quality are the MP3 downloads?</h2><div style="margin: 10px">Not all download releases are encoded at the same Kbps rate. Please refer to the details section of a specific title for information. All MP3 files are encoded&nbsp;with a 44.1Khz sample rate.</div><br /><h2>How do I download the files after I order? How many times can I download them?</h2><div style="margin: 10px">After your payment has been submitted and processed (usually right away), you&#39;ll be given a download key and a link to go to for your MP3 downloads. From there just click the &quot;Download&quot; links next to each song and save the MP3s to your computer. Currently we have a limit of 2 downloads per album per computer. <br /><br />We suggest you download all your purchased MP3s once and save them in a secure location. Then if you ever happen to accidentally erase or lose your MP3s, you can come back and download them again.</div><br /><h2>Can I share them with my friends or distribute them on networks?</h2><div style="margin: 10px">Please help support us and refer friends to our online store to purchase their own copy of music.&nbsp;Giving and sharing songs isn&#39;t fair to any artist who makes music and doesn&#39;t allow you to continue to help support us. <br /><br /></div><br /><h2>How can I pay for my order?</h2><div style="margin: 10px">During the CHECKOUT process, you will have the option to pay by Credit Card or Paypal. This site does not accept mail payments for digital downloads.<br /><br />Credit card charges should appear on your credit card bill as &quot;MOLKEN MUSIC.&quot; Currency conversion to U.S. dollars is handled automatically. </div><br /><h2>Why can&#39;t I add anything to my shopping cart?</h2><div style="margin: 10px">Please make sure that you have cookies enabled. - This problem commonly happens if you have cookies disabled, or if you have your browser set to destroy cookies after a short period of time. Other things that can cause problems is if your ISP uses rotating proxies (usually only a problem for AOL dial-up users). A rotating proxy will cause your IP address to change randomly at any time, which is part of how we track shopping cart items.</div><br /><h2>Why won&#39;t my credit card go through?</h2><div style="margin: 10px">If you experience problems processing your credit card, or receive the message &quot;Unknown Error&quot;, please <a href="/store/support/">contact us</a> and we can help fix the problem.</div><br /><h2>I keep getting a &quot;Gateway Declined&quot; or &quot;Processor Declined&quot; error message? <a name="gateway_declined" title="gateway_declined"></a></h2><div style="margin: 10px">We apologize for this. There are many reasons that you may be receiving this error message. Some if them are: <br /><ol><li><strong>The billing address you provided does not match what the credit processor is expecting or has on file.</strong> -- (This is the most common reason) You might try changing the address or telephone number to what might be better expected (ie: &quot;1234 Jones Road Apartment 31 A&quot; to &quot;1234 Jones Rd Apt 31A&quot;) The address often has to be almost exactly as it appears on your credit card bill.</li><li><strong>Only part of your address matched.</strong> -- Some banks are more picky than others about the billing address.</li><li><strong>The credit card information is incorrect.</strong> -- (Second most common problem) Please make sure you entered your name, card number and CVV number in correctly.</li><li><strong>You are using a gift card.</strong> <a href="#gift_card">See more information here</a>.</li></ol>If you continue to have problems, please feel free to <a href="/store/support/">contact us</a>.</div><br /><h2>I&#39;m using a Visa or Mastercard Gift Card (Check Card)? <a name="gift_card" title="gift_card"></a></h2><div style="margin: 10px">We apologize for this. Because our credit processor requires a billing address to match the billing address of a credit card, this presents a problem with gift cards, since there is no billing address for them. Because of this they are automatically refused, and the &quot;pending charge&quot; can take a while to disappear. <br /><br />If this has happened to you, please call the number on the back of the card, and ask for the information from them for us to contact them about releasing the charge since it will never go through (and your card will not be charged). You can also call this number in advance and have a billing address added so that the card will process correctly.<br /></div><br /><h2>Why are there charges on my credit card that shouldn&#39;t be there? <a name="charges" title="charges"></a></h2><div style="margin: 10px">This most commonly happens when you get a &quot;gateway declined&quot; or &quot;processor declined&quot; error message during checkout. You will see &quot;pending transactions&quot; on your online banking.<br /><br />Don&#39;t worry though! Your card has NOT been charged and no funds will be taken from your account. This is simply an indication that we tried to charge your card but failed. <br /><br />The &quot;pending transaction&quot; will drop off in a few days time. (Usually within 48 hours, but sometimes up to a week) If you have any other questions about this, please <a href="/store/support/">contact us</a>.</div>
+4 1 mm 2008-11-11 10:38:41 2008-11-11 11:12:42 2008-11-11 00:00:00 2030-11-11 00:00:00 Privacy Policy privacy_policy <div class="full_page_articles"><p>We know that how information about you is gathered, used and shared is very important to you, and we appreciate the trust you put in us. We tell you just how we do those three things in our privacy policy. You accept this policy when you visit the Molken Music Web Store. </p><p>&nbsp;</p><p><strong>What Personal Information Does The Molken Music Web Store Gather? </strong></p><p>The information we learn from registered members (implemented in the future) helps us personalize and continuously improve your benefit of the Molken Music Web Store. Here are the types of information we gather. </p><p>&nbsp;</p><ul><li><strong>Information You Give Us: </strong>We receive and store any information you enter on our Web site or give us in any other way, <strong>not</strong> including credit card information. We use the information that you provide for such purposes as responding to your requests, improving our content, content offerings and website, communicating with you and processing orders. </li><li><strong>Automatic Information: </strong>We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use &quot;cookies,&quot; and we obtain certain types of information when your Web browser accesses the Molken Music Web Store. </li><li><strong>E-mail Communications: </strong>To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from the Molken Music Web Store if your computer supports such capabilities. </li></ul><p><strong>What&#39;s Up With Cookies? </strong></p><ul><li>Cookies are alphanumeric identifiers that the web site transfers to your computer&#39;s hard drive through your Web browser to allow our systems to recognize your browser and to provide personalized logins and to store information specific to you between visits. No personal information about you is stored in the cookies we use. </li><li>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies are required to allow you to enjoy a convenient and effective experience so we recommend that you leave them turned on. </li></ul><p><strong>Does the Molken Music Web Store Share the Information It Receives? </strong></p><p>We are not in the business of selling its information to others. We share customer information only as described below. We do not sell or lend your information to anyone.</p><p>&nbsp;</p><ul><li><strong>Agents: </strong>If we employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments and store orders. They have access to personal information needed to perform their functions, but may not use it for other purposes. </li><li><strong>Protection of the Molken Music Web Store and Others: </strong>We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Molken Music and/or this site, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from registered users for commercial purposes in violation of the commitments set forth in this Privacy Notice.</li></ul><p><strong>How Secure Is Information About Me? </strong></p><ul><li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. </li><li>We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. </li><li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. </li></ul><p><strong>Self-Identifying Information </strong></p><p>You provide such information when you search, buy or communicate with customer service. For example, you provide information when you place an order through the Molken Music Web Store or&nbsp;provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us). As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; and product preferences. We will <strong>never</strong> ask for your credit card information through e-mail or IM.</p><strong>Automatic Information </strong><p>Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history, the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for. During some visits we may use software tools such as JavaScript or PHP to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. </p></div>
+5 1 mm 2008-11-11 10:39:14 2008-11-11 11:14:03 2008-11-11 00:00:00 2030-11-11 00:00:00 Copyright copyright <div class="full_page_articles"><p><strong>All rights, including copyright, in the content of these MolkenMusic.com domain and sub-domain web pages are owned or controlled for these purposes by MolkenMusic.com.</strong></p><p>In accessing the web pages, you agree that you may only download the content for your own personal non-commercial use.</p><p>You are not permitted to copy, broadcast, download, store (in any medium), transmit, show or play in public, adapt or change in any way the content of these web pages for any other purpose whatsoever without the prior written permission of MolkenMusic.com. </p></div>
+
++++++++++
+db416633010 - paypal_cart_info:(0)
+paypal_cart_info_id,txn_id,item_name,item_number,option_selection0,option_name0,option_selection1,option_name1,quantity,invoice,custom
+
++++++++++
+db416633010 - paypal_payment_info:(12873)
+paypal_payment_info_id,payment_source,date_created,tracking_number,order_id,receiver_id,receiver_email,business,first_name,last_name,payer_id,payer_status,payer_email,payer_business_name,address_name,address_street,address_city,address_state,address_zip,address_country,address_country_code,address_status,address_phone,address_id,address_owner,residence_country,memo,item_name,item_number,option_name1,option_name2,option_selection1,option_selection2,quantity,payment_date,payment_type,txn_id,txn_type,parent_txn_id,receipt_id,num_cart_items,mc_gross,mc_fee,payment_status,pending_reason,payment_fee,payment_gross,settle_amount,settle_currency,tax,mc_currency,reason_code,custom,invoice
+1 PayPal 0000-00-00 00:00:00 1 Test User 2008-05-19T17:08:33Z 7H339575G92973056 0 0
+2 PayPal 0000-00-00 00:00:00 2 Test User 2008-05-19T17:22:04Z 32124694H4731382L 0 0
+3 PayPal 0000-00-00 00:00:00 3 Test User 2008-05-19T17:28:23Z 8EK944493A296980W 0 0
+4 PayPal 0000-00-00 00:00:00 4 YALF7LRHAQH2Q busine_1211215124_biz@gmail.com Test User TW5GBF26SXC6W verified Test User 1 Main St San Jose CA 95131 US Confirmed PayPal 2008-05-19T10:36:57Z instant 1CD405089R990712U cart 0 Completed None 0.98 23.45 0 0.00 None
+5 PayPal 0000-00-00 00:00:00 5 Test User 2008-05-19T17:44:47Z 4YK313836G3773314 0 0
+6 PayPal 0000-00-00 00:00:00 6 Test User 2008-05-19T18:01:09Z 46V612918T795323B 0 0
+7 Check 0000-00-00 00:00:00 6 Test Check 2008-05-27 0 Completed 6 0
+8 PayPal 0000-00-00 00:00:00 7 Andrew Johnston 2008-09-11T04:31:01Z 2K881171V7410090M 0 0
+9 PayPal 0000-00-00 00:00:00 8 Andrew Johnston 2008-09-11T04:42:50Z 6UV76056NU295134W 0 0
+10 PayPal 0000-00-00 00:00:00 9 Andrew Johnston 2008-09-11T05:19:15Z 6XH09595UM6873744 0 0
+91 PayPal 0000-00-00 00:00:00 90 Bernd Petrich 2008-11-17T18:35:15Z 0R8330852W2743644 0 0
+92 PayPal 0000-00-00 00:00:00 91 Tyler Weaver 2008-11-17T20:10:14Z 4K736991VW011701C 0 0
+93 PayPal 0000-00-00 00:00:00 92 MR T ROUSE 2008-11-17T20:32:06Z 5B9177989L7010921 0 0
+94 PayPal 0000-00-00 00:00:00 93 John MacRae Macrae 2008-11-17T22:07:00Z 3UF47545AP991605U 0 0
+95 PayPal 0000-00-00 00:00:00 94 Kimberly Eason 2008-11-18T00:01:15Z 38C53465C2408161W 0 0
+96 PayPal 0000-00-00 00:00:00 95 James Piacentino 2008-11-18T00:42:34Z 4X4198439S673792E 0 0
+97 PayPal 0000-00-00 00:00:00 96 Larry Yarbrough 2008-11-18T01:12:56Z 7HE86443CP635841M 0 0
+98 PayPal 0000-00-00 00:00:00 97 neil leach 2008-11-18T01:28:36Z 76V19424FR2202846 0 0
+99 PayPal 0000-00-00 00:00:00 98 Theodore Giebel 2008-11-18T03:20:14Z 95Y56188DJ415630K 0 0
+100 PayPal 0000-00-00 00:00:00 99 Timothy E Andrews 2008-11-18T03:57:53Z 5KL3718879383812J 0 0
+491 PayPal 0000-00-00 00:00:00 490 justin kerr 2008-12-05T17:47:58Z 91K0346380927891J 0 0
+492 PayPal 0000-00-00 00:00:00 491 Pekka Ranta 2008-12-05T17:56:44Z 1SV33414F7164312L 0 0
+493 PayPal 0000-00-00 00:00:00 492 John Clark 2008-12-05T18:24:20Z 42602415756618135 0 0
+494 PayPal 0000-00-00 00:00:00 493 John Clark 2008-12-05T18:27:09Z 4SX44436AC602773D 0 0
+495 PayPal 0000-00-00 00:00:00 494 Jeffery Moore 2008-12-05T19:05:30Z 0T663798U37110919 0 0
+496 PayPal 0000-00-00 00:00:00 495 Akito Kikuchi Kikuchi 2008-12-05T20:00:51Z 2PE56970PJ0083243 0 0
+497 PayPal 0000-00-00 00:00:00 496 David Rowland 2008-12-05T20:48:14Z 9GC842305W698353E 0 0
+498 PayPal 0000-00-00 00:00:00 497 Enrique Verdion Mora 2008-12-05T22:20:56Z 3AW50149RT5043340 0 0
+499 PayPal 0000-00-00 00:00:00 498 William McDowell 2008-12-05T22:34:40Z 2EM48397DL679413K 0 0
+500 PayPal 0000-00-00 00:00:00 499 Greg Distefano 2008-12-05T23:02:58Z 1G245922B36702228 0 0
+991 PayPal 0000-00-00 00:00:00 989 Chris Langford 2008-12-23T04:05:49Z 9S978934U3215525V 0 0
+992 PayPal 0000-00-00 00:00:00 990 Conor Moran 2008-12-23T08:35:17Z 0SF075883L316414E 0 0
+993 PayPal 0000-00-00 00:00:00 991 Hamilton Loomis 2008-12-23T12:09:03Z 9J61915461569464C 0 0
+994 PayPal 0000-00-00 00:00:00 992 Stefan Kessler 2008-12-23T12:56:46Z 61901489LS457060C 0 0
+995 PayPal 0000-00-00 00:00:00 993 AYA MYZOCHI 2008-12-23T15:12:50Z 7GG64071K9264715Y 0 0
+996 PayPal 0000-00-00 00:00:00 994 steve mcpherson 2008-12-23T16:34:28Z 7J831275HE470760V 0 0
+997 PayPal 0000-00-00 00:00:00 995 Eric Shupack 2008-12-23T17:35:07Z 6MC71857XA874323T 0 0
+998 PayPal 0000-00-00 00:00:00 996 Daniel Koutouzakis 2008-12-23T17:44:37Z 47507405WS331714A 0 0
+999 PayPal 0000-00-00 00:00:00 997 Sterling Nealy 2008-12-23T19:25:46Z 7J181456EN278712N 0 0
+1000 PayPal 0000-00-00 00:00:00 998 William Little Little 2008-12-23T21:21:56Z 9P544538LE5250054 0 0
+1991 PayPal 0000-00-00 00:00:00 1989 ron bormans 2009-06-13T13:42:39Z 80494378LL488003N 0 0
+1992 PayPal 0000-00-00 00:00:00 1990 Mark Delsing 2009-06-13T15:06:18Z 53905016WL107143A 0 0
+1993 PayPal 0000-00-00 00:00:00 1991 angela lainhart 2009-06-13T19:59:11Z 97L15185A4931444L 0 0
+1994 PayPal 0000-00-00 00:00:00 1992 Jeff Reed 2009-06-13T21:56:32Z 2CY13223SV913204G 0 0
+1995 PayPal 0000-00-00 00:00:00 1993 Greg Zapiecki 2009-06-14T01:24:42Z 9MK46069A9383215T 0 0
+1996 PayPal 0000-00-00 00:00:00 1994 James Kent 2009-06-14T03:33:57Z 5YB93783GW910793L 0 0
+1997 PayPal 0000-00-00 00:00:00 1995 SATORU NAGAYOSHI 2009-06-14T10:21:17Z 9GC634286Y799113G 0 0
+1998 PayPal 0000-00-00 00:00:00 1996 James Prater 2009-06-14T15:14:22Z 48X29971AH886771U 0 0
+1999 PayPal 0000-00-00 00:00:00 1997 Neal Davis Davis 2009-06-14T20:24:03Z 72P21258C9513461P 0 0
+2000 PayPal 0000-00-00 00:00:00 1998 elmer colon 2009-06-15T02:28:12Z 07R15372LR9330328 0 0 
++++++++++
+db416633010 - paypal_subscription_info:(0)
+subscr_id,sub_event,subscr_date,subscr_effective,period1,period2,period3,amount1,amount2,amount3,mc_amount1,mc_amount2,mc_amount3,recurring,reattempt,retry_at,recur_times,username,password,payment_txn_id,subscriber_emailaddress,datecreation
+
++++++++++
+db416633010 - product_download_history:(6691)
+product_download_history_id,uuid,product_id,item_id,date_created,date_modified,ip_address,order_id,download_token,download_count
+2 52cd3124-00c7-102c-8e2d-003048786e56 0 5 2008-11-10 17:30:13 2008-11-10 17:30:13 98.198.199.61 10 H4EACPXL 1
+3 80980ae2-0221-102c-8e2d-003048786e56 0 5 2008-11-12 10:48:16 2008-11-12 12:47:30 98.198.199.61 14 2PUSKCZX 2
+4 bfe06936-0232-102c-8e2d-003048786e56 0 7 2008-11-12 12:51:43 2008-11-12 12:51:43 98.198.199.61 14 2PUSKCZX 1
+5 717eeed8-0233-102c-8e2d-003048786e56 0 9 2008-11-12 12:56:41 2008-11-12 13:24:50 98.198.199.61 14 2PUSKCZX 2
+6 5fc5af0a-0234-102c-8e2d-003048786e56 0 11 2008-11-12 13:03:21 2008-11-12 13:38:26 98.198.199.61 14 2PUSKCZX 2
+7 05e5233e-0235-102c-8e2d-003048786e56 0 12 2008-11-12 13:08:00 2008-11-12 13:26:12 98.198.199.61 14 2PUSKCZX 2
+8 4f30edf2-0235-102c-8e2d-003048786e56 0 13 2008-11-12 13:10:03 2008-11-12 13:35:07 98.198.199.61 14 2PUSKCZX 2
+9 886aa1f8-0235-102c-8e2d-003048786e56 0 14 2008-11-12 13:11:39 2008-11-12 13:11:39 98.198.199.61 14 2PUSKCZX 1
+10 cc55575a-0235-102c-8e2d-003048786e56 0 15 2008-11-12 13:13:33 2008-11-12 13:37:27 98.198.199.61 14 2PUSKCZX 2
+11 d6817ae0-0237-102c-8e2d-003048786e56 0 16 2008-11-12 13:28:09 2008-11-12 13:51:03 98.198.199.61 14 2PUSKCZX 2
+100 95f504a2-15e6-102c-8e2d-003048786e56 0 20 2008-12-07 14:36:54 2008-12-07 14:36:54 24.99.121.45 593 UH1VK74A 1
+102 fe38ea1c-15f3-102c-8e2d-003048786e56 0 20 2008-12-07 16:12:53 2008-12-07 16:12:53 24.22.60.133 598 DVJ2W8HZ 1
+103 0242245e-15f7-102c-8e2d-003048786e56 0 20 2008-12-07 16:34:28 2008-12-07 17:21:05 86.147.73.152 599 J6UNH4KZ 2
+117 4ca70454-16b7-102c-8e2d-003048786e56 0 20 2008-12-08 15:30:56 2008-12-09 19:29:22 199.43.172.254 644 87MZNT4J 3
+107 66708004-1676-102c-8e2d-003048786e56 0 20 2008-12-08 07:46:22 2008-12-08 07:46:22 195.18.140.34 615 AKBY1HE8 1
+108 853b2574-1686-102c-8e2d-003048786e56 0 16 2008-12-08 09:41:46 2008-12-08 09:41:46 71.228.223.59 622 VER32M8F 1
+109 40281bfc-168d-102c-8e2d-003048786e56 0 20 2008-12-08 10:29:56 2008-12-08 10:29:56 66.170.4.146 629 1SA2MWUK 1
+111 85973d42-169e-102c-8e2d-003048786e56 0 20 2008-12-08 12:33:34 2008-12-08 13:32:46 88.115.179.135 631 A21E376D 3
+113 63da5db4-16a4-102c-8e2d-003048786e56 0 20 2008-12-08 13:15:35 2008-12-08 14:10:54 65.15.33.178 639 NRYED1FS 2
+114 e6320df0-16a6-102c-8e2d-003048786e56 0 20 2008-12-08 13:33:32 2008-12-09 04:19:25 86.132.253.174 588 JSRXLGEP 2
+536 faad36f2-83dd-102c-8e2d-003048786e56 0 16 2009-04-26 14:12:26 2009-04-26 14:12:26 216.85.228.51 1846 LWUV213Z 1
+537 7bb1c48c-83e0-102c-8e2d-003048786e56 0 5 2009-04-26 14:30:21 2009-04-26 14:30:21 220.57.162.56 1848 6L9F5VHZ 1
+538 fc236654-84a1-102c-8e2d-003048786e56 0 5 2009-04-27 13:35:30 2009-04-27 13:35:30 97.87.100.206 1850 GPAE4JUY 1
+539 987c2f7c-84a2-102c-8e2d-003048786e56 0 7 2009-04-27 13:39:52 2009-04-27 13:39:52 97.87.100.206 1850 GPAE4JUY 1
+540 7f7b5d30-8688-102c-8e2d-003048786e56 0 12 2009-04-29 23:38:05 2009-04-29 23:38:05 74.178.178.3 1857 6YXPC4WB 1
+541 93b60102-87ef-102c-8e2d-003048786e56 0 9 2009-05-01 18:28:29 2009-05-01 18:28:29 76.19.38.124 1860 PCEL3VKB 1
+542 3fe57d84-8a45-102c-8e2d-003048786e56 0 16 2009-05-04 17:46:47 2009-05-04 17:46:47 67.244.180.207 1865 TKSR4NBZ 1
+543 f8f002e4-8a46-102c-8e2d-003048786e56 0 11 2009-05-04 17:59:07 2009-05-04 17:59:25 67.244.180.207 1865 TKSR4NBZ 2
+544 7efd75c4-8a65-102c-8e2d-003048786e56 0 13 2009-05-04 21:37:37 2009-11-04 22:01:05 98.14.164.46 1866 6FW2UR94 2
+545 8d1b991a-8a65-102c-8e2d-003048786e56 0 14 2009-05-04 21:38:01 2009-11-04 22:01:43 98.14.164.46 1866 6FW2UR94 2
+1037 df316004-2c87-11df-97c8-003048786e56 0 14 2010-03-10 15:59:52 2010-03-10 15:59:52 158.48.6.139 3554 GE16T8DF 1
+1038 fc3f57fe-2c88-11df-97c8-003048786e56 0 24 2010-03-10 16:07:50 2010-03-10 16:07:50 158.48.6.139 3554 GE16T8DF 1
+1039 5357477a-2c8b-11df-97c8-003048786e56 0 28 2010-03-10 16:24:35 2010-03-10 17:11:03 158.48.6.139 3554 GE16T8DF 3
+1040 9aa82f04-2d49-11df-97c8-003048786e56 0 16 2010-03-11 15:06:39 2010-03-11 15:06:39 69.131.176.14 3560 34PFNUKR 1
+1041 2fd22ed8-2df7-11df-97c8-003048786e56 0 7 2010-03-12 11:49:12 2010-03-12 11:49:13 69.41.14.130 3564 6MT18VCH 2
+1042 64e15120-2df8-11df-97c8-003048786e56 0 20 2010-03-12 11:57:51 2010-03-12 11:58:08 69.41.14.80 3564 6MT18VCH 3
+1043 ca00f904-2f68-11df-97c8-003048786e56 0 28 2010-03-14 08:54:55 2010-03-14 09:31:12 70.41.162.91 3581 VXZK5BTE 3
+1044 39102406-3094-11df-97c8-003048786e56 0 5 2010-03-15 20:38:21 2010-03-15 20:38:21 75.176.179.121 3601 84EJWKCD 1
+1045 31713eb2-310f-11df-97c8-003048786e56 0 12 2010-03-16 11:18:36 2010-03-16 11:18:36 92.3.161.113 3605 PK48U7BM 1
+1046 268d63a4-317d-11df-97c8-003048786e56 0 9 2010-03-17 00:25:43 2010-03-17 01:17:53 69.135.208.230 3613 7JWEMG3F 3
+2042 cd368f72-fa73-11df-b8ef-b97e49f4eecb 0 7 2010-11-27 17:15:11 2010-11-27 17:15:11 90.200.168.208 5356 XTF6YURC 1
+2043 a2f82ce0-fb57-11df-b8ef-b97e49f4eecb 0 44 2010-11-28 20:26:05 2010-11-28 20:26:05 206.51.189.70 5360 RLA5TZCD 1
+2044 79289f28-fbf5-11df-b8ef-b97e49f4eecb 0 44 2010-11-29 15:15:56 2010-11-29 15:15:56 99.20.94.173 5362 GZCUF9AB 1
+2045 ed1fad06-fdb5-11df-b8ef-b97e49f4eecb 0 45 2010-12-01 20:46:05 2010-12-01 20:46:05 98.195.109.46 5368 HB16NEC2 1
+2046 62477b80-fdb7-11df-b8ef-b97e49f4eecb 0 46 2010-12-01 20:56:31 2010-12-01 20:56:31 98.195.109.46 5368 HB16NEC2 1
+2047 7ba9179a-fdb8-11df-b8ef-b97e49f4eecb 0 47 2010-12-01 21:04:23 2010-12-01 21:04:23 98.195.109.46 5368 HB16NEC2 1
+2048 65cc31ac-fdc0-11df-b8ef-b97e49f4eecb 0 47 2010-12-01 22:01:02 2010-12-01 22:01:02 76.217.144.101 5370 SPJA61WF 1
+2049 13e4bb46-fdc2-11df-b8ef-b97e49f4eecb 0 47 2010-12-01 22:13:04 2010-12-01 22:13:04 119.242.81.97 5371 B8KY9MW2 1
+2050 481e138a-fdc2-11df-b8ef-b97e49f4eecb 0 47 2010-12-01 22:14:31 2010-12-02 05:34:46 71.97.211.108 5372 VY5NKZ2E 2
+2051 cadb9d74-fdc7-11df-b8ef-b97e49f4eecb 0 47 2010-12-01 22:53:58 2010-12-01 22:53:58 76.175.115.26 5373 3WY96DTP 1 
++++++++++
+db416633010 - product_options:(8)
+option_id,product_id,option,sort_id
+
++++++++++
+db416633010 - products:(59)
+product_id,category_id,sub_category_id,store_id,sort_id,created,modified,name,status,image,overview,description,product_price,date_in,date_out,is_digital,allow_coupon,active
+3 1 1 mm 16 2008-05-06 11:30:10 2010-03-09 14:43:41 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" (CD) active COVER.jpg Hear dUg's original multitrack demos for a dozen King's X classics!  Also features "Wars" and "Trash in Heaven" (previously unavailable anywhere).
+
+80-minute CD complete with track-by-track audio commentary. Track Listing:
+
+The World Around Me
+Wars
+I'll Never Get Tired of You
+Fine Art of Friendship
+Power of Love
+The Big Picture
+Ooh Song
+Sometime
+A Box
+Human Behavior
+Trash in Heaven
+What I Know About Love
+We Were Born to be Loved
+Faith Hope Love
+dUg's Audio Commentary
+
+Playing time: 76:02 0.00 2008-05-06 2009-05-06 no no yes
+4 2 2 mm 18 2008-05-06 11:47:07 2010-03-09 14:55:58 dUg - "Songs from the Closet (Doug Pinnick Demos Vol. 1)" (MP3) active COVER.jpg Hear dUg's original multitrack demos for a dozen King's X classics!  Also features "Wars" and "Trash in Heaven" (previously unavailable anywhere).
+
+80-minute CD complete with track-by-track audio commentary. Track Listing:
+
+The World Around Me
+Wars
+I'll Never Get Tired of You
+Fine Art of Friendship
+Power of Love
+The Big Picture
+Ooh Song
+Sometime
+A Box
+Human Behavior
+Trash in Heaven
+What I Know About Love
+We Were Born to be Loved
+Faith Hope Love
+dUg's Audio Commentary
+
+DOWNLOAD CONTENTS
+MP3 - 128kbps - 72MB
+Artwork (jpg): Cover art
+Playing time: 76:02 11.99 2008-05-06 2009-05-06 yes no yes
+5 1 1 mm 14 2008-06-11 12:32:35 2013-02-17 11:33:11 Ty Tabor - "Tacklebox (Ty Tabor Demos Vol. 1 & 2)" (2-CD) active COVER3.jpg Ty Tabor's original multitrack demos for KING'S X. Deluxe 2 CD set. 30 tracks in all. Includes three songs previously unavailable and the legendary demo for "Pleiades." Digitally remastered.
+
+Two full hours of music plus bonus audio commentary. Track Listing:
+
+DISC ONE
+About You
+It's Love
+Mr. Wilson
+The Difference (In the Garden of St. Anne's-on-the-Hill)
+Lost in Germany
+Freedom
+Life Going By
+I Can't Help It
+Fool You
+Flies and Blue Skies
+Lies in the Sand (The Ballad Of…)
+Wednesday Morning
+Cigarettes
+Silent Wind
+The Burning Down
+
+DISC TWO
+The Train
+Prisoner
+Dogman
+Selling My Soul
+Not Just for the Dead
+Dream in My Life
+Black Flag
+Had to Move
+Complain
+Legal Kill
+Goldilox
+In the New Age
+Far, Far Away
+Summerland
+Pleiades
+Ty's Audio Commentary 0.00 2008-06-11 2009-06-11 no no yes
+6 2 2 mm 14 2008-06-11 12:39:29 2013-02-17 11:33:54 Ty Tabor - "Tacklebox (Ty Tabor Demos Vol. 1 & 2)" (MP3) active COVER3.jpg Ty Tabor's original multitrack demos for KING'S X. Deluxe 2 CD set. 30 tracks in all. Includes three songs previously unavailable and the legendary demo for "Pleiades." Digitally remastered.
+
+Two full hours of music plus bonus audio commentary. Track Listing:
+
+About You
+It's Love
+Mr. Wilson
+The Difference (In the Garden of St. Anne's-on-the-Hill)
+Lost in Germany
+Freedom
+Life Going By
+I Can't Help It
+Fool You
+Flies and Blue Skies
+Lies in the Sand (The Ballad Of…)
+Wednesday Morning
+Cigarettes
+Silent Wind
+The Burning Down
+The Train
+Prisoner
+Dogman
+Selling My Soul
+Not Just for the Dead
+Dream in My Life
+Black Flag
+Had to Move
+Complain
+Legal Kill
+Goldilox
+In the New Age
+Far, Far Away
+Summerland
+Pleiades
+Ty's Audio Commentary
+
+DOWNLOAD INCLUDES:
+MP3 - 128 kbps - 120MB
+Artwork (jpg): Cover art
+Playing time: 129:00 14.99 2008-06-11 2020-06-11 yes no yes
+7 1 1 mm 15 2008-06-11 12:47:23 2010-03-09 14:44:32 King's X - "Live & Live Some More: Dallas '94" (2-CD) active front cover.jpg One of King's X's most legendary performances. Recorded in 1994 in Dallas, TX on the "Dogman" Tour. Extended versions of classics "Over My Head," "Cigarettes," and "Moanjam." Limited edition deluxe 2 CD set. 16 songs.  98 minutes. Digitally remastered. Track Listing:
+
+DISC ONE
+Complain
+Pillow
+We Were Born To Be Loved
+Black Flag
+Black the Sky
+Don't Care
+Goldilox
+Pretend
+dUg's Rap
+Over My Head
+
+DISC TWO
+Fool You
+Cigarettes
+Dogman
+It's Love
+Moanjam
+Shoes
+King 0.00 2008-06-11 2020-06-11 no no yes
+8 2 2 mm 15 2008-06-11 12:52:37 2010-03-09 14:56:30 King's X - "Live & Live Some More: Dallas '94" (MP3) active front cover.jpg One of King's X's most legendary performances. Recorded in 1994 in Dallas, TX on the "Dogman" Tour. Extended versions of classics "Over My Head," "Cigarettes," and "Moanjam." Limited edition deluxe 2 CD set. 16 songs.  98 minutes. Digitally remastered. Track Listing:
+
+Complain
+Pillow
+We Were Born To Be Loved
+Black Flag
+Black the Sky
+Don't Care
+Goldilox
+Pretend
+dUg's Rap
+Over My Head
+Fool You
+Cigarettes
+Dogman
+It's Love
+Moanjam
+Shoes
+King
+
+DOWNLOAD CONTENTS
+MP3 - 192kbps - 137MB
+Artwork (jpg): Cover art
+Playing time: 97:50 14.99 2008-06-11 2020-06-11 yes no yes
+9 1 1 mm 17 2008-06-11 12:57:48 2010-03-09 14:45:13 Xenuphobe - "2.0: Electrolux" (CD) active XENUPHOBECOVER7.jpg Xenuphobe (pronounced "zee-nu-fobe") is the psychoactive, ambient collaboration between Ty Tabor (King's X) and Wally Farkas (Galactic Cowboys).  On "2.0: Electrolux," Ty Tabor and Wally Farkas unleash the power, the fury, and the beauty of the electric guitar. This all-instrumental album features a veritable treasure chest of guitar tones to satisfy your soul. Guest appearance by Eddie Hash. Limited Edition. 53 minutes. Track Listing:
+
+MOVEMENT I
+1. Birth of a New System
+2. Four Billion Years
+3. Turiya
+
+MOVEMENT II 
+(featuring Eddie Hash)
+4. The Likeness of Where You've Been
+   a. Dawning of Knowing
+   b. Twilight Time at the Place of Being
+5. Expiration of Sound
+   a. Sound Hole
+   b. The Gallant Fall from Sound 0.00 2008-06-11 2020-06-11 no no yes
+10 2 2 mm 21 2008-06-11 13:00:21 2010-03-09 14:56:46 Xenuphobe - "2.0: Electrolux" (MP3) active XENUPHOBECOVER7.jpg Xenuphobe (pronounced "zee-nu-fobe") is the psychoactive, ambient collaboration between Ty Tabor (King's X) and Wally Farkas (Galactic Cowboys).  On "2.0: Electrolux," Ty Tabor and Wally Farkas unleash the power, the fury, and the beauty of the electric guitar. This all-instrumental album features a veritable treasure chest of guitar tones to satisfy your soul. Guest appearance by Eddie Hash. Limited Edition. 53 minutes. Track Listing:
+
+MOVEMENT I
+1. Birth of a New System
+2. Four Billion Years
+3. Turiya
+
+MOVEMENT II 
+(featuring Eddie Hash)
+4. The Likeness of Where You've Been
+   a. Dawning of Knowing
+   b. Twilight Time at the Place of Being
+5. Expiration of Sound
+   a. Sound Hole
+   b. The Gallant Fall from Sound
+
+DOWNLOAD CONTENTS
+MP3 - 320kbps - 105MB
+Artwork (jpg): Cover art, credits page
+Playing time: 53:00 11.99 2008-06-11 2020-06-11 yes no yes
+11 2 2 mm 16 2008-06-11 13:09:02 2010-03-09 14:57:02 Ty Tabor - "Naomi's Solar Pumpkin (2005 Remastered)" (MP3) active naomi copy.jpg Ty's very first solo offering. This was originally a limited edition, direct-to-consumer release in 1997 and features original recordings of some songs that were re-recorded for Tabor's "official" solo debut, "Moonflower Lane." Naomi's Solar Pumpkin also features four additional songs not found on "Moonflower Lane." Ty remastered the album in 2005, and it is now exclusively offered here, only in MP3 download format. (This download is identical to the version previously offered at www.tytabor.net). DOWNLOAD CONTENTS:
+MP3 - 128kbps - 39MB
+Artwork: N/A
+
+Track Listing:
+
+Had To Move
+Her Palace
+I Know Everything
+Walk With My Love
+Hollow Eyes
+Live in Your House
+Without You
+Boy To Man
+Wouldn’t You Like To Be
+That’s All
+
+Total playing time: 42:52 6.99 2008-06-11 2020-06-11 yes no yes
+12 2 2 mm 19 2008-06-11 13:13:47 2010-03-09 14:57:21 King's X - "Rehearsal CD Vol. 1" (MP3) active rehearsal cd copy.jpg Recorded by King's X. This was originally a limited edition, direct-to-consumer release in 2005. Lighthearted yet insightful, this recording took place at the end of a long day of setting up gear in the practice room...to ultimately begin rehearsals for an upcoming tour. Hear the band work out the bugs, glitches, and ponder what to play next before laying down some beautiful funk ("Can't Stop Playing"). (This download is identical to the version previously offered at www.tytabor.net). DOWNLOAD CONTENTS:
+MP3 - 128kbps - 24MB
+Artwork: N/A
+
+Track Listing:
+
+Almost Little Bit of Soul
+Whose Phone Is That?
+Let’s Go Disco
+Almost Mr. Evil
+Can’t Stop Playing
+Jerry’s Gone
+
+Total playing time: 25:25 7.99 2008-06-11 2020-06-11 yes no yes
+
++++++++++
+db416633010 - shipping_classes:(11)
+shipping_class_id,name,first_item_cost,additional_item_cost,first_int_cost,additional_int_cost,display
+1 CDs 4.95 1.5 12.5 4 yes
+2 DVDs 4.95 1.5 12.5 4 yes
+4 Shirts S-M-L-XL Short Sleeved 6.95 3 14.95 3 yes
+5 Hooded Sweatshirts 9.95 3 19.95 3 yes
+19 Digital Download 0 0 0 0 yes
+21 Keychains 0 0 0 0 yes
+22 Lapel Pins 0 0 0 0 yes
+23 Koozies 2 0.5 4 0.75 yes
+24 Tote Bag 5 2 8.75 2.25 yes
+25 Guitar Pedal 6.95 3 29.95 5 yes
+
++++++++++
+db416633010 - shipping_options:(4)
+shipping_option_id,date_created,name,price,applies_to
+1 2006-11-30 16:03:38 Standard Shipping 0.00 local
+2 2006-11-30 16:03:38 Standard Shipping 0.00 international
+3 2006-11-30 16:49:26 Global Priority 11 international
+4 2006-11-30 16:49:51 USPS Express 12 local
+
++++++++++
+db416633010 - shopping_cart:(77)
+shopping_cart_id,cookie_id,ip_address,product_id,item_id,shipping_class_id,date_created,product_name,item_name,cart_price,quantity,coupon_code,discount_amount,option1,option2,is_digital
+41976 HUnmwv2c6ST7dlgq 196.65.198.229 8 0 0 2019-05-09 13:46:14 King's X - "Live & Live Some More: Dallas '94" (MP3) 14.99 1 yes
+41957 z8GfSALNj4g2cmlY 185.244.215.130 0 18 1 2019-05-09 12:18:07 King's X - "Gretchen Goes to London (Astoria 5.6.90)" (DVD) DVD 18.98 1 yes
+41958 z8GfSALNj4g2cmlY 185.244.215.130 0 49 1 2019-05-09 12:18:10 The Jelly Jam - "Shall We Descend" (CD) CD 14.98 1 yes
+41959 z8GfSALNj4g2cmlY 185.244.215.130 0 59 26 2019-05-09 12:18:11 James Henry - "Live Album" (Vinyl LP w/ Free Download Card) LP 13.98 1 yes
+41960 z8GfSALNj4g2cmlY 185.244.215.130 0 48 1 2019-05-09 12:18:53 Tres Mts. (Three Mountains) - "Tres Mts." (CD) CD 11.99 1 yes
+41961 z8GfSALNj4g2cmlY 185.244.215.130 0 31 4 2019-05-09 12:18:56 King's X "XV" Black T-Shirt (with Tour Dates) T-Shirt 23 1 yes
+41962 z8GfSALNj4g2cmlY 185.244.215.130 0 32 4 2019-05-09 12:18:56 King's X "XV Album Cover" Black T-Shirt (with Tour Dates) T-Shirt 28 5 Large (3rd Leg Dates) yes
+41963 z8GfSALNj4g2cmlY 185.244.215.130 0 34 5 2019-05-09 12:18:58 King's X "XV" Long Sleeve Hoodie Sweat Shirt Hoodie 33 1 Extra Large yes
+41964 z8GfSALNj4g2cmlY 185.244.215.130 0 36 23 2019-05-09 12:18:58 King's X Lapel Pin Lapel Pin 2 1 yes
+41965 z8GfSALNj4g2cmlY 185.244.215.130 0 35 23 2019-05-09 12:18:58 King's X Koozie Koozie 3 1 yes
+
++++++++++
+db416633010 - store_coupons:(0)
+store_coupon_id,store_code,category_id,sub_category_id,product_id,item_id,date_created,date_modified,name,item_name,code,discount_amount,discount_percent,minimum_purchase,quantity,description,date_in,date_out,coupon_type,status
+
++++++++++
+db416633010 - stores:(1)
+store_id,name,short_name
+1 Molken Music mm
+
++++++++++
+db416633010 - sub_categories:(13)
+sub_category_id,category_id,sort_id,short_name,name,description,image,status
+1 1 0 cds CDs active
+2 2 0 digital_cds Digital CDs active
+3 3 0 dvds DVDs active
+4 4 0 preorder Pre-Order Section active
+5 5 0 tshirts T-Shirts All sizes listed are adult. active
+6 5 2 pins Pins inactive
+7 5 1 sweatshirts Sweatshirts active
+8 5 0 babydoll Baby Doll Tees active
+9 5 0 goodies Other Goodies active
+10 1 0 kingsx King's X inactive
+
++++++++++
+db416633010 - user_actions:(11385)
+user_action_id,uuid,date_created,date_modified,user_id,table_name,field_id,location,action
+1 7e9a4810-7d68-102b-bb00-003048786e56 2008-05-27 14:11:22 2008-05-27 14:11:22 1 orders 0 Added new order_payment
+2 e3b4dc92-7d68-102b-bb00-003048786e56 2008-05-27 14:14:12 2008-05-27 14:14:12 1 orders 0 Added order note.
+3 5268b190-7d69-102b-bb00-003048786e56 2008-05-27 14:17:17 2008-05-27 14:17:17 1 orders 0 Added order note.
+4 6a4f7a46-7d69-102b-bb00-003048786e56 2008-05-27 14:17:57 2008-05-27 14:17:57 1 orders 6 Changed order status to Pending
+5 6b947190-7d69-102b-bb00-003048786e56 2008-05-27 14:18:00 2008-05-27 14:18:00 1 orders 6 Changed order status to Received
+6 77f9a4e8-d0cd-102b-bb00-003048786e56 2008-09-10 17:13:17 2008-09-10 17:13:17 1 orders 4 Changed order status to Completed
+7 1f9a359a-009f-102c-8e2d-003048786e56 2008-11-10 12:42:27 2008-11-10 12:42:27 1 orders 12 Added order note.
+8 7ff42220-009f-102c-8e2d-003048786e56 2008-11-10 12:45:09 2008-11-10 12:45:09 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+9 e112ed86-029b-102c-8e2d-003048786e56 2008-11-13 01:24:16 2008-11-13 01:24:16 2 orders 14 Changed order status to Processing
+10 efcb71d6-029b-102c-8e2d-003048786e56 2008-11-13 01:24:41 2008-11-13 01:24:41 2 orders 14 Changed order ship status to Processing
+91 eca14df4-0535-102c-8e2d-003048786e56 2008-11-16 08:52:00 2008-11-16 08:52:00 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+92 eff3bb90-0535-102c-8e2d-003048786e56 2008-11-16 08:52:06 2008-11-16 08:52:06 2 orders 34 Changed order payment status to Partial Refund for reason:
+93 fc30bb7e-0535-102c-8e2d-003048786e56 2008-11-16 08:52:26 2008-11-16 08:52:26 2 orders 34 Added order note.
+94 09e3ab2c-0537-102c-8e2d-003048786e56 2008-11-16 08:59:59 2008-11-16 08:59:59 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+95 0ebc65bc-0537-102c-8e2d-003048786e56 2008-11-16 09:00:07 2008-11-16 09:00:07 2 orders 51 Added order note.
+96 10cd96d2-0537-102c-8e2d-003048786e56 2008-11-16 09:00:11 2008-11-16 09:00:11 2 orders 51 Changed order payment status to Partial Refund for reason:
+97 8dc51a20-0537-102c-8e2d-003048786e56 2008-11-16 09:03:40 2008-11-16 09:03:40 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+98 281bd2d0-0538-102c-8e2d-003048786e56 2008-11-16 09:07:59 2008-11-16 09:07:59 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+99 ed7e0ade-0538-102c-8e2d-003048786e56 2008-11-16 09:13:30 2008-11-16 09:13:30 2 orders 18 Added order note.
+100 efec902e-0538-102c-8e2d-003048786e56 2008-11-16 09:13:34 2008-11-16 09:13:34 2 orders 18 Changed order payment status to Partial Refund for reason:
+491 a34fd488-12b2-102c-8e2d-003048786e56 2008-12-03 12:47:30 2008-12-03 12:47:30 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+492 4dba3c7e-12b3-102c-8e2d-003048786e56 2008-12-03 12:52:15 2008-12-03 12:52:15 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+493 d70a5f22-12db-102c-8e2d-003048786e56 2008-12-03 17:42:26 2008-12-03 17:42:26 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+494 5c7e5df2-12dc-102c-8e2d-003048786e56 2008-12-03 17:46:10 2008-12-03 17:46:10 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+495 dfbc661e-12dc-102c-8e2d-003048786e56 2008-12-03 17:49:50 2008-12-03 17:49:50 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+496 7c53e2ea-12dd-102c-8e2d-003048786e56 2008-12-03 17:54:13 2008-12-03 17:54:13 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+497 6eaade1a-12eb-102c-8e2d-003048786e56 2008-12-03 19:34:03 2008-12-03 19:34:03 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+498 a411f1dc-131e-102c-8e2d-003048786e56 2008-12-04 01:40:36 2008-12-04 01:40:37 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+499 4178a40c-131f-102c-8e2d-003048786e56 2008-12-04 01:45:01 2008-12-04 01:45:01 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+500 a44b5d0e-131f-102c-8e2d-003048786e56 2008-12-04 01:47:46 2008-12-04 01:47:46 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+991 fb5b5450-219d-102c-8e2d-003048786e56 2008-12-22 12:27:25 2008-12-22 12:27:25 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+992 21ba2b38-21a5-102c-8e2d-003048786e56 2008-12-22 13:18:36 2008-12-22 13:18:36 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+993 2e1456b0-21af-102c-8e2d-003048786e56 2008-12-22 14:30:32 2008-12-22 14:30:32 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+994 9dca8f18-21ca-102c-8e2d-003048786e56 2008-12-22 17:46:56 2008-12-22 17:46:56 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+995 65a92958-21d1-102c-8e2d-003048786e56 2008-12-22 18:35:28 2008-12-22 18:35:28 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+996 c963f112-21d1-102c-8e2d-003048786e56 2008-12-22 18:38:15 2008-12-22 18:38:15 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+997 99916856-21d2-102c-8e2d-003048786e56 2008-12-22 18:44:05 2008-12-22 18:44:05 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+998 531307b6-2274-102c-8e2d-003048786e56 2008-12-23 14:01:45 2008-12-23 14:01:45 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+999 d65313e6-2274-102c-8e2d-003048786e56 2008-12-23 14:05:25 2008-12-23 14:05:25 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1000 7400a9aa-2275-102c-8e2d-003048786e56 2008-12-23 14:09:50 2008-12-23 14:09:50 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1991 7bfc5a3c-72cb-11de-ae05-003048786e56 2009-07-17 08:15:15 2009-07-17 08:15:15 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1992 0436f7ea-72cc-11de-ae05-003048786e56 2009-07-17 08:19:03 2009-07-17 08:19:03 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1993 711e554c-72cc-11de-ae05-003048786e56 2009-07-17 08:22:06 2009-07-17 08:22:06 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1994 40150548-72ec-11de-ae05-003048786e56 2009-07-17 12:09:48 2009-07-17 12:09:48 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1995 ffd4dc94-75af-11de-ae05-003048786e56 2009-07-21 00:36:03 2009-07-21 00:36:04 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1996 fe6c3c56-75b1-11de-ae05-003048786e56 2009-07-21 00:50:20 2009-07-21 00:50:20 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1997 d9d1a398-75b3-11de-ae05-003048786e56 2009-07-21 01:03:38 2009-07-21 01:03:38 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1998 69099e08-75b4-11de-ae05-003048786e56 2009-07-21 01:07:38 2009-07-21 01:07:38 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+1999 19fe30e6-7639-11de-ae05-003048786e56 2009-07-21 16:57:28 2009-07-21 16:57:28 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed.
+2000 4e98fc2a-7867-11de-ae05-003048786e56 2009-07-24 11:33:16 2009-07-24 11:33:16 2 orders 0 Added a shipment to the order.
+					Changed ship status to Shipped Complete.
+				Changed order status to completed. 
++++++++++
+db416633010 - user_sessions:(171391)
+session_id,cookie_id,php_sid,ip_address,shipping_option_id,date_created,date_modified,user_id,access_level,email,total,subtotal,tax,shipping,shipping_location,shipping_country,shipping_country_code,shipping_name,shipping_first_name,shipping_last_name,shipping_address1,shipping_address2,shipping_city,shipping_state,shipping_zip,shipping_phone,shipping_email,comments,billing_country,billing_country_code,billing_first_name,billing_last_name,billing_address1,billing_address2,billing_city,billing_state,billing_zip,billing_phone,billing_email,cc_name,cc_number,cc_type,cc_cvv_number,cc_exp_month,cc_exp_year,order_id,txn_ack,txn_id,txn_timestamp,store_coupon_code,download_token,token,payer_id
+1 j3sN149S8Gq20kWQ 377da8753707af774f38ee0f10e00cd0 154.121.251.171 1 2018-02-17 15:45:10 2019-04-24 03:31:06 0 0 0 0 0.00 0 us United States US alex lamakin alex lamakin str 1 rtg NEW YORK NY 10014 +12334443333 malaya@gmail.com hgj United States US alex lamakin str 1 rtg NEW YORK NY 10014 +12334443333 malaya@gmail.com Visa 12 2029
+2 vwglUH2bcQ9X5yEA 2541b6057fba232d87e63752248a21f4 62.109.28.244 0 2018-02-17 15:45:22 2018-02-17 15:45:22 0 0 0.00 us
+3 Jd3ctSjrWg4TfXnz ae610e54befa00de0d9c59000ec16504 80.87.198.190 0 2018-02-17 15:46:04 2018-02-17 15:46:04 0 0 0.00 us
+4 7q6jVyxpkRP8IM40 648b5a72e2e1b901d06d08b754cface7 49.35.20.77 0 2018-02-17 15:50:20 2018-02-17 15:50:20 0 0 0.00 us
+5 mtIp8H36DTEvs4Ag 97959b02bb688e45ced88512ff82c6d5 62.109.4.21 0 2018-02-17 15:53:13 2018-02-17 15:53:13 0 0 0.00 us
+6 FfdzR2XOmyH9NT8L a6a8b6673e3ceb6e507cd713333cd713 92.63.110.247 0 2018-02-17 15:54:11 2018-02-17 15:54:11 0 0 0.00 us
+7 ErIgxwyRM9517QVz 3b431858b8f5d3e339ab65c206643898 149.154.70.253 0 2018-02-17 15:56:06 2018-02-17 15:56:06 0 0 0.00 us
+8 dm8Xbg0U7OY1RF6W 2d7b013f98cf900b6303afcbe09d962f 66.249.66.26 1 2018-02-17 15:56:36 2019-03-20 16:59:17 0 0 0 0 0.00 0 us United States US TX United States US TX
+9 OHcq2N3FjmA4hdI9 4d8c0da286ad98156c26f189b0a99a14 82.146.47.92 0 2018-02-17 16:01:03 2018-02-17 16:01:03 0 0 0.00 us
+10 OJI6ftMAn82KRB7G 78b994fc59a9939b480eba6049a9a104 149.154.71.233 0 2018-02-17 16:15:13 2018-02-17 16:15:13 0 0 0.00 us
+91 Vyv5Pfxzrb81Djwq b5cf47f069e9c8c5a7e00e9f8c96369d 81.232.138.92 0 2018-02-17 21:54:14 2018-02-17 21:54:14 0 0 0.00 us
+92 V1MCUIwBOnx7HkRF 4233a229ec5ab2d765a71f300eab4e64 144.217.91.195 0 2018-02-17 21:54:52 2018-02-17 21:54:52 0 0 0.00 us
+93 B5nH0lSzNQv1J6P4 6734d65cbb44319b35f5584cbee6ef56 82.102.22.26 0 2018-02-17 21:57:22 2018-02-17 21:57:22 0 0 0.00 us
+94 qmB8XpFGtSdRfzrn 0f1f33c46eb59619fbca78e18794b4cd 179.43.143.71 0 2018-02-17 22:08:46 2018-02-17 22:08:46 0 0 0.00 us
+95 h0Mw2UvnyDRSKNJV 7953f418cc9c83c6615baad9f7adefec 46.211.13.134 0 2018-02-17 22:24:03 2018-02-17 22:24:03 0 0 0.00 us
+96 OhAr6sRq8lcbNnjv 8c2478d1adae8a0239088144d30db6c2 36.84.29.18 0 2018-02-17 22:36:08 2018-02-17 22:36:08 0 0 0.00 us
+97 8ngNzRVdGSHK0FMQ e2c96243bf98af0b9aecbb41386abd77 5.62.49.10 0 2018-02-17 22:39:45 2018-02-17 22:39:45 0 0 0.00 us
+98 1HO5ZzJLr7kjyShd 0ae3649dda89c4c2534176b34f162b4a 54.36.148.209 0 2018-02-17 23:20:53 2018-02-17 23:20:53 0 0 0.00 us
+99 EUdpg9jQlzVkDOW4 8f6b15c8642dad342c9cfb9090ecd04c 209.250.249.145 0 2018-02-17 23:28:05 2018-02-17 23:28:05 0 0 0.00 us
+100 I1qUMxZs3rhKFpkV a54ed2d5e9316f07035f957aec47070f 180.76.15.160 0 2018-02-17 23:35:02 2018-02-17 23:35:02 0 0 0.00 us
+491 5gUt2nl4CNxFqmk8 c6c979236516b464152781286590ab74 45.63.7.59 0 2018-02-18 20:09:56 2018-02-18 20:09:56 0 0 0.00 us
+492 qY9Qc0ZH6IlDFV7C d2d704a8aa5c606010d4644ff45b5c0a 18.216.138.95 0 2018-02-18 20:13:53 2018-02-18 20:13:53 0 0 0.00 us
+493 xRLOMGIY8NAhTEKc c3b17481f13a3b9dd22baf33d6fb9597 111.30.253.163 1 2018-02-18 20:18:49 2018-02-18 21:02:45 0 0 0 0 0.00 0 us United States US TX United States US TX
+494 AbRdXQfMDzO4W7JZ f791f475da87fe1980f6b140138bae40 93.174.93.71 0 2018-02-18 20:22:35 2018-02-18 20:22:35 0 0 0.00 us
+495 bPOT8MRXA2FpW4HD 48d636cca0382fe304d2b9ab8c504fd2 35.231.109.139 0 2018-02-18 20:28:23 2018-02-18 20:28:23 0 0 0.00 us
+496 AjSm95zyTxdI2vHZ f98d005b2fd2a3d44bbb5e7c09f20086 5.134.119.215 0 2018-02-18 20:29:20 2018-02-18 20:29:20 0 0 0.00 us
+497 PM3xlCsTm6GSyVrN 90446fcef4717cccf91e60bb6d8e9d2f 54.186.220.2 0 2018-02-18 20:31:17 2018-02-18 20:31:17 0 0 0.00 us
+498 jVw9r0WyF8HvN7z1 df6b570a4c17694f4e1a5aa489d135f7 174.31.59.149 0 2018-02-18 20:41:35 2018-02-18 20:41:35 0 0 0.00 us
+499 Ov8PXBFLJtngGm2A a949b655ac022d0c2b7ca59b7f54a543 94.197.120.199 0 2018-02-18 20:55:37 2018-02-18 20:55:37 0 0 0.00 us
+500 yZIQz72psfrW1hMR 93bc20efcbe47570da8b3556dbfe5e3e 195.2.253.164 0 2018-02-18 21:07:48 2018-02-18 21:07:48 0 0 0.00 us
+991 IhNQ58dBvl9A6b4q 875f4b8a132eb710319c5a9108df9f9c 76.0.143.39 0 2018-02-20 18:06:12 2018-02-20 18:06:12 0 0 0.00 us
+992 HOrXNz4Zsyhc3kUv 7f857930461511935c0dfe010264e09e 71.54.36.190 0 2018-02-20 18:06:30 2018-02-20 18:06:30 0 0 0.00 us
+993 ryhJFlW814MkYH9w 9557835dcfcd9c7c9e62e18129a41594 134.249.66.84 0 2018-02-20 18:07:23 2018-02-20 18:07:23 0 0 0.00 us
+994 ZSWXVDrIRQJUL5Ot 84862b9a4cbfa15d672c287c6a59f805 187.38.44.134 0 2018-02-20 18:08:31 2018-02-20 18:08:31 0 0 0.00 us
+995 NpQJI7j5LYU1r38v 357da64aac7881296635e2090fc06ca9 37.187.250.209 0 2018-02-20 18:11:34 2018-02-20 18:11:34 0 0 0.00 us
+996 wfzRCZ5jS8s03B6M 4a464f1de740fc81b7dbb7daf8f08380 69.28.199.180 0 2018-02-20 18:16:09 2018-02-20 18:16:09 0 0 0.00 us
+997 XPDNwVG92tJAHOq0 303d02695bef9f87addc62bc3d748f16 85.195.119.74 0 2018-02-20 18:16:18 2018-02-20 18:16:18 0 0 0.00 us
+998 Np7h5Plzr90xVMDC 8b0b63f35faa06c4405d773253287e23 82.146.47.158 0 2018-02-20 18:17:04 2018-02-20 18:17:04 0 0 0.00 us
+999 CLzHAKfSIMyNYnwB fc5061cf260d3ac23ef93fc8fc2afd24 41.143.81.5 0 2018-02-20 18:18:33 2018-02-20 18:18:33 0 0 0.00 us
+1000 b1xNdSBFlK4sGRh8 0670949c63f62573818ebee8b174e0b4 189.243.201.157 0 2018-02-20 18:20:31 2018-02-20 18:20:31 0 0 0.00 us
+1991 XC5J2BwZIEmT87zr 2e0063e50cd0a7281cce3b93ae366489 95.19.146.12 0 2018-02-23 19:41:08 2018-02-23 19:41:08 0 0 0.00 us
+1992 vN5PpQ9kG7bwFTJ2 c1da8cf9b48cbc224607ec6605d9c5fa 172.94.50.73 0 2018-02-23 19:54:19 2018-02-23 19:54:19 0 0 0.00 us
+1993 dzXUOGKEbpF70V8T 6540c506fc63fcce0046bbda7c826986 89.28.3.227 0 2018-02-23 19:54:47 2018-02-23 19:54:47 0 0 0.00 us
+1994 v2H9h4BD7XrqMf0K 710b3e3f14db42af87e7f9a96c879f3b 172.94.43.240 0 2018-02-23 19:56:09 2018-02-23 19:56:09 0 0 0.00 us
+1995 kDOKsvNZEmHbRPAL d5784bdc752ede750b277f80e0bce9c0 68.54.25.50 0 2018-02-23 20:03:04 2018-02-23 20:03:04 0 0 0.00 us
+1996 WgSkJXbH7GzVCKDQ 3470cfb3edfb41278500f699789f7541 5.135.73.118 0 2018-02-23 20:07:21 2018-02-23 20:07:21 0 0 0.00 us
+1997 Z4WN1fhQdLF5OMlY 2cfdb5355e70d7af96a860ca95df0428 45.37.69.206 0 2018-02-23 20:07:51 2018-02-23 20:07:51 0 0 0.00 us
+1998 0IvfVUM2RCxAEXYy 484ceb3fbbbd3a441c6dab2f61307a25 76.93.128.124 1 2018-02-23 20:12:06 2018-02-23 20:23:50 0 0 24.82 17.98 1.89 4.95 us United States US TX United States US TX
+1999 dwg54InNtMHhQ1Al f4755e6ececf961003fabfefa052a72c 36.84.63.51 0 2018-02-23 20:18:18 2018-02-23 20:18:18 0 0 0.00 us
+2000 M20Hb5Ypz7JL8D4C 4dff58529a966c60bda16e8afe7cef3a 35.231.9.99 0 2018-02-23 20:22:40 2018-02-23 20:22:40 0 0 0.00 us 
++++++++++
+db416633010 - users:(2)
+user_id,uuid,date_created,date_registered,date_modified,last_login,ip_address,user_name,first_name,middle_name,last_name,shipping_first_name,shipping_last_name,shipping_business_name,shipping_address1,shipping_address2,shipping_city,shipping_state,shipping_postal_code,shipping_country,shipping_country_code,shipping_phone,billing_first_name,billing_last_name,billing_business_name,billing_address1,billing_address2,billing_city,billing_state,billing_postal_code,billing_country,billing_country_code,billing_phone,birthdate,gender,email,website_url,notes,passwd,secret_question,secret_answer,access_level,hide_email,show_online,newsletter,email_notifications,time_format,time_offset,confirmed_email,avatar,validation_code,active
+1 2008-04-24 12:36:32 0000-00-00 00:00:00 0000-00-00 00:00:00 2009-10-17 12:46:53 209.173.71.67 drewjohnston Drew Johnston 0000-00-00 m drew@yipmedia.com 2NrZ0bO4uA== 20 yes yes yes yes 0 yes yes
+2 2008-04-24 12:59:57 0000-00-00 00:00:00 0000-00-00 00:00:00 2019-04-05 13:37:26 107.77.219.189 wally Wally Farkas 0000-00-00 m wallyfarkas@gmail.com 6uLV3LHFwtfN 20 yes yes yes yes 0 yes yes
+
++++++++++
+db416633010 - users2:(0)
+user_id,username,date_registered,date_modified,last_login,first_name,middle_name,last_name,ship_name,ship_address1,ship_address2,ship_city,ship_state,ship_zip,ship_country,ship_phone,ship_fax,dob,gender,email,website,notes,newsletter,password,confirm_email,validation_code,active,password_reminder,reminder_answer
+
++++++++++
+
+ 

@@ -1,0 +1,306 @@
+www.verbotomy.com/verboticisms.php?this_room=-1&jid=hangover
+ 
+367667_verbotomy - active_guests:(245)
+ip,timestamp
+46.229.168.131 1557703319
+54.36.149.20 1557702751
+54.36.148.173 1557703349
+54.36.148.91 1557702586
+54.36.149.74 1557702807
+54.36.148.121 1557703583
+54.36.148.64 1557703820
+54.36.149.21 1557702504
+54.36.149.34 1557703668
+54.36.149.13 1557703080
+54.36.148.10 1557702877
+54.36.149.76 1557703737
+54.36.148.201 1557703437
+54.36.149.89 1557702440
+46.229.168.139 1557703782
+54.36.149.62 1557703058
+54.36.149.45 1557703369
+54.36.148.215 1557702260
+54.36.148.93 1557703825
+54.36.148.111 1557703453
+
++++++++++
+367667_verbotomy - active_users:(0)
+username,timestamp,vroop_id
+
++++++++++
+367667_verbotomy - banned_users:(2)
+username,timestamp
+lechelers 1211983929
+beatyourprice 1231143161
+
++++++++++
+367667_verbotomy - bookmarks:(1)
+id,name,url,created,modified
+1 St. George's College http://www.sgcjerusalem.org/Kids4Peace.asp 2006-08-30 17:03:47 2006-08-30 17:03:47
+
++++++++++
+367667_verbotomy - category:(6)
+id,name
+1 work
+2 family
+3 love
+4 entertainment
+5 science
+6 politics
+
++++++++++
+367667_verbotomy - chid:(75)
+id,fbid,mid,mid_order,did,jid,defid,def_table,table_id,date_created,status,word_count,rand_id
+116 1111254946 0 1 299 blckbrry 302 definitions 1 2008-04-24 1 4 6ad090a4657683c6a1ebcc2631024ad1
+41 1101347158 0 0 112 talker 114 definitions 1 2008-04-04 1 0 bef71cee9d17bb3d650dd6be764a3ea7
+40 1099794865 0 0 274 milk 277 definitions 1 2008-04-03 1 3 968c0114fc37ad3460c9c55e017761be
+37 1099794865 0 0 398 angst 402 definitions 1 2008-04-03 1 0 684d8d0e16673ed45073c91fecd2fe10
+126 1099794865 0 1 182 ps 185 definitions 1 2008-04-26 1 2 592f0ffc316238bc81567c6d820b0a5c
+139 1111254946 3 6 287 pickles 290 definitions 1 2008-04-29 2 0 2a28bc78ae3eddda98ae286dcdc0b1c6
+138 1111254946 3 5 407 hello 411 definitions 1 2008-04-29 2 0 3fe07a541b8d0cff19de4062ec9c4d94
+48 1099794865 0 0 399 lint 403 definitions 1 2008-04-04 1 2 0c6cf54964ab358ebe8b89a825fd3e4d
+137 1111254946 3 4 136 chips 138 definitions 1 2008-04-29 2 0 02c740d988b50f41d5a75d3ed5ad708c
+136 1111254946 3 3 148 find 150 definitions 1 2008-04-29 2 0 a5bc57334e18924dfa2be0d657e88b57
+
++++++++++
+367667_verbotomy - chid_mid:(5)
+id,fbid,chid,chid_count,chid_active,date_created,status,rand_id
+1 1111254946 61 4 4 2008-04-10 1 380c1388be2374e48c94181ef4e6c8a7
+2 1204945990 127 1 2 2008-04-26 2 165c6cca687cdf288b01e8e2c25d3ca1
+3 1111254946 132 6 7 2008-04-29 2 fbe41c1f75c0c8ec243efc4fad4b7e3f
+4 1249260190 143 1 1 2008-04-29 1 c80d9f6265e3f853e97a40b063da075d
+5 1099794865 215 3 1 2008-05-16 1 0be32929df670710a2e82419a30d8a57
+
++++++++++
+367667_verbotomy - chid_player:(318)
+id,chid,fbid,status,score,points_word,votes,votes_cast
+179 141 1101347158 1 0 0 0 0
+28 37 1111254946 1 0 0 0 0
+27 37 1101347158 1 0 0 0 0
+26 37 1099794865 1 0 0 0 0
+137 127 1099794865 1 12 11 0 1
+159 135 1111254946 1 0 0 0 0
+177 141 1111254946 1 21 11 9 1
+8 15 1101347158 0 0 0 0 0
+158 135 1101347158 0 0 0 0 0
+227 183 1111254946 0 0 0 0 0
+289 224 1249260190 0 0 0 0 0
+184 143 1249260190 1 12 11 0 1
+185 143 1099794865 1 14 11 3 0
+189 147 1204945990 0 0 0 0 0
+190 148 1204945990 0 0 0 0 0
+226 182 1111254946 0 0 0 0 0
+225 181 1111254946 0 0 0 0 0
+224 180 1111254946 0 0 0 0 0
+223 179 1111254946 0 0 0 0 0
+217 173 548240262 0 0 0 0 0
+
++++++++++
+367667_verbotomy - counter:(1)
+count
+14
+
++++++++++
+367667_verbotomy - daid:()
+
++++++++++
+367667_verbotomy - daid_player:()
+
++++++++++
+367667_verbotomy - def_tables:()
+
++++++++++
+367667_verbotomy - defids:()
+
++++++++++
+367667_verbotomy - definition_comments:()
+
++++++++++
+367667_verbotomy - definition_votes:()
+
++++++++++
+367667_verbotomy - definitions:()
+
++++++++++
+367667_verbotomy - definitions_fb:()
+
++++++++++
+367667_verbotomy - downloads:()
+
++++++++++
+367667_verbotomy - game:()
+
++++++++++
+367667_verbotomy - groups:()
+
++++++++++
+367667_verbotomy - jargonism_chid:()
+
++++++++++
+367667_verbotomy - jargonism_comments:()
+
++++++++++
+367667_verbotomy - jargonism_details:()
+
++++++++++
+367667_verbotomy - jargonism_player:()
+
++++++++++
+367667_verbotomy - jargonism_score:()
+
++++++++++
+367667_verbotomy - jargonism_vroop:()
+
++++++++++
+367667_verbotomy - jargonisms:()
+
++++++++++
+367667_verbotomy - player_definitions:()
+
++++++++++
+367667_verbotomy - player_definitions_fb:()
+
++++++++++
+367667_verbotomy - pm_comments:()
+
++++++++++
+367667_verbotomy - schedule:()
+
++++++++++
+367667_verbotomy - tags:()
+
++++++++++
+367667_verbotomy - user_score_week:()
+
++++++++++
+367667_verbotomy - users:()
+
++++++++++
+367667_verbotomy - users_b:()
+
++++++++++
+367667_verbotomy - users_fb:()
+
++++++++++
+367667_verbotomy - users_fbid:()
+
++++++++++
+367667_verbotomy - votes:()
+
++++++++++
+367667_verbotomy - vroop_active:()
+
++++++++++
+367667_verbotomy - vroop_details:()
+
++++++++++
+367667_verbotomy - vroop_members:()
+
++++++++++
+367667_verbotomy - word_types:()
+
++++++++++
+367667_verbotomy - wp_commentmeta:()
+
++++++++++
+367667_verbotomy - wp_comments:()
+
++++++++++
+367667_verbotomy - wp_cptch_images:()
+
++++++++++
+367667_verbotomy - wp_cptch_packages:()
+
++++++++++
+367667_verbotomy - wp_cptch_whitelist:()
+
++++++++++
+367667_verbotomy - wp_links:()
+
++++++++++
+367667_verbotomy - wp_options:()
+
++++++++++
+367667_verbotomy - wp_postmeta:()
+
++++++++++
+367667_verbotomy - wp_posts:()
+
++++++++++
+367667_verbotomy - wp_term_relationships:()
+
++++++++++
+367667_verbotomy - wp_term_taxonomy:()
+
++++++++++
+367667_verbotomy - wp_termmeta:()
+
++++++++++
+367667_verbotomy - wp_terms:()
+
++++++++++
+367667_verbotomy - wp_usermeta:()
+
++++++++++
+367667_verbotomy - wp_users:()
+
++++++++++
+367667_verbotomy - wp_wfBadLeechers:()
+
++++++++++
+367667_verbotomy - wp_wfBlocks:()
+
++++++++++
+367667_verbotomy - wp_wfBlocksAdv:()
+
++++++++++
+367667_verbotomy - wp_wfConfig:()
+
++++++++++
+367667_verbotomy - wp_wfCrawlers:()
+
++++++++++
+367667_verbotomy - wp_wfFileMods:()
+
++++++++++
+367667_verbotomy - wp_wfHits:()
+
++++++++++
+367667_verbotomy - wp_wfHoover:()
+
++++++++++
+367667_verbotomy - wp_wfIssues:()
+
++++++++++
+367667_verbotomy - wp_wfLeechers:()
+
++++++++++
+367667_verbotomy - wp_wfLockedOut:()
+
++++++++++
+367667_verbotomy - wp_wfLocs:()
+
++++++++++
+367667_verbotomy - wp_wfLogins:()
+
++++++++++
+367667_verbotomy - wp_wfNet404s:()
+
++++++++++
+367667_verbotomy - wp_wfReverseCache:()
+
++++++++++
+367667_verbotomy - wp_wfScanners:()
+
++++++++++
+367667_verbotomy - wp_wfStatus:()
+
++++++++++
+367667_verbotomy - wp_wfThrottleLog:()
+
++++++++++
+367667_verbotomy - wp_wfVulnScanners:()
+
++++++++++
+
+ 

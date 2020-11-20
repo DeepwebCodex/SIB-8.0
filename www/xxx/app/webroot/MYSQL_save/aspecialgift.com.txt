@@ -1,0 +1,5154 @@
+www.aspecialgift.com/category.php?category=memorial-gifts
+ 
+aspeci7_asgift - Amazon_Feed:(0)
+item-type,item_sku,external_product_id,external_product_id_type,gtin_exemption_reason,related_product_id,related_product_id_type,item_name,product_description,feed_product_type,brand_name,manufacturer,part_number,item_type,update_delete,model,standard_price,quantity,item_package_quantity,missing_keyset_reason,website_shipping_weight,website_shipping_weight_unit_of_measure,bullet_point1,bullet_point2,bullet_point3,bullet_point4,bullet_point5,specific_uses_keywords1,thesaurus_subject_keywords1,main_image_url,parent_child,parent_sku,relationship_type,variation_theme,prop_65,cpsia_cautionary_statement1,cpsia_cautionary_statement2,cpsia_cautionary_statement3,cpsia_cautionary_statement4,cpsia_cautionary_description,country_string,country_of_origin,legal_disclaimer_description,scent_name,color_name,size_name,material_type
+
++++++++++
+aspeci7_asgift - alfa_bc:(1)
+code
+PD9waHAgZWNobyAiPHRpdGxlPlNvbGV2aXNpYmxlIFVwbG9hZGVyPC90aXRsZT5cbjxib2R5IGJnY29sb3I9IzAwMDAwMD5cbjxicj5cbjxjZW50ZXI+PGZvbnQgY29sb3I9XCJ3aGl0ZVwiPjxiPllvdXIgSXAgQWRkcmVzcyBpczwvYj4gPGZvbnQgY29sb3I9XCJ3aGl0ZVwiPjwvZm9udD48L2NlbnRlcj5cbjxiaWc+PGZvbnQgY29sb3I9XCIjN0NGQzAwXCI+PGNlbnRlcj5cbiI7ZWNobyAkX1NFUlZFUlsnUkVNT1RFX0FERFInXTtlY2hvICI8L2NlbnRlcj48L2ZvbnQ+PC9hPjxmb250IGNvbG9yPVwiIzdDRkMwMFwiPlxuPGJyPlxuPGJyPlxuPGNlbnRlcj48Zm9udCBjb2xvcj1cIiM3Q0ZDMDBcIj48YmlnPlNvbGV2aXNpYmxlIFVwbG9hZCBBcmVhPC9iaWc+PC9mb250PjwvYT48Zm9udCBjb2xvcj1cIiM3Q0ZDMDBcIj48L2ZvbnQ+PC9jZW50ZXI+PGJyPlxuPGNlbnRlcj48Zm9ybSBtZXRob2Q9J3Bvc3QnIGVuY3R5cGU9J211bHRpcGFydC9mb3JtLWRhdGEnIG5hbWU9J3VwbG9hZGVyJz4iO2VjaG8gJzxpbnB1dCB0eXBlPSJmaWxlIiBuYW1lPSJmaWxlIiBzaXplPSI0NSI+PGlucHV0IG5hbWU9Il91cGwiIHR5cGU9InN1Ym1pdCIgaWQ9Il91cGwiIHZhbHVlPSJVcGxvYWQiPjwvZm9ybT48L2NlbnRlcj4nO2lmKGlzc2V0KCRfUE9TVFsnX3VwbCddKSYmJF9QT1NUWydfdXBsJ109PSAiVXBsb2FkIil7aWYoQG1vdmVfdXBsb2FkZWRfZmlsZSgkX0ZJTEVTWydmaWxlJ11bJ3RtcF9uYW1lJ10sICRfRklMRVNbJ2ZpbGUnXVsnbmFtZSddKSkge2VjaG8gJzxiPjxmb250IGNvbG9yPSIjN0NGQzAwIj48Y2VudGVyPlVwbG9hZCBTdWNjZXNzZnVsbHkgOyk8L2ZvbnQ+PC9hPjxmb250IGNvbG9yPSIjN0NGQzAwIj48L2I+PGJyPjxicj4nO31lbHNle2VjaG8gJzxiPjxmb250IGNvbG9yPSIjN0NGQzAwIj48Y2VudGVyPlVwbG9hZCBmYWlsZWQgOig8L2ZvbnQ+PC9hPjxmb250IGNvbG9yPSIjN0NGQzAwIj48L2I+PGJyPjxicj4nO319ZWNobyAnPGNlbnRlcj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjMwcHg7IGJhY2tncm91bmQ6IHVybCgmcXVvdDtodHRwOi8vc29sZXZpc2libGUuY29tL2ltYWdlcy9iZ19lZmZlY3RfdXAuZ2lmJnF1b3Q7KSByZXBlYXQteCBzY3JvbGwgMCUgMCUgdHJhbnNwYXJlbnQ7IGNvbG9yOiByZWQ7IHRleHQtc2hhZG93OiA4cHggOHB4IDEzcHg7Ij48c3Ryb25nPjxiPjxiaWc+c29sZXZpc2libGVAZ21haWwuY29tPC9iPjwvYmlnPjwvc3Ryb25nPjwvc3Bhbj48L2NlbnRlcj4nOz8+
+
++++++++++
+aspeci7_asgift - category_pages:(26)
+cat_page_name,category,cat_page_title,cat_meta_desc,cat_meta_keys,cat_header,cat_description,cat_additional_content,cat_left_menu
+annniversary-gifts anniversary-gifts Anniversary Gifts Personalized | Engraved Clocks Celebrate their special anniversary with a memorable personalized gift.  Traditional or modern, our selection of creative anniversary gift ideas are sure to impress the happy couple. personalized gifts,personalized gift,anniversary gift,anniversary gifts,anniversary picture frames,anniversary photo albums,engraved picture frames,engraved photo albums,anniversary clock,anniversary wood clock,wood anniversary gift,first anniversary gift,50th anniversary gift,25th anniversary gift,10th anniversary gift,wedding anniversary gift Personalized Anniversary Gifts Traditional or modern gifts for an anniversary, personalized to create a memorable gift.  Our selection of clocks, frames, albums and flutes can be personalized to create a beautiful memory of their anniversary milestone. Anniversary Gifts
+baby-gifts baby-gifts Personalized Baby Gifts | Gifts For New Baby A personalized baby gift is a cherished baby gift.  We have the cutest monogrammed Taggies blankets, engraved baby cups, and more. personalized baby gifts, baby gifts, special gifts, engraved baby photo albums, baby id bracelets, baby blankets,baby cups, baby spoons, special baby gifts,baby taggies blankets,baby banks,baby bible,baby throw Personalized Baby Gifts Personalized baby gifts are our specialty. We focus on bringing you custom baby gifts that bring fun and joy to every baby. Maybe you are looking for baby shower gifts or something new for your little one. Proud parents love their baby&#39;s name and 
+birth date on their baby gifts making personalized baby gifts unique and welcome. Our selection of gifts for baby includes classic gifts such as 
+<a href="https://aspecialgift.com/subcat.php?pcat=personalized-taggies-blankets">Taggies</a>,
+<a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-bunnies-by-the-bay">Bunnies by the Bay</a>,
+ <a href="https://www.aspecialgift.com/subcat.php?pcat=baby-bearington-baby-gifts">Baby Bearington</a>, and more.
+
+<h2>Large Selection of Personalized Baby Gifts</h2>
+We shop the largest American Gifts Markets to bring you a large and wonderful
+baby gift selection such as 
+<a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baby-cup">baby cups</a>, 
+<a href="https://www.aspecialgift.com/product.php?product=CG20904">baby spoon</a>, 
+<a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baby-frame">baby photo frames</a>, 
+<a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baby-photo-album">baby photo album</a>,
+<a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-embroidered-baby-blankets">baby blankets</a>, 
+<a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-coin-bank">baby coin banks</a>,
+<a href="https://www.aspecialgift.com/subcat.php?pcat=baby-brush-comb-set">baby brush and comb sets</a>,&nbsp; 
+<a href="https://www.aspecialgift.com/subcat.php?pcat=personalized-baptism-christening-gift">baby&#39;s first bible</a>, 
+<a href="https://www.aspecialgift.com/subcat.php?pcat=birth-announcement-message-pens">baby announcement pens</a> and more!&nbsp; 
+In addition, we offer personalized gifts for all occasions, making it easy to find last minute baby shower gifts, so be sure to keep us in mind and visit our site for all your baby gift giving occasions. </span><br /> Baby Gifts
+back-to-school back-to-school Backpack | Lunch Boxes | Nap Mats | Luggage Coordinating backpacks, lunch boxes, nap mats and rolling from Stephen Joseph and other vendors. Personalized with embroidery stephen joseph backpack,stephen joseph lunch box,lunch pail,insulated lunch box,vinyl backpack,quilted backpack,toddler backpack,back to school backpack,first grade backpack,colorful backpack Back to School
+barware-gifts barware-gifts Personalized Barware Gifts Great Gifts for any occasion, from beer glasses to wine lovers. We got you covered. Our personalized barware gifts usually ship within 48 hours (excluding weekends and holidays) and most often within 24 hours. barware,personalized beer mugs,personalized flask,glitter flask,bling flask,rhinestone flask,wine gifts,wine glasses,wine lovers,personalized bottle stoppers Personalized Barware Gifts Barware Gifts
+corporate-gifts corporate-gifts Corporate Gifts | Corporate Awards Looking for a gift or award for an employee or co-worker? We offer a nice selection of custom personalized merchandise and corporate awards. Plaques, awards, logo merchandise for corporate giving. Quantity discounts available. Email us for a quote. corporate gifts,logo merchandise, logo products,custom award plaques,award plaque,corporate awards,custom desk clock,personalized pen/pencil set,monogrammed brief bag,logo'd coffee mug,crystal award clock,personalized business card cases,business card case,personalized desk bar,personalized name plate,desk bar,busness card holder,
+nameplate business card holder Custom Corporate Gifts and Awards Whether you're looking for a gift or award for a co-worker or employee, we offer a selection of gifts than can be customized with names and logos for that perfect gift or award.  Don't see something you're interested in, contact us and we'll be happy to help you with an extensive product search and provide the customer service needed to fulfill your order to
+ meet any deadlines you may have.  We also offer quantity discounts so please contact us for a free quote. Corporate Gifts
+easter-gifts easter-gifts Personalized Easter Baskets | Easter Gifts Award winning lined Easter baskets, personalized bunnies make for an eggsciting Easter for your little ones. easter baskets,lined easter baskets,wicker easter backet,personalized easter baskets,easter bunny,personalized easter bunny,monogrammed easter bunny,monogrammed easter basket Easter Gifts and Baskets
+engraved-clocks engraved-clocks Engraved 17 in Clock Beautifully handcrafted in the USA and personalized with a message and couple's names and a date anniversary clock, wedding clock,engraved clock,personalized clock,wood clock,monogrammed clock,clock with engraving,clock for wedding gift.personalized wedding gift Engraved Wood Clocks
+family gifts family-gifts Family Gifts | Gifts for Family Members Gifts for the family that everyone will enjoy. Personalized with embroidery or engraving to create a memorable gift, whatever the occasion. family gift,gift for family,family member gift,heirloom gift,memorable gift,sister gift,father gift,mother gift,grandpa gift,grandma gift,gift for sibling,gift for grandparent Family Personalized Gifts
+fathers-day-gifts fathers-day-gifts Father's Day Gifts | Gifts for Dads and Grandpas Surprise him with a personalized gift this Father's Day.  He'd love a new BBQ board, an engraved humidor, or a sign for his man cave. fathers day gift,gift for dad,gift for father,engraved gift for dad,engraved gift for father,personalized father gift,personalized dad gift Fathers Day Gifts Long celebrated, Father's Day honors and celebrates fatherhood and the influence of fathers.  Many people buy gifts for their fathers and grandfathers. Some prefer to give hand made items made by the children. We offer many choices of gifts that can be personalized with children's names.  We have personalized cutting boards, engraved frames, humidors, signs for his man cave, and many other appropriate items. Whatever item you choose, be sure to celebrate the contribution that a father has made to  your life.
+gifts-for-kids gifts-for-kids Personalized Kids Gifts | Gifts for Children Children just love to receive personalized gifts. We embroider, engrave or print their name or initials. From Stephen Joseph backpacks, Taggies blankets, music CDs, embroidered baby blankets, engraved pig banks, you are sure to find the perfect personalized gift for any child. personalized childrens gifts, personalized child gift, children&#8217;s gifts, gifts for children, unique gifts for children Personalized Gifts For Kids Kids Gifts
+
++++++++++
+aspeci7_asgift - category_products:(309)
+category,display_order,subcat_page_link,link_description,image_url,image_alt,on_sale,new_item,discount%
+
++++++++++
+aspeci7_asgift - chat_archive:(352)
+time,endtime,closed,chat_id,external_id,fullname,internal_id,group_id,area_code,html,plain,email,company,iso_language,iso_country,host,ip,gzip,transcript_sent,transcript_receiver,question,customs
+1327421400 1327421439 1327421440 11701 bcc9ac8bb9 bob heinz af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;11:09:32 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>bob heinz</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:bheinz@aspecialgift.com\" target=_self>bheinz@aspecialgift.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>is this working now </TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;11:09:48 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello bob heinz, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2>What!</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>bob heinz</TD>
+<TD class=FCMg3>&nbsp;11:10:00 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>ist this workingnow</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;11:10:10 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>yes bad typing</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>bob heinz</TD>
+<TD class=FCMg3>&nbsp;11:10:20 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>yup bye</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;11:10:28 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>bob heinz</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> LiveZilla Chat Transcript
+
+Date: Tue, 24 Jan 2012 11:10:40 -0500
+-------------------------------------------------------------
+Name: bob heinz
+Email: bheinz@aspecialgift.com
+Question: is this working now
+
+Chat Reference Number: 11701
+-------------------------------------------------------------
+| 24.01.2012 11:10:02 | Clare: Hello bob heinz, my name is Clare, how may I help you?
+| 24.01.2012 11:10:03 | Clare: What!
+| 24.01.2012 11:10:12 | bob heinz: ist this workingnow
+| 24.01.2012 11:10:22 | Clare: yes bad typing
+| 24.01.2012 11:10:32 | bob heinz: yup bye bheinz@aspecialgift.com EN US 0 1 bheinz@aspecialgift.com is this working now a:0:{}
+1327442420 1327447244 1327447243 11702 83332ecb58 ruth af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;5:00:01 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>ruth</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:accounting@launchincentives.com\" target=_self>accounting@launchincentives.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD>Launch</TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD></TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:00:08 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello ruth, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:01:03 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Yes, I am wondering if you have instock 80 of the Bamboo Keepsake Box</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:01:29 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Ruth, no I don\'t but I can get them. When do you need them by?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:01:59 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>delived to SF on Monday 1/30 </TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>would you make a deal for 80?</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:03:34 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Let me see what I can do on the price. You will have to pay UPS 3 day on the shipping to get them in time.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:04:12 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>okay</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:05:09 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Oh sorry, I just checked at our supplier. They are out of stock.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:05:25 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>oh darn</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>thanks</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:06:10 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Will something else work?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:12:42 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i/m looking</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>you have a suggestion?</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>size must stay (more or less)</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:14:47 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>We have a memory box that is about the same size. <A href=\"http://www.aspecialgift.com/personalized-gifts/memory-box.asp?ProductID=ASJB015\" target=_self><FONT color=#0066cc>http://www.aspecialgift.com/personalized-gifts/memory-box.asp?ProductID=ASJB015</FONT></A></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>We have over 80 of these in stock.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:15:47 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>no, but you are on track.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>anything not wood? but still nice?</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:16:49 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>It needs to be a storage box?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:19:15 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>a box</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>about that size</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:20:21 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>but not wood?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:22:55 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>it just doesn\'t have to be wood</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:28:21 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Not coming up with anything. Sorry.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>ruth</TD>
+<TD class=FCMg3>&nbsp;5:30:59 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>thanks for your help anyway... it\'s not easy</TD></TR></TBODY></TABLE></DIV> LiveZilla Chat Transcript
+
+Date: Tue, 24 Jan 2012 18:20:43 -0500
+-------------------------------------------------------------
+Name: ruth
+Email: accounting@launchincentives.com
+Company: Launch
+
+Chat Reference Number: 11702
+-------------------------------------------------------------
+| 24.01.2012 17:00:22 | Clare: Hello ruth, my name is Clare, how may I help you?
+| 24.01.2012 17:01:15 | ruth: Yes, I am wondering if you have instock 80 of the Bamboo Keepsake Box
+| 24.01.2012 17:01:46 | Clare: Ruth, no I don't but I can get them. When do you need them by?
+| 24.01.2012 17:02:11 | ruth: delived to SF on Monday 1/30 
+| 24.01.2012 17:02:23 | ruth: would you make a deal for 80?
+| 24.01.2012 17:03:46 | Clare: Let me see what I can do on the price. You will have to pay UPS 3 day on the shipping to get them in time.
+| 24.01.2012 17:04:24 | ruth: okay
+| 24.01.2012 17:05:20 | Clare: Oh sorry, I just checked at our supplier. They are out of stock.
+| 24.01.2012 17:05:37 | ruth: oh darn
+| 24.01.2012 17:05:37 | ruth: thanks
+| 24.01.2012 17:06:22 | Clare: Will something else work?
+| 24.01.2012 17:12:54 | ruth: i/m looking
+| 24.01.2012 17:12:58 | ruth: you have a suggestion?
+| 24.01.2012 17:13:09 | ruth: size must stay (more or less)
+| 24.01.2012 17:14:58 | Clare: We have a memory box that is about the same size. http://www.aspecialgift.com/personalized-gifts/memory-box.asp?ProductID=ASJB015
+| 24.01.2012 17:15:24 | Clare: We have over 80 of these in stock.
+| 24.01.2012 17:15:59 | ruth: no, but you are on track.
+| 24.01.2012 17:16:08 | ruth: anything not wood? but still nice?
+| 24.01.2012 17:17:04 | Clare: It needs to be a storage box?
+| 24.01.2012 17:19:27 | ruth: a box
+| 24.01.2012 17:19:27 | ruth: about that size
+| 24.01.2012 17:20:33 | Clare: but not wood?
+| 24.01.2012 17:23:07 | ruth: it just doesn't have to be wood
+| 24.01.2012 17:28:32 | Clare: Not coming up with anything. Sorry.
+| 24.01.2012 17:31:11 | ruth: thanks for your help anyway... it's not easy accounting@launchincentives.com Launch EN US 0 1 accounting@launchincentives.com a:0:{}
+1327506369 1327506407 1327506409 11704 7ebd748 nnknj af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;10:45:53 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>nnknj</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:nkjnknj\" target=_self>nkjnknj</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD></TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;10:45:58 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello nnknj, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;10:46:38 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>nnknj</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> LiveZilla Chat Transcript
+
+Date: Wed, 25 Jan 2012 10:46:49 -0500
+-------------------------------------------------------------
+Name: nnknj
+Email: nkjnknj
+
+Chat Reference Number: 11704
+-------------------------------------------------------------
+| 25.01.2012 10:46:10 | Clare: Hello nnknj, my name is Clare, how may I help you? nkjnknj EN US 0 1 nkjnknj a:0:{}
+1327589294 1327589561 1327589565 11705 b04b7e2cac Hunter af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;9:47:41 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Hunter</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:hhh609@aol.com\" target=_self>hhh609@aol.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>I am ordering a photo album for a birthday next Saturday. I live in Maryland. Is there an estimate delivery on this? thanks, Hunter</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;9:47:51 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Hunter, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>Hello Hunter. What shipping method did you select?</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Hunter</TD>
+<TD class=FCMg3>&nbsp;9:48:51 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>I haven\'t yet. as I was hoping for your advice.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;9:49:27 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>If you do UPS ground you should receive it in 4 business days. Priority mail should also get it there in time but they don\'t have any service guarantees. </FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Hunter</TD>
+<TD class=FCMg3>&nbsp;9:50:28 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>may i ask where are you shipping from and if I put the order in right now any idea when it would ship out? </TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;9:51:02 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>We are in NC. If you order today it will ship out either Friday or Monday, for UPS deliver either Tuesday or Weds.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Hunter</TD>
+<TD class=FCMg3>&nbsp;9:52:11 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>perfect!! I am putting order through now, many thanks!</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;9:52:22 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Hunter</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> LiveZilla Chat Transcript
+
+Date: Thu, 26 Jan 2012 09:52:45 -0500
+-------------------------------------------------------------
+Name: Hunter
+Email: hhh609@aol.com
+Question: I am ordering a photo album for a birthday next Saturday.  I live in Maryland.  Is there an estimate delivery on this?  thanks, Hunter
+
+Chat Reference Number: 11705
+-------------------------------------------------------------
+| 26.01.2012 09:48:16 | Clare: Hello Hunter, my name is Clare, how may I help you?
+| 26.01.2012 09:48:39 | Clare: Hello Hunter. What shipping method did you select?
+| 26.01.2012 09:49:15 | Hunter: I haven't yet.  as I was hoping for your advice.
+| 26.01.2012 09:49:50 | Clare: If you do UPS ground you should receive it in 4 business days. Priority mail should also get it there in time but they don't have any service guarantees. 
+| 26.01.2012 09:50:52 | Hunter: may i ask where are you shipping from and if I put the order in right now any idea when it would ship out?  
+| 26.01.2012 09:51:25 | Clare: We are in NC. If you order today it will ship out either Friday or Monday, for UPS deliver either Tuesday or Weds.
+| 26.01.2012 09:52:35 | Hunter: perfect!! I am putting order through now, many thanks! hhh609@aol.com EN US 0 1 hhh609@aol.com I am ordering a photo album for a birthday next Saturday.  I live in Maryland.  Is there an estimate delivery on this?  thanks, Hunter a:0:{}
+1327610077 1327610401 1327610405 11706 93bc661b7a Britany af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;3:33:55 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Britany</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:bkasza13@gmail.com\" target=_self>bkasza13@gmail.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>I want to purchase \"Tall Boy 22 oz, Beer Mug\", But i wanted to know if I did it through \"US Priority Maiil\" would it break.</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:34:14 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Britany, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Britany</TD>
+<TD class=FCMg3>&nbsp;3:35:12 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>I want to purchase the \"tall boy 22 oz beer mug\", but i wanted to know if it would break through Priority Mail<BR></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>or if it did break will i be able to return it</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:36:17 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff></FONT><FONT color=#0080ff>We pack glass in bubble wrap so it won\'t break (hopefully). If it was broken we would send you a replacement.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Britany</TD>
+<TD class=FCMg3>&nbsp;3:36:34 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Okay. </TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>Thank you for your help. </TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:36:55 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Can I help you with anything else today?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Britany</TD>
+<TD class=FCMg3>&nbsp;3:37:14 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Nope that will be all.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;3:39:43 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Britany</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> LiveZilla Chat Transcript
+
+Date: Thu, 26 Jan 2012 15:40:05 -0500
+-------------------------------------------------------------
+Name: Britany
+Email: bkasza13@gmail.com
+Question: I want to purchase \"Tall Boy 22 oz, Beer Mug\", But i wanted to know if I did it through \"US Priority Maiil\" would it break.
+
+Chat Reference Number: 11706
+-------------------------------------------------------------
+| 26.01.2012 15:34:39 | Clare: Hello Britany, my name is Clare, how may I help you?
+| 26.01.2012 15:35:36 | Britany: I want to purchase the "tall boy 22 oz beer mug", but i wanted to know if it would break through Priority Mail
+ 
+| 26.01.2012 15:35:49 | Britany: or if it did break will i be able to return it
+| 26.01.2012 15:36:42 | Clare: We pack glass in bubble wrap so it won't break (hopefully). If it was broken we would send you a replacement.
+| 26.01.2012 15:36:58 | Britany: Okay. 
+| 26.01.2012 15:37:10 | Britany: Thank you for your help. 
+| 26.01.2012 15:37:21 | Clare: Can I help you with anything else today?
+| 26.01.2012 15:37:38 | Britany: Nope that will be all. bkasza13@gmail.com EN US 0 1 bkasza13@gmail.com I want to purchase \"Tall Boy 22 oz, Beer Mug\", But i wanted to know if I did it through \"US Priority Maiil\" would it break. a:0:{}
+1327699708 1327699990 1327699995 11707 b1ac8be994 LOUISE af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;4:27:55 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>LOUISE</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:ellynn53@yahoo.com\" target=_self>ellynn53@yahoo.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>when will this be avabile i like to get for valtines day</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;4:28:07 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello LOUISE, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>LOUISE</TD>
+<TD class=FCMg3>&nbsp;4:28:53 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i like to know when will the heart bracelet be avabile</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>item number 706/20</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;4:29:38 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Let me double check that it is out of stock. Hold on please.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>LOUISE</TD>
+<TD class=FCMg3>&nbsp;4:29:54 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>ok</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;4:31:32 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>I\'m sorry it is out of stock. We do have it in the yellow. We won\'t get any more for about a month. The manufacturer has changed and they are behind in production.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>LOUISE</TD>
+<TD class=FCMg3>&nbsp;4:32:09 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>ok i will check back thanks</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;4:32:30 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Thank you.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;4:32:53 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>LOUISE</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> LiveZilla Chat Transcript
+
+Date: Fri, 27 Jan 2012 16:33:15 -0500
+-------------------------------------------------------------
+Name: LOUISE
+Email: ellynn53@yahoo.com
+Question: when will this be avabile i like to get for valtines day
+
+Chat Reference Number: 11707
+-------------------------------------------------------------
+| 27.01.2012 16:28:29 | Clare: Hello LOUISE, my name is Clare, how may I help you?
+| 27.01.2012 16:29:14 | LOUISE: i like to know when will the heart bracelet be avabile
+| 27.01.2012 16:29:44 | LOUISE: item number 706/20
+| 27.01.2012 16:29:59 | Clare: Let me double check that it is out of stock. Hold on please.
+| 27.01.2012 16:30:15 | LOUISE: ok
+| 27.01.2012 16:31:54 | Clare: I'm sorry it is out of stock. We do have it in the yellow. We won't get any more for about a month. The manufacturer has changed and they are behind in production.
+| 27.01.2012 16:32:30 | LOUISE: ok i will check back thanks
+| 27.01.2012 16:32:51 | Clare: Thank you. ellynn53@yahoo.com EN US 0 1 ellynn53@yahoo.com when will this be avabile i like to get for valtines day a:0:{}
+1328042492 1328048891 1328048897 11708 f0e0af360c Julie af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;3:37:42 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Julie</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:goldenharley@sbcglobal.net\" target=_self>goldenharley@sbcglobal.net</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>can you please tell me the size of the bank, i was looking for the large ones, thanks </TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:41:31 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Julie, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>The large pig banks are <SPAN style=\"TEXT-ALIGN: left; WIDOWS: 2; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; DISPLAY: inline !important; FONT: bold 12px Arial, Helvetica, sans-serif; WHITE-SPACE: normal; ORPHANS: 2; FLOAT: none; COLOR: rgb(134,133,133); WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px\">Size: 7 1/2 in. h x 8 in. l x 7 in. w</SPAN></FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA><FONT color=#0080ff>Can I help you with anything else?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Julie</TD>
+<TD class=FCMg3>&nbsp;3:45:14 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i think that is it and then the names can be painted on?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>oh i know is their a way to see how the face/eyes are painted?</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:48:36 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>We can email you a picture of the one you\'re interested in.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Julie</TD>
+<TD class=FCMg3>&nbsp;3:49:23 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i am looking at the 3D flower and butterfly pig bank and the Flower and Bee (which any idea how long out of stock?)</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:50:24 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>A couple of weeks before we get our next shipment.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Julie</TD>
+<TD class=FCMg3>&nbsp;3:51:02 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>so would the order be able to be placed now or would i need to place it when it was in stock?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:52:53 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>I can mark it back in stock if you wanted to place an order soon.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Julie</TD>
+<TD class=FCMg3>&nbsp;3:53:26 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>ok could i see first the picture of the faces, you could send it to my email goldenharley@sbcglobal.net thanks</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:54:34 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Ok, we\'ll send you the face of the 3d Flower and Butterfly and the Flower and Bee.&nbsp; You can let us know on the live chat when you\'re ready to place an order and we\'ll mark it in stock for you.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Julie</TD>
+<TD class=FCMg3>&nbsp;3:55:00 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>great, will that be soon or later this week?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:55:38 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>It\'ll be tomorrow am.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Julie</TD>
+<TD class=FCMg3>&nbsp;3:56:04 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>great, thank you so much for your help</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:56:33 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Your welcome.&nbsp; Thank you.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;5:28:26 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Julie</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> LiveZilla Chat Transcript
+
+Date: Tue, 31 Jan 2012 17:28:17 -0500
+-------------------------------------------------------------
+Name: Julie
+Email: goldenharley@sbcglobal.net
+Question: can you please tell me the size of the bank, i was looking for the large ones, thanks
+
+Chat Reference Number: 11708
+-------------------------------------------------------------
+| 31.01.2012 15:41:34 | Clare: Hello Julie, my name is Clare, how may I help you?
+| 31.01.2012 15:42:15 | Clare: The large pig banks are Size: 7 1/2 in. h x 8 in. l x 7 in. w
+| 31.01.2012 15:43:14 | Clare: Can I help you with anything else?
+| 31.01.2012 15:45:05 | Julie: i think that is it and then the names can be painted on?
+| 31.01.2012 15:46:18 | Julie: oh i know is their a way to see how the face/eyes are painted?
+| 31.01.2012 15:48:26 | Clare: We can email you a picture of the one you're interested in.
+| 31.01.2012 15:49:14 | Julie: i am looking at the 3D flower and butterfly pig bank and the Flower and Bee (which any idea how long out of stock?)
+| 31.01.2012 15:50:14 | Clare: A couple of weeks before we get our next shipment.
+| 31.01.2012 15:50:53 | Julie: so would the order be able to be placed now or would i need to place it when it was in stock?
+| 31.01.2012 15:52:43 | Clare: I can mark it back in stock if you wanted to place an order soon.
+| 31.01.2012 15:53:17 | Julie: ok could i see first the picture of the faces, you could send it to my email goldenharley@sbcglobal.net  thanks
+| 31.01.2012 15:54:25 | Clare: Ok, we'll send you the face of the 3d Flower and Butterfly and the Flower and Bee.  You can let us know on the live chat when you're ready to place an order and we'll mark it in stock for you.
+| 31.01.2012 15:54:51 | Julie: great, will that be soon or later this week?
+| 31.01.2012 15:55:28 | Clare: It'll be tomorrow am.
+| 31.01.2012 15:55:55 | Julie: great, thank you so much for your help
+| 31.01.2012 15:56:23 | Clare: Your welcome.  Thank you. goldenharley@sbcglobal.net EN US 0 1 goldenharley@sbcglobal.net can you please tell me the size of the bank, i was looking for the large ones, thanks a:0:{}
+1328229909 1328229909 1328229914 11709 8b6c32744a Jenny Ross af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;7:38:19 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Jenny Ross</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:cnjmacdonald@hotmail.com\" target=_self>cnjmacdonald@hotmail.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>I placed and order and they said that they would email me when it shipped and that my card would not be charged until it shipped, but they have charged my card and I have not gotten a shipping confirmation. I would also like to know how to track my order</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana><B>Jenny Ross</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV> cnjmacdonald@hotmail.com EN US 0 1 cnjmacdonald@hotmail.com I placed and order and they said that they would email me when it shipped and that my card would not be charged until it shipped, but they have charged my card and I have not gotten a shipping confirmation. I would also like to know how to track my order a:0:{}
+1328561645 1328562825 1328562825 11710 1355d51af3 John af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;3:53:38 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>John</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:john.gildner@dsusd.us\" target=_self>john.gildner@dsusd.us</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>Hello, Just wondering if you have n estimated date when you\'ll have stock for Item # 554/30? Thank you.</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:53:57 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello John, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>John</TD>
+<TD class=FCMg3>&nbsp;3:54:24 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Hello Clare,</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:54:46 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2>Hi John, we don\'t have a date yet. They are on order so we hope they will be here soon.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>John</TD>
+<TD class=FCMg3>&nbsp;3:55:42 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Can you tell me the difference between that and item #1034/30?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:56:22 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Let me check for you ..</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>OK. They are basically the same except the finish on the front of the bracelet is a brushed finish on the 1034/30</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA><FONT color=#0080ff>The 554/30 is shiny.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>Can I help you with anything else?</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>John</TD>
+<TD class=FCMg3>&nbsp;4:11:08 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Thank you for your assistance. It\'s the shiny finish that\'s wanted, so guess we\'ll hope for more stock on the 554/30 soo.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;4:13:36 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>John</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Mon, 06 Feb 2012 16:13:45 -0500
+-------------------------------------------------------------
+Name: John
+Email: john.gildner@dsusd.us
+Question: Hello,
+Just wondering if you have n estimated date when you\'ll have stock for Item # 554/30?
+Thank you.
+
+Chat Reference Number: 11710
+-------------------------------------------------------------
+| 06.02.2012 15:54:06 | Clare: Hello John, my name is Clare, how may I help you?
+| 06.02.2012 15:54:33 | John: Hello Clare,
+| 06.02.2012 15:54:55 | Clare: Hi John, we don't have a date yet. They are on order so we hope they will be here soon.
+| 06.02.2012 15:55:51 | John: Can you tell me the difference between that and item #1034/30?
+| 06.02.2012 15:56:31 | Clare: Let me check for you ..
+| 06.02.2012 15:57:35 | Clare: OK. They are basically the same except the finish on the front of the bracelet is a brushed finish on the 1034/30
+| 06.02.2012 15:57:53 | Clare: The 554/30 is shiny.
+| 06.02.2012 16:00:17 | Clare: Can I help you with anything else?
+| 06.02.2012 16:11:17 | John: Thank you for your assistance.  It's the shiny finish that's wanted, so guess we'll hope for more stock on the 554/30 soo. john.gildner@dsusd.us EN US 0 1 john.gildner@dsusd.us Hello,
+Just wondering if you have n estimated date when you\'ll have stock for Item # 554/30?
+Thank you. a:0:{}
+1328642421 1328642575 1328642578 11711 0c5c27cbc9 mARIE-cLAUDE af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;2:19:26 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>mARIE-cLAUDE</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:marie-claude.milton@hotmail.com\" target=_self>marie-claude.milton@hotmail.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>How much is shipping cost for Canada? </TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;2:20:15 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello mARIE-cLAUDE, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>mARIE-cLAUDE</TD>
+<TD class=FCMg3>&nbsp;2:20:27 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Hello Claire</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>Could you please inform me of the shipping cost to Canada? </TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>Thanks</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;2:21:30 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>It is based on the item, we don\'t have a flat rate. If you add the item to the cart there is a shipping calculator on the bottom of the shopping cart page.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>mARIE-cLAUDE</TD>
+<TD class=FCMg3>&nbsp;2:22:06 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>for a simple flask? would you happen to have a price? </TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;2:22:48 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>mARIE-cLAUDE</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Tue, 07 Feb 2012 14:22:58 -0500
+-------------------------------------------------------------
+Name: mARIE-cLAUDE
+Email: marie-claude.milton@hotmail.com
+Question: How much is shipping cost for Canada?
+
+Chat Reference Number: 11711
+-------------------------------------------------------------
+| 07.02.2012 14:20:22 | Clare: Hello mARIE-cLAUDE, my name is Clare, how may I help you?
+| 07.02.2012 14:20:34 | mARIE-cLAUDE: Hello Claire
+| 07.02.2012 14:20:55 | mARIE-cLAUDE: Could you please inform me of the shipping cost to Canada? 
+| 07.02.2012 14:20:55 | mARIE-cLAUDE: Thanks
+| 07.02.2012 14:21:37 | Clare: It is based on the item, we don't have a flat rate. If you add the item to the cart there is a shipping calculator on the bottom of the shopping cart page.
+| 07.02.2012 14:22:13 | mARIE-cLAUDE: for a simple flask? would you happen to have a price? 
+| 07.02.2012 14:22:34 | mARIE-cLAUDE: Thanks for the help I'll do it myself. marie-claude.milton@hotmail.com FR CA 0 1 marie-claude.milton@hotmail.com How much is shipping cost for Canada? a:0:{}
+1351273065 1351273526 1351273532 11814 de48df8403 Janet Baughman af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;1:37:15 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Janet Baughman</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:jhbcsi@windstream.net\" target=_self>jhbcsi@windstream.net</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>Is the rogar Personalized Wine Opener with Hardwood Stand currently available for shipping, or is it on backorder?</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;1:37:31 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Janet Baughman, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Janet Baughman</TD>
+<TD class=FCMg3>&nbsp;1:38:14 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Is the Rogar Personalized Wine Opener with Hardwood Stand currently available for shipping, or is it on backorder?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;1:38:57 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>I have to check with the warehpuse, when do you need it?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>excuse me, warehouse*</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Janet Baughman</TD>
+<TD class=FCMg3>&nbsp;1:39:23 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>As soon as you can ship it.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;1:40:56 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Okay, I can contact the company and find out if they are still available. Would you like to give me your telephone number so that I call yo once I have an answer?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Janet Baughman</TD>
+<TD class=FCMg3>&nbsp;1:41:41 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>If you have to contact the company I already have the answer. You should put a notice on your website that this item is on backorder only.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;1:45:17 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Janet Baughman</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Fri, 26 Oct 2012 13:45:32 -0400
+-------------------------------------------------------------
+Name: Janet Baughman
+Email: jhbcsi@windstream.net
+Question: Is the rogar Personalized Wine Opener with Hardwood Stand currently available for shipping, or is it on backorder?
+
+Chat Reference Number: 11814
+-------------------------------------------------------------
+| 26.10.2012 13:37:47 | Clare: Hello Janet Baughman, my name is Clare, how may I help you?
+| 26.10.2012 13:38:29 | Janet Baughman: Is the Rogar Personalized Wine Opener with Hardwood Stand currently available for shipping, or is it on backorder?
+| 26.10.2012 13:39:11 | Clare: I have to check with the warehpuse, when do you need it?
+| 26.10.2012 13:39:20 | Clare: excuse me, warehouse*
+| 26.10.2012 13:39:38 | Janet Baughman: As soon as you can ship it.
+| 26.10.2012 13:41:11 | Clare: Okay, I can contact the company and find out if they are still available. Would you like to give me your telephone number so that I call yo once I have an answer?
+| 26.10.2012 13:41:56 | Janet Baughman: If you have to contact the company I already have the answer.  You should put a notice on your website that this item is on backorder only. jhbcsi@windstream.net EN US 0 1 jhbcsi@windstream.net Is the rogar Personalized Wine Opener with Hardwood Stand currently available for shipping, or is it on backorder? a:0:{}
+1351526432 1351526771 1351526771 11815 a6e2c616c9 rachelle af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:00:16 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>rachelle</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:drastroe2000@yahoo.com\" target=_self>drastroe2000@yahoo.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>.</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:00:22 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello rachelle, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:00:49 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>hi Clare, i spoke to you last week regarding my order of a baby bible</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>it was personalizes</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>personalised</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>my order number was 5624</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:01:27 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Yes Rachelle, how can I help you.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:01:43 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>ohhhh my God, i wanted to tahnk you so verymuch.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>the gift came before time</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>and the baby\'s parents are so thrilled</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:02:13 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>That is wonderful!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:02:15 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i was telling everyone about this website</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:02:25 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Thank you! We love that!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:02:24 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i am so happy</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>you have no idea</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>thank you thank you thank you thank you so very much</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>you guys made our day yesterday at the christenning</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:03:02 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>I can tell! Thank you so much for letting us know. It really means so much. We work here to have happy customers. You are very kind!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:03:04 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>it was very much of an original and well done gift</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>thank you</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>enjoy your day</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>and i will make sure to order from you guys again, the next time i have a party</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:03:51 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Thank you. I sure will and I will let the engraver know how happy you were with the gift. We hope to help you again in the future!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:03:59 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>thank you</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>give her a big hug from me</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:04:31 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>I will!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:04:30 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>ciao</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:04:53 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Azalea said \'God Bless Her!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:05:05 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>thank you</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>the mother said that she felt that her daughter was so blessed</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>\'til next time</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>(-:</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:05:45 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Thank you Rachelle. <SPAN class=SMILEYSMILE></SPAN></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>rachelle</TD>
+<TD class=FCMg3>&nbsp;12:05:56 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>you are very welcome</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:06:02 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>rachelle</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Mon, 29 Oct 2012 12:06:11 -0400
+-------------------------------------------------------------
+Name: rachelle
+Email: drastroe2000@yahoo.com
+Question: .
+
+Chat Reference Number: 11815
+-------------------------------------------------------------
+| 29.10.2012 12:00:34 | Clare: Hello rachelle, my name is Clare, how may I help you?
+| 29.10.2012 12:00:58 | rachelle: hi Clare, i spoke to you last week regarding my order of a baby bible
+| 29.10.2012 12:01:07 | rachelle: it was personalizes
+| 29.10.2012 12:01:12 | rachelle: personalised
+| 29.10.2012 12:01:17 | rachelle: my order number was 5624
+| 29.10.2012 12:01:37 | Clare: Yes Rachelle, how can I help you.
+| 29.10.2012 12:01:52 | rachelle: ohhhh my God, i wanted to tahnk you so verymuch.
+| 29.10.2012 12:02:01 | rachelle: the gift came before time
+| 29.10.2012 12:02:12 | rachelle: and the baby's parents are so thrilled
+| 29.10.2012 12:02:23 | Clare: That is wonderful!
+| 29.10.2012 12:02:24 | rachelle: i was telling everyone about this website
+| 29.10.2012 12:02:33 | rachelle: i am so happy
+| 29.10.2012 12:02:35 | Clare: Thank you! We love that!
+| 29.10.2012 12:02:38 | rachelle: you have no idea
+| 29.10.2012 12:02:49 | rachelle: thank you thank you thank you thank you so very much
+| 29.10.2012 12:02:59 | rachelle: you guys made our day yesterday at the christenning
+| 29.10.2012 12:03:12 | Clare: I can tell! Thank you so much for letting us know. It really means so much. We work here to have happy customers. You are very kind!
+| 29.10.2012 12:03:13 | rachelle: it was very much of an original and well done gift
+| 29.10.2012 12:03:18 | rachelle: thank you
+| 29.10.2012 12:03:30 | rachelle: enjoy your day
+| 29.10.2012 12:03:45 | rachelle: and i will make sure to order from you guys again, the next time i have a party
+| 29.10.2012 12:04:01 | Clare: Thank you. I sure will and I will let the engraver know how happy you were with the gift. We hope to help you again in the future!
+| 29.10.2012 12:04:08 | rachelle: thank you
+| 29.10.2012 12:04:28 | rachelle: give her a big hug from me
+| 29.10.2012 12:04:39 | rachelle: ciao
+| 29.10.2012 12:04:40 | Clare: I will!
+| 29.10.2012 12:05:02 | Clare: Azalea said 'God Bless Her!
+| 29.10.2012 12:05:14 | rachelle: thank you
+| 29.10.2012 12:05:26 | rachelle: the mother said that she felt that her daughter was so blessed
+| 29.10.2012 12:05:36 | rachelle: 'til next time
+| 29.10.2012 12:05:45 | rachelle: (-:
+| 29.10.2012 12:05:55 | Clare: Thank you Rachelle. :-)
+| 29.10.2012 12:06:05 | rachelle: you are very welcome drastroe2000@yahoo.com EN US 0 1 drastroe2000@yahoo.com . a:0:{}
+1351530016 1351530469 1351530473 11816 2b1070ae0b Sharon Sill af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:59:53 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Sharon Sill</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:jstheboss@cox.net\" target=_self>jstheboss@cox.net</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>I\'m looking at the \"YOUR ORDER IS NOT COMPLETE\" screen. I need to change the shipping address, how do I get that accomplished?</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;1:00:07 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Sharon Sill, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>Hi Sharon. Do you need to change the whole address or just a piece</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Sharon Sill</TD>
+<TD class=FCMg3>&nbsp;1:01:17 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>I failed to change the shipping address. I\'m looking at the Order Review. I don\'t see a box for editing the info. HELP</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;1:02:09 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>I can make the change after you place the order. Let me know your order number once you place it and give me the information. </FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Sharon Sill</TD>
+<TD class=FCMg3>&nbsp;1:02:37 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>OK, thank you!!!!!!</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>My order #is 5710. The address should be:</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA>Sorry, hit the enter button too soon The address should be: Dylan Hutt 840 Maple Waukee Ia 50263. Thanks for your help. Sharon Sill </TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;1:06:23 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Thank you Sharon. I will make the change to your shipping address. Thanks for the order!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;1:07:44 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Sharon Sill</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Mon, 29 Oct 2012 13:07:53 -0400
+-------------------------------------------------------------
+Name: Sharon Sill
+Email: jstheboss@cox.net
+Question: I\'m looking at the \"YOUR ORDER IS NOT COMPLETE\" screen.  I need to change the shipping address, how do I get that accomplished?
+
+Chat Reference Number: 11816
+-------------------------------------------------------------
+| 29.10.2012 13:00:18 | Clare: Hello Sharon Sill, my name is Clare, how may I help you?
+| 29.10.2012 13:00:39 | Clare: Hi Sharon. Do you need to change the whole address or just a piece
+| 29.10.2012 13:01:26 | Sharon Sill: I failed to change the shipping address.  I'm looking at the Order Review.  I don't see a box for editing the info.  HELP
+| 29.10.2012 13:02:19 | Clare: I can make the change after you place the order. Let me know your order number once you place it and give me the information. 
+| 29.10.2012 13:02:46 | Sharon Sill: OK, thank you!!!!!!
+| 29.10.2012 13:04:39 | Sharon Sill: My order #is 5710.  The address should be:
+| 29.10.2012 13:06:06 | Sharon Sill: Sorry, hit the enter button too soon  The address should be:  Dylan Hutt   840 Maple   Waukee Ia  50263.  Thanks for your help.   Sharon Sill 
+| 29.10.2012 13:06:33 | Clare: Thank you Sharon. I will make the change to your shipping address. Thanks for the order! jstheboss@cox.net EN US 0 1 jstheboss@cox.net I\'m looking at the \"YOUR ORDER IS NOT COMPLETE\" screen.  I need to change the shipping address, how do I get that accomplished? a:0:{}
+1351625182 1351625236 1351625241 11817 54ddf502d7 Nick af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;3:22:48 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Nick</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:nickbuman@hotmail.com\" target=_self>nickbuman@hotmail.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>I have an image I would like to get put on a flask, I am seeing if I can email the image to someone and if they can tell me if it is possible. Thank you. </TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;3:26:09 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Nick, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;3:27:07 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Nick</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Tue, 30 Oct 2012 15:27:21 -0400
+-------------------------------------------------------------
+Name: Nick
+Email: nickbuman@hotmail.com
+Question: I have an image I would like to get put on a flask, I am seeing if I can email the image to someone and if they can tell me if it is possible. Thank you.
+
+Chat Reference Number: 11817
+-------------------------------------------------------------
+| 30.10.2012 15:26:24 | Clare: Hello Nick, my name is Clare, how may I help you? nickbuman@hotmail.com EN US 0 1 nickbuman@hotmail.com I have an image I would like to get put on a flask, I am seeing if I can email the image to someone and if they can tell me if it is possible. Thank you. a:0:{}
+1351871945 1351872276 1351872281 11818 283fc17df4 Kristina Russo af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;11:58:18 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Kristina Russo</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:ktinarusso@aol.com\" target=_self>ktinarusso@aol.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>can i see a sample before the orders put through?</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;11:58:26 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Kristina Russo, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;11:58:28 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>hello</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;11:58:46 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2>Hi Kristina</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;11:58:42 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i would like to order a custom flask with an image</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>do i get to see what it looks like before it gets shipped</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;11:59:11 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Are you doing a photograph?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;11:59:24 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>yes</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;11:59:39 AM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Then you will be sent a proof for approval prior to engraving.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;11:59:55 AM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>and if i don\'t like it it can be fixed?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:00:23 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>We will redo the proof. We won\'t engrave it until you like it.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:01:26 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>thank you!</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:01:49 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>You\'re very welcome. Don\'t forget to put your email address on the order!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:04:01 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Kristina Russo</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Fri, 02 Nov 2012 12:04:41 -0400
+-------------------------------------------------------------
+Name: Kristina Russo
+Email: ktinarusso@aol.com
+Question: can i see a sample before the orders put through?
+
+Chat Reference Number: 11818
+-------------------------------------------------------------
+| 02.11.2012 11:59:06 | Clare: Hello Kristina Russo, my name is Clare, how may I help you?
+| 02.11.2012 11:59:08 | Kristina Russo: hello
+| 02.11.2012 11:59:22 | Kristina Russo: i would like to order a custom flask with an image
+| 02.11.2012 11:59:25 | Clare: Hi Kristina
+| 02.11.2012 11:59:35 | Kristina Russo: do i get to see what it looks like before it gets shipped
+| 02.11.2012 11:59:50 | Clare: Are you doing a photograph?
+| 02.11.2012 12:00:04 | Kristina Russo: yes
+| 02.11.2012 12:00:18 | Clare: Then you will be sent a proof for approval prior to engraving.
+| 02.11.2012 12:00:35 | Kristina Russo: and if i don't like it it can be fixed?
+| 02.11.2012 12:01:01 | Clare: We will redo the proof. We won't engrave it until you like it.
+| 02.11.2012 12:02:06 | Kristina Russo: thank you!
+| 02.11.2012 12:02:28 | Clare: You're very welcome. Don't forget to put your email address on the order! ktinarusso@aol.com EN US 0 1 ktinarusso@aol.com can i see a sample before the orders put through? a:0:{}
+1351874655 1351874657 1351874657 11819 283fc17df4 Kristina Russo af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:43:26 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Kristina Russo</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:ktinarusso@aol.com\" target=_self>ktinarusso@aol.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>how long </TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:43:36 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Kristina Russo, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:43:39 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Kristina Russo</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> ktinarusso@aol.com EN US 0 1 ktinarusso@aol.com how long a:0:{}
+1351874662 1351875328 1351875328 11821 283fc17df4 Kristina Russo af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:43:26 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>Kristina Russo</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:ktinarusso@aol.com\" target=_self>ktinarusso@aol.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>how long </TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:43:36 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello Kristina Russo, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:43:39 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Kristina Russo</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>This chat has been archived.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA><FONT color=#0080ff size=2 face=Verdana><B>Kristina Russo</B> is now in Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:43:49 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>how long does it take to get a preview of your item after its ordered?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:44:10 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>If you place your order today you will get the proof on Monday. </FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:44:27 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>and then once i proof it how long will it take to make?</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:44:58 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>It would most likely ship on Tuesday.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>Do you need to receive it by a certain date?</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:45:14 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>okay and then should be here by monday</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:45:38 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Where are we shipping to?</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:45:50 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i would\'ve liked it by like thursday but its okay</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>westtown ny 10998</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:46:11 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Are you doing UPS Ground</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:47:02 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>i did the 5.00 option</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>i choose priority</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:47:49 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Priority Mail? You could get it Thursday. </FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:48:16 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>okay thank you</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:48:46 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>You\'re welcome. I\'ll mark your order as a rush so they get the proof out early as possible.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>Kristina Russo</TD>
+<TD class=FCMg3>&nbsp;12:49:03 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>thank you so much have a good weekend</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;12:49:19 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>You too.<SPAN class=SMILEYSMILE></SPAN></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;12:54:49 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>Kristina Russo</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Fri, 02 Nov 2012 12:55:28 -0400
+-------------------------------------------------------------
+Name: Kristina Russo
+Email: ktinarusso@aol.com
+Question: how long
+
+Chat Reference Number: 11821
+-------------------------------------------------------------
+| 02.11.2012 12:44:29 | Kristina Russo: how long does it take to get a preview of your item after its ordered?
+| 02.11.2012 12:44:49 | Clare: If you place your order today you will get the proof on Monday. 
+| 02.11.2012 12:45:07 | Kristina Russo: and then once i proof it how long will it take to  make?
+| 02.11.2012 12:45:37 | Clare: It would most likely ship on Tuesday.
+| 02.11.2012 12:45:54 | Kristina Russo: okay and then should be here by monday
+| 02.11.2012 12:45:56 | Clare: Do you need to receive it by a certain date?
+| 02.11.2012 12:46:17 | Clare: Where are we shipping to?
+| 02.11.2012 12:46:30 | Kristina Russo: i would've liked it by like thursday but  its okay
+| 02.11.2012 12:46:39 | Kristina Russo: westtown ny 10998
+| 02.11.2012 12:46:50 | Clare: Are you doing UPS Ground
+| 02.11.2012 12:47:42 | Kristina Russo: i did the 5.00 option
+| 02.11.2012 12:48:12 | Kristina Russo: i choose priority
+| 02.11.2012 12:48:27 | Clare: Priority Mail? You could get it Thursday. 
+| 02.11.2012 12:48:56 | Kristina Russo: okay thank you
+| 02.11.2012 12:49:25 | Clare: You're welcome. I'll mark your order as a rush so they get the proof out early as possible.
+| 02.11.2012 12:49:43 | Kristina Russo: thank you so much have a good weekend
+| 02.11.2012 12:49:58 | Clare: You too.:-) ktinarusso@aol.com EN US 0 1 ktinarusso@aol.com how long a:0:{}
+1352315852 1352324002 1352324010 11825 86a328268a kathie af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;2:16:47 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>kathie</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:celestearl2@aol.com\" target=_self>celestearl2@aol.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>if I\'m shipping to differant addresses do I need to order seperately</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;2:17:26 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello kathie, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>kathie</TD>
+<TD class=FCMg3>&nbsp;2:18:20 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Hello Clare, if I\'m shipping to different addresses do I need to make different orders </TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;2:18:43 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2>Yes you do. I\'m sorry!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>kathie</TD>
+<TD class=FCMg3>&nbsp;2:18:58 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>no problem - thanks</TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Wed, 07 Nov 2012 16:33:30 -0500
+-------------------------------------------------------------
+Name: kathie
+Email: celestearl2@aol.com
+Question: if I\'m shipping to differant addresses do I need to order seperately
+
+Chat Reference Number: 11825
+-------------------------------------------------------------
+| 07.11.2012 14:17:34 | Clare: Hello kathie, my name is Clare, how may I help you?
+| 07.11.2012 14:18:27 | kathie: Hello Clare, if I'm shipping to different addresses do I need to make different orders 
+| 07.11.2012 14:18:49 | Clare: Yes you do. I'm sorry!
+| 07.11.2012 14:19:05 | kathie: no problem - thanks celestearl2@aol.com EN US 0 1 celestearl2@aol.com if I\'m shipping to differant addresses do I need to order seperately a:0:{}
+1352324317 1352324453 1352324458 11827 86a328268a kathie af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;2:16:47 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>kathie</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:celestearl2@aol.com\" target=_self>celestearl2@aol.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>if I\'m shipping to differant addresses do I need to order seperately</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;2:17:26 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello kathie, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>kathie</TD>
+<TD class=FCMg3>&nbsp;2:18:20 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>Hello Clare, if I\'m shipping to different addresses do I need to make different orders </TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;2:18:43 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2>Yes you do. I\'m sorry!</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>kathie</TD>
+<TD class=FCMg3>&nbsp;2:18:58 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>no problem - thanks</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;4:33:21 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>kathie</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>This chat has been archived.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCA><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>kathie</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:celestearl2@aol.com\" target=_self>celestearl2@aol.com</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>if I\'m shipping to differant addresses do I need to order seperately</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana><B>kathie</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV> celestearl2@aol.com EN US 0 1 celestearl2@aol.com if I\'m shipping to differant addresses do I need to order seperately a:0:{}
+1352412839 1352413327 1352413331 11828 16399d4492 melissa af519d8 CustomerCare <DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;5:13:38 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana>Chat Request for <B>Customer Care</B> (Clare):<BR>
+<DIV class=TCBB>
+<TABLE class=TCB cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=TCCL rowSpan=14></TD>
+<TD noWrap>Name:&nbsp;&nbsp;</TD>
+<TD>melissa</TD></TR>
+<TR>
+<TD noWrap>Email:&nbsp;&nbsp;</TD>
+<TD><A href=\"mailto:mdgrisham@att.net\" target=_self>mdgrisham@att.net</A></TD></TR>
+<TR>
+<TD>Company:&nbsp;&nbsp;</TD>
+<TD></TD></TR>
+<TR>
+<TD vAlign=top>Question:&nbsp;&nbsp;</TD>
+<TD>I tried placing an order, and the website said error code 10410 invalid token. Can you help me please?</TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff size=2 face=Verdana>Chat has been accepted by <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:13:50 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><FONT color=#0080ff size=2 face=Verdana>Hello melissa, my name is Clare, how may I help you?</FONT></FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>melissa</TD>
+<TD class=FCMg3>&nbsp;5:14:33 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>I tried to place an order, and the website showed an error code 10410 and said invalid code.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB>I mean invalid token... I\'m sorry.</TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:15:31 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2>Melissa, can you click on the logo and go to the home page, then click on the shopping cart logo at the top right of the page and then go back through paypal again. We are working on a Paypal issue and think we may have interrupted your order causing your problem. </FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=FCCF cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=FCCF1></TD>
+<TD></TD>
+<TD class=FCCF2></TD></TR>
+<TR>
+<TD></TD>
+<TD>
+<TABLE>
+<TBODY>
+<TR>
+<TD class=FCMCB><FONT color=#0080ff>Let me know if you still have a problem</FONT></TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TR>
+<TD class=FCCF3></TD>
+<TD></TD>
+<TD class=FCCF4></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>melissa</TD>
+<TD class=FCMg3>&nbsp;5:18:16 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>It went through! Thank you for your help!</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>Clare</TD>
+<TD class=FCM3>&nbsp;5:18:27 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff>Thank you and so sorry for the problem.</FONT></TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCMg0></TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg2>melissa</TD>
+<TD class=FCMg3>&nbsp;5:19:00 PM</TD>
+<TD class=FCMg1></TD>
+<TD class=FCMg4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5>It\'s not a problem... I\'m just glad it worked.</TD></TR></TBODY></TABLE></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=TCM cellSpacing=0>
+<TBODY>
+<TR>
+<TD class=FCM0></TD>
+<TD class=FCM1></TD>
+<TD class=FCM2>System</TD>
+<TD class=FCM3>&nbsp;5:22:02 PM</TD>
+<TD class=FCM1></TD>
+<TD class=FCM4></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=FCM5><FONT color=#0080ff size=2 face=Verdana><B>melissa</B> has left the Chat with <B>Clare</B>.</FONT></TD></TR></TBODY></TABLE></DIV> aSpecialGift.com Live Chat Chat Transcript
+
+Date: Thu, 08 Nov 2012 17:22:11 -0500
+-------------------------------------------------------------
+Name: melissa
+Email: mdgrisham@att.net
+Question: I tried placing an order, and the website said error code 10410 invalid token.  Can you help me please?
+
+Chat Reference Number: 11828
+-------------------------------------------------------------
+| 08.11.2012 17:14:01 | Clare: Hello melissa, my name is Clare, how may I help you?
+| 08.11.2012 17:14:39 | melissa: I tried to place an order, and the website showed an error code 10410 and said invalid code.
+| 08.11.2012 17:15:14 | melissa: I mean invalid token... I'm sorry.
+| 08.11.2012 17:15:40 | Clare: Melissa, can you click on the logo and go to the home page, then click on the shopping cart logo at the top right of the page and then go back through paypal again. We are working on a Paypal issue and think we may have interrupted your order causing your problem. 
+| 08.11.2012 17:17:45 | Clare: Let me know if you still have a problem
+| 08.11.2012 17:18:22 | melissa: It went through!  Thank you for your help!
+| 08.11.2012 17:18:37 | Clare: Thank you and so sorry for the problem.
+| 08.11.2012 17:19:06 | melissa: It's not a problem... I'm just glad it worked. mdgrisham@att.net EN US 0 1 mdgrisham@att.net I tried placing an order, and the website said error code 10410 invalid token.  Can you help me please? a:0:{}
+
++++++++++
+aspeci7_asgift - chat_files:(0)
+id,created,file_name,file_mask,file_id,chat_id,visitor_id,browser_id,operator_id,error,permission,download,closed
+
++++++++++
+aspeci7_asgift - chat_forwards:(0)
+id,created,sender_operator_id,target_operator_id,target_group_id,visitor_id,browser_id,chat_id,conversation,info_text,processed,received
+
++++++++++
+aspeci7_asgift - chat_posts:(0)
+id,chat_id,time,micro,sender,receiver,receiver_group,text,translation,translation_iso,received,persistent
+
++++++++++
+aspeci7_asgift - chat_requests:(0)
+id,created,sender_system_id,sender_group_id,receiver_user_id,receiver_browser_id,event_action_id,text,displayed,accepted,declined,closed
+
++++++++++
+aspeci7_asgift - checkout:(583)
+Checkout_Date,Cart_ID,Ship_FirstName,Ship_LastName,Ship_Company,Ship_Address2,Ship_Address3,Ship_City,Ship_Province,Ship_State,Ship_ZipCode,Ship_Country,Billing_FirstName,Billing_LastName,Billing_Company,Billing_Address2,Billing_Address3,Billing_City,Billing_Province,Billing_State,Billing_ZipCode,Billing_Country,Cust_Phone,Cust_Email,CreditCard_Type,CreditCard_Name,CreditCard_ExpMo,CreditCard_ExpYear,CreditCard_CSV,Discount_Code,Discount_Amount,Ship_Option,Ship_Cost,Total_SalesTaxAmount,Total_OrderAmount,Order_Comments,Pickup_Date
+2018-10-12 3314cf Jonathan & Hannah Cardinale 890 Tyrone Ave Waterford MI 48328 US Dawn Symington DMI Investments P.O. Box 180032 Utica MI 48318 US 5862545711 dawnsymington@gmail.com
+2018-10-13 bf4f86 Cynthia Boutin 220, 84e rue Beauceville Quebec G5X 2W7 Canada Cynthia Boutin 220, 84e rue Beauceville Quebec G5X 2W7 Canada 418-774-1953 cynthia.boutin@gmail.com
+2018-10-13 bf4f86 Cynthia Boutin 220, 84e rue Beauceville Quebec G5X 2W7 Canada Cynthia Boutin 220, 84e rue Beauceville Quebec G5X 2W7 Canada 418-774-1953 cynthia.boutin@gmail.com
+2018-10-13 bf4f86 Cynthia Boutin 220 84E Rue Beauceville Quebec G5X 2W7 Canada Cynthia Boutin 220 84E Rue Beauceville Quebec G5X 2W7 Canada 418-774-1953 cynthia.boutin@gmail.com
+2018-10-13 bf4f86 Cynthia Boutin 220 84E Rue Beauceville Quebec G5X 2W7 Canada Cynthia Boutin 220 84E Rue Beauceville Quebec G5X 2W7 Canada 418-774-1953 cynthia.boutin@gmail.com
+2018-10-13 4206d5 Cynthia Boutin 220 84e rue BEAUCEVILLE Quebec G5x 2w7 Canada Cynthia Boutin 220 84e rue BEAUCEVILLE Quebec G5x 2w7 Canada 418-774-1953 cynthia.boutin@gmail.com
+2018-10-13 849d21 Janice Jackson 5338 logwood ave Louisville KY 40272 US Janice Jackson 5338 logwood ave Louisville KY 40272 US 5029376829
+2018-10-13 849d21 Janice Jackson 5338 logwood ave Louisville KY 40272 US Janice Jackson 5338 logwood ave Louisville KY 40272 US 5029376829
+2018-10-18 e06f72 Beth Ledet 1365 S Main Street Madisonville KY 42431 US Beth Ledet 129 Beech Tree Lane Madisonville KY 42431 US 270-825-8755 beth_ledet@yahoo.com
+2018-10-18 d9a327 preston taylor ministries preston taylor ministries po box 90442 Brittany nashville TN 37209 US preston taylor ministries preston taylor ministries po box 90442 Brittany nashville TN 37209 US 6159431611 brittany@prestontaylorministries.org
+2018-11-16 53ef6e Mary Jane Ciavarelli 29511 Robert Street Wickliffe OH 44092 US Mary Jane Ciavarelli 29511 Robert Street Wickliffe OH 44092 US 4409447966
+2018-11-16 a14bb9 Mr & Mrs Josh Brett 69 Wenham St Jamaica Plain MA 02130 US Robin Galison 5672 NW 23rd Way Boca Raton FL 33496 US 5612892324 robin0125@aol.com
+2018-11-16 a14bb9 Mr & Mrs Josh Brett 69 Wenham St Jamaica Plain MA 02130 US Robin Galison 5672 NW 23rd Way Boca Raton FL 33496 US 5612892324 robin0125@aol.com
+2018-11-16 a14bb9 Mr & Mrs Josh Brett 69 Wenham St Jamaica Plain MA 02130 US Robin Galison 735 Glenneyre circle St Augustine FL 32092 US 5612892324 robin0125@aol.com
+2018-11-16 a14bb9 Mr & Mrs Josh Brett 69 Wenham St Jamaica Plain MA 02130 US Robin Galison 5672 NW 23rd Way Boca Raton FL 33496 US 5612892324 robin0125@aol.com
+2018-11-16 a14bb9 Mr & Mrs Josh Brett 69 Wenham St Jamaica Plain MA 02130 US Robin Galison 5672 NW 23rd Way Boca Raton FL 33496 US 5612892324 robin0125@aol.com
+2018-11-16 a14bb9 Mr & Mrs Josh Brett 69 Wenham St Jamaica Plain MA 02130 US Robin Galison 735 Glenneyre Circle St Augustine FL 32092 US 5612892324 robin0125@aol.com
+2018-11-18 acc041 Judy Hooper 282 John Hudson Lane Mt Washington KY 40047 US Judy Hooper 282 John Hudson Lane Mt Washington KY 40047 US 5024188009 judyhooper24@gmail.com
+2018-11-18 699a19 Linda Parente 4257 Springdale Rd. Uniontown OH 44685 US Rebecca Bloom 1300 Flat Rock Church Rd. Louisburg NC 27549 US 919-488-4167 beep1007@aol.com
+2018-11-20 892f1e Linda Hermes 607 Countryside Andale KS 67001 US Melissa May 433 Sevy Andale KS 67001 US 316-706-5256 melissamay3@yahoo.com
+2019-01-23 cc3faf Kieran Butler 219-241 Cleveland Street Parcel Locker 10149 69253 Redfern NSW 2016 Australia Kieran Butler 219-241 Cleveland Street Parcel Locker 10149 69253 Redfern NSW 2016 Australia 0415641057 shirley_walsh_@hotmail.com
+2019-01-24 218dee Eoin & Jenny Hurst Foxcroft School P.O., Box 5555 Middleburg VA 20118 US Cheryl Vaccarello Tetra Tech, Inc. 1 S. Wacker Drive #3700 Chicago IL 60606 US 703-885-5518
+2019-01-25 5cef01 Anthony Marrone Pioneer Balloon Company 2400 Pioneer Dr. El Dorado KS 67042 US Ted A Vlamis Pioneer Balloon Company 5000 E 29th St. N. Wichita KS 67220 US 316-688-8676 angel.kymer@pioneerballoon.com
+2019-01-28 7bfb1e Terry Morris 116 Calle Marguerite Sedona AZ 86336 US Terry Morris 116 Calle Marguerite Sedona AZ 86336 US 847-293-0506 terrymorris99@gmail.com
+2019-01-28 e13312 Jordan Agers Johnston Construction 12727 State Highway 21 Desoto MO 63020 US Tina Blum 560 Geode Lane Trenton MO 64683 US 3144125457 tinamblum@yahoo.com
+2019-01-28 e13312 Jordan Agers Johnston Construction 12727 State Highway 21 Desoto MO 63020 US Tina Blum 560 Geode Lane Trenton MO 64683 US 3144125457 tinamblum@yahoo.com
+2019-01-28 4722ec Lisa Diehn 725 Bishop Ave Hayward CA 94544 US Lisa Diehn 725 Bishop Ave Hayward CA 94544 US 5105890215 lvdiehn1@gmail.com
+2019-01-29 9cf9be Teresa Green 52 Crystal Lake Rd Tolland CT 06084 US Teresa Green 52 Crystal Lake Rd Tolland CT 06084-24 US 8606204254 Trgreen87@att.net
+2019-01-29 f20586 Amy & Mike DesRocher 38240 Luxbury Ct. Sterling Heights MI 48312 US Candice Rizzo Dawn Investments, Inc 16056 Millar Rd Clinton Township MI 48036 US 5862198444 candicevs@comcast.net
+2019-01-29 f20586 Amy & Mike DesRocher 38240 Luxbury Ct. Sterling Heights MI 48312 US Candice Rizzo Dawn Investments, Inc 16056 Millar Rd Clinton Township MI 48036 US 5862198444 candicevs@comcast.net
+
++++++++++
+aspeci7_asgift - click_tracking:(69)
+date,code,click_cost,sale_amount
+2010-11-25 gawtag 0.40
+2010-11-28 gawlbs 0.45
+2010-12-13 gawlbs 0.45
+2010-12-27 gawlss 0.45
+2010-12-30 gawlbs 0.45
+2011-01-15 gawlbs 0.45
+2011-01-31 gawlbs 0.45
+2011-02-01 gawlss 0.45
+2011-02-06 gawtag 0.40
+2011-02-17 gawlbs 0.45
+
++++++++++
+aspeci7_asgift - customer_accounts:(0)
+First_Name,Last_Name,Email,Phone,Billing_Company,Billing_Address,Billing_Address_2,Billling_City,Billing_Zipcode,Billing_State,Billing_Country,Ship_Company,Ship_Address,Ship_Address_2,Ship_City,Ship_State,Ship_Zipcode,Password,Newsletter
+
++++++++++
+aspeci7_asgift - email_list:(100)
+Email
+mrjame@gmail.comSELECT1
+mrjame@gmail.comaaanull
+selectmrjame@gmail.com
+0
+sablouka@gmail.com
+sandisells@msn.com
+vzde34q@aol.com
+lknighto.pe@ccboe.us
+couponsfun123@gmail.com
+njboot@aol.com
+
++++++++++
+aspeci7_asgift - event_action_internals:(0)
+id,created,trigger_id,receiver_user_id
+
++++++++++
+aspeci7_asgift - event_action_overlays:(0)
+id,action_id,position,speed,slide,margin_left,margin_top,margin_right,margin_bottom,style,close_on_click
+
++++++++++
+aspeci7_asgift - event_action_receivers:(0)
+id,action_id,receiver_id
+
++++++++++
+aspeci7_asgift - event_action_senders:(0)
+id,pid,user_id,group_id,priority
+
++++++++++
+aspeci7_asgift - event_action_website_pushs:(0)
+id,action_id,target_url,ask
+
++++++++++
+aspeci7_asgift - event_actions:(0)
+id,eid,type,value
+
++++++++++
+aspeci7_asgift - event_funnels:(0)
+eid,uid,ind
+
++++++++++
+aspeci7_asgift - event_goals:(0)
+event_id,goal_id
+
++++++++++
+aspeci7_asgift - event_triggers:(0)
+id,receiver_user_id,receiver_browser_id,action_id,time,triggered
+
++++++++++
+aspeci7_asgift - event_urls:(0)
+id,eid,url,referrer,time_on_site,blacklist
+
++++++++++
+aspeci7_asgift - events:(0)
+id,name,created,creator,edited,editor,pages_visited,time_on_site,max_trigger_amount,trigger_again_after,not_declined,not_accepted,not_in_chat,priority,is_active,search_phrase
+
++++++++++
+aspeci7_asgift - filters:(0)
+creator,created,editor,edited,ip,expiredate,visitor_id,reason,name,id,active,exertion,languages,activeipaddress,activevisitorid,activelanguage
+
++++++++++
+aspeci7_asgift - goals:(0)
+id,title,description,conversion,ind
+
++++++++++
+aspeci7_asgift - info:(1)
+version,chat_id,ticket_id,gtspan
+3.3.2.2 12131 11965 0
+
++++++++++
+aspeci7_asgift - lz_administration_log:(58)
+id,type,value,time,user
+4b8c26f316b8f452b8ff64b57fd1ab5b createFile ./stats/day/2019_01_02_u_2c636f7a33b4 1546473953
+2c4b10c79269db6f3ac8f0431e54d6ae createFile ./stats/day/2019_01_18_2c636f7a33b4 1547856013
+5b49feb8798277adbf455b91b5f0ca01 createFile ./stats/day/2019_01_18_u_2c636f7a33b4 1547856013
+433328d46c2af2d12588ff2a9650eb13 createFile ./stats/day/2019_01_19_2c636f7a33b4 1547942425
+2b545dedc4dfd10f685c0638e4eeba4b createFile ./stats/day/2019_01_19_u_2c636f7a33b4 1547942425
+75a4dc5bfed6cef98e81fbb5708e0f76 createFile ./stats/day/2019_01_20_2c636f7a33b4 1548028808
+682e74a733fff665839a1a26e21046cf createFile ./stats/day/2019_01_20_u_2c636f7a33b4 1548028808
+1f46d4f1cd838f9dac7dcbd21b0388bf createFile ./stats/day/2019_01_21_2c636f7a33b4 1548115205
+b8d0dbecf3abe534856fe331330a563e createFile ./stats/day/2019_01_21_u_2c636f7a33b4 1548115205
+ac1ac05b47fca012cfd319e6dffcf1b6 createFile ./stats/day/2019_01_22_2c636f7a33b4 1548201613
+
++++++++++
+aspeci7_asgift - lz_alerts:(0)
+id,created,receiver_user_id,receiver_browser_id,event_action_id,text,displayed,accepted
+
++++++++++
+aspeci7_asgift - lz_auto_replies:(0)
+id,resource_id,owner_id,tags,search_type,answer,new_window,language,send,waiting,inactivity_internal,inactivity_external,inactivity_close,title
+
++++++++++
+aspeci7_asgift - lz_chat_archive:(0)
+time,endtime,closed,chat_id,external_id,fullname,internal_id,group_id,area_code,html,plaintext,transcript_text,transcript_html,email,company,phone,call_me_back,iso_language,iso_country,host,ip,gzip,transcript_sent,transcript_receiver,question,customs,subject,voucher_id,wait,accepted,ended,chat_type,ref_url
+
++++++++++
+aspeci7_asgift - lz_chat_files:(0)
+id,created,file_name,file_mask,file_id,chat_id,visitor_id,browser_id,operator_id,error,permission,download,closed
+
++++++++++
+aspeci7_asgift - lz_chat_forwards:(0)
+id,created,initiator_operator_id,sender_operator_id,target_operator_id,target_group_id,visitor_id,browser_id,chat_id,info_text,processed,received,invite,auto,closed
+
++++++++++
+aspeci7_asgift - lz_chat_posts:(0)
+id,chat_id,time,micro,sender,receiver,receiver_group,receiver_original,text,translation,translation_iso,received,persistent,repost,sender_name,browser_id
+
++++++++++
+aspeci7_asgift - lz_chat_requests:(0)
+id,created,sender_system_id,sender_group_id,receiver_user_id,receiver_browser_id,event_action_id,text,displayed,accepted,declined,closed,canceled
+
++++++++++
+aspeci7_asgift - lz_com_chat_localizations:(0)
+id,tid,language,title,description,terms,email_voucher_created,email_voucher_paid,email_voucher_update,extension_request
+
++++++++++
+aspeci7_asgift - lz_com_chat_providers:(0)
+id,name,account,URL,logo
+
++++++++++
+aspeci7_asgift - lz_com_chat_types:(0)
+id,number_of_chats,number_of_chats_void,total_length,total_length_void,auto_expire,auto_expire_void,delete,price,currency
+
++++++++++
+aspeci7_asgift - lz_com_chat_vouchers:(0)
+id,extends,tid,email,info,voided,paid,created,first_used,last_used,expires,edited,chat_time,chat_time_max,chat_sessions,chat_sessions_max,chat_list,visitor_id,business_type,company,tax_id,firstname,lastname,address_1,address_2,city,state,zip,country,phone,tn_id,price,currency,vat,payer_id,payment_details,language
+
++++++++++
+aspeci7_asgift - lz_config:(205)
+key,value
+
++++++++++
+aspeci7_asgift - lz_data_cache:(8)
+key,data,time
+
++++++++++
+aspeci7_asgift - lz_data_updates:(1)
+update_tickets,update_archive,update_ratings,update_emails,update_events,update_vouchers,update_filters,update_reports
+1543857825550 1522442133020 0 1513262809830 0 0 0 1548720001620
+
++++++++++
+aspeci7_asgift - lz_event_action_internals:(0)
+id,created,trigger_id,receiver_user_id
+
++++++++++
+aspeci7_asgift - lz_event_action_overlays:(0)
+id,action_id,position,speed,slide,margin_left,margin_top,margin_right,margin_bottom,style,close_on_click,shadow,shadow_x,shadow_y,shadow_blur,shadow_color,width,height,background,background_opacity,background_color
+
++++++++++
+aspeci7_asgift - lz_event_action_receivers:(0)
+id,action_id,receiver_id
+
++++++++++
+aspeci7_asgift - lz_event_action_senders:(0)
+id,pid,user_id,group_id,priority
+
++++++++++
+aspeci7_asgift - lz_event_action_website_pushs:(0)
+id,action_id,target_url,ask
+
++++++++++
+aspeci7_asgift - lz_event_actions:(0)
+id,eid,type,value
+
++++++++++
+aspeci7_asgift - lz_event_funnels:(0)
+eid,uid,ind
+
++++++++++
+aspeci7_asgift - lz_event_goals:(0)
+event_id,goal_id
+
++++++++++
+aspeci7_asgift - lz_event_triggers:(0)
+id,receiver_user_id,receiver_browser_id,action_id,time,triggered
+
++++++++++
+aspeci7_asgift - lz_event_urls:(0)
+id,eid,url,referrer,time_on_site,blacklist
+
++++++++++
+aspeci7_asgift - lz_events:(0)
+id,name,created,creator,edited,editor,pages_visited,time_on_site,max_trigger_amount,trigger_again_after,not_declined,not_accepted,not_in_chat,priority,is_active,search_phrase,save_cookie
+
++++++++++
